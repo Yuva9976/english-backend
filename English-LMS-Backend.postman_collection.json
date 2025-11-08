@@ -1,0 +1,249 @@
+{
+  "info": {
+    "name": "English-LMS Backend - Quick Tests",
+    "_postman_id": "b1d7f6b9-9d4e-4f2a-8f2a-3d1f9f6a9c1e",
+    "description": "Quick Postman tests for Health, Auth (register/login/me/logout) and Lessons endpoints. Import into Postman and set environment variables.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Health",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{baseUrl}}/api/health",
+          "host": ["{{baseUrl}}"],
+          "path": ["api","health"]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Register (create user)",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"name\": \"{{testUserName}}\",\n  \"email\": \"{{testUserEmail}}\",\n  \"password\": \"{{testUserPassword}}\",\n  \"role\": \"teacher\"\n}"
+        },
+        "url": {
+          "raw": "{{baseUrl}}/api/auth/register",
+          "host": ["{{baseUrl}}"],
+          "path": ["api","auth","register"]
+        }
+      },
+      "response": [],
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "exec": [
+              "pm.test(\"Register - status 200 or 201\", function () {",
+              "    pm.response.to.be.ok;",
+              "});",
+              "",
+              "try {",
+              "    var json = pm.response.json();",
+              "    if (json.user) {",
+              "        pm.environment.set('lastUserId', json.user.id);",
+              "        console.log('Registered user id:', json.user.id);",
+              "    }",
+              "} catch(e) { console.log('No JSON body'); }"
+            ],
+            "type": "text/javascript"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Login (captures token from Set-Cookie)",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"email\": \"{{testUserEmail}}\",\n  \"password\": \"{{testUserPassword}}\"\n}"
+        },
+        "url": {
+          "raw": "{{baseUrl}}/api/auth/login",
+          "host": ["{{baseUrl}}"],
+          "path": ["api","auth","login"]
+        }
+      },
+      "response": [],
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "exec": [
+              "pm.test(\"Login - response ok\", function () {",
+              "    pm.response.to.be.ok;",
+              "});",
+              "",
+              "// Try to extract token from Set-Cookie header (cookie format: token=...; Path=/; HttpOnly)",
+              "var setCookie = pm.response.headers.get('set-cookie');",
+              "if (setCookie) {",
+              "    var m = setCookie.match(/token=([^;]+);/);",
+              "    if (m && m[1]) {",
+              "        pm.environment.set('token', m[1]);",
+              "        console.log('Token extracted and saved to environment (token)');",
+              "    } else {",
+              "        console.log('Set-Cookie present but token not found');",
+              "    }",
+              "} else {",
+              "    console.log('No Set-Cookie header in response; try copying token from response body or use Authorization header manually');",
+              "}",
+              "",
+              "// Also store full Set-Cookie for debugging",
+              "pm.environment.set('last_set_cookie', setCookie || '');"
+            ],
+            "type": "text/javascript"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Me (get current user)",
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "url": {
+          "raw": "{{baseUrl}}/api/auth/me",
+          "host": ["{{baseUrl}}"],
+          "path": ["api","auth","me"]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Logout",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "url": {
+          "raw": "{{baseUrl}}/api/auth/logout",
+          "host": ["{{baseUrl}}"],
+          "path": ["api","auth","logout"]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Get Lessons (public)",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{baseUrl}}/api/lessons",
+          "host": ["{{baseUrl}}"],
+          "path": ["api","lessons"]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Create Lesson (teacher/admin) - protected",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          },
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"title\": \"Introduction to Present Simple\",\n  \"description\": \"Basics of present simple tense\",\n  \"level\": \"beginner\"\n}"
+        },
+        "url": {
+          "raw": "{{baseUrl}}/api/lessons",
+          "host": ["{{baseUrl}}"],
+          "path": ["api","lessons"]
+        }
+      },
+      "response": [],
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "exec": [
+              "pm.test('Create lesson returns 201', function () {",
+              "    pm.response.to.have.status(201);",
+              "});",
+              "try {",
+              "    var j = pm.response.json();",
+              "    if (j && j.id) pm.environment.set('lastLessonId', j.id);",
+              "} catch(e) {}"
+            ],
+            "type": "text/javascript"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Get Lesson by ID (public)",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{baseUrl}}/api/lessons/{{lastLessonId}}",
+          "host": ["{{baseUrl}}"],
+          "path": ["api","lessons","{{lastLessonId}}"]
+        }
+      },
+      "response": []
+    }
+  ],
+  "event": [],
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:4000"
+    },
+    {
+      "key": "testUserEmail",
+      "value": "teacher@example.com"
+    },
+    {
+      "key": "testUserPassword",
+      "value": "teachpass"
+    },
+    {
+      "key": "testUserName",
+      "value": "Teacher One"
+    },
+    {
+      "key": "token",
+      "value": ""
+    },
+    {
+      "key": "lastLessonId",
+      "value": ""
+    },
+    {
+      "key": "last_set_cookie",
+      "value": ""
+    }
+  ]
+}
