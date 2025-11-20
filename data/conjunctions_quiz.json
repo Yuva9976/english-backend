@@ -1,0 +1,325 @@
+{
+  "part_id": 7,
+  "name": "Conjunction",
+  "total_questions": 105,
+
+  "mcq": {
+    "easy": [
+      {
+        "id": 1,
+        "question": "What is a conjunction?",
+        "options": ["an action word", "a connecting word", "a describing word", "a naming word"],
+        "correct_answer": 1,
+        "explanation": "A conjunction connects words, phrases, or clauses together."
+      },
+      {
+        "id": 2,
+        "question": "Which word is a conjunction?",
+        "options": ["happy", "quickly", "and", "book"],
+        "correct_answer": 2,
+        "explanation": "'And' is a conjunction that connects words or ideas."
+      },
+      {
+        "id": 3,
+        "question": "What do coordinating conjunctions do?",
+        "options": ["introduce dependent clauses", "connect equal parts", "replace nouns", "show time"],
+        "correct_answer": 1,
+        "explanation": "Coordinating conjunctions connect words, phrases, or clauses of equal importance."
+      },
+      {
+        "id": 4,
+        "question": "Which is a coordinating conjunction?",
+        "options": ["because", "although", "but", "while"],
+        "correct_answer": 2,
+        "explanation": "'But' is a coordinating conjunction. The others are subordinating."
+      },
+      {
+        "id": 5,
+        "question": "Choose the correct sentence:",
+        "options": ["She likes apples and oranges.", "She likes apples or oranges.", "Both answers are correct.", "Neither answer is correct."],
+        "correct_answer": 2,
+        "explanation": "Both 'and' and 'or' are correct conjunctions here depending on meaning."
+      },
+      {
+        "id": 6,
+        "question": "What does 'because' show?",
+        "options": ["time", "cause", "contrast", "choice"],
+        "correct_answer": 1,
+        "explanation": "'Because' introduces a reason or cause."
+      },
+      {
+        "id": 7,
+        "question": "Which is a subordinating conjunction?",
+        "options": ["and", "but", "when", "or"],
+        "correct_answer": 2,
+        "explanation": "'When' is subordinating - it introduces a dependent clause about time."
+      },
+      {
+        "id": 8,
+        "question": "What punctuation is needed? 'I was tired _____ I went to bed.'",
+        "options": ["no comma needed", "comma before 'and'", "semicolon before 'and'", "no conjunction needed"],
+        "correct_answer": 1,
+        "explanation": "Need comma before coordinating conjunction 'and' when connecting independent clauses."
+      },
+      {
+        "id": 9,
+        "question": "Choose the correct sentence:",
+        "options": ["Either apples and oranges.", "Both apples and oranges.", "Neither apples or oranges.", "Not only apples but also oranges."],
+        "correct_answer": 3,
+        "explanation": "'Not only...but also' is a correlative conjunction pair used correctly here."
+      },
+      {
+        "id": 10,
+        "question": "Which word CANNOT be a conjunction?",
+        "options": ["so", "because", "although", "beautiful"],
+        "correct_answer": 3,
+        "explanation": "'Beautiful' is an adjective, not a conjunction."
+      }
+    ],
+
+    "medium": [
+      {
+        "id": 11,
+        "question": "What's wrong? 'She likes reading and to write.'",
+        "options": ["'and' is wrong", "not parallel structure", "needs comma", "no error"],
+        "correct_answer": 1,
+        "explanation": "Should be 'reading and writing' or 'to read and to write' - maintain parallel structure."
+      },
+      {
+        "id": 12,
+        "question": "Fix: 'He was tired, however he continued.'",
+        "options": ["change to comma+but", "change to semicolon+comma", "remove 'however'", "add 'and'"],
+        "correct_answer": 1,
+        "explanation": "Conjunctive adverbs need semicolon before and comma after: 'He was tired; however, he continued.'"
+      },
+      {
+        "id": 13,
+        "question": "Choose the correct sentence:",
+        "options": ["Because she studied hard, she passed.", "Because she studied hard she passed.", "She passed because she studied hard.", "A and C are both correct."],
+        "correct_answer": 3,
+        "explanation": "Both are correct - A has comma (dependent first), C has no comma (dependent last)."
+      },
+      {
+        "id": 14,
+        "question": "What's the error? 'Neither the boy nor the girls is happy.'",
+        "options": ["'neither' is wrong", "'nor' is wrong", "'is' should be 'are'", "no error"],
+        "correct_answer": 2,
+        "explanation": "With 'nor', the verb agrees with the nearest subject. 'Girls' is plural, so 'are'."
+      },
+      {
+        "id": 15,
+        "question": "Which sentence uses conjunctions correctly?",
+        "options": ["She is smart, talented, and works hard.", "She is smart, talented, and hardworking.", "She is smart, works hard, and is talented.", "Both B and C are correct."],
+        "correct_answer": 3,
+        "explanation": "Both B and C maintain parallel structure."
+      },
+      {
+        "id": 16,
+        "question": "What's wrong? 'Although he studied but he failed.'",
+        "options": ["can't use 'although' here", "shouldn't use both 'although' and 'but'", "needs comma", "no error"],
+        "correct_answer": 1,
+        "explanation": "Don't use both 'although' and 'but' - they serve the same purpose. Choose one."
+      },
+      {
+        "id": 17,
+        "question": "Which correlative conjunction pair is correct?",
+        "options": ["either...and", "both...or", "neither...nor", "such...that"],
+        "correct_answer": 2,
+        "explanation": "'Neither...nor' is a correct correlative pair."
+      },
+      {
+        "id": 18,
+        "question": "Choose the right conjunction: 'She wanted to leave _____ she had to stay.'",
+        "options": ["because", "although", "unless", "after"],
+        "correct_answer": 1,
+        "explanation": "'Although' shows the contrast - she wanted to leave but had to stay."
+      },
+      {
+        "id": 19,
+        "question": "What's the error? 'Either you come or staying home.'",
+        "options": ["should use 'or you stay home'", "'either' is wrong", "needs a semicolon", "no error"],
+        "correct_answer": 0,
+        "explanation": "Parallel structure: 'Either you come or you stay home.'"
+      },
+      {
+        "id": 20,
+        "question": "Which is correct?",
+        "options": ["If it rains we will stay home.", "If it rains, we will stay home.", "If it rains; we will stay home.", "If it rains. We will stay home."],
+        "correct_answer": 1,
+        "explanation": "When dependent clause comes first, use a comma after it."
+      }
+    ],
+
+    "hard": [
+      {
+        "id": 21,
+        "question": "Identify the conjunctive adverb: 'She studied hard; furthermore, she attended tutoring sessions.'",
+        "options": ["studied", "furthermore", "attended", "sessions"],
+        "correct_answer": 1,
+        "explanation": "'Furthermore' is a conjunctive adverb used with semicolon and comma."
+      },
+      {
+        "id": 22,
+        "question": "What's the grammatical error? 'The teacher explained the lesson well, therefore the students understood.'",
+        "options": ["should use 'so' instead", "should use semicolon before 'therefore'", "should use 'and' instead", "no error"],
+        "correct_answer": 1,
+        "explanation": "Conjunctive adverbs need semicolon: 'well; therefore, the students...'"
+      },
+      {
+        "id": 23,
+        "question": "Which sentence has correct parallel structure?",
+        "options": ["She likes hiking, swimming, and to read books.", "She likes to hike, to swim, and to read books.", "She likes to hike, swimming, and read books.", "Both B and D are correct."],
+        "correct_answer": 1,
+        "explanation": "Parallel structure: all infinitives (to hike, to swim, to read)."
+      },
+      {
+        "id": 24,
+        "question": "Choose correctly: 'Because I was busy _____ I still tried to help.'",
+        "options": ["but", "and", "yet", "all three are correct"],
+        "correct_answer": 2,
+        "explanation": "'Yet' shows contrast (I was busy but still helped) better than 'and' or 'but' alone."
+      },
+      {
+        "id": 25,
+        "question": "What's wrong? 'Not only he was smart but also he was kind.'",
+        "options": ["word order - should be 'Not only was he smart'", "should use 'and'", "should add comma", "no error"],
+        "correct_answer": 0,
+        "explanation": "In 'not only' construction, inversion often occurs: 'Not only was he smart but also kind.'"
+      },
+      {
+        "id": 26,
+        "question": "Which is the best conjunction? 'I wanted to attend _____ I had another commitment.'",
+        "options": ["because", "although", "unless", "if"],
+        "correct_answer": 1,
+        "explanation": "'Although' shows I wanted to attend despite another commitment (contrast)."
+      },
+      {
+        "id": 27,
+        "question": "Identify the error: 'She not only speaks English but Chinese.'",
+        "options": ["should be 'and Chinese'", "should be 'but also Chinese'", "should be 'but also speaks Chinese'", "B or C would work"],
+        "correct_answer": 2,
+        "explanation": "Maintain parallel: 'speaks English but also speaks Chinese' (or use simpler form if clear)."
+      },
+      {
+        "id": 28,
+        "question": "Which uses conjunctive adverbs correctly?",
+        "options": ["However, he continued.", "He continued, however.", "He continued; however, he was tired.", "He continued however, he was tired."],
+        "correct_answer": 2,
+        "explanation": "Conjunctive adverbs can start a sentence with comma, or connect with semicolon+comma."
+      },
+      {
+        "id": 29,
+        "question": "What's the error? 'Neither the cats nor the dog has eaten.'",
+        "options": ["subject-verb disagreement", "'nor' should be 'and'", "'has' should be 'have'", "no error"],
+        "correct_answer": 0,
+        "explanation": "With 'nor', verb agrees with nearest subject 'dog' (singular), but 'cats' is plural. Should be 'have'."
+      },
+      {
+        "id": 30,
+        "question": "Choose the correct sentence:",
+        "options": ["She is honest, hardworking, and caring.", "She is honest, hardworking, and does care.", "She is honest, is hardworking, and caring.", "A and B are both correct."],
+        "correct_answer": 0,
+        "explanation": "Parallel structure: three adjectives (honest, hardworking, caring)."
+      }
+    ]
+  },
+
+  "fill_in_blank": [
+    {
+      "id": 1,
+      "question": "She wanted to go to the party _____ she had to work.",
+      "correct_answer": "but",
+      "explanation": "'But' shows contrast between two ideas."
+    },
+    {
+      "id": 2,
+      "question": "_____ it was late, we continued our project.",
+      "correct_answer": "Although",
+      "explanation": "'Although' shows contrast - we continued despite it being late."
+    },
+    {
+      "id": 3,
+      "question": "He studied hard _____ he passed the exam.",
+      "correct_answer": "so",
+      "explanation": "'So' shows result/consequence of his hard work."
+    },
+    {
+      "id": 4,
+      "question": "Both _____ her mother _____ her father attended.",
+      "correct_answer": "her/and",
+      "explanation": "'Both...and' is a correlative conjunction pair."
+    },
+    {
+      "id": 5,
+      "question": "I didn't attend _____ I was not feeling well.",
+      "correct_answer": "because",
+      "explanation": "'Because' introduces the reason."
+    },
+    {
+      "id": 6,
+      "question": "Neither my brother _____ my sister _____ at home.",
+      "correct_answer": "nor/is",
+      "explanation": "'Neither...nor' requires singular verb 'is'."
+    },
+    {
+      "id": 7,
+      "question": "She was tired; _____, she continued working.",
+      "correct_answer": "however",
+      "explanation": "Conjunctive adverb 'however' with semicolon before and comma after."
+    },
+    {
+      "id": 8,
+      "question": "_____ the weather was bad, they went outside.",
+      "correct_answer": "Although",
+      "explanation": "'Although' shows contrast between bad weather and their action."
+    },
+    {
+      "id": 9,
+      "question": "He works hard _____ he doesn't earn much.",
+      "correct_answer": "yet",
+      "explanation": "'Yet' shows contrast - despite hard work, low earnings."
+    },
+    {
+      "id": 10,
+      "question": "She likes singing _____ dancing.",
+      "correct_answer": "and",
+      "explanation": "'And' connects two gerunds in parallel structure."
+    }
+  ],
+
+  "reading_comprehension": [
+    {
+      "id": 1,
+      "title": "The Determined Student",
+      "difficulty": "medium",
+      "passage": "Sarah was determined to succeed in her studies. Although she had to work part-time, she managed to maintain excellent grades. Because she was organized, she could balance work and school. Her friends wanted her to join them on weekends, but she had to study. She worked hard; therefore, she received a scholarship. Not only was she intelligent, but also she was hardworking. She wasn't discouraged by challenges. Instead, she became more motivated. Both her parents and her teachers were proud of her achievements.",
+      "questions": [
+        {
+          "question": "What did Sarah struggle to balance?",
+          "options": ["friends and family", "work and school", "studying and sleeping", "intelligence and talent"],
+          "correct_answer": 1
+        },
+        {
+          "question": "Why could Sarah manage both work and school?",
+          "options": ["she had no other responsibilities", "she was organized", "she didn't sleep much", "her job was easy"],
+          "correct_answer": 1
+        },
+        {
+          "question": "What was the result of her hard work?",
+          "options": ["she failed", "she got tired", "she received a scholarship", "she quit school"],
+          "correct_answer": 2
+        },
+        {
+          "question": "How did challenges affect Sarah?",
+          "options": ["she gave up", "she became more motivated", "she transferred schools", "she asked for help"],
+          "correct_answer": 1
+        },
+        {
+          "question": "Who was proud of Sarah?",
+          "options": ["only her parents", "only her teachers", "her friends", "both her parents and teachers"],
+          "correct_answer": 3
+        }
+      ]
+    }
+  ]
+}

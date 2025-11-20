@@ -1,0 +1,260 @@
+{
+  "part_id": 7,
+  "name": "Conjunction",
+  "definition": "A conjunction is a word that connects words, phrases, or clauses together. It shows the relationship between the connected elements. Conjunctions help us combine ideas and create more complex, flowing sentences.",
+  "importance": "Conjunctions are the 'glue' of English sentences. They allow us to connect ideas, show relationships between thoughts, and create logical flow. Without conjunctions, we'd have only short, choppy sentences that don't relate to each other.",
+  "icon": "🔗",
+  "tagline": "Connect ideas and build meaningful relationships!",
+
+  "types": [
+    {
+      "id": 1,
+      "name": "Coordinating Conjunctions",
+      "emoji": "↔️",
+      "description": "Connect words, phrases, or clauses of equal importance. Common ones: for, and, nor, but, or, yet, so (FANBOYS).",
+      "examples": ["and", "but", "or", "nor", "yet", "so", "for"],
+      "color": "#8b5cf6"
+    },
+    {
+      "id": 2,
+      "name": "Subordinating Conjunctions",
+      "emoji": "⬇️",
+      "description": "Connect dependent clauses to independent clauses. Show relationships like time, cause, condition, and contrast.",
+      "examples": ["because", "although", "when", "if", "since", "unless", "while", "after", "before", "though"],
+      "color": "#7c3aed"
+    },
+    {
+      "id": 3,
+      "name": "Correlative Conjunctions",
+      "emoji": "🔁",
+      "description": "Work in pairs to connect equivalent words or phrases.",
+      "examples": ["either...or", "neither...nor", "both...and", "not only...but also", "whether...or"],
+      "color": "#6d28d9"
+    },
+    {
+      "id": 4,
+      "name": "Conjunctive Adverbs",
+      "emoji": "⚙️",
+      "description": "Connect independent clauses and show relationships. Often called transition words. Used with semicolon (;) before them.",
+      "examples": ["however", "therefore", "moreover", "furthermore", "consequently", "meanwhile", "otherwise"],
+      "color": "#5b21b6"
+    }
+  ],
+
+  "rules": [
+    {
+      "type": "do",
+      "title": "DO: Use Coordinating Conjunctions to Connect Equal Elements",
+      "points": [
+        "Coordinating conjunctions connect words of the same type (noun-noun, verb-verb, adjective-adjective)",
+        "Use comma + coordinating conjunction between independent clauses",
+        "FANBOYS = For, And, Nor, But, Or, Yet, So"
+      ],
+      "examples": [
+        "✅ I like apples and oranges. (noun + noun)",
+        "✅ She ran fast but fell down. (verb + verb with comma)",
+        "✅ We can go now, or we can wait. (independent clauses with comma)"
+      ]
+    },
+    {
+      "type": "do",
+      "title": "DO: Use Subordinating Conjunctions Correctly",
+      "points": [
+        "Subordinating conjunctions introduce dependent clauses that need an independent clause",
+        "The dependent clause can come before or after the independent clause",
+        "If dependent clause comes first, use a comma"
+      ],
+      "examples": [
+        "✅ Because it rained, we stayed home. (dependent first - comma needed)",
+        "✅ We stayed home because it rained. (dependent last - no comma)",
+        "✅ Although she was tired, she continued working. (contrast)"
+      ]
+    },
+    {
+      "type": "do",
+      "title": "DO: Maintain Parallel Structure with Conjunctions",
+      "points": [
+        "Connect similar grammatical forms: nouns with nouns, verbs with verbs, clauses with clauses",
+        "Both parts must have the same structure for readability",
+        "This rule applies especially with coordinating and correlative conjunctions"
+      ],
+      "examples": [
+        "✅ He likes reading and writing. (gerund + gerund)",
+        "✅ She is smart, talented, and kind. (adjective + adjective + adjective)",
+        "✅ Both her mother and her father attended. (noun + noun)"
+      ]
+    },
+    {
+      "type": "dont",
+      "title": "DON'T: Break Parallel Structure",
+      "points": [
+        "Don't mix grammatical forms when using conjunctions",
+        "Inconsistent structure makes sentences hard to read",
+        "This is a very common error!"
+      ],
+      "examples": [
+        "❌ He likes reading and to write. → ✅ He likes reading and writing.",
+        "❌ She is smart, talented, and works hard. → ✅ She is smart, talented, and hardworking.",
+        "❌ She likes to sing, to dance, and painting. → ✅ She likes to sing, to dance, and to paint."
+      ]
+    },
+    {
+      "type": "dont",
+      "title": "DON'T: Use Wrong Punctuation with Conjunctive Adverbs",
+      "points": [
+        "Conjunctive adverbs are NOT coordinating conjunctions - they need special punctuation",
+        "Use semicolon (;) before and comma after: 'I was tired; however, I continued.'",
+        "Don't use just a comma - that's a comma splice error"
+      ],
+      "examples": [
+        "❌ I was tired, however I continued. → ✅ I was tired; however, I continued.",
+        "❌ She studied hard, therefore she passed. → ✅ She studied hard; therefore, she passed.",
+        "✅ I was tired. However, I continued. (separate sentences work too)"
+      ]
+    }
+  ],
+
+  "examples": [
+    {
+      "sentence": "I want to go to the party, but I have too much work.",
+      "usage_pattern": "Coordinating conjunction 'but' connecting two independent clauses",
+      "category": "Contrast"
+    },
+    {
+      "sentence": "Because the weather was bad, we stayed inside.",
+      "usage_pattern": "Subordinating conjunction 'because' introducing dependent clause first",
+      "category": "Cause"
+    },
+    {
+      "sentence": "She studied hard; therefore, she passed the exam.",
+      "usage_pattern": "Conjunctive adverb 'therefore' with semicolon and comma",
+      "category": "Result"
+    },
+    {
+      "sentence": "Either you come with us, or you stay home.",
+      "usage_pattern": "Correlative conjunction 'either...or' connecting options",
+      "category": "Choice"
+    },
+    {
+      "sentence": "When the alarm rang, he woke up immediately.",
+      "usage_pattern": "Subordinating conjunction 'when' showing time relationship",
+      "category": "Time"
+    },
+    {
+      "sentence": "He was poor, yet he was happy.",
+      "usage_pattern": "Coordinating conjunction 'yet' showing contrast",
+      "category": "Contrast"
+    },
+    {
+      "sentence": "She not only speaks English but also Spanish.",
+      "usage_pattern": "Correlative conjunction 'not only...but also' emphasizing addition",
+      "category": "Addition"
+    },
+    {
+      "sentence": "If you work hard, you will succeed.",
+      "usage_pattern": "Subordinating conjunction 'if' showing condition",
+      "category": "Condition"
+    }
+  ],
+
+  "exercises": [
+    {
+      "type": "writing",
+      "title": "Combine Sentences Using Conjunctions",
+      "prompt": "Combine each pair of sentences using an appropriate conjunction. Write 8-10 combined sentences. Try to use different types of conjunctions.",
+      "sample_answer": "1. She was tired, but she kept working. 2. He studied hard, so he passed the exam. 3. Although it was raining, they went outside. 4. Because he was late, he missed the meeting. 5. Neither the book nor the movie was interesting. 6. She was intelligent; furthermore, she was kind. 7. If you want to learn, you must practice. 8. Both swimming and running are good exercises."
+    },
+    {
+      "type": "reading",
+      "title": "Fix Conjunction and Punctuation Errors",
+      "passage": "She wanted to go and she had to work. He was tired, however he continued. I like singing and to dance. Neither the teacher nor the students was happy. She studied hard and she passed. He was poor, but he was happy and successful. If it rains we will stay home.",
+      "highlights": ["and she had to work", "however he", "to dance", "nor the students was", "happy and successful", "rains we"],
+      "sample_answer": "She wanted to go but she had to work. He was tired; however, he continued. I like singing and dancing. Neither the teacher nor the students were happy. She studied hard, so she passed. He was poor, but he was happy and successful. If it rains, we will stay home."
+    }
+  ],
+
+  "common_mistakes": [
+    {
+      "error": "She likes reading and to write.",
+      "correct": "She likes reading and writing. (Or: She likes to read and to write.)",
+      "explanation": "Maintain parallel structure - both must be gerunds or both must be infinitives."
+    },
+    {
+      "error": "I was tired, however I continued.",
+      "correct": "I was tired; however, I continued.",
+      "explanation": "Conjunctive adverbs need semicolon before and comma after, not just a comma."
+    },
+    {
+      "error": "Neither the teacher nor the students was happy.",
+      "correct": "Neither the teacher nor the students were happy.",
+      "explanation": "When 'nor' connects plural subjects, the verb is plural."
+    },
+    {
+      "error": "He was poor but he was happy.",
+      "correct": "He was poor, but he was happy.",
+      "explanation": "Need a comma before coordinating conjunction when connecting independent clauses."
+    },
+    {
+      "error": "Because I was tired I went home.",
+      "correct": "Because I was tired, I went home.",
+      "explanation": "When dependent clause comes first, add a comma after it."
+    },
+    {
+      "error": "She is smart, talented, and works hard.",
+      "correct": "She is smart, talented, and hardworking. (Or: She is smart, works hard, and is talented.)",
+      "explanation": "Maintain parallel structure - all items must be same part of speech."
+    },
+    {
+      "error": "Either you come or staying home.",
+      "correct": "Either you come or you stay home.",
+      "explanation": "After 'either' use same structure as after 'or'."
+    },
+    {
+      "error": "Although he studied hard but he failed.",
+      "correct": "Although he studied hard, he failed. (Or: He studied hard, but he failed.)",
+      "explanation": "Don't use both 'although' and 'but' together - it's redundant."
+    }
+  ],
+
+  "quick_facts": [
+    "The seven coordinating conjunctions form the acronym FANBOYS: For, And, Nor, But, Or, Yet, So.",
+    "When a coordinating conjunction joins two independent clauses, use a comma before it.",
+    "Subordinating conjunctions create dependent clauses that cannot stand alone as sentences.",
+    "The order of clauses matters with some conjunctions: 'Because it rained' is different from 'It rained because...'",
+    "Conjunctive adverbs like 'however', 'therefore', 'moreover' require semicolons, not commas.",
+    "Correlative conjunctions always come in pairs: 'both...and', 'either...or', 'neither...nor'.",
+    "Some words can be both prepositions and conjunctions: 'before', 'after', 'since'.",
+    "Parallel structure is crucial with conjunctions - it improves clarity and readability."
+  ],
+
+  "videos": [
+    {
+      "title": "Conjunctions in English - Complete Guide",
+      "url": "https://www.youtube.com/watch?v=Conjunctions_Complete",
+      "description": "Learn coordinating, subordinating, correlative conjunctions with examples"
+    },
+    {
+      "title": "Conjunctions and Punctuation Rules",
+      "url": "https://www.youtube.com/watch?v=Conjunctions_Punctuation",
+      "description": "Understand the punctuation rules for different types of conjunctions"
+    },
+    {
+      "title": "Parallel Structure with Conjunctions",
+      "url": "https://www.youtube.com/watch?v=Parallel_Structure",
+      "description": "Master parallel structure and why it matters"
+    }
+  ],
+
+  "resources": [
+    {
+      "title": "Conjunction Types and Examples",
+      "url": "https://www.englishgrammar.org/conjunctions-types",
+      "description": "Comprehensive guide to all conjunction types with detailed examples"
+    },
+    {
+      "title": "Coordinating vs Subordinating Conjunctions",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/conjunctions",
+      "description": "Clear explanations of conjunction types and their usage"
+    }
+  ]
+}

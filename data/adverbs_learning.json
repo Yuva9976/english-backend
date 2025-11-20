@@ -1,0 +1,261 @@
+{
+  "part_id": 5,
+  "name": "Adverb",
+  "definition": "An adverb is a word that modifies or describes a verb, adjective, or another adverb. It provides additional information about how, when, where, or to what extent an action is performed.",
+  "importance": "Adverbs add detail and precision to our sentences. They help us explain HOW something happens, WHEN it happens, WHERE it happens, and HOW OFTEN. Without adverbs, our descriptions would be vague and incomplete.",
+  "icon": "⚡",
+  "tagline": "Tell the story of HOW, WHEN, WHERE, and HOW MUCH!",
+
+  "types": [
+    {
+      "id": 1,
+      "name": "Adverbs of Manner",
+      "emoji": "🎯",
+      "description": "Tell us HOW an action is performed. Most end in '-ly'. Answer the question 'How?'",
+      "examples": ["quickly", "slowly", "carefully", "beautifully", "happily", "quietly", "loudly", "gracefully", "roughly", "smoothly"],
+      "color": "#0ea5e9"
+    },
+    {
+      "id": 2,
+      "name": "Adverbs of Time",
+      "emoji": "⏰",
+      "description": "Tell us WHEN an action happens. Answer the question 'When?'",
+      "examples": ["today", "yesterday", "tomorrow", "now", "then", "soon", "later", "always", "never", "sometimes"],
+      "color": "#06b6d4"
+    },
+    {
+      "id": 3,
+      "name": "Adverbs of Place",
+      "emoji": "📍",
+      "description": "Tell us WHERE an action happens. Answer the question 'Where?'",
+      "examples": ["here", "there", "everywhere", "nowhere", "inside", "outside", "above", "below", "forward", "backward"],
+      "color": "#14b8a6"
+    },
+    {
+      "id": 4,
+      "name": "Adverbs of Frequency",
+      "emoji": "🔄",
+      "description": "Tell us HOW OFTEN an action happens. Answer the question 'How often?'",
+      "examples": ["always", "usually", "often", "sometimes", "rarely", "seldom", "never", "frequently", "occasionally", "daily"],
+      "color": "#10b981"
+    }
+  ],
+
+  "rules": [
+    {
+      "type": "do",
+      "title": "DO: Form Many Adverbs by Adding '-ly' to Adjectives",
+      "points": [
+        "Most adverbs are formed by adding '-ly' to the adjective form",
+        "quick (adjective) → quickly (adverb)",
+        "happy (adjective) → happily (adverb)",
+        "Some adjectives require spelling changes: lucky → luckily (y changes to i)"
+      ],
+      "examples": [
+        "✅ She speaks slowly and clearly.",
+        "✅ He drives carefully on the highway.",
+        "✅ They worked happily together."
+      ]
+    },
+    {
+      "type": "do",
+      "title": "DO: Place Adverbs of Manner After the Verb or Object",
+      "points": [
+        "Adverbs of manner usually come after the verb or object",
+        "Put them at the end of the sentence for emphasis",
+        "Can also come before the verb for emphasis: 'He carefully read the letter'"
+      ],
+      "examples": [
+        "✅ She danced beautifully.",
+        "✅ He spoke the words quietly.",
+        "✅ Carefully, she opened the door."
+      ]
+    },
+    {
+      "type": "do",
+      "title": "DO: Place Adverbs of Time and Frequency Strategically",
+      "points": [
+        "Adverbs of frequency usually come before the main verb: 'I usually go to the gym.'",
+        "Adverbs of time often come at the beginning or end: 'Tomorrow I will call you' or 'I will call you tomorrow.'",
+        "Frequency adverbs come after 'to be': 'I am always happy.'"
+      ],
+      "examples": [
+        "✅ I usually wake up at 7 AM.",
+        "✅ She sometimes visits her grandparents on weekends.",
+        "✅ I will see you tomorrow afternoon."
+      ]
+    },
+    {
+      "type": "dont",
+      "title": "DON'T: Use Adverbs to Modify Nouns",
+      "points": [
+        "Adverbs cannot modify nouns - use adjectives instead",
+        "Don't say 'a quickly car' - say 'a fast car'",
+        "Adverbs only modify verbs, adjectives, or other adverbs"
+      ],
+      "examples": [
+        "❌ I bought a slowly dog. → ✅ I bought a slow dog.",
+        "❌ He is a quickly runner. → ✅ He is a fast runner.",
+        "❌ She has a hardly life. → ✅ She has a hard life."
+      ]
+    },
+    {
+      "type": "dont",
+      "title": "DON'T: Confuse Adjectives and Adverbs After Linking Verbs",
+      "points": [
+        "After linking verbs (is, am, are, feel, seem, look, taste), use ADJECTIVES, not adverbs",
+        "Remember: linking verbs describe the subject, not the action",
+        "This is where many people make mistakes!"
+      ],
+      "examples": [
+        "❌ He looks quickly. → ✅ He looks quick. (or ✅ He is quick.)",
+        "❌ The food tastes bitterly. → ✅ The food tastes bitter.",
+        "❌ She feels happily. → ✅ She feels happy."
+      ]
+    }
+  ],
+
+  "examples": [
+    {
+      "sentence": "She ran quickly to catch the bus.",
+      "usage_pattern": "Adverb of manner describing how the action is performed",
+      "category": "Action"
+    },
+    {
+      "sentence": "He often visits his grandmother on Sundays.",
+      "usage_pattern": "Adverb of frequency showing how often",
+      "category": "Frequency"
+    },
+    {
+      "sentence": "Yesterday, I saw an amazing movie.",
+      "usage_pattern": "Adverb of time indicating when",
+      "category": "Time"
+    },
+    {
+      "sentence": "They played outside in the garden.",
+      "usage_pattern": "Adverb of place showing where",
+      "category": "Location"
+    },
+    {
+      "sentence": "She speaks English fluently and confidently.",
+      "usage_pattern": "Multiple adverbs of manner modifying the same verb",
+      "category": "Ability"
+    },
+    {
+      "sentence": "He completely forgot about the meeting.",
+      "usage_pattern": "Adverb modifying the verb, showing degree",
+      "category": "Forgetfulness"
+    },
+    {
+      "sentence": "The baby cried softly through the night.",
+      "usage_pattern": "Adverb of manner with time reference",
+      "category": "Sound"
+    },
+    {
+      "sentence": "She rarely eats meat and never drinks alcohol.",
+      "usage_pattern": "Two frequency adverbs in one sentence",
+      "category": "Diet"
+    }
+  ],
+
+  "exercises": [
+    {
+      "type": "writing",
+      "title": "Rewrite with Adverbs",
+      "prompt": "Rewrite the following sentences by adding appropriate adverbs to make them more descriptive and interesting. Use adverbs of manner, time, and frequency. Write 6-8 sentences.",
+      "sample_answer": "1. She walked slowly through the garden. 2. He speaks English very well. 3. We always eat dinner at 6 PM. 4. The children played happily outside. 5. Yesterday, I finished my work early. 6. She rarely complains about anything. 7. They traveled far and wide. 8. I sometimes forget my keys at home."
+    },
+    {
+      "type": "reading",
+      "title": "Identify and Correct Adverb Errors",
+      "passage": "He drive carefully on the highway yesterday. She feel very happily about the results. The dog runs quick in the park. I rarely never miss my classes. They are working hardly on the project. The music plays beautifully in the concert hall. She speak fluently and clear in presentations.",
+      "highlights": ["drive carefully", "feel very happily", "runs quick", "rarely never", "are working hardly", "speak fluently and clear"],
+      "sample_answer": "He drives carefully on the highway yesterday. She feels very happy about the results. The dog runs quickly in the park. I rarely miss my classes. They are working hard on the project. The music plays beautifully in the concert hall. She speaks fluently and clearly in presentations."
+    }
+  ],
+
+  "common_mistakes": [
+    {
+      "error": "She feels happily about the news.",
+      "correct": "She feels happy about the news.",
+      "explanation": "After linking verb 'feels', use adjective 'happy', not adverb 'happily'. The adverb would only work with action verbs."
+    },
+    {
+      "error": "He ran quick to the store.",
+      "correct": "He ran quickly to the store.",
+      "explanation": "After action verb 'ran', use adverb 'quickly', not adjective 'quick'. Adverbs describe how the action is performed."
+    },
+    {
+      "error": "I rarely never go to the gym.",
+      "correct": "I rarely go to the gym. (Or: I never go to the gym.)",
+      "explanation": "Don't use double negatives. Use either 'rarely' or 'never', but not both together."
+    },
+    {
+      "error": "She speaks clear and confident.",
+      "correct": "She speaks clearly and confidently.",
+      "explanation": "After action verb, use adverbs (clearly, confidently), not adjectives (clear, confident)."
+    },
+    {
+      "error": "A quickly car passed me.",
+      "correct": "A fast car passed me.",
+      "explanation": "Adverbs cannot modify nouns. Use adjectives (fast) before nouns, adverbs (quickly) after verbs."
+    },
+    {
+      "error": "Yesterday I will go to the market.",
+      "correct": "Yesterday I went to the market. (Or: I will go to the market tomorrow.)",
+      "explanation": "Tense consistency: 'yesterday' (past) doesn't match 'will go' (future). Use appropriate adverbs with matching tenses."
+    },
+    {
+      "error": "She is working hardly on the project.",
+      "correct": "She is working hard on the project.",
+      "explanation": "'Hard' is both adjective and adverb. 'Hardly' means 'almost not', while 'hard' means 'with effort'."
+    },
+    {
+      "error": "He always usually comes late.",
+      "correct": "He usually comes late. (Or: He always comes late.)",
+      "explanation": "Don't use multiple frequency adverbs together. Choose the one that best fits your meaning."
+    }
+  ],
+
+  "quick_facts": [
+    "Many adverbs are formed by adding '-ly' to adjectives, but not all words ending in '-ly' are adverbs (lonely, friendly are adjectives).",
+    "Some common adverbs don't end in '-ly': fast, hard, well, good, bad, early, late, far, near.",
+    "Adverbs can modify verbs, adjectives, or other adverbs: 'She ran very quickly.' (very modifies the adverb quickly).",
+    "Adverbs of frequency usually appear in the middle of sentences before the main verb (except with 'to be').",
+    "An adverb can completely change the meaning: 'I hardly know him' vs. 'I know him hard' - only the first makes sense.",
+    "'Good' is always an adjective. 'Well' is an adverb (except for health context: 'I am well' - adjective).",
+    "Positive frequency adverbs: always, usually, often, sometimes, occasionally. Negative: never, rarely, seldom.",
+    "The placement of adverbs can change meaning: 'I only saw John' vs. 'I saw only John' vs. 'I saw John only'."
+  ],
+
+  "videos": [
+    {
+      "title": "English Adverbs - Complete Guide",
+      "url": "https://www.youtube.com/watch?v=Adverbs_Complete_Guide",
+      "description": "Learn all types of adverbs with clear examples and explanations"
+    },
+    {
+      "title": "Adverb Placement in English Sentences",
+      "url": "https://www.youtube.com/watch?v=Adverb_Placement_Rules",
+      "description": "Master the correct position of adverbs in different sentence structures"
+    },
+    {
+      "title": "Adverbs vs Adjectives - Key Differences",
+      "url": "https://www.youtube.com/watch?v=Adverbs_vs_Adjectives",
+      "description": "Understand the crucial differences between adverbs and adjectives"
+    }
+  ],
+
+  "resources": [
+    {
+      "title": "Common Adverbs List",
+      "url": "https://www.englishgrammar.org/adverbs-list",
+      "description": "Comprehensive list of common adverbs organized by type and usage"
+    },
+    {
+      "title": "Adverb Formation Rules",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/adverbs",
+      "description": "Detailed guide on forming adverbs from adjectives with examples and exceptions"
+    }
+  ]
+}

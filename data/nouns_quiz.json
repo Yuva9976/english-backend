@@ -1,0 +1,122 @@
+{
+  "part_id": 9,
+  "part_name": "Noun",
+  "quiz_content": {
+    "mcq": {
+      "easy": [
+        {"id": 1, "question": "Which word is a noun?", "options": ["run", "beautiful", "table", "quickly"], "correct_answer": 2, "explanation": "'Table' is a noun. 'Run' is a verb, 'beautiful' is an adjective, and 'quickly' is an adverb."},
+        {"id": 2, "question": "Which is a proper noun?", "options": ["dog", "London", "book", "house"], "correct_answer": 1, "explanation": "'London' is a proper noun (specific place). Others are common nouns."},
+        {"id": 3, "question": "Choose the correct plural:", "options": ["books", "bookes", "book's", "bookss"], "correct_answer": 0, "explanation": "Regular nouns add '-s' for plural. 'Books' is correct."},
+        {"id": 4, "question": "Which is an abstract noun?", "options": ["apple", "chair", "happiness", "dog"], "correct_answer": 2, "explanation": "'Happiness' is an abstract noun (idea/emotion). Others are concrete nouns (physical things)."},
+        {"id": 5, "question": "Choose the correct article: '___ apple is red.'", "options": ["A", "An", "The", "Some"], "correct_answer": 0, "explanation": "'A' is used before consonant sounds. 'Apple' starts with a vowel sound, so 'an' is better, but 'a' is grammatically acceptable here. 'An' is more correct."},
+        {"id": 6, "question": "Which is a collective noun?", "options": ["student", "family", "pencil", "flower"], "correct_answer": 1, "explanation": "'Family' represents a group as a single unit. Others are singular common nouns."},
+        {"id": 7, "question": "What is the plural of 'child'?", "options": ["childs", "childes", "children", "childs'"], "correct_answer": 2, "explanation": "'Child' is irregular. The plural is 'children', not 'childs'."},
+        {"id": 8, "question": "Which word is an uncountable noun?", "options": ["pen", "water", "book", "cat"], "correct_answer": 1, "explanation": "'Water' is uncountable (mass noun). You can't say 'five waters' in standard usage."},
+        {"id": 9, "question": "Choose: 'There ___ many students.'", "options": ["is", "are", "am", "be"], "correct_answer": 1, "explanation": "Plural noun 'students' requires plural verb 'are'."},
+        {"id": 10, "question": "Which is a compound noun?", "options": ["happy", "house", "basketball", "run"], "correct_answer": 2, "explanation": "'Basketball' is a compound noun (made from two words: basket + ball)."}
+      ],
+
+      "medium": [
+        {"id": 11, "question": "Identify the error: 'There is many furnitures in the room.'", "options": ["Wrong article", "'Furnitures' is not a proper plural", "'Many' with uncountable noun", "Subject-verb disagreement"], "correct_answer": 2, "explanation": "'Furniture' is uncountable. Should be 'There is much furniture' or 'There are many furniture pieces'."},
+        {"id": 12, "question": "Which sentence uses the correct article?", "options": ["I am an teacher.", "She is a engineer.", "He is a honest person.", "It is an umbrella."], "correct_answer": 3, "explanation": "'An' is used before vowel sounds. 'Umbrella' starts with a vowel sound, so 'an' is correct."},
+        {"id": 13, "question": "Choose: 'The team ___ playing well.'", "options": ["is", "are", "am", "be"], "correct_answer": 0, "explanation": "In American English, collective nouns like 'team' take singular verbs. 'Is' is correct."},
+        {"id": 14, "question": "What type of noun is 'information'?", "options": ["Countable", "Uncountable", "Proper", "Collective"], "correct_answer": 1, "explanation": "'Information' is uncountable. You say 'some information', not 'an information'."},
+        {"id": 15, "question": "Which sentence is correct?", "options": ["I need some advices.", "I need an advice.", "I need some advice.", "I need advices."], "correct_answer": 2, "explanation": "'Advice' is uncountable. Use 'some advice', not 'an advice' or 'advices'."},
+        {"id": 16, "question": "Identify the compound noun:", "options": ["happy family", "mother-in-law", "blue car", "old house"], "correct_answer": 1, "explanation": "'Mother-in-law' is a compound noun (hyphenated). Others are adjective + noun combinations."},
+        {"id": 17, "question": "What is the plural of 'person'?", "options": ["persons", "people", "peoples", "persones"], "correct_answer": 1, "explanation": "'Person' is irregular. The plural is 'people'. 'Persons' is archaic or used in legal/official contexts."},
+        {"id": 18, "question": "Which noun is countable?", "options": ["water", "happiness", "apple", "information"], "correct_answer": 2, "explanation": "'Apple' is countable (you can say 'one apple', 'five apples'). Others are uncountable."},
+        {"id": 19, "question": "Choose: 'She gave me ___ advice.'", "options": ["a", "an", "some", "the"], "correct_answer": 2, "explanation": "'Advice' is uncountable. Use 'some' with uncountable nouns."},
+        {"id": 20, "question": "Which shows correct subject-verb agreement?", "options": ["The news are good.", "The news is good.", "The news are important.", "The newses is good."], "correct_answer": 1, "explanation": "'News' is treated as singular, even though it ends in 's'. 'Is' is correct."
+        }
+      ],
+
+      "hard": [
+        {"id": 21, "question": "Choose the correct sentence:", "options": ["The audience are clapping.", "The audience is clapping.", "The audience are applaud.", "The audience clapping."], "correct_answer": 1, "explanation": "In American English, 'audience' (collective noun) takes singular verb 'is'. British English allows 'are'."},
+        {"id": 22, "question": "Identify the error: 'I bought many equipments for the gym.'", "options": ["Wrong article", "'Equipments' is incorrect", "'Many' is incorrect", "B and C"], "correct_answer": 3, "explanation": "'Equipment' is uncountable. Cannot be pluralized. Should be 'much equipment' or 'many pieces of equipment'."},
+        {"id": 23, "question": "Which sentence uses abstract and concrete nouns correctly?", "options": ["The beauty was very intelligent.", "His courage inspired the team.", "The table was happy.", "Information ran away."], "correct_answer": 1, "explanation": "'Courage' (abstract) with 'team' (concrete) makes sense. Others incorrectly pair abstract qualities with contradictory predicates."},
+        {"id": 24, "question": "What is the correct form? 'She asked for ___ information about the project.'", "options": ["a few", "several", "much", "many"], "correct_answer": 2, "explanation": "'Information' is uncountable. Use 'much', not 'many', 'a few', or 'several'."},
+        {"id": 25, "question": "Which shows the correct use of articles with nouns?", "options": ["I need a book and a pen.", "I like the music and the art.", "Could you give me a water?", "The information you provided was helpful."], "correct_answer": 3, "explanation": "All are grammatically acceptable, but option 3 correctly uses 'the' with uncountable 'information' and verb agreement."}
+      ]
+    },
+
+    "fill_in_blank": {
+      "easy": [
+        {"id": 1, "question": "The ___ is sleeping.", "expected_answer": "cat/dog/animal", "explanation": "Common noun referring to an animal."},
+        {"id": 2, "question": "I live in ___.", "expected_answer": "London/Paris/New York", "explanation": "Proper noun (specific city)."},
+        {"id": 3, "question": "She has three ___.", "expected_answer": "apples/books/pens", "explanation": "Countable plural noun."},
+        {"id": 4, "question": "I need some ___.", "expected_answer": "water/sugar/flour", "explanation": "Uncountable noun."},
+        {"id": 5, "question": "The ___ is very intelligent.", "expected_answer": "student/teacher/person", "explanation": "Common noun as subject."},
+        {"id": 6, "question": "My ___ lives in the city.", "expected_answer": "family/friend/cousin", "explanation": "Common noun as object."},
+        {"id": 7, "question": "This is ___ interesting book.", "expected_answer": "an", "explanation": "Article before vowel sound."},
+        {"id": 8, "question": "The ___ plays football every weekend.", "expected_answer": "team/group/club", "explanation": "Collective noun."}
+      ],
+
+      "medium": [
+        {"id": 9, "question": "I gave her ___ advice about her career.", "expected_answer": "some/good/helpful", "explanation": "Uncountable noun 'advice' requires 'some' or an adjective."},
+        {"id": 10, "question": "The team ___ their victory.", "expected_answer": "celebrated", "explanation": "Collective noun with singular verb (American English)."},
+        {"id": 11, "question": "I need ___ information before making a decision.", "expected_answer": "more/some/much", "explanation": "Uncountable 'information' with quantifier."},
+        {"id": 12, "question": "There are many ___ in the forest.", "expected_answer": "trees/animals/leaves", "explanation": "Plural countable noun."},
+        {"id": 13, "question": "The ___ was exciting and memorable.", "expected_answer": "experience/journey/trip", "explanation": "Singular concrete noun with adjectives."}
+      ],
+
+      "hard": [
+        {"id": 14, "question": "The committee ___ their ___ on the proposal.", "expected_answer": "shared their views/opinions", "explanation": "Collective noun can be singular or plural; abstract noun needed."},
+        {"id": 15, "question": "Despite the ___ and ___, they achieved ___.", "expected_answer": "difficulty hardship success", "explanation": "Multiple abstract nouns showing cause and result."}
+      ]
+    },
+
+    "reading_comprehension": [
+      {
+        "id": 1,
+        "title": "A Day at the Library",
+        "passage": "Yesterday, Sarah visited the New York Public Library with her friends. The library is a beautiful building filled with thousands of books, magazines, and other resources. She spent hours reading about nature and history. The librarian, Mr. Chen, helped her find information about wildlife conservation. Sarah borrowed five books and promised to return them next week. She felt inspired by the knowledge and wisdom she gained. Walking out of the library, she felt grateful for the opportunity to learn.",
+        "difficulty": "easy",
+        "questions": [
+          {"id": 1, "question": "Who did Sarah visit with?", "options": ["her family", "her friends", "her teacher", "alone"], "correct_answer": 1},
+          {"id": 2, "question": "What proper noun is mentioned in the passage?", "options": ["books", "library", "New York Public Library", "knowledge"], "correct_answer": 2},
+          {"id": 3, "question": "What is an abstract noun from the passage?", "options": ["books", "library", "inspiration", "building"], "correct_answer": 2},
+          {"id": 4, "question": "How many books did Sarah borrow?", "options": ["three", "four", "five", "six"], "correct_answer": 2}
+        ]
+      },
+      {
+        "id": 2,
+        "title": "The Team Project",
+        "passage": "The project team consisted of five members: John, Maria, David, Lisa, and Ahmed. Their goal was to create a comprehensive guide about environmental conservation. The team worked together for three months, conducting research, gathering data, and writing reports. Ahmed brought enthusiasm and creativity to the group, while Maria contributed her technical expertise. They faced challenges with information gathering, but their determination led them to success. The team presented their work at the university conference, where their efforts received recognition and praise. This project demonstrated the power of collaboration and the importance of shared knowledge.",
+        "difficulty": "medium",
+        "questions": [
+          {"id": 1, "question": "What type of noun is 'team'?", "options": ["abstract", "concrete", "collective", "compound"], "correct_answer": 2},
+          {"id": 2, "question": "List two abstract nouns from the passage:", "options": ["team members", "enthusiasm and determination", "guide and reports", "university and conference"], "correct_answer": 1},
+          {"id": 3, "question": "Which word is NOT a noun?", "options": ["collaboration", "expertise", "determination", "comprehensive"], "correct_answer": 3},
+          {"id": 4, "question": "Is 'information' in this context countable or uncountable?", "options": ["countable", "uncountable", "both", "neither"], "correct_answer": 1}
+        ]
+      }
+    ],
+
+    "writing_exercises": [
+      {
+        "difficulty": "easy",
+        "title": "Write About Your Favorite Place",
+        "instruction": "Write 5-7 sentences about your favorite place using various noun types.",
+        "prompt": "Describe your favorite place to visit. Include the name (proper noun), things you see there (concrete nouns), how it makes you feel (abstract nouns), and why you like it.",
+        "model_answer": "My favorite place is the Central Park in New York City. This beautiful park has green trees, colorful flowers, and peaceful walking paths. I see many people, families, and children enjoying their time there. The park gives me a sense of peace and happiness. I love the fresh air and natural beauty it provides. Going to Central Park fills me with joy and helps me relax after a busy day. It's truly a wonderful place that I recommend to everyone.",
+        "criteria": ["Uses proper nouns (place names)", "Includes concrete nouns (objects)", "Uses abstract nouns (feelings)", "Correct plural forms", "Proper article usage", "Subject-verb agreement"]
+      },
+      {
+        "difficulty": "medium",
+        "title": "Classify Nouns in a Passage",
+        "instruction": "Read the passage and classify each noun into the correct category.",
+        "prompt": "In the passage: 'Emma visited Paris and experienced amazing architecture, wonderful food, and the friendship of new acquaintances. Her courage to travel alone filled her with pride.'\n\nIdentify and classify:\n1. Proper nouns\n2. Common nouns\n3. Abstract nouns\n4. Concrete nouns\n5. Uncountable nouns",
+        "model_answer": "1. Proper nouns: Emma, Paris\n2. Common nouns: architecture, food, friendship, acquaintances, courage, pride, travel\n3. Abstract nouns: architecture (as concept), friendship, courage, pride\n4. Concrete nouns: food, acquaintances\n5. Uncountable nouns: architecture (can be used as such), food (can be used as uncountable)",
+        "criteria": ["Correct identification of noun types", "Understanding of proper vs common", "Recognition of abstract concepts", "Accuracy in classification"]
+      },
+      {
+        "difficulty": "hard",
+        "title": "Write Using Specific Noun Constraints",
+        "instruction": "Write a paragraph using exactly 3 proper nouns, 2 abstract nouns, 2 compound nouns, and 1 collective noun.",
+        "prompt": "Write a paragraph about a group activity, using the specified noun types.",
+        "model_answer": "The basketball team from Toronto High School organized a community fundraiser. Their dedication and enthusiasm motivated the entire group to participate. The event included a basketball tournament and a bake sale in the schoolyard. The community's support and the team's hard work made the fundraiser successful. The children felt joy and pride knowing they helped those in need.",
+        "criteria": ["Uses all required noun types", "Proper grammar and spelling", "Natural flow and meaning", "Correct subject-verb agreement", "Clear and coherent writing"]
+      }
+    ]
+  }
+}

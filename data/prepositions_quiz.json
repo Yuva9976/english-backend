@@ -1,0 +1,325 @@
+{
+  "part_id": 6,
+  "name": "Preposition",
+  "total_questions": 110,
+
+  "mcq": {
+    "easy": [
+      {
+        "id": 1,
+        "question": "What does a preposition show?",
+        "options": ["an action", "a relationship", "a feeling", "a decision"],
+        "correct_answer": 1,
+        "explanation": "Prepositions show relationships between words, such as position, direction, time, or connection."
+      },
+      {
+        "id": 2,
+        "question": "Which word is a preposition?",
+        "options": ["run", "happy", "on", "beautiful"],
+        "correct_answer": 2,
+        "explanation": "'On' is a preposition. It shows position or location."
+      },
+      {
+        "id": 3,
+        "question": "Choose the correct sentence:",
+        "options": ["The book is on the table.", "The book is in the table.", "The book is at the table.", "The book is by the table."],
+        "correct_answer": 0,
+        "explanation": "'On the table' is correct - 'on' shows the book is resting on the surface."
+      },
+      {
+        "id": 4,
+        "question": "What preposition shows direction?",
+        "options": ["at", "in", "to", "on"],
+        "correct_answer": 2,
+        "explanation": "'To' shows direction/destination: 'I'm going to the store.'"
+      },
+      {
+        "id": 5,
+        "question": "Which sentence is correct?",
+        "options": ["I am waiting during the bus.", "I am waiting for the bus.", "I am waiting at the bus.", "I am waiting with the bus."],
+        "correct_answer": 1,
+        "explanation": "'For the bus' is correct - 'for' shows you're expecting or waiting to use it."
+      },
+      {
+        "id": 6,
+        "question": "What time preposition goes in this sentence: 'I'll see you ____ Monday.'?",
+        "options": ["at", "in", "on", "during"],
+        "correct_answer": 2,
+        "explanation": "'On' is used for specific days of the week: 'on Monday', 'on Friday'."
+      },
+      {
+        "id": 7,
+        "question": "Choose the correct preposition: 'He arrived ____ the station ____ noon.'",
+        "options": ["at/in", "in/on", "at/at", "in/at"],
+        "correct_answer": 2,
+        "explanation": "'At the station' (specific place) and 'at noon' (specific time)."
+      },
+      {
+        "id": 8,
+        "question": "Which phrase uses the correct preposition?",
+        "options": ["interested at", "interested of", "interested in", "interested on"],
+        "correct_answer": 2,
+        "explanation": "'Interested in' is the correct collocation."
+      },
+      {
+        "id": 9,
+        "question": "What preposition should follow 'from'?",
+        "options": ["nothing", "a noun", "a verb", "a preposition"],
+        "correct_answer": 1,
+        "explanation": "'From' must have an object: 'from the store', 'from him', 'from home'."
+      },
+      {
+        "id": 10,
+        "question": "Choose the correct sentence:",
+        "options": ["The cat is in the table.", "The cat is on the table.", "The cat is at the table.", "The cat is to the table."],
+        "correct_answer": 1,
+        "explanation": "'On the table' - the cat is on top of the table's surface."
+      }
+    ],
+
+    "medium": [
+      {
+        "id": 11,
+        "question": "Fix the error: 'She went in Paris last summer.'",
+        "options": ["'in Paris' is wrong - should be 'to Paris'", "'went' should be 'comes'", "no error", "'summer' should be 'summer vacation'"],
+        "correct_answer": 0,
+        "explanation": "'To' shows direction toward a destination. 'In' shows location when already there."
+      },
+      {
+        "id": 12,
+        "question": "Which is correct?",
+        "options": ["I've been waiting since five years.", "I've been waiting for five years.", "I've been waiting during five years.", "I've been waiting at five years."],
+        "correct_answer": 1,
+        "explanation": "'For' measures a duration. 'Since' marks when something started."
+      },
+      {
+        "id": 13,
+        "question": "What's the error? 'He is different of his brother.'",
+        "options": ["should be 'different from'", "should be 'different than'", "should be 'different to'", "no error"],
+        "correct_answer": 0,
+        "explanation": "'Different from' is the correct collocation in English."
+      },
+      {
+        "id": 14,
+        "question": "Choose the correct sentence:",
+        "options": ["I am good at swimming.", "I am good in swimming.", "I am good for swimming.", "I am good to swimming."],
+        "correct_answer": 0,
+        "explanation": "'Good at' is the correct collocation: 'good at swimming', 'good at math'."
+      },
+      {
+        "id": 15,
+        "question": "Which preposition correctly completes: 'He walked ____ the park.'?",
+        "options": ["in", "on", "at", "through"],
+        "correct_answer": 3,
+        "explanation": "'Through the park' shows movement across/along the space."
+      },
+      {
+        "id": 16,
+        "question": "What's the correct preposition? 'I'm excited ____ the vacation.'",
+        "options": ["for", "about", "in", "at"],
+        "correct_answer": 1,
+        "explanation": "'Excited about' is the correct collocation."
+      },
+      {
+        "id": 17,
+        "question": "Choose the correct sentence:",
+        "options": ["I'll go home.", "I'll go to home.", "I'll go at home.", "I'll go in home."],
+        "correct_answer": 0,
+        "explanation": "'Go home' is correct - 'home' as an adverb doesn't take a preposition."
+      },
+      {
+        "id": 18,
+        "question": "Which is wrong? 'Let's meet on Friday in the afternoon.'",
+        "options": ["should be 'at the afternoon'", "should be 'at Friday'", "should be 'in Friday'", "no error"],
+        "correct_answer": 0,
+        "explanation": "'In the afternoon' is correct. 'At' is for specific times (at 3 PM), 'in' for parts of the day."
+      },
+      {
+        "id": 19,
+        "question": "What preposition goes here? 'I'm worried ____ the exam.'",
+        "options": ["of", "about", "in", "for"],
+        "correct_answer": 1,
+        "explanation": "'Worried about' is the correct collocation."
+      },
+      {
+        "id": 20,
+        "question": "Complete: '____ addition to the main course, we need dessert.'",
+        "options": ["In", "At", "For", "With"],
+        "correct_answer": 0,
+        "explanation": "'In addition to' is a compound preposition meaning 'besides'."
+      }
+    ],
+
+    "hard": [
+      {
+        "id": 21,
+        "question": "Identify the error: 'I've been living in this city since 10 years.'",
+        "options": ["'in' should be 'at'", "'since' should be 'for'", "'10 years' should be '10 years ago'", "no error"],
+        "correct_answer": 1,
+        "explanation": "'For' measures duration. 'Since' marks the starting point. Should be 'for 10 years'."
+      },
+      {
+        "id": 22,
+        "question": "Which is correct?",
+        "options": ["Different of you", "Different than you", "Different from you", "Different to you"],
+        "correct_answer": 2,
+        "explanation": "'Different from' is standard in American English. 'Different to' is British."
+      },
+      {
+        "id": 23,
+        "question": "What's the error? 'She is responsible of the project.'",
+        "options": ["should be 'responsible for'", "should be 'responsible about'", "should be 'responsible with'", "no error"],
+        "correct_answer": 0,
+        "explanation": "'Responsible for' is the correct collocation."
+      },
+      {
+        "id": 24,
+        "question": "Which sentence uses multiple prepositions correctly?",
+        "options": ["He went through the forest to the mountains.", "He went at the forest through the mountains.", "He went in the forest at the mountains.", "He went to the forest at the mountains."],
+        "correct_answer": 0,
+        "explanation": "'Through the forest' (direction) and 'to the mountains' (destination) are both correct."
+      },
+      {
+        "id": 25,
+        "question": "What's incorrect? 'I haven't heard from you since last month.'",
+        "options": ["should be 'for last month'", "should be 'at last month'", "no error", "should be 'during last month'"],
+        "correct_answer": 2,
+        "explanation": "This is correct. 'Since' marks the starting point: since last month = from that time to now."
+      },
+      {
+        "id": 26,
+        "question": "Choose the correct preposition: 'According ____ the report...'",
+        "options": ["at", "for", "to", "in"],
+        "correct_answer": 2,
+        "explanation": "'According to' is a compound preposition meaning 'based on'."
+      },
+      {
+        "id": 27,
+        "question": "Which is correct?",
+        "options": ["I'm anxious of the results.", "I'm anxious about the results.", "I'm anxious for the results.", "I'm anxious in the results."],
+        "correct_answer": 1,
+        "explanation": "'Anxious about' is the standard collocation."
+      },
+      {
+        "id": 28,
+        "question": "What's the error? 'They are discussing about the problem.'",
+        "options": ["should be 'discussing on'", "'about' is redundant - just 'discussing the problem'", "should be 'discussing in'", "no error"],
+        "correct_answer": 1,
+        "explanation": "'Discuss' already contains the meaning of 'about'. Say 'discuss the problem' or 'talk about the problem'."
+      },
+      {
+        "id": 29,
+        "question": "Choose the sentence with correct prepositions:",
+        "options": ["Despite of the difficulties, he succeeded.", "Despite the difficulties, he succeeded.", "Despite to the difficulties, he succeeded.", "Despite for the difficulties, he succeeded."],
+        "correct_answer": 1,
+        "explanation": "'Despite' takes a noun directly - no 'of'. 'In spite of' (different form) takes 'of'."
+      },
+      {
+        "id": 30,
+        "question": "What should replace the blank? 'She is fluent ____ English and French.'",
+        "options": ["in", "at", "of", "for"],
+        "correct_answer": 0,
+        "explanation": "'Fluent in' is the correct collocation for languages."
+      }
+    ]
+  },
+
+  "fill_in_blank": [
+    {
+      "id": 1,
+      "question": "The book is _____ the shelf.",
+      "correct_answer": "on",
+      "explanation": "'On' shows the book is resting on the surface of the shelf."
+    },
+    {
+      "id": 2,
+      "question": "I'll see you _____ Monday afternoon.",
+      "correct_answer": "on",
+      "explanation": "'On' is used for specific days: on Monday, on Tuesday."
+    },
+    {
+      "id": 3,
+      "question": "He went _____ the store _____ buy groceries.",
+      "correct_answer": "to/to",
+      "explanation": "'To the store' (direction) and 'to buy' (preposition before gerund)."
+    },
+    {
+      "id": 4,
+      "question": "I am interested _____ learning Spanish.",
+      "correct_answer": "in",
+      "explanation": "'Interested in' is the correct collocation."
+    },
+    {
+      "id": 5,
+      "question": "Meet me _____ the café _____ 3 PM.",
+      "correct_answer": "at/at",
+      "explanation": "'At the café' (specific place) and 'at 3 PM' (specific time)."
+    },
+    {
+      "id": 6,
+      "question": "I've been working here _____ five years.",
+      "correct_answer": "for",
+      "explanation": "'For' measures duration (time period)."
+    },
+    {
+      "id": 7,
+      "question": "She is different _____ her sister.",
+      "correct_answer": "from",
+      "explanation": "'Different from' is the correct collocation."
+    },
+    {
+      "id": 8,
+      "question": "The cat jumped _____ the fence.",
+      "correct_answer": "over",
+      "explanation": "'Over' shows movement above/across the fence."
+    },
+    {
+      "id": 9,
+      "question": "I'm excited _____ the vacation.",
+      "correct_answer": "about",
+      "explanation": "'Excited about' is the correct collocation."
+    },
+    {
+      "id": 10,
+      "question": "He walked _____ the park this morning.",
+      "correct_answer": "through",
+      "explanation": "'Through the park' shows movement within the area."
+    }
+  ],
+
+  "reading_comprehension": [
+    {
+      "id": 1,
+      "title": "A Day in the Office",
+      "difficulty": "medium",
+      "passage": "Sarah arrived at the office at 9 AM on Monday morning. She sat at her desk near the window. Her colleague, James, walked toward her with some papers in his hand. He put them on the desk and said, 'These are due by Friday.' Sarah looked at the documents and felt worried about the deadline. She decided to work through lunch. By 3 PM, she had completed most of the work. She left the office at 6 PM and went home. Despite the challenges, she felt good about her progress.",
+      "questions": [
+        {
+          "question": "When did Sarah arrive at the office?",
+          "options": ["at 9 PM", "at 9 AM", "at 3 PM", "at 6 PM"],
+          "correct_answer": 1
+        },
+        {
+          "question": "Where did Sarah sit?",
+          "options": ["in the corner", "near the window", "by the door", "in the meeting room"],
+          "correct_answer": 1
+        },
+        {
+          "question": "What was Sarah worried about?",
+          "options": ["her colleague", "the documents", "the deadline", "the office"],
+          "correct_answer": 2
+        },
+        {
+          "question": "When did Sarah leave the office?",
+          "options": ["at noon", "at 3 PM", "at 6 PM", "at 9 PM"],
+          "correct_answer": 2
+        },
+        {
+          "question": "How did Sarah feel about her progress?",
+          "options": ["disappointed", "angry", "good", "confused"],
+          "correct_answer": 2
+        }
+      ]
+    }
+  ]
+}

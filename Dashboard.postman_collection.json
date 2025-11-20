@@ -1,0 +1,63 @@
+{
+  "info": {
+    "name": "English LMS - Dashboard + Quiz",
+    "_postman_id": "english-lms-dashboard-collection",
+    "description": "Dashboard and Quiz endpoints for English LMS",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Health Check",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": { "raw": "http://localhost:4000/api/health", "protocol": "http", "host": ["localhost"], "port": "4000", "path": ["api", "health"] }
+      }
+    },
+    {
+      "name": "Create Quiz (teacher)",
+      "request": {
+        "method": "POST",
+        "header": [{ "key": "Content-Type", "value": "application/json" }],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"lessonId\": 1,\n  \"title\": \"Sample Quiz\",\n  \"description\": \"For Postman\",\n  \"questions\": [\n    { \"text\": \"2+2?\", \"type\": \"single\", \"points\": 1, \"answers\": [{\"text\":\"3\",\"isCorrect\":false},{\"text\":\"4\",\"isCorrect\":true}] }\n  ]\n}"
+        },
+        "url": { "raw": "http://localhost:4000/api/quizzes", "protocol": "http", "host": ["localhost"], "port": "4000", "path": ["api", "quizzes"] }
+      }
+    },
+    {
+      "name": "Get Quiz (learner view)",
+      "request": {
+        "method": "GET",
+        "url": { "raw": "http://localhost:4000/api/quizzes/1?for=learner", "protocol": "http", "host": ["localhost"], "port": "4000", "path": ["api","quizzes","1"], "query":[{"key":"for","value":"learner"}] }
+      }
+    },
+    {
+      "name": "Submit Quiz (persist attempt)",
+      "request": {
+        "method": "POST",
+        "header": [{ "key": "Content-Type", "value": "application/json" }],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"userId\": 2,\n  \"answers\": [{ \"questionId\": 1, \"answerIds\": [2] }]\n}"
+        },
+        "url": { "raw": "http://localhost:4000/api/quizzes/1/submit", "protocol": "http", "host": ["localhost"], "port": "4000", "path": ["api","quizzes","1","submit"] }
+      }
+    },
+    {
+      "name": "Learner Dashboard (userId=2)",
+      "request": {
+        "method": "GET",
+        "url": { "raw": "http://localhost:4000/api/dashboard/learner/2", "protocol": "http", "host": ["localhost"], "port": "4000", "path": ["api","dashboard","learner","2"] }
+      }
+    },
+    {
+      "name": "Teacher Dashboard (teacherId=1)",
+      "request": {
+        "method": "GET",
+        "url": { "raw": "http://localhost:4000/api/dashboard/teacher/1", "protocol": "http", "host": ["localhost"], "port": "4000", "path": ["api","dashboard","teacher","1"] }
+      }
+    }
+  ]
+}

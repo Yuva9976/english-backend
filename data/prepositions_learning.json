@@ -1,0 +1,263 @@
+{
+  "part_id": 6,
+  "name": "Preposition",
+  "definition": "A preposition is a word that shows the relationship between a noun or pronoun and other parts of a sentence. It typically shows position, direction, time, or relationship. Prepositions always have an object (usually a noun or pronoun following them).",
+  "importance": "Prepositions are essential for expressing location, direction, time, and relationships. Without prepositions, we couldn't specify WHERE something is, WHEN it happens, or HOW things relate to each other. They're small words with big impacts on meaning.",
+  "icon": "🗺️",
+  "tagline": "Connect words and show relationships in space and time!",
+
+  "types": [
+    {
+      "id": 1,
+      "name": "Prepositions of Place/Position",
+      "emoji": "📍",
+      "description": "Show WHERE something is located or positioned in relation to something else.",
+      "examples": ["in", "on", "at", "under", "above", "between", "behind", "in front of", "beside", "inside"],
+      "color": "#f97316"
+    },
+    {
+      "id": 2,
+      "name": "Prepositions of Direction/Movement",
+      "emoji": "→",
+      "description": "Show the direction in which something moves or where it's going.",
+      "examples": ["to", "from", "through", "across", "into", "out of", "onto", "up", "down", "past"],
+      "color": "#ea580c"
+    },
+    {
+      "id": 3,
+      "name": "Prepositions of Time",
+      "emoji": "⏰",
+      "description": "Show WHEN something happens or the relationship to specific times.",
+      "examples": ["in", "on", "at", "during", "before", "after", "since", "until", "by", "for"],
+      "color": "#d97706"
+    },
+    {
+      "id": 4,
+      "name": "Prepositions of Relationship",
+      "emoji": "🔗",
+      "description": "Show how things are related or connected to each other.",
+      "examples": ["with", "without", "about", "of", "for", "like", "despite", "according to", "instead of", "because of"],
+      "color": "#b45309"
+    }
+  ],
+
+  "rules": [
+    {
+      "type": "do",
+      "title": "DO: Always Follow a Preposition with a Noun or Pronoun",
+      "points": [
+        "A preposition always has an object - it's never alone",
+        "The preposition + noun/pronoun object forms a prepositional phrase",
+        "Example: 'in the house', 'at home', 'with them' - not just 'in' or 'at'"
+      ],
+      "examples": [
+        "✅ I am at the office.",
+        "✅ She went to the store with me.",
+        "✅ The cat is under the table."
+      ]
+    },
+    {
+      "type": "do",
+      "title": "DO: Use the Correct Preposition for Place",
+      "points": [
+        "IN: for enclosed spaces or areas (in the room, in the city)",
+        "ON: for surfaces (on the table, on the wall)",
+        "AT: for specific points or places (at home, at the station)",
+        "Each has different uses - learn the common combinations"
+      ],
+      "examples": [
+        "✅ He is in the house.",
+        "✅ The book is on the shelf.",
+        "✅ Let's meet at the café."
+      ]
+    },
+    {
+      "type": "do",
+      "title": "DO: Use Appropriate Prepositions for Time",
+      "points": [
+        "IN: for months, years, seasons (in January, in 2024, in summer)",
+        "ON: for specific dates (on Monday, on May 15)",
+        "AT: for specific times (at noon, at 3 PM, at midnight)",
+        "DURING: for periods within something (during the meeting)"
+      ],
+      "examples": [
+        "✅ She was born in 1995.",
+        "✅ We'll meet on Friday.",
+        "✅ Come at 5 o'clock."
+      ]
+    },
+    {
+      "type": "dont",
+      "title": "DON'T: End Sentences with Prepositions in Formal Writing",
+      "points": [
+        "Formal: 'That is the person with whom I work.' NOT 'That is the person I work with.'",
+        "Informal/conversational: Ending with prepositions is acceptable",
+        "However, this rule is debated and often broken in modern English"
+      ],
+      "examples": [
+        "❌ (Formal) Who did he leave the keys with?",
+        "✅ (Formal) With whom did he leave the keys?",
+        "✅ (Informal) Who did he leave the keys with?"
+      ]
+    },
+    {
+      "type": "dont",
+      "title": "DON'T: Confuse Similar Prepositions",
+      "points": [
+        "TO (destination): I'm going to Paris.",
+        "AT (specific place): I'm at Paris (meaning I'm now in/at Paris)",
+        "FOR (duration): I'll stay for two weeks.",
+        "DURING: I'll visit during summer."
+      ],
+      "examples": [
+        "❌ I'm going at Paris. → ✅ I'm going to Paris.",
+        "❌ I stayed for the summer. → ✅ I stayed during the summer.",
+        "❌ Give this to I. → ✅ Give this to me."
+      ]
+    }
+  ],
+
+  "examples": [
+    {
+      "sentence": "The book is on the table next to the lamp.",
+      "usage_pattern": "Multiple prepositions of place/position",
+      "category": "Location"
+    },
+    {
+      "sentence": "He went through the forest toward the mountains.",
+      "usage_pattern": "Prepositions of direction and movement",
+      "category": "Travel"
+    },
+    {
+      "sentence": "We have a meeting at 2 PM on Monday.",
+      "usage_pattern": "Prepositions of time (specific time and date)",
+      "category": "Schedule"
+    },
+    {
+      "sentence": "She works with her team despite the challenges.",
+      "usage_pattern": "Prepositions of relationship",
+      "category": "Work"
+    },
+    {
+      "sentence": "The cat jumped over the fence and into the garden.",
+      "usage_pattern": "Multiple direction prepositions showing action",
+      "category": "Movement"
+    },
+    {
+      "sentence": "I've been waiting since yesterday for this news.",
+      "usage_pattern": "Prepositions of time (duration and waiting)",
+      "category": "Time"
+    },
+    {
+      "sentence": "In addition to the main dish, we need dessert.",
+      "usage_pattern": "Compound preposition showing addition",
+      "category": "Food"
+    },
+    {
+      "sentence": "Between you and me, I think he made a mistake.",
+      "usage_pattern": "Preposition with multiple objects",
+      "category": "Communication"
+    }
+  ],
+
+  "exercises": [
+    {
+      "type": "writing",
+      "title": "Describe Location Using Prepositions",
+      "prompt": "Draw a simple room (bedroom, kitchen, office, etc.) or imagine one. Write a paragraph describing what's in the room and WHERE each item is located. Use at least 8 different prepositions of place. Write 8-10 sentences.",
+      "sample_answer": "My bedroom is quite spacious. The bed is against the wall under the window. Above the bed hangs a large poster. My desk sits beside the bed. A lamp stands on the desk next to my computer. Books are arranged on the shelf behind my chair. My closet is in the corner of the room. Between the door and the closet, there's a small table with a plant on it. A rug lies in the middle of the floor. The room feels cozy because everything is well-organized within the space."
+    },
+    {
+      "type": "reading",
+      "title": "Identify and Correct Preposition Errors",
+      "passage": "She went in Paris last month. I am waiting during the bus. He works in the morning at 8 AM. The cat jumped through the window. She's interested at learning new languages. We'll meet on Friday at the afternoon. I've been working since five years. He is different of his brother. The box is on under the table.",
+      "highlights": ["in Paris", "during the bus", "in the morning", "at the afternoon", "since five years", "different of", "on under"],
+      "sample_answer": "She went to Paris last month. I am waiting for the bus. He works in the morning at 8 AM. The cat jumped out the window (or through the window). She's interested in learning new languages. We'll meet on Friday in the afternoon. I've been working for five years. He is different from his brother. The box is under the table."
+    }
+  ],
+
+  "common_mistakes": [
+    {
+      "error": "She went in Paris.",
+      "correct": "She went to Paris.",
+      "explanation": "Use 'to' for destinations/direction. 'In' is used when you're already there or talking about being in a place."
+    },
+    {
+      "error": "I am interested at learning English.",
+      "correct": "I am interested in learning English.",
+      "explanation": "Certain adjectives take specific prepositions. 'Interested' takes 'in', not 'at'."
+    },
+    {
+      "error": "I've been studying since five years.",
+      "correct": "I've been studying for five years.",
+      "explanation": "'For' measures duration. 'Since' marks the starting point. Use 'for' with time periods."
+    },
+    {
+      "error": "He is different of his brother.",
+      "correct": "He is different from his brother.",
+      "explanation": "'Different' requires 'from', not 'of'. This is a fixed collocation in English."
+    },
+    {
+      "error": "I am waiting during the bus.",
+      "correct": "I am waiting for the bus.",
+      "explanation": "'During' means throughout a period. 'For' shows you're expecting something/someone."
+    },
+    {
+      "error": "We'll meet on Friday at the afternoon.",
+      "correct": "We'll meet on Friday in the afternoon.",
+      "explanation": "Use 'in' for parts of the day (in the afternoon, in the evening). 'At' is for specific times (at noon)."
+    },
+    {
+      "error": "The book is on under the table.",
+      "correct": "The book is under the table.",
+      "explanation": "Don't use two prepositions together. Choose the correct one: 'under' shows it's below the table."
+    },
+    {
+      "error": "I'll go to home.",
+      "correct": "I'll go home. (Or: I'll go to my home.)",
+      "explanation": "'Home' is an adverb when referring to your residence, so no preposition is needed. But 'to the home' works if it's not yours."
+    }
+  ],
+
+  "quick_facts": [
+    "English has about 150-200 common prepositions, though the most frequent ones are only about 50.",
+    "Prepositions are usually short words with multiple meanings: 'by' can mean 'near', 'through', 'through agency', or show time.",
+    "Some prepositions are simple (in, on, at, to) while others are compound (because of, in addition to, instead of).",
+    "Different languages use different prepositions - this is why L2 speakers often make mistakes. It's not logical, it's just convention.",
+    "The same preposition can have different meanings: 'in' can mean 'inside' (in the box), 'within a time' (in two hours), or 'during' (in summer).",
+    "Phrasal verbs use prepositions but can completely change meaning: 'look' vs. 'look at' vs. 'look for' vs. 'look after'.",
+    "Most common prepositions: in, on, at, to, for, of, with, by, from, as.",
+    "Prepositions are often followed by gerunds (verb+ing): 'interested in learning', 'before leaving', 'after arriving'."
+  ],
+
+  "videos": [
+    {
+      "title": "English Prepositions - Complete Guide",
+      "url": "https://www.youtube.com/watch?v=Prepositions_Complete",
+      "description": "Master all types of prepositions with practical examples"
+    },
+    {
+      "title": "Prepositions of Place, Time, and Movement",
+      "url": "https://www.youtube.com/watch?v=Prepositions_Place_Time_Movement",
+      "description": "Learn the differences between common prepositions"
+    },
+    {
+      "title": "Common Preposition Mistakes",
+      "url": "https://www.youtube.com/watch?v=Preposition_Mistakes",
+      "description": "Understand and avoid common English preposition errors"
+    }
+  ],
+
+  "resources": [
+    {
+      "title": "Preposition Combinations and Collocations",
+      "url": "https://www.englishgrammar.org/prepositions-combinations",
+      "description": "Learn which prepositions go with which words"
+    },
+    {
+      "title": "Preposition Reference Guide",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/prepositions",
+      "description": "Comprehensive reference for preposition usage by type"
+    }
+  ]
+}

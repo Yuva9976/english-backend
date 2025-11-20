@@ -1,0 +1,108 @@
+{
+  "part_id": 3,
+  "part_name": "Verb",
+  "quiz_content": {
+    "mcq": {
+      "easy": [
+        {"id": 1, "question": "Which word is a verb?", "options": ["beautiful", "run", "happiness", "slow"], "correct_answer": 1, "explanation": "'Run' is an action verb. The others are adjectives or nouns."},
+        {"id": 2, "question": "Choose the correct form: 'She _____ to school every day.'", "options": ["go", "goes", "going", "gone"], "correct_answer": 1, "explanation": "Third person singular 'she' requires 'goes'."},
+        {"id": 3, "question": "What tense is this? 'I ate pizza yesterday.'", "options": ["Present", "Past", "Future", "Perfect"], "correct_answer": 1, "explanation": "'Ate' is past tense."},
+        {"id": 4, "question": "Which is a linking verb?", "options": ["run", "is", "create", "jump"], "correct_answer": 1, "explanation": "'Is' connects the subject to a description (linking verb)."},
+        {"id": 5, "question": "Complete: 'They _____ playing football.'", "options": ["is", "are", "am", "be"], "correct_answer": 1, "explanation": "Plural subject 'they' uses 'are'."},
+        {"id": 6, "question": "What is the past tense of 'go'?", "options": ["goed", "went", "going", "goes"], "correct_answer": 1, "explanation": "'Go' is irregular; past tense is 'went'."},
+        {"id": 7, "question": "Which sentence is correct?", "options": ["He don't like pizza.", "He doesn't like pizza.", "He do like pizza.", "He not likes pizza."], "correct_answer": 1, "explanation": "Third person singular uses 'doesn't', not 'don't'."},
+        {"id": 8, "question": "Choose the helping verb: 'I _____ finished my work.'", "options": ["have", "does", "will", "can"], "correct_answer": 0, "explanation": "'Have' is a helping verb used in present perfect tense."},
+        {"id": 9, "question": "What type of verb is 'taste' in 'The cake tastes good'?", "options": ["Action verb", "Linking verb", "Helping verb", "Modal verb"], "correct_answer": 1, "explanation": "'Taste' is a linking verb connecting 'cake' to 'good'."},
+        {"id": 10, "question": "Complete with modal: 'You _____ study for the test.'", "options": ["must", "musts", "will must", "are must"], "correct_answer": 0, "explanation": "'Must' is a modal verb used to show obligation."}
+      ],
+
+      "medium": [
+        {"id": 11, "question": "What is wrong? 'She go to the park and plays soccer.'", "options": ["Tense inconsistency", "Subject-verb disagreement", "Wrong verb form", "All of the above"], "correct_answer": 0, "explanation": "Mix of present 'go' and 'plays'. Should be consistent."},
+        {"id": 12, "question": "Choose: 'If I _____ you were sick, I would have called.'", "options": ["knew", "had known", "would know", "know"], "correct_answer": 1, "explanation": "Past perfect 'had known' for earlier past action."},
+        {"id": 13, "question": "Which shows active voice?", "options": ["The cake was eaten by him.", "He ate the cake.", "The cake was eaten.", "It was eaten by him."], "correct_answer": 1, "explanation": "Active voice: subject performs the action."},
+        {"id": 14, "question": "Correct form: 'I _____ to that restaurant before.'", "options": ["have been", "had been", "was", "am"], "correct_answer": 0, "explanation": "Present perfect 'have been' for past experience."},
+        {"id": 15, "question": "Which modal shows ability?", "options": ["must", "should", "can", "will"], "correct_answer": 2, "explanation": "'Can' expresses ability or possibility."},
+        {"id": 16, "question": "What tense is 'They will have finished by tomorrow'?", "options": ["Future simple", "Future perfect", "Present perfect", "Past perfect"], "correct_answer": 1, "explanation": "'Will have finished' is future perfect tense."},
+        {"id": 17, "question": "Choose correct: 'The team _____ won the game.'", "options": ["have", "has", "is", "are"], "correct_answer": 1, "explanation": "In American English, 'team' (singular collective noun) uses 'has'."},
+        {"id": 18, "question": "Which irregular verb is correct?", "options": ["He goed to school.", "He goes to school.", "He go to school.", "He going to school."], "correct_answer": 1, "explanation": "'Goes' is the correct present tense form for 'he'."},
+        {"id": 19, "question": "Complete: 'I _____ finished if you help me.'", "options": ["will have", "would have", "will", "have"], "correct_answer": 0, "explanation": "Future perfect to show completion by a future time."},
+        {"id": 20, "question": "What verb form follows 'can'?", "options": ["Base form", "Past form", "Gerund", "Participle"], "correct_answer": 0, "explanation": "Modal verbs are followed by the base form."}
+      ],
+
+      "hard": [
+        {"id": 21, "question": "Choose correct: 'If I were you, I _____ the offer.'", "options": ["would accept", "will accept", "would have accepted", "accept"], "correct_answer": 0, "explanation": "Conditional uses would + base verb."},
+        {"id": 22, "question": "Which shows subjunctive mood?", "options": ["I go to school.", "If I were rich, I would travel.", "She is happy.", "They will come."], "correct_answer": 1, "explanation": "Subjunctive 'were' expresses hypothetical situation."},
+        {"id": 23, "question": "Correct: 'By next year, I _____ here for five years.'", "options": ["will work", "will have worked", "will be working", "work"], "correct_answer": 1, "explanation": "Future perfect continuous (will have been working) works best, but future perfect is acceptable."},
+        {"id": 24, "question": "Choose correct tense sequence: 'She said _____ to the store.'", "options": ["she goes", "she went", "she had gone", "she will go"], "correct_answer": 1, "explanation": "Reported speech requires shifting to past: said she went."},
+        {"id": 25, "question": "What verb form is 'singing'?", "options": ["Gerund", "Present participle", "Past participle", "A and B (contextual)"], "correct_answer": 3, "explanation": "'Singing' can be gerund or present participle depending on usage."}
+      ]
+    },
+
+    "fill_in_blank": {
+      "easy": [
+        {"id": 1, "question": "I _____ to the gym every morning.", "expected_answer": "go", "explanation": "Present simple for regular habit."},
+        {"id": 2, "question": "She _____ a teacher.", "expected_answer": "is", "explanation": "Linking verb 'is' for identity."},
+        {"id": 3, "question": "They _____ playing basketball.", "expected_answer": "are", "explanation": "Plural subject requires 'are'."},
+        {"id": 4, "question": "I _____ finished my homework.", "expected_answer": "have", "explanation": "Helping verb 'have' for present perfect."},
+        {"id": 5, "question": "You _____ come with us.", "expected_answer": "should", "explanation": "Modal 'should' for suggestion."},
+        {"id": 6, "question": "He _____ the window yesterday.", "expected_answer": "closed", "explanation": "Past tense of regular verb 'close'."},
+        {"id": 7, "question": "The flowers _____ in spring.", "expected_answer": "bloom", "explanation": "Present simple for general truth."},
+        {"id": 8, "question": "We _____ win the game.", "expected_answer": "can/will", "explanation": "Modal 'can' for ability or 'will' for future."}
+      ],
+
+      "medium": [
+        {"id": 9, "question": "If she _____ earlier, she would catch the bus.", "expected_answer": "left/had left", "explanation": "Conditional: left (simple) or had left (perfect)."},
+        {"id": 10, "question": "They _____ studying for three hours.", "expected_answer": "have been", "explanation": "Present perfect continuous."},
+        {"id": 11, "question": "The book _____ by a famous author.", "expected_answer": "was written", "explanation": "Passive voice: past simple."}
+      ],
+
+      "hard": [
+        {"id": 12, "question": "Had I known, I _____ different choices.", "expected_answer": "would have made", "explanation": "Mixed conditional: would have + past participle."}
+      ]
+    },
+
+    "reading_comprehension": [
+      {
+        "id": 1,
+        "title": "A Day in the Life",
+        "passage": "Every morning, Tom wakes up at 6 AM. He goes to the gym and exercises for an hour. After that, he returns home and takes a shower. By 8 AM, he has breakfast and reads the news. He works from 9 AM to 5 PM at his office. In the evening, he usually cooks dinner or orders takeout. Before bed, he watches a movie or reads a book. Tom is happy with this routine.",
+        "difficulty": "easy",
+        "questions": [
+          {"id": 1, "question": "What does Tom do after waking up?", "options": ["He showers", "He eats breakfast", "He goes to the gym", "He reads"], "correct_answer": 2},
+          {"id": 2, "question": "When does Tom have breakfast?", "options": ["6 AM", "7 AM", "8 AM", "9 AM"], "correct_answer": 2},
+          {"id": 3, "question": "What tense is 'goes' in 'He goes to the gym'?", "options": ["Past", "Present", "Future", "Perfect"], "correct_answer": 1}
+        ]
+      },
+      {
+        "id": 2,
+        "title": "The Project",
+        "passage": "Last month, Sarah started a new project. She has been working on it since then. By next week, she will have completed the first phase. Her team is very supportive and they have helped her whenever she needed assistance. The project could be finished by the end of the year if everything goes smoothly. Sarah is optimistic about the results.",
+        "difficulty": "medium",
+        "questions": [
+          {"id": 1, "question": "How long has Sarah been working?", "options": ["One week", "One month", "One year", "Two months"], "correct_answer": 1},
+          {"id": 2, "question": "What will happen by next week?", "options": ["She will start", "She will finish", "She will complete the first phase", "She will quit"], "correct_answer": 2},
+          {"id": 3, "question": "Which verb shows future possibility?", "options": ["could be finished", "has been working", "started", "is optimistic"], "correct_answer": 0}
+        ]
+      }
+    ],
+
+    "writing_exercises": [
+      {
+        "difficulty": "easy",
+        "title": "Write Your Daily Routine",
+        "instruction": "Write 5-7 sentences about your daily routine using different verb tenses.",
+        "prompt": "Describe what you do every day, what you did yesterday, and what you will do tomorrow.",
+        "model_answer": "I wake up at 7 AM every morning. I have breakfast and get ready for school/work. Yesterday, I went to school and studied hard. I will go to school tomorrow and have a test. I do my homework in the evening. I sleep at 10 PM. My routine is consistent and healthy.",
+        "criteria": ["Uses present simple for habits", "Uses past simple for completed actions", "Uses future simple for plans", "Correct subject-verb agreement", "Clear and coherent writing"]
+      },
+      {
+        "difficulty": "medium",
+        "title": "Correct Verb Errors",
+        "instruction": "Find and correct all verb errors in the passage.",
+        "prompt": "She go to the store yesterday and buys milk. She have finished her work last week. The team are won the game easily. By tomorrow, he will be completed the project. You should have told me before you leaves.",
+        "model_answer": "She went to the store yesterday and bought milk. She had finished her work last week (or: She has finished...). The team won the game easily (or: won the game). By tomorrow, he will have completed the project. You should have told me before you left.",
+        "criteria": ["Identifies tense errors", "Corrects subject-verb agreement", "Uses appropriate verb forms", "Maintains consistency"]
+      }
+    ]
+  }
+}

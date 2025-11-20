@@ -3,14 +3,8 @@ require('dotenv').config();
 const express = require('express');
 const cors = require('cors');
 const cookieParser = require('cookie-parser');
+const module2Routes = require('./routes/module2');
 const { testConnection } = require('./models');
-
-// Import routes
-const authRoutes = require('./routes/auth');
-const lessonRoutes = require('./routes/lessons');
-const sectionRoutes = require('./routes/sections'); // 👈 will be added in Day 4
-const progressRoutes = require('./routes/progress');
-const quizRoutes = require('./routes/quizzes');
 
 const app = express();
 
@@ -24,18 +18,96 @@ app.use(
   })
 );
 
-// Mount routes
-app.use('/api/auth', authRoutes);     // user auth routes
-app.use('/api/lessons', lessonRoutes); // lessons routes
-app.use('/api', sectionRoutes);        // lesson section routes (optional for Day 4)
-app.use('/api', progressRoutes);
-app.use('/api/quizzes', quizRoutes);
+// === Safe route imports (optional routes won't crash startup) ===
+function safeRequire(path) {
+  try {
+    return require(path);
+  } catch (err) {
+    console.warn(`⚠️  Optional module not found: ${path}`);
+    return null;
+  }
+}
+
+const authRoutes = safeRequire('./routes/auth');
+const lessonRoutes = safeRequire('./routes/lessons');
+const sectionRoutes = safeRequire('./routes/sections');
+const progressRoutes = safeRequire('./routes/progress');
+const quizRoutes = safeRequire('./routes/quizzes');
+const dashboardRoutes = safeRequire('./routes/dashboard');
+const grammarRoutes = safeRequire('./routes/grammar');
+
+// === DEV HELPER: simple request logger (temporary; only in non-production) ===
+if (process.env.NODE_ENV !== 'production') {
+  app.use((req, res, next) => {
+    console.log('➡️ Incoming', req.method, req.path);
+    next();
+  });
+}
+
+// === Mount routes (only if present) ===
+if (authRoutes) app.use('/api/auth', authRoutes);
+if (module2Routes) app.use('/api/module2', module2Routes);
+if (lessonRoutes) app.use('/api/lessons', lessonRoutes);
+if (sectionRoutes) app.use('/api', sectionRoutes);    // sections may use /api prefix
+if (progressRoutes) app.use('/api', progressRoutes);  // progress routes under /api
+if (quizRoutes) app.use('/api/quizzes', quizRoutes);
+if (dashboardRoutes) app.use('/api/dashboard', dashboardRoutes);
+if (grammarRoutes) app.use('/api/grammar', grammarRoutes);
 
 // Health check route
 app.get('/api/health', (req, res) =>
   res.json({ ok: true, env: process.env.NODE_ENV || 'development' })
 );
 
+// Add a ping route for quick connectivity tests
+app.get('/api/ping', (req, res) => res.json({ ok: true, message: 'pong' }));
+
+// === DEV HELPER: robust route lister ===
+function listRoutes() {
+  try {
+    console.log('Registered routes:');
+    const stack = app._router && app._router.stack ? app._router.stack : [];
+    stack.forEach((layer) => {
+      // Directly registered routes on app
+      if (layer.route && layer.route.path) {
+        const methods = Object.keys(layer.route.methods || {}).join(',').toUpperCase();
+        console.log(methods, layer.route.path);
+        return;
+      }
+
+      // Router mounted as middleware
+      if (layer.name === 'router' && layer.handle && Array.isArray(layer.handle.stack)) {
+        // Try to extract mount path (best-effort)
+        let mountPath = '';
+        try {
+          if (layer.regexp && layer.regexp.source) {
+            const m = layer.regexp.source
+              .replace('\\/?', '')
+              .replace('(?=\\/|$)', '')
+              .replace('^', '')
+              .replace('$', '');
+            mountPath = m === '' ? '' : m;
+          }
+        } catch (e) {
+          mountPath = '';
+        }
+
+        layer.handle.stack.forEach((handler) => {
+          if (handler.route && handler.route.path) {
+            const methods = Object.keys(handler.route.methods || {}).join(',').toUpperCase();
+            const displayPath = mountPath ? `${mountPath}${handler.route.path}` : handler.route.path;
+            console.log(methods, displayPath);
+          }
+        });
+      }
+    });
+  } catch (err) {
+    console.error('Failed to list routes', err);
+  }
+}
+
+// BIND HOST to 0.0.0.0 for reliable local access (can be overridden with HOST env var)
+const HOST = process.env.HOST || '0.0.0.0';
 const PORT = process.env.PORT || 4000;
 let server = null;
 
@@ -43,9 +115,11 @@ let server = null;
 async function start() {
   try {
     await testConnection(); // test database connection
-    server = app.listen(PORT, () =>
-      console.log(`🚀 Server listening on http://localhost:${PORT} (PORT=${PORT})`)
-    );
+    server = app.listen(PORT, HOST, () => {
+      console.log(`🚀 Server listening on http://${HOST}:${PORT} (PORT=${PORT})`);
+      // show registered routes once server is up (dev only)
+      if (process.env.NODE_ENV !== 'production') listRoutes();
+    });
 
     // Graceful shutdown
     const shutdown = (signal) => {
@@ -77,4 +151,4 @@ async function start() {
 
 start();
 
-module.exports = app; // useful for testing or external tools
+module.exports = app;

@@ -1,0 +1,260 @@
+{
+  "part_id": 3,
+  "name": "Verb",
+  "definition": "A verb is a word that shows action, state, or occurrence. It tells us what someone or something is doing, feeling, or being.",
+  "importance": "Verbs are the heart of every sentence. Without a verb, you don't have a complete sentence. Verbs express what's happening, what will happen, or what happened.",
+  "icon": "⚡",
+  "tagline": "Show action, express state, tell the story!",
+
+  "types": [
+    {
+      "id": 1,
+      "name": "Action Verbs",
+      "emoji": "🏃",
+      "description": "Verbs that show physical or mental action. They describe what the subject is doing.",
+      "examples": ["run", "jump", "write", "think", "eat", "sleep", "dance", "sing", "build", "create"],
+      "color": "#ef4444"
+    },
+    {
+      "id": 2,
+      "name": "Linking Verbs",
+      "emoji": "🔗",
+      "description": "Verbs that connect the subject to a subject complement. They don't show action but show a state or condition.",
+      "examples": ["be", "is", "am", "are", "was", "were", "seem", "appear", "become", "taste", "smell", "look", "feel", "sound"],
+      "color": "#f97316"
+    },
+    {
+      "id": 3,
+      "name": "Helping Verbs (Auxiliary Verbs)",
+      "emoji": "🤝",
+      "description": "Verbs that work with main verbs to form different tenses and moods. They help create verb phrases.",
+      "examples": ["have", "has", "do", "does", "did", "will", "would", "should", "could", "can", "may", "might", "must"],
+      "color": "#eab308"
+    },
+    {
+      "id": 4,
+      "name": "Modal Verbs",
+      "emoji": "⚙️",
+      "description": "Special verbs that show possibility, necessity, permission, or ability. They always come before the main verb.",
+      "examples": ["can", "could", "may", "might", "must", "shall", "should", "will", "would", "ought to"],
+      "color": "#84cc16"
+    }
+  ],
+
+  "rules": [
+    {
+      "type": "do",
+      "title": "DO: Use Correct Verb Tense",
+      "points": [
+        "Use present tense for actions happening now: 'I eat breakfast every morning.'",
+        "Use past tense for actions that already happened: 'I ate breakfast this morning.'",
+        "Use future tense for actions that will happen: 'I will eat breakfast tomorrow.'"
+      ],
+      "examples": [
+        "✅ She runs every day. (Present simple)",
+        "✅ They played basketball yesterday. (Past simple)",
+        "✅ We will travel next month. (Future simple)"
+      ]
+    },
+    {
+      "type": "do",
+      "title": "DO: Agree Verb with Subject",
+      "points": [
+        "Singular subjects take singular verbs: 'The dog runs fast.'",
+        "Plural subjects take plural verbs: 'The dogs run fast.'",
+        "Third person singular adds '-s' or '-es': 'He walks', 'She watches'"
+      ],
+      "examples": [
+        "✅ The student studies hard.",
+        "✅ The students study hard.",
+        "✅ It runs very quickly."
+      ]
+    },
+    {
+      "type": "do",
+      "title": "DO: Use Active Voice When Possible",
+      "points": [
+        "Active voice is clearer and more direct: subject performs the action",
+        "Use: 'The cat caught the mouse' instead of 'The mouse was caught by the cat'",
+        "Active voice is stronger and more engaging"
+      ],
+      "examples": [
+        "✅ The teacher explained the lesson. (Active)",
+        "✅ She wrote the book. (Active)",
+        "✅ They built the house. (Active)"
+      ]
+    },
+    {
+      "type": "dont",
+      "title": "DON'T: Mix Verb Tenses Incorrectly",
+      "points": [
+        "Don't switch tenses without reason: 'He runs to the store and bought milk' (inconsistent)",
+        "Keep verb tenses consistent in a paragraph unless time changes",
+        "If the timeline changes, signal it clearly"
+      ],
+      "examples": [
+        "❌ She walks to school and took the bus home. → ✅ She walked to school and took the bus home.",
+        "❌ I am going and I will come back. → ✅ I am going and I will come back. (Clear time difference)",
+        "❌ They play football and cooked dinner. → ✅ They played football and cooked dinner."
+      ]
+    },
+    {
+      "type": "dont",
+      "title": "DON'T: Use Wrong Verb Form",
+      "points": [
+        "Don't use base form when you need past: 'I go yesterday' (wrong)",
+        "Don't forget the '-ed' ending for regular past tense: 'She walk' (should be 'walked')",
+        "Learn irregular verbs: go→went, eat→ate, run→ran, not 'goed', 'eated', 'runned'"
+      ],
+      "examples": [
+        "❌ I see him yesterday. → ✅ I saw him yesterday.",
+        "❌ She don't like pizza. → ✅ She doesn't like pizza.",
+        "❌ He go to school every day. → ✅ He goes to school every day."
+      ]
+    }
+  ],
+
+  "examples": [
+    {
+      "sentence": "The teacher explained the concept clearly.",
+      "usage_pattern": "Action verb in past tense",
+      "category": "Education"
+    },
+    {
+      "sentence": "She is a talented musician.",
+      "usage_pattern": "Linking verb showing state",
+      "category": "Description"
+    },
+    {
+      "sentence": "They have been studying for the exam.",
+      "usage_pattern": "Helping verb with main verb (present perfect)",
+      "category": "Study"
+    },
+    {
+      "sentence": "You must finish your homework before playing.",
+      "usage_pattern": "Modal verb showing necessity",
+      "category": "Obligation"
+    },
+    {
+      "sentence": "The flowers bloom in spring.",
+      "usage_pattern": "Action verb in present simple",
+      "category": "Nature"
+    },
+    {
+      "sentence": "I will call you tomorrow.",
+      "usage_pattern": "Modal verb (will) for future",
+      "category": "Promise"
+    },
+    {
+      "sentence": "The cake tastes delicious.",
+      "usage_pattern": "Linking verb for sensory description",
+      "category": "Food"
+    },
+    {
+      "sentence": "We can solve this problem together.",
+      "usage_pattern": "Modal verb showing ability",
+      "category": "Capability"
+    }
+  ],
+
+  "exercises": [
+    {
+      "type": "writing",
+      "title": "Write Sentences with Correct Verb Forms",
+      "prompt": "Write 5 sentences using different verb types:\n1. An action verb in present simple\n2. A linking verb in past tense\n3. A helping verb with a main verb\n4. A modal verb\n5. An action verb in future tense",
+      "sample_answer": "1. The students discuss the homework in class. (Action, present)\n2. The food was delicious. (Linking, past)\n3. I have completed the project. (Helping, present perfect)\n4. You should study harder for the test. (Modal)\n5. We will travel to Paris next summer. (Future)"
+    },
+    {
+      "type": "reading",
+      "title": "Correct Verb Tense and Form Errors",
+      "passage": "Yesterday, I go to the store and I buys milk. The store manager is very helpful and he tells me about a sale. I decide to buying vegetables too. While I am paying, he says that the vegetables is fresh. I thank him and I leaves the store. When I arrives home, I puts the groceries away. My family are very happy because we will has fresh vegetables for dinner.",
+      "highlights": ["go", "buys", "tells", "decide to buying", "is", "leaves", "arrives", "puts", "are", "will has"],
+      "sample_answer": "Yesterday, I went to the store and bought milk. The store manager was very helpful and told me about a sale. I decided to buy vegetables too. While I was paying, he said the vegetables were fresh. I thanked him and left the store. When I arrived home, I put the groceries away. My family was very happy because we would have fresh vegetables for dinner."
+    }
+  ],
+
+  "common_mistakes": [
+    {
+      "error": "She go to school every day.",
+      "correct": "She goes to school every day.",
+      "explanation": "Third person singular subject needs an 's' on the verb. 'Goes' is correct, not 'go'."
+    },
+    {
+      "error": "He don't like apples.",
+      "correct": "He doesn't like apples.",
+      "explanation": "Third person singular uses 'doesn't', not 'don't'. The negative form must agree with the subject."
+    },
+    {
+      "error": "I will go and I come back.",
+      "correct": "I will go and come back. (Or: I will go and I will come back.)",
+      "explanation": "Avoid unnecessary verb repetition. You can use one future marker for related actions."
+    },
+    {
+      "error": "The team are playing well.",
+      "correct": "The team is playing well.",
+      "explanation": "In American English, collective nouns like 'team' take singular verbs. (British English allows 'are')"
+    },
+    {
+      "error": "I have went there before.",
+      "correct": "I have gone there before. (Or: I went there before.)",
+      "explanation": "'Have' requires the past participle 'gone', not the simple past 'went'."
+    },
+    {
+      "error": "She can goes to the party.",
+      "correct": "She can go to the party.",
+      "explanation": "Modal verbs like 'can' are followed by the base form of the verb, not the third person form."
+    },
+    {
+      "error": "They was excited about the trip.",
+      "correct": "They were excited about the trip.",
+      "explanation": "Plural subjects use 'were', not 'was'. 'They' is plural, so it requires 'were'."
+    },
+    {
+      "error": "The students is working on their projects.",
+      "correct": "The students are working on their projects.",
+      "explanation": "Plural subject 'students' requires plural verb 'are', not singular 'is'."
+    }
+  ],
+
+  "quick_facts": [
+    "Every sentence needs at least one verb to be complete.",
+    "English has three main tenses: present, past, and future.",
+    "Regular verbs add '-ed' for past tense; irregular verbs change form (go→went, eat→ate).",
+    "There are 23 modal verbs in English, all showing ability, possibility, or obligation.",
+    "Linking verbs don't show action; they connect subjects to descriptions.",
+    "Helping verbs work with main verbs to create different meanings and tenses.",
+    "Most English verbs are regular (add -ed for past), but common ones are often irregular.",
+    "The verb 'be' is the most irregular and most common verb in English."
+  ],
+
+  "videos": [
+    {
+      "title": "English Verbs - Complete Guide",
+      "url": "https://www.youtube.com/watch?v=English_Verbs_Complete",
+      "description": "Comprehensive overview of all verb types with clear examples"
+    },
+    {
+      "title": "Verb Tenses Explained - Past, Present, Future",
+      "url": "https://www.youtube.com/watch?v=Verb_Tenses_All",
+      "description": "Master all 12 main English verb tenses"
+    },
+    {
+      "title": "Subject-Verb Agreement",
+      "url": "https://www.youtube.com/watch?v=Subject_Verb_Agreement",
+      "description": "Learn when to use singular vs plural verbs"
+    }
+  ],
+
+  "resources": [
+    {
+      "title": "Irregular Verbs List",
+      "url": "https://www.englishgrammar.org/irregular-verbs",
+      "description": "Complete list of common irregular verbs with past and past participle forms"
+    },
+    {
+      "title": "Verb Tenses Tutorial",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/grammar/verb-tenses",
+      "description": "Interactive guide to understanding and using different verb tenses"
+    }
+  ]
+}

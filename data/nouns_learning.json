@@ -1,0 +1,409 @@
+{
+  "part_id": 9,
+  "name": "Noun",
+  "definition": "A noun is a word that names a person, place, thing, or idea. It is one of the eight parts of speech and is essential to forming sentences.",
+  "importance": "Nouns are the foundation of sentences. Every sentence needs at least one noun to be complete. Without nouns, we cannot name or refer to people, objects, or concepts we want to discuss.",
+  "icon": "📦",
+  "tagline": "Name it, place it, think it – Nouns do it all!",
+  "color": "#3b82f6",
+
+  "types": [
+    {
+      "id": 1,
+      "name": "Proper Nouns",
+      "emoji": "🏛️",
+      "description": "Specific names of people, places, organizations, or days. Always capitalized.",
+      "examples": ["John", "London", "Google", "Monday", "Mount Everest", "Christmas", "NASA"],
+      "color": "#ef4444",
+      "rule": "Always capitalize the first letter. Used to refer to unique, specific entities."
+    },
+    {
+      "id": 2,
+      "name": "Common Nouns",
+      "emoji": "🎒",
+      "description": "General names for any person, place, thing, or idea. Not capitalized unless at start of sentence.",
+      "examples": ["boy", "city", "book", "car", "dog", "happiness", "water"],
+      "color": "#f97316",
+      "rule": "Lowercase unless starting a sentence. Refers to general categories."
+    },
+    {
+      "id": 3,
+      "name": "Concrete Nouns",
+      "emoji": "🍎",
+      "description": "Things you can see, touch, taste, smell, or hear. Physical things.",
+      "examples": ["apple", "table", "flower", "music", "sand", "diamond", "chocolate"],
+      "color": "#eab308",
+      "rule": "Represents tangible, physical objects that exist in the real world."
+    },
+    {
+      "id": 4,
+      "name": "Abstract Nouns",
+      "emoji": "💭",
+      "description": "Ideas, emotions, qualities, or concepts you cannot touch. Intangible things.",
+      "examples": ["love", "freedom", "happiness", "courage", "justice", "beauty", "hope"],
+      "color": "#84cc16",
+      "rule": "Represents intangible ideas, feelings, or concepts that exist in thought."
+    },
+    {
+      "id": 5,
+      "name": "Countable Nouns",
+      "emoji": "🔢",
+      "description": "Things that can be counted using numbers. Have singular and plural forms.",
+      "examples": ["one apple", "two books", "five cars", "many students", "three ideas"],
+      "color": "#06b6d4",
+      "rule": "Can be singular or plural. Use 'a/an' for singular, 'some/many' for plural."
+    },
+    {
+      "id": 6,
+      "name": "Uncountable Nouns",
+      "emoji": "🌊",
+      "description": "Things that cannot be counted individually. Don't have a clear plural form.",
+      "examples": ["water", "sand", "money", "furniture", "luggage", "information", "advice"],
+      "color": "#8b5cf6",
+      "rule": "Always singular or mass. Use 'some', 'much', 'little' with these nouns."
+    },
+    {
+      "id": 7,
+      "name": "Collective Nouns",
+      "emoji": "👥",
+      "description": "Words that represent a group of people or things as a single unit.",
+      "examples": ["team", "family", "group", "crew", "committee", "audience", "flock"],
+      "color": "#ec4899",
+      "rule": "Singular form but refers to multiple entities. Can take singular or plural verb."
+    },
+    {
+      "id": 8,
+      "name": "Compound Nouns",
+      "emoji": "🔗",
+      "description": "Nouns made by combining two or more words to create a new meaning.",
+      "examples": ["basketball", "toothbrush", "mother-in-law", "classroom", "football", "notebook"],
+      "color": "#14b8a6",
+      "rule": "Can be written as one word, hyphenated, or as two words depending on convention."
+    }
+  ],
+
+  "rules": [
+    {
+      "type": "do",
+      "title": "DO: Capitalize Proper Nouns",
+      "points": [
+        "Always capitalize names of specific people, places, and organizations",
+        "Capitalize days of the week, months, and holidays",
+        "Capitalize titles when used with names",
+        "Capitalize brand names and company names"
+      ],
+      "examples": [
+        "✅ I met Sarah at the New York Public Library.",
+        "✅ We celebrate Christmas on December 25th.",
+        "✅ Dr. Johnson works at Stanford University.",
+        "✅ She drives a Toyota Camry."
+      ]
+    },
+    {
+      "type": "do",
+      "title": "DO: Use Correct Singular/Plural Forms",
+      "points": [
+        "Add '-s' to most nouns: cat→cats, book→books",
+        "Add '-es' to nouns ending in s, x, z, ch, sh: box→boxes, church→churches",
+        "Change 'y' to 'ies' for nouns ending in consonant+y: baby→babies",
+        "Learn irregular plurals: child→children, person→people, mouse→mice"
+      ],
+      "examples": [
+        "✅ The cats are sleeping in the sun.",
+        "✅ She has three boxes of chocolates.",
+        "✅ The babies are crying.",
+        "✅ There are many people in the room."
+      ]
+    },
+    {
+      "type": "do",
+      "title": "DO: Use Correct Articles (a, an, the)",
+      "points": [
+        "Use 'a' before consonant sounds: a dog, a university",
+        "Use 'an' before vowel sounds: an apple, an hour",
+        "Use 'the' for specific nouns: the book (we both know which one)",
+        "Use no article for general nouns: Dogs are loyal."
+      ],
+      "examples": [
+        "✅ I need a pencil and an eraser.",
+        "✅ The book on the table is interesting.",
+        "✅ Cats are independent animals.",
+        "✅ She is a teacher at the school."
+      ]
+    },
+    {
+      "type": "do",
+      "title": "DO: Match Nouns with Correct Verb Forms",
+      "points": [
+        "Singular nouns take singular verbs: The dog runs fast.",
+        "Plural nouns take plural verbs: The dogs run fast.",
+        "Collective nouns can be singular or plural depending on context",
+        "Pay attention to subject-verb agreement"
+      ],
+      "examples": [
+        "✅ The student studies hard.",
+        "✅ The students study hard.",
+        "✅ The team is winning the game.",
+        "✅ The committee have different opinions."
+      ]
+    },
+    {
+      "type": "dont",
+      "title": "DON'T: Overuse Articles",
+      "points": [
+        "Don't use 'a' or 'an' with plural nouns: 'a books' (wrong)",
+        "Don't use articles before uncountable nouns: 'a water' (wrong)",
+        "Don't add articles before proper nouns unnecessarily: 'the John' (wrong)",
+        "Don't use 'the' before general categories: 'the cats are animals' (needs 'cats' not 'the cats')"
+      ],
+      "examples": [
+        "❌ I bought a books. → ✅ I bought books.",
+        "❌ Can you give me a water? → ✅ Can you give me water?",
+        "❌ I met the Sarah yesterday. → ✅ I met Sarah yesterday.",
+        "❌ The books are useful. → ✅ Books are useful."
+      ]
+    },
+    {
+      "type": "dont",
+      "title": "DON'T: Confuse Countable and Uncountable",
+      "points": [
+        "Don't use 'many' with uncountable nouns: 'many water' (wrong)",
+        "Don't use 'much' with countable nouns: 'much apples' (wrong)",
+        "Don't pluralize uncountable nouns: 'furnitures' (wrong)",
+        "Use 'some' and 'a little' with uncountable nouns"
+      ],
+      "examples": [
+        "❌ There is much chairs. → ✅ There are many chairs.",
+        "❌ I need many information. → ✅ I need much information.",
+        "❌ We bought some new furnitures. → ✅ We bought some new furniture.",
+        "❌ Add some waters to the plant. → ✅ Add some water to the plant."
+      ]
+    },
+    {
+      "type": "dont",
+      "title": "DON'T: Use Plural Forms Incorrectly",
+      "points": [
+        "Don't add '-s' to irregular nouns: 'childs' (wrong), 'mens' (wrong)",
+        "Don't use British vs American spelling inconsistently",
+        "Don't forget to change vowels in irregular plurals: 'goose→geese' not 'gooses'",
+        "Don't treat foreign plural forms as singular"
+      ],
+      "examples": [
+        "❌ There are five childs in the class. → ✅ There are five children in the class.",
+        "❌ The mans are tall. → ✅ The men are tall.",
+        "❌ I saw three gooses at the lake. → ✅ I saw three geese at the lake.",
+        "❌ The criterion are important. → ✅ The criteria are important."
+      ]
+    }
+  ],
+
+  "examples": [
+    {
+      "sentence": "The dog played in the park.",
+      "usage_pattern": "Common noun in subject position",
+      "category": "Animals",
+      "noun_type": "Common, Concrete, Countable"
+    },
+    {
+      "sentence": "Sarah lives in London and works at Google.",
+      "usage_pattern": "Proper nouns for person and places",
+      "category": "People and Places",
+      "noun_type": "Proper"
+    },
+    {
+      "sentence": "The team celebrated their victory with happiness and joy.",
+      "usage_pattern": "Collective and abstract nouns",
+      "category": "Emotions",
+      "noun_type": "Collective, Abstract"
+    },
+    {
+      "sentence": "I need some information about the new software.",
+      "usage_pattern": "Uncountable noun",
+      "category": "Data/Knowledge",
+      "noun_type": "Uncountable, Abstract"
+    },
+    {
+      "sentence": "The children played with their toys.",
+      "usage_pattern": "Irregular plural noun",
+      "category": "Family",
+      "noun_type": "Common, Concrete, Countable"
+    },
+    {
+      "sentence": "Her courage and determination inspired the entire team.",
+      "usage_pattern": "Abstract nouns describing qualities",
+      "category": "Character",
+      "noun_type": "Abstract"
+    },
+    {
+      "sentence": "The smartphone and the laptop are on the table.",
+      "usage_pattern": "Compound nouns",
+      "category": "Technology",
+      "noun_type": "Compound, Concrete, Countable"
+    },
+    {
+      "sentence": "Freedom of speech is a fundamental right.",
+      "usage_pattern": "Abstract noun in subject position",
+      "category": "Rights",
+      "noun_type": "Abstract, Uncountable"
+    }
+  ],
+
+  "exercises": [
+    {
+      "type": "writing",
+      "title": "Write Sentences with Different Noun Types",
+      "prompt": "Write 8 sentences, each using a different noun type:\n1. Proper noun (person)\n2. Proper noun (place)\n3. Common noun\n4. Abstract noun\n5. Concrete noun\n6. Countable noun\n7. Uncountable noun\n8. Collective noun",
+      "sample_answer": "1. Emma loves reading books. (Proper noun - person)\n2. The Eiffel Tower is in Paris. (Proper noun - place)\n3. The cat sleeps on the cushion. (Common noun)\n4. Honesty is the best policy. (Abstract noun)\n5. The marble statue is beautiful. (Concrete noun)\n6. I bought three oranges. (Countable noun)\n7. We need to conserve water. (Uncountable noun)\n8. The audience applauded the performance. (Collective noun)"
+    },
+    {
+      "type": "reading",
+      "title": "Identify Nouns and Classify Them",
+      "passage": "On Monday, John visited the Museum of Natural History in New York. He saw dinosaur fossils, ancient paintings, and priceless jewelry. The curator, Dr. Smith, explained the history behind each artifact with great patience and enthusiasm. John took many photographs and collected some information about the exhibits. He felt a sense of wonder and joy during his visit. After the tour, he bought a souvenir notebook and shared his experience with friends.",
+      "highlights": ["Monday", "John", "Museum", "History", "York", "fossils", "paintings", "jewelry", "curator", "Dr. Smith", "history", "artifact", "patience", "enthusiasm", "photographs", "information", "exhibits", "sense", "wonder", "joy", "visit", "souvenir", "notebook", "experience", "friends"],
+      "sample_answer": "Proper nouns: Monday, John, Museum of Natural History, New York, Dr. Smith\nCommon nouns: fossils, paintings, jewelry, curator, history, artifact, patience, enthusiasm, photographs, information, exhibits, sense, wonder, joy, souvenir, notebook, experience, friends\nAbstract nouns: history, patience, enthusiasm, wonder, joy, experience\nConcrete nouns: fossils, paintings, jewelry, photographs, notebook\nUncountable nouns: information, patience, enthusiasm\nCollective noun: None explicitly, but 'friends' refers to a group"
+    }
+  ],
+
+  "common_mistakes": [
+    {
+      "error": "I saw two mouses in the kitchen.",
+      "correct": "I saw two mice in the kitchen.",
+      "explanation": "Mouse is an irregular noun. The plural is 'mice', not 'mouses'."
+    },
+    {
+      "error": "She gave me a good advices.",
+      "correct": "She gave me good advice.",
+      "explanation": "'Advice' is an uncountable noun. It doesn't have a plural form."
+    },
+    {
+      "error": "There are many equipments in the gym.",
+      "correct": "There is much equipment in the gym.",
+      "explanation": "'Equipment' is uncountable. Use 'much' instead of 'many'."
+    },
+    {
+      "error": "The information are very useful.",
+      "correct": "The information is very useful.",
+      "explanation": "'Information' is uncountable and singular, so it takes a singular verb 'is'."
+    },
+    {
+      "error": "I need a water and a coffee.",
+      "correct": "I need some water and a coffee.",
+      "explanation": "'Water' is uncountable; use 'some' instead of 'a'. 'Coffee' can be countable or uncountable depending on context."
+    },
+    {
+      "error": "The team are playing good, but the person is not.",
+      "correct": "The team is playing well, but the person is not.",
+      "explanation": "In American English, collective nouns like 'team' take singular verbs. 'Good' is an adjective; use 'well' as an adverb."
+    },
+    {
+      "error": "I met the Maria at the store.",
+      "correct": "I met Maria at the store.",
+      "explanation": "Don't use 'the' with proper nouns (names of specific people) unless there's a specific reason."
+    },
+    {
+      "error": "Fruits are healthy, but fruits are expensive.",
+      "correct": "Fruit is healthy, but fruit is expensive. (Or: Fruits are healthy, but they are expensive.)",
+      "explanation": "When referring to fruit in general, use the singular 'fruit' as a mass noun."
+    }
+  ],
+
+  "quick_facts": [
+    "Every English sentence must have at least one noun.",
+    "Nouns can function as subjects, objects, complements, and objects of prepositions.",
+    "There are 8 main types of nouns: proper, common, concrete, abstract, countable, uncountable, collective, and compound.",
+    "Proper nouns always start with a capital letter.",
+    "English has 3 articles: 'a', 'an', and 'the'. The choice depends on whether the noun is countable or uncountable.",
+    "Irregular plurals are usually from Old English: man→men, child→children, goose→geese.",
+    "Compound nouns can be written as one word, two words, or hyphenated depending on common usage.",
+    "Some nouns can be both countable and uncountable depending on context: 'Would you like a coffee?' vs 'Coffee is expensive.'",
+    "Collective nouns (team, family, group) can take singular or plural verbs depending on whether you're treating them as one unit or multiple individuals.",
+    "Abstract nouns are harder to understand because they describe ideas, not physical things."
+  ],
+
+  "videos": [
+    {
+      "title": "English Nouns - Complete Guide",
+      "url": "https://www.youtube.com/watch?v=English_Nouns_Complete",
+      "description": "Comprehensive overview of all noun types with clear examples and practice exercises",
+      "duration": "15 mins",
+      "difficulty": "Beginner"
+    },
+    {
+      "title": "Countable vs Uncountable Nouns",
+      "url": "https://www.youtube.com/watch?v=Countable_Uncountable_Nouns",
+      "description": "Learn the difference between countable and uncountable nouns with practical examples",
+      "duration": "12 mins",
+      "difficulty": "Beginner"
+    },
+    {
+      "title": "Plural Nouns - Regular and Irregular",
+      "url": "https://www.youtube.com/watch?v=Plural_Nouns_Rules",
+      "description": "Master regular and irregular plural forms with common rules and exceptions",
+      "duration": "18 mins",
+      "difficulty": "Beginner"
+    },
+    {
+      "title": "Articles (a, an, the) with Nouns",
+      "url": "https://www.youtube.com/watch?v=Articles_Usage_English",
+      "description": "Understand when and how to use articles with different types of nouns",
+      "duration": "14 mins",
+      "difficulty": "Intermediate"
+    },
+    {
+      "title": "Compound Nouns Explained",
+      "url": "https://www.youtube.com/watch?v=Compound_Nouns_English",
+      "description": "Learn how compound nouns are formed and how they function in sentences",
+      "duration": "10 mins",
+      "difficulty": "Intermediate"
+    }
+  ],
+
+  "resources": [
+    {
+      "title": "Complete List of Irregular Plurals",
+      "url": "https://www.englishgrammar.org/irregular-plurals",
+      "description": "Comprehensive reference list of common irregular plural nouns in English",
+      "type": "Reference"
+    },
+    {
+      "title": "Noun Types Interactive Quiz",
+      "url": "https://www.englishlearning.com/noun-types-quiz",
+      "description": "Practice identifying different noun types with interactive exercises",
+      "type": "Practice"
+    },
+    {
+      "title": "Article Usage Guide (a, an, the)",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/grammar/articles",
+      "description": "Detailed guide to understanding article usage with nouns",
+      "type": "Guide"
+    },
+    {
+      "title": "Countable Uncountable Nouns List",
+      "url": "https://www.englishgrammar.org/countable-uncountable-nouns",
+      "description": "Useful reference list distinguishing between countable and uncountable nouns",
+      "type": "Reference"
+    },
+    {
+      "title": "Compound Nouns Dictionary",
+      "url": "https://www.englishdictionary.org/compound-nouns",
+      "description": "Complete list of common English compound nouns with definitions",
+      "type": "Dictionary"
+    }
+  ],
+
+  "metadata": {
+    "created_date": "2025-11-17",
+    "version": "1.0",
+    "total_types": 8,
+    "total_rules": 7,
+    "total_examples": 8,
+    "total_exercises": 2,
+    "total_videos": 5,
+    "total_resources": 5,
+    "difficulty_level": "Beginner to Intermediate",
+    "estimated_learning_time": "2-3 hours",
+    "downloadable": true,
+    "download_formats": ["PDF", "DOCX", "EPUB"],
+    "tags": ["noun", "grammar", "parts-of-speech", "english-learning", "beginner"]
+  }
+}

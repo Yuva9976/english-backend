@@ -1,0 +1,833 @@
+{
+  "part_id": 2,
+  "part_name": "Pronoun",
+  "quiz_content": {
+    "mcq": {
+      "easy": [
+        {
+          "id": 1,
+          "question": "Which pronoun can replace 'Maria'?",
+          "options": ["him", "she", "their", "them"],
+          "correct_answer": 1,
+          "explanation": "Maria is a female singular noun, so 'she' is the correct pronoun."
+        },
+        {
+          "id": 2,
+          "question": "What is the object form of 'she'?",
+          "options": ["her", "hers", "herself", "his"],
+          "correct_answer": 0,
+          "explanation": "'Her' is the object pronoun form of 'she'. It's used when the pronoun receives the action."
+        },
+        {
+          "id": 3,
+          "question": "Choose the correct sentence:",
+          "options": ["Me and John are friends.", "John and me are friends.", "John and I are friends.", "I and John are friends."],
+          "correct_answer": 2,
+          "explanation": "Use 'I' as a subject pronoun in compound subjects. Also, put the other person first."
+        },
+        {
+          "id": 4,
+          "question": "Which pronoun shows possession?",
+          "options": ["him", "his", "he", "himself"],
+          "correct_answer": 1,
+          "explanation": "'His' is a possessive pronoun that shows ownership."
+        },
+        {
+          "id": 5,
+          "question": "What is a reflexive pronoun?",
+          "options": ["A pronoun that refers back to the subject", "A pronoun for objects", "A pronoun for questions", "A pronoun for possession"],
+          "correct_answer": 0,
+          "explanation": "Reflexive pronouns (myself, yourself, himself, etc.) refer back to the subject of the sentence."
+        },
+        {
+          "id": 6,
+          "question": "Choose the correct pronoun: 'The book is _____.'",
+          "options": ["mine", "I", "me", "my"],
+          "correct_answer": 0,
+          "explanation": "'Mine' is a possessive pronoun used without a following noun."
+        },
+        {
+          "id": 7,
+          "question": "Which is a relative pronoun?",
+          "options": ["me", "himself", "who", "his"],
+          "correct_answer": 2,
+          "explanation": "'Who' is a relative pronoun used to introduce relative clauses."
+        },
+        {
+          "id": 8,
+          "question": "Complete: 'They gave the gift to _____.'",
+          "options": ["I", "me", "myself", "my"],
+          "correct_answer": 1,
+          "explanation": "After the preposition 'to', use the object pronoun 'me'."
+        },
+        {
+          "id": 9,
+          "question": "What pronoun replaces 'the students'?",
+          "options": ["it", "he", "they", "she"],
+          "correct_answer": 2,
+          "explanation": "'They' is the plural pronoun that replaces 'the students'."
+        },
+        {
+          "id": 10,
+          "question": "Which sentence is correct?",
+          "options": ["Her is a doctor.", "She is a doctor.", "Hers is a doctor.", "Him is a doctor."],
+          "correct_answer": 1,
+          "explanation": "'She' is the correct subject pronoun. Use it before the verb."
+        }
+      ],
+
+      "medium": [
+        {
+          "id": 11,
+          "question": "Choose the correct pronoun: 'Between you and _____, this is confidential.'",
+          "options": ["I", "me", "myself", "my"],
+          "correct_answer": 1,
+          "explanation": "After prepositions like 'between', use object pronouns: 'between you and me'."
+        },
+        {
+          "id": 12,
+          "question": "Which sentence correctly uses a reflexive pronoun?",
+          "options": ["She gave a present to herself.", "They did the work theirselves.", "I enjoyed ourselves.", "You must do it yourself."],
+          "correct_answer": 0,
+          "explanation": "In 'She gave a present to herself', the reflexive pronoun correctly refers back to the subject 'she'."
+        },
+        {
+          "id": 13,
+          "question": "Complete: 'The teacher, _____ is very experienced, helps all students.'",
+          "options": ["which", "whose", "who", "whom"],
+          "correct_answer": 2,
+          "explanation": "'Who' is the correct relative pronoun for the subject of the relative clause."
+        },
+        {
+          "id": 14,
+          "question": "What is the possessive form of 'they'?",
+          "options": ["theirs", "their", "them", "themselves"],
+          "correct_answer": 0,
+          "explanation": "'Theirs' is the possessive pronoun. 'Their' is a possessive determiner used before nouns."
+        },
+        {
+          "id": 15,
+          "question": "Choose the sentence with correct pronoun agreement:",
+          "options": ["Each student should do their best.", "Each student should do his best.", "Each student should do his or her best.", "All are acceptable."],
+          "correct_answer": 3,
+          "explanation": "All three are now acceptable in modern English. 'Their' as a singular pronoun is increasingly standard."
+        },
+        {
+          "id": 16,
+          "question": "Which pronoun is both a subject and object pronoun?",
+          "options": ["you", "she", "he", "it"],
+          "correct_answer": 0,
+          "explanation": "'You' has the same form for both subject and object: 'You are great' and 'I saw you'."
+        },
+        {
+          "id": 17,
+          "question": "Complete: 'The woman _____ called yesterday is my sister.'",
+          "options": ["which", "who", "whose", "whom"],
+          "correct_answer": 3,
+          "explanation": "Use 'whom' for the object of the verb 'called'. (Who/whom is traditionally whom for objects, though who is becoming acceptable in informal speech.)"
+        },
+        {
+          "id": 18,
+          "question": "Which sentence is correct?",
+          "options": ["The project is hers.", "The project is hers'.", "The project is her's.", "The project belongs to hers."],
+          "correct_answer": 0,
+          "explanation": "Possessive pronouns like 'hers' don't need apostrophes."
+        },
+        {
+          "id": 19,
+          "question": "Choose the correct pronoun: 'My sister and _____ went to the concert.'",
+          "options": ["me", "I", "myself", "my"],
+          "correct_answer": 1,
+          "explanation": "As part of the subject, use 'I': 'My sister and I went...'"
+        },
+        {
+          "id": 20,
+          "question": "What is the objective relative pronoun for 'the book'?",
+          "options": ["which", "that", "what", "both A and B"],
+          "correct_answer": 3,
+          "explanation": "Both 'which' and 'that' can be used as objective relative pronouns: 'the book which/that I read'."
+        }
+      ],
+
+      "hard": [
+        {
+          "id": 21,
+          "question": "Choose the most grammatically correct sentence:",
+          "options": [
+            "It is I who am responsible.",
+            "It is me who is responsible.",
+            "It is me who am responsible.",
+            "It is I who is responsible."
+          ],
+          "correct_answer": 0,
+          "explanation": "After 'is', use the subject pronoun 'I', and agree with 'I' (am). Formally correct: 'It is I who am responsible'."
+        },
+        {
+          "id": 22,
+          "question": "Which use of 'that' as a relative pronoun is correct?",
+          "options": [
+            "The person that I spoke to is kind.",
+            "The house that I bought is expensive.",
+            "The time that we met was special.",
+            "All of the above."
+          ],
+          "correct_answer": 3,
+          "explanation": "'That' can be used for all types of antecedents (person, object, time, place) in modern English."
+        },
+        {
+          "id": 23,
+          "question": "Complete grammatically: 'Everyone should do _____ best.'",
+          "options": [
+            "his",
+            "her",
+            "their",
+            "his or her"
+          ],
+          "correct_answer": 2,
+          "explanation": "Modern usage accepts 'their' as a singular pronoun for inclusive gender reference."
+        },
+        {
+          "id": 24,
+          "question": "Which sentence uses the pronoun correctly in a prepositional phrase?",
+          "options": [
+            "This is a secret between you and I.",
+            "This is a secret between you and me.",
+            "This is a secret between me and you.",
+            "B and C are both correct."
+          ],
+          "correct_answer": 3,
+          "explanation": "Both B and C use the correct object pronoun 'me' after the preposition 'between'."
+        },
+        {
+          "id": 25,
+          "question": "What is the antecedent in: 'The students who studied hard passed the exam'?",
+          "options": [
+            "who",
+            "studied",
+            "The students",
+            "the exam"
+          ],
+          "correct_answer": 2,
+          "explanation": "The antecedent is the noun that the pronoun refers to. 'Who' refers to 'The students'."
+        },
+        {
+          "id": 26,
+          "question": "Choose the correct form: 'She is smarter than _____.'",
+          "options": [
+            "me",
+            "I",
+            "I am",
+            "A and C are both acceptable."
+          ],
+          "correct_answer": 3,
+          "explanation": "Both 'me' (informal) and 'I am' (formal) are acceptable. The full form 'I am' is technically more correct."
+        },
+        {
+          "id": 27,
+          "question": "Which sentence correctly uses a compound relative pronoun?",
+          "options": [
+            "I don't know whoever did this.",
+            "I know whoever did this is guilty.",
+            "I will give it to whomever wants it.",
+            "All of the above."
+          ],
+          "correct_answer": 3,
+          "explanation": "All use compound relative pronouns (whoever, whomever) correctly."
+        },
+        {
+          "id": 28,
+          "question": "What is the correct pronoun agreement? 'Neither John nor Sarah did _____ homework.'",
+          "options": [
+            "their",
+            "his",
+            "her",
+            "his or her"
+          ],
+          "correct_answer": 0,
+          "explanation": "With 'neither...nor', use a plural pronoun when the subjects are separate. 'Their' is now standard."
+        },
+        {
+          "id": 29,
+          "question": "Which demonstrates correct intensive (emphatic) reflexive pronoun use?",
+          "options": [
+            "The president herself attended the event.",
+            "Myself and the team will handle it.",
+            "You yourself can do this.",
+            "A and C are correct."
+          ],
+          "correct_answer": 3,
+          "explanation": "A and C correctly use reflexive pronouns for emphasis. B is incorrect as 'myself' shouldn't be a subject."
+        },
+        {
+          "id": 30,
+          "question": "Choose the grammatically correct response: 'Who is there?' '_____.'",
+          "options": [
+            "It's me.",
+            "It's I.",
+            "Both are now acceptable.",
+            "Neither is correct."
+          ],
+          "correct_answer": 2,
+          "explanation": "Though 'It's I' is technically correct, 'It's me' is so widely used that both are now accepted."
+        }
+      ]
+    },
+
+    "fill_in_blank": {
+      "easy": [
+        {
+          "id": 1,
+          "question": "Sarah is a teacher. _____ teaches English.",
+          "expected_answer": "She",
+          "explanation": "The pronoun 'she' replaces 'Sarah' and is the subject of 'teaches'."
+        },
+        {
+          "id": 2,
+          "question": "I saw a movie yesterday. _____ was very interesting.",
+          "expected_answer": "It",
+          "explanation": "'It' is the singular pronoun for 'a movie'."
+        },
+        {
+          "id": 3,
+          "question": "Tom and I are friends. _____ go to school together.",
+          "expected_answer": "We",
+          "explanation": "'We' combines 'I' and 'Tom' as a plural subject."
+        },
+        {
+          "id": 4,
+          "question": "This is my book. It is _____.",
+          "expected_answer": "mine",
+          "explanation": "'Mine' is the possessive pronoun showing the book belongs to 'me'."
+        },
+        {
+          "id": 5,
+          "question": "She gave the letter to _____.",
+          "expected_answer": "me/him/her/us/them (depending on context)",
+          "explanation": "Use an object pronoun after the preposition 'to'."
+        },
+        {
+          "id": 6,
+          "question": "The dog hurt _____.",
+          "expected_answer": "itself",
+          "explanation": "'Itself' is the reflexive pronoun when the dog is both subject and object."
+        },
+        {
+          "id": 7,
+          "question": "They are going to the party. Are _____ inviting us?",
+          "expected_answer": "they",
+          "explanation": "'They' refers to the people mentioned in the first sentence."
+        },
+        {
+          "id": 8,
+          "question": "This is John's pen. It belongs to _____.",
+          "expected_answer": "him",
+          "explanation": "'Him' is the object pronoun referring to John."
+        },
+        {
+          "id": 9,
+          "question": "The students passed the test. _____ studied hard.",
+          "expected_answer": "They",
+          "explanation": "'They' is the plural pronoun for 'the students'."
+        },
+        {
+          "id": 10,
+          "question": "I love ice cream. _____ is my favorite dessert.",
+          "expected_answer": "It",
+          "explanation": "'It' is the singular pronoun for 'ice cream'."
+        }
+      ],
+
+      "medium": [
+        {
+          "id": 11,
+          "question": "The teacher, _____ is very strict, gives lots of homework.",
+          "expected_answer": "who",
+          "explanation": "'Who' is the relative pronoun connecting the description to 'teacher'."
+        },
+        {
+          "id": 12,
+          "question": "Between you and _____, I think the plan is too risky.",
+          "expected_answer": "me",
+          "explanation": "Use object pronoun 'me' after the preposition 'between'."
+        },
+        {
+          "id": 13,
+          "question": "The woman _____ we met yesterday is a doctor.",
+          "expected_answer": "who/that/whom",
+          "explanation": "The relative pronoun refers to 'woman'. 'Whom' is technically correct for the object, but 'who' and 'that' are widely accepted."
+        },
+        {
+          "id": 14,
+          "question": "This phone is _____ mine. It's _____ yours.",
+          "expected_answer": "not / is",
+          "explanation": "Note: This tests possessive pronouns: 'This phone is not mine. It is yours.'"
+        },
+        {
+          "id": 15,
+          "question": "She did the project by _____.",
+          "expected_answer": "herself",
+          "explanation": "'Herself' is the reflexive pronoun showing she did it alone."
+        },
+        {
+          "id": 16,
+          "question": "There are many books here. _____ are English textbooks.",
+          "expected_answer": "They",
+          "explanation": "'They' refers to the books mentioned."
+        },
+        {
+          "id": 17,
+          "question": "The player, _____ is very talented, won the award.",
+          "expected_answer": "who",
+          "explanation": "'Who' introduces the relative clause describing the player."
+        },
+        {
+          "id": 18,
+          "question": "We need to decide among _____.",
+          "expected_answer": "ourselves",
+          "explanation": "'Ourselves' is the reflexive pronoun for 'we'."
+        },
+        {
+          "id": 19,
+          "question": "Each student has _____ own notebook.",
+          "expected_answer": "his/her/their",
+          "explanation": "Use possessive pronoun before 'own'. 'Their' is increasingly acceptable for singular."
+        },
+        {
+          "id": 20,
+          "question": "The company is _____ responsibility now.",
+          "expected_answer": "our",
+          "explanation": "Use 'our' (possessive determiner) before the noun 'responsibility'."
+        }
+      ],
+
+      "hard": [
+        {
+          "id": 21,
+          "question": "The students _____ passed the exam had studied extensively.",
+          "expected_answer": "who",
+          "explanation": "'Who' is the relative pronoun for 'students' as the subject of 'passed'."
+        },
+        {
+          "id": 22,
+          "question": "She is the person _____ experience is invaluable.",
+          "expected_answer": "whose",
+          "explanation": "'Whose' is the possessive relative pronoun."
+        },
+        {
+          "id": 23,
+          "question": "Neither of the options appealed to _____.",
+          "expected_answer": "me/him/her/us/them",
+          "explanation": "Use object pronoun after 'to'."
+        },
+        {
+          "id": 24,
+          "question": "It was _____ who finished the project first.",
+          "expected_answer": "she/he/I (subject pronoun)",
+          "explanation": "After 'was' in cleft sentences, use subject pronouns."
+        },
+        {
+          "id": 25,
+          "question": "The data _____ we collected revealed interesting patterns.",
+          "expected_answer": "that/which",
+          "explanation": "'That' or 'which' serve as the object of 'collected'."
+        },
+        {
+          "id": 26,
+          "question": "Everyone in the group, including _____, must contribute.",
+          "expected_answer": "me",
+          "explanation": "Use object pronoun 'me' after the preposition 'including'."
+        },
+        {
+          "id": 27,
+          "question": "The committee elected _____ as the president.",
+          "expected_answer": "him/her/me/us",
+          "explanation": "Use object pronoun as the object of 'elected'."
+        },
+        {
+          "id": 28,
+          "question": "The theory _____ he proposed is revolutionary.",
+          "expected_answer": "that/which",
+          "explanation": "The relative pronoun is the object of 'proposed'."
+        },
+        {
+          "id": 29,
+          "question": "_____ studies hard will definitely succeed.",
+          "expected_answer": "Whoever",
+          "explanation": "'Whoever' is the compound relative pronoun serving as the subject."
+        },
+        {
+          "id": 30,
+          "question": "The manager gave the bonus to _____ deserved it most.",
+          "expected_answer": "whoever",
+          "explanation": "'Whoever' is the object of 'to' and subject of 'deserved'."
+        }
+      ]
+    },
+
+    "reading_comprehension": [
+      {
+        "id": 1,
+        "title": "The New Student",
+        "passage": "Jamie is a new student at Oak Hill High School. She moved here from another city last month. Everyone was curious about her because she was different from the other students. Her accent was unique, and she dressed in an interesting style. The other students were skeptical at first. However, Jamie was friendly and kind, so they soon accepted her. She joined the soccer team and made many friends. They invited her to parties and outings. Now, Jamie is one of the most popular students. She is grateful for their kindness and friendship.",
+        "difficulty": "easy",
+        "questions": [
+          {
+            "id": 1,
+            "question": "What pronoun replaces 'Jamie'?",
+            "options": ["She", "He", "They", "Her"],
+            "correct_answer": 0
+          },
+          {
+            "id": 2,
+            "question": "What does 'her' refer to in 'Her accent was unique'?",
+            "options": ["Another city", "Jamie", "The other students", "The school"],
+            "correct_answer": 1
+          },
+          {
+            "id": 3,
+            "question": "Who does 'They' refer to in 'They invited her to parties'?",
+            "options": ["Jamie and the students", "The other students", "The soccer team", "Jamie's family"],
+            "correct_answer": 2
+          },
+          {
+            "id": 4,
+            "question": "What does 'their' refer to in 'She is grateful for their kindness'?",
+            "options": ["Jamie's", "The students'", "The school's", "The soccer team's"],
+            "correct_answer": 1
+          },
+          {
+            "id": 5,
+            "question": "Which pronoun best completes: 'Jamie made friends, and _____ accepted her'?",
+            "options": ["he", "she", "they", "it"],
+            "correct_answer": 2
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "The Weekend Adventure",
+        "passage": "Last weekend, my sister and I decided to go hiking. We packed our bags and headed to the mountain. The weather was perfect, and the scenery was breathtaking. We met some other hikers on the trail who gave us advice. They told us about a shortcut that would save us time. My sister followed their directions, and I trusted her navigation skills. She led us along the new path, which was more challenging but rewarding. We reached the summit and enjoyed the view together. It was one of the best experiences we had shared.",
+        "difficulty": "medium",
+        "questions": [
+          {
+            "id": 1,
+            "question": "Who does 'we' refer to in the first sentence?",
+            "options": ["My sister and I", "My sister and them", "The hikers and I", "My sister and the other hikers"],
+            "correct_answer": 0
+          },
+          {
+            "id": 2,
+            "question": "What does 'their' refer to in 'They told us about their directions'?",
+            "options": ["My sister's", "The hikers'", "The mountain's", "My"],
+            "correct_answer": 1
+          },
+          {
+            "id": 3,
+            "question": "In 'I trusted her navigation skills,' who is 'her'?",
+            "options": ["A hiker", "My sister", "The mountain", "The weather"],
+            "correct_answer": 1
+          },
+          {
+            "id": 4,
+            "question": "What does 'which' refer to in 'She led us along the new path, which was more challenging'?",
+            "options": ["The mountain", "The scenery", "The new path", "The shortcut"],
+            "correct_answer": 2
+          },
+          {
+            "id": 5,
+            "question": "The pronoun 'we' at the end refers to:",
+            "options": ["Just me", "Just my sister", "My sister and I", "The hikers"],
+            "correct_answer": 2
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "The Lost Keys",
+        "passage": "Tom and Lisa have been roommates for two years. Recently, Tom lost his keys, and he couldn't find them anywhere. Lisa, who is very helpful, decided to assist him. She suggested that they search the entire apartment together. Tom remembered that he had used them that morning, but he couldn't recall where he left them. After an hour of searching, Lisa found them in the kitchen drawer. She felt happy about helping him solve the problem. Tom was grateful for her assistance. Later that week, Tom lost his wallet too. This time, he searched for it himself because he didn't want to bother her again.",
+        "difficulty": "hard",
+        "questions": [
+          {
+            "id": 1,
+            "question": "In the phrase 'he had used them that morning,' what does 'them' refer to?",
+            "options": ["His wallet", "His keys", "The apartment", "Two years"],
+            "correct_answer": 1
+          },
+          {
+            "id": 2,
+            "question": "The relative pronoun 'who' in 'Lisa, who is very helpful' refers to:",
+            "options": ["Tom", "Lisa", "The keys", "The apartment"],
+            "correct_answer": 1
+          },
+          {
+            "id": 3,
+            "question": "What does 'her' refer to in 'he didn't want to bother her again'?",
+            "options": ["His mother", "Lisa", "Tom's sister", "The roommate's friend"],
+            "correct_answer": 1
+          },
+          {
+            "id": 4,
+            "question": "In 'they search the entire apartment together,' 'they' refers to:",
+            "options": ["Tom and Lisa", "Tom and his family", "Lisa and another friend", "Tom and the keys"],
+            "correct_answer": 0
+          },
+          {
+            "id": 5,
+            "question": "The pronoun 'it' in 'This time, he searched for it himself' refers to:",
+            "options": ["The apartment", "The keys", "His wallet", "Lisa"],
+            "correct_answer": 2
+          }
+        ]
+      }
+    ],
+
+    "writing_exercises": [
+      {
+        "difficulty": "easy",
+        "title": "Replace Nouns with Pronouns",
+        "instruction": "Rewrite the passage using appropriate pronouns to replace the repeated nouns and create a smoother text.",
+        "prompt": "Alex is a student at City High School. Alex is very intelligent. Alex's friends respect Alex because Alex always helps Alex's friends with homework. Alex's teacher appreciates Alex's hard work. Alex's parents are proud of Alex.",
+        "model_answer": "Alex is a student at City High School. He is very intelligent. His friends respect him because he always helps them with homework. His teacher appreciates his hard work. His parents are proud of him.",
+        "criteria": [
+          "Correct subject pronoun use",
+          "Correct object pronoun use",
+          "Appropriate possessive pronoun use",
+          "Natural flow and readability"
+        ]
+      },
+      {
+        "difficulty": "medium",
+        "title": "Correct Pronoun Errors",
+        "instruction": "Read the passage and correct all pronoun errors. Explain why each correction is necessary.",
+        "prompt": "The teacher gave the assignment to John and me. John and me studied it together. John understood the assignment better than me. Between you and I, I think he explained it to I very well. He did it theirselves because his friend, who I met yesterday, helped him.",
+        "model_answer": "The teacher gave the assignment to John and me. (CORRECT - object pronoun after preposition) John and I studied it together. (CORRECT - subject pronoun in compound subject) John understood the assignment better than I (or 'than me' informally). Between you and me, I think he explained it to me very well. (CORRECT - object pronouns after prepositions) He did it themselves because his friend, who I met yesterday, helped him. (CORRECT - reflexive pronoun form)",
+        "criteria": [
+          "Identifies all pronoun errors",
+          "Provides correct alternatives",
+          "Explains grammatical reasons",
+          "Uses appropriate formal/informal context"
+        ]
+      },
+      {
+        "difficulty": "hard",
+        "title": "Write Using Complex Pronoun Structures",
+        "instruction": "Write a paragraph using the following: subject pronouns, object pronouns, possessive pronouns, reflexive pronouns, and relative pronouns. Make it natural and grammatically correct.",
+        "prompt": "Write about a person you admire and explain why. Use at least 5 different types of pronouns correctly.",
+        "model_answer": "My grandfather is someone I truly admire. He has dedicated his entire life to helping others. When I face challenges, he encourages me to push myself beyond my limits. The wisdom he shares with me comes from years of experience, which I deeply respect. His friends, who know him well, also appreciate his generosity. Between you and me, I think everyone should have a mentor like him. I hope that someday, I can inspire others the way he has inspired me.",
+        "criteria": [
+          "Uses subject pronouns correctly",
+          "Uses object pronouns appropriately",
+          "Includes possessive pronouns or determiners",
+          "Uses at least one reflexive pronoun",
+          "Uses relative pronouns to connect ideas",
+          "Grammar and spelling are correct",
+          "Paragraph flows naturally"
+        ]
+      }
+    ],
+
+    "pronunciation_practice": [
+      {
+        "pronoun": "I",
+        "phonetic": "/aɪ/",
+        "example": "I am happy.",
+        "tips": "Sounds like the word 'eye'. Not 'uh' or 'ee'.",
+        "common_mistake": "Don't pronounce it like the letter 'A'."
+      },
+      {
+        "pronoun": "you",
+        "phonetic": "/juː/",
+        "example": "You are great.",
+        "tips": "Long 'oo' sound. Starts with a 'y' sound.",
+        "common_mistake": "Don't pronounce it like 'yuh'."
+      },
+      {
+        "pronoun": "he",
+        "phonetic": "/hi:/",
+        "example": "He is smart.",
+        "tips": "Long 'ee' sound at the end.",
+        "common_mistake": "Don't drop the final vowel sound."
+      },
+      {
+        "pronoun": "she",
+        "phonetic": "/ʃi:/",
+        "example": "She is kind.",
+        "tips": "Starts with 'sh' sound, ends with long 'ee'.",
+        "common_mistake": "Don't say 'shi' with a short 'i'."
+      },
+      {
+        "pronoun": "it",
+        "phonetic": "/ɪt/",
+        "example": "It is beautiful.",
+        "tips": "Short 'i' sound at the beginning.",
+        "common_mistake": "Don't pronounce like 'ut'."
+      },
+      {
+        "pronoun": "we",
+        "phonetic": "/wiː/",
+        "example": "We are friends.",
+        "tips": "Starts with 'w' sound, long 'ee' at the end.",
+        "common_mistake": "Don't say 'wuh'."
+      },
+      {
+        "pronoun": "they",
+        "phonetic": "/ðeɪ/",
+        "example": "They are here.",
+        "tips": "Starts with 'th' sound, rhymes with 'say'.",
+        "common_mistake": "Don't pronounce like 'da' or 'de'."
+      },
+      {
+        "pronoun": "me",
+        "phonetic": "/miː/",
+        "example": "Give it to me.",
+        "tips": "Long 'ee' sound, similar to 'we'.",
+        "common_mistake": "Don't make it sound like 'muh'."
+      },
+      {
+        "pronoun": "him",
+        "phonetic": "/hɪm/",
+        "example": "I saw him.",
+        "tips": "Short 'i' sound, ends with 'm'.",
+        "common_mistake": "Don't emphasize the 'h' too much."
+      },
+      {
+        "pronoun": "her",
+        "phonetic": "/hɜ:r/",
+        "example": "I gave her a gift.",
+        "tips": "'Er' sound, roll the 'r' slightly.",
+        "common_mistake": "Don't pronounce like 'har'."
+      }
+    ],
+
+    "sentence_building": {
+      "easy": [
+        {
+          "id": 1,
+          "scrambled": ["am", "I", "happy"],
+          "correct_order": "I am happy.",
+          "explanation": "'I' is the subject pronoun, 'am' is the verb, 'happy' is the adjective."
+        },
+        {
+          "id": 2,
+          "scrambled": ["is", "She", "teacher", "a"],
+          "correct_order": "She is a teacher.",
+          "explanation": "Subject + verb + article + noun."
+        },
+        {
+          "id": 3,
+          "scrambled": ["are", "They", "friends"],
+          "correct_order": "They are friends.",
+          "explanation": "Plural subject pronoun with plural verb."
+        },
+        {
+          "id": 4,
+          "scrambled": ["it", "saw", "I"],
+          "correct_order": "I saw it.",
+          "explanation": "Subject pronoun + verb + object pronoun."
+        },
+        {
+          "id": 5,
+          "scrambled": ["gave", "him", "She", "a", "book"],
+          "correct_order": "She gave him a book.",
+          "explanation": "Subject + verb + indirect object + direct object."
+        },
+        {
+          "id": 6,
+          "scrambled": ["is", "This", "mine"],
+          "correct_order": "This is mine.",
+          "explanation": "Subject + verb + possessive pronoun."
+        },
+        {
+          "id": 7,
+          "scrambled": ["do", "yourself", "it", "Do"],
+          "correct_order": "Do it yourself.",
+          "explanation": "Imperative sentence with reflexive pronoun for emphasis."
+        },
+        {
+          "id": 8,
+          "scrambled": ["themselves", "did", "They", "it"],
+          "correct_order": "They did it themselves.",
+          "explanation": "Sentence with reflexive pronoun showing independent action."
+        },
+        {
+          "id": 9,
+          "scrambled": ["are", "yours", "These", "books"],
+          "correct_order": "These books are yours.",
+          "explanation": "Subject + verb + possessive pronoun."
+        },
+        {
+          "id": 10,
+          "scrambled": ["them", "go", "Let", "with", "us"],
+          "correct_order": "Let them go with us.",
+          "explanation": "Verb + object pronoun + object pronoun + preposition + object pronoun."
+        }
+      ],
+
+      "medium": [
+        {
+          "id": 11,
+          "scrambled": ["called", "yesterday", "She", "me"],
+          "correct_order": "She called me yesterday.",
+          "explanation": "Simple past sentence with object pronouns and time expression."
+        },
+        {
+          "id": 12,
+          "scrambled": ["his", "are", "These", "books"],
+          "correct_order": "These are his books.",
+          "explanation": "Possessive determiner 'his' modifies the noun 'books'."
+        },
+        {
+          "id": 13,
+          "scrambled": ["gave", "to", "her", "I", "him"],
+          "correct_order": "I gave him to her.",
+          "explanation": "Subject + verb + indirect object + object."
+        },
+        {
+          "id": 14,
+          "scrambled": ["between", "secret", "a", "and", "It", "is", "me", "you"],
+          "correct_order": "It is a secret between you and me.",
+          "explanation": "Object pronouns are used after prepositions."
+        },
+        {
+          "id": 15,
+          "scrambled": ["helped", "They", "who", "us", "are", "friends"],
+          "correct_order": "They who helped us are friends.",
+          "explanation": "Relative clause with subject relative pronoun."
+        }
+      ],
+
+      "hard": [
+        {
+          "id": 16,
+          "scrambled": ["who", "The", "studies", "succeed", "whoever", "will", "hard"],
+          "correct_order": "Whoever studies hard will succeed.",
+          "explanation": "Compound relative pronoun as subject."
+        },
+        {
+          "id": 17,
+          "scrambled": ["to", "give", "will", "I", "it", "whom"],
+          "correct_order": "I will give it to whom.",
+          "explanation": "Objective relative/interrogative pronoun after preposition."
+        },
+        {
+          "id": 18,
+          "scrambled": ["herself", "by", "did", "She", "it", "entirely"],
+          "correct_order": "She did it entirely by herself.",
+          "explanation": "Reflexive pronoun for emphasis."
+        },
+        {
+          "id": 19,
+          "scrambled": ["whose", "is", "The", "book", "this"],
+          "correct_order": "Whose book is this?",
+          "explanation": "Possessive relative pronoun in interrogative sentence."
+        },
+        {
+          "id": 20,
+          "scrambled": ["than", "smarter", "is", "She", "I", "am"],
+          "correct_order": "She is smarter than I am.",
+          "explanation": "Subject pronoun in comparison clause."
+        }
+      ]
+    }
+  }
+}

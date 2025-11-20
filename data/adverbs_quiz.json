@@ -1,0 +1,358 @@
+{
+  "part_id": 5,
+  "name": "Adverb",
+  "total_questions": 95,
+
+  "mcq": {
+    "easy": [
+      {
+        "id": 1,
+        "question": "What does an adverb describe?",
+        "options": ["a noun", "a verb", "a sentence", "a word"],
+        "correct_answer": 1,
+        "explanation": "Adverbs modify or describe verbs, telling us how, when, where, or how often an action is performed."
+      },
+      {
+        "id": 2,
+        "question": "Which word is an adverb in: 'She ran quickly to the store.'?",
+        "options": ["She", "ran", "quickly", "store"],
+        "correct_answer": 2,
+        "explanation": "'Quickly' is an adverb describing HOW she ran. It modifies the verb 'ran'."
+      },
+      {
+        "id": 3,
+        "question": "How do you form most adverbs?",
+        "options": ["add -ed", "add -ing", "add -ly", "add -er"],
+        "correct_answer": 2,
+        "explanation": "Most adverbs are formed by adding '-ly' to the adjective: quick → quickly, happy → happily."
+      },
+      {
+        "id": 4,
+        "question": "Which sentence uses an adverb correctly?",
+        "options": ["He is a quick runner.", "He runs quick.", "He runs quickly.", "He is quickly."],
+        "correct_answer": 2,
+        "explanation": "'Runs quickly' is correct - the adverb modifies the action verb 'runs'."
+      },
+      {
+        "id": 5,
+        "question": "What type of adverb is 'yesterday'?",
+        "options": ["adverb of manner", "adverb of time", "adverb of place", "adverb of frequency"],
+        "correct_answer": 1,
+        "explanation": "'Yesterday' tells us WHEN something happened, so it's an adverb of time."
+      },
+      {
+        "id": 6,
+        "question": "Which word is an adverb of place?",
+        "options": ["quickly", "always", "here", "slowly"],
+        "correct_answer": 2,
+        "explanation": "'Here' tells us WHERE something is or happens. It's an adverb of place."
+      },
+      {
+        "id": 7,
+        "question": "Choose the sentence with correct adverb usage:",
+        "options": ["She feel happy.", "She feels happily.", "She feels happy.", "She is happily."],
+        "correct_answer": 2,
+        "explanation": "After linking verb 'feels', use adjective 'happy', not adverb 'happily'."
+      },
+      {
+        "id": 8,
+        "question": "Which is an adverb of frequency?",
+        "options": ["tomorrow", "outside", "carefully", "always"],
+        "correct_answer": 3,
+        "explanation": "'Always' tells us HOW OFTEN something happens. It's an adverb of frequency."
+      },
+      {
+        "id": 9,
+        "question": "What does the adverb 'beautifully' describe?",
+        "options": ["a noun", "how an action is done", "a person", "a time"],
+        "correct_answer": 1,
+        "explanation": "'Beautifully' describes HOW an action is performed. It modifies a verb."
+      },
+      {
+        "id": 10,
+        "question": "Which word is NOT an adverb?",
+        "options": ["quickly", "often", "beautiful", "there"],
+        "correct_answer": 2,
+        "explanation": "'Beautiful' is an adjective. The adverb form is 'beautifully'."
+      }
+    ],
+
+    "medium": [
+      {
+        "id": 11,
+        "question": "Where should the adverb go? 'She finished her homework ____.'",
+        "options": ["Quickly she finished", "She quickly finished", "She finished quickly", "Quickly finished she"],
+        "correct_answer": 2,
+        "explanation": "Adverbs of manner can come at the end of a sentence after the verb and object."
+      },
+      {
+        "id": 12,
+        "question": "Choose the correct sentence:",
+        "options": ["He speaks clear and confident.", "He speaks clearly and confidently.", "He speaks clear confidently.", "He clearly and confident speaks."],
+        "correct_answer": 1,
+        "explanation": "After action verb 'speaks', use adverbs: 'clearly' and 'confidently'."
+      },
+      {
+        "id": 13,
+        "question": "What is the error? 'I rarely never see him.'",
+        "options": ["should be 'rarely'", "should be 'never'", "shouldn't use both 'rarely' and 'never'", "no error"],
+        "correct_answer": 2,
+        "explanation": "Don't use double negatives. Choose either 'rarely' or 'never', not both."
+      },
+      {
+        "id": 14,
+        "question": "Which word is an adverb that doesn't end in '-ly'?",
+        "options": ["happily", "slowly", "fast", "carefully"],
+        "correct_answer": 2,
+        "explanation": "'Fast' is both an adjective and an adverb but doesn't end in '-ly'. Examples: fast, hard, well, early, late."
+      },
+      {
+        "id": 15,
+        "question": "Choose the grammatically correct sentence:",
+        "options": ["She works hardly on this project.", "She works hard on this project.", "She hardly works on this project.", "She is hardly working on project."],
+        "correct_answer": 1,
+        "explanation": "'Hard' means 'with effort'. 'Hardly' means 'almost not'. Here 'hard' is needed."
+      },
+      {
+        "id": 16,
+        "question": "Where does the frequency adverb usually go?",
+        "options": ["at the beginning", "after the subject before the verb", "at the end", "anywhere in the sentence"],
+        "correct_answer": 1,
+        "explanation": "Frequency adverbs typically come before the main verb: 'I usually go', 'She often visits'."
+      },
+      {
+        "id": 17,
+        "question": "What is wrong? 'A quick runner passed me.'",
+        "options": ["'quick' should be 'quickly'", "nothing is wrong", "'runner' should be 'runs'", "'passed' should be 'passing'"],
+        "correct_answer": 1,
+        "explanation": "In this sentence, 'quick' correctly describes the noun 'runner'. Adjectives modify nouns."
+      },
+      {
+        "id": 18,
+        "question": "Which sentence is correct?",
+        "options": ["He is speaking slowly and clear.", "He is speaking slowly and clearly.", "He slowly clearly is speaking.", "He clear speaking slowly is."],
+        "correct_answer": 1,
+        "explanation": "Both adverbs must be in adverb form: 'slowly' and 'clearly'."
+      },
+      {
+        "id": 19,
+        "question": "What type of adverb is 'inside'?",
+        "options": ["adverb of manner", "adverb of time", "adverb of place", "adverb of frequency"],
+        "correct_answer": 2,
+        "explanation": "'Inside' tells us WHERE something is. It's an adverb of place."
+      },
+      {
+        "id": 20,
+        "question": "Which sentence has correct adverb placement?",
+        "options": ["I yesterday went to the park.", "I went yesterday to the park.", "I went to the park yesterday.", "Yesterday to the park I went."],
+        "correct_answer": 2,
+        "explanation": "Adverbs of time can come at the end: 'I went to the park yesterday.'"
+      }
+    ],
+
+    "hard": [
+      {
+        "id": 21,
+        "question": "Which correctly modifies another adverb?",
+        "options": ["She runs very quick.", "She runs very quickly.", "She quick runs very.", "She very is quick."],
+        "correct_answer": 1,
+        "explanation": "'Very' (adverb) modifies 'quickly' (adverb). Adverbs can modify other adverbs."
+      },
+      {
+        "id": 22,
+        "question": "What is the most natural placement for emphasis? 'He answered ____.'",
+        "options": ["He answered thoughtfully the question.", "He thoughtfully answered the question.", "He answered the question thoughtfully.", "Thoughtfully he answered the question."],
+        "correct_answer": 2,
+        "explanation": "End placement for manner adverbs is natural; beginning placement adds emphasis."
+      },
+      {
+        "id": 23,
+        "question": "Identify the error: 'She performs beautifully and perfect.'",
+        "options": ["'beautifully' should be 'beautiful'", "'performs' should be 'is'", "'perfect' should be 'perfectly'", "no error"],
+        "correct_answer": 2,
+        "explanation": "Both words must be adverbs: 'beautifully and perfectly'. They modify the verb 'performs'."
+      },
+      {
+        "id": 24,
+        "question": "What is the difference between 'hard' and 'hardly'?",
+        "options": ["no difference", "'hard' = with effort; 'hardly' = almost not", "'hardly' = with effort; 'hard' = almost not", "they're different parts of speech"],
+        "correct_answer": 1,
+        "explanation": "'Hard' means to work with effort. 'Hardly' means almost not at all."
+      },
+      {
+        "id": 25,
+        "question": "Which sentence correctly uses multiple adverbs?",
+        "options": ["She often goes there very happily.", "She very often goes there happily.", "She goes there often very happily.", "Often she very happily goes there."],
+        "correct_answer": 0,
+        "explanation": "Frequency adverb (often) comes first, then place (there), then manner modifier (very happily)."
+      },
+      {
+        "id": 26,
+        "question": "What is wrong? 'He is working hardly on the project.'",
+        "options": ["should be 'hard'", "should be 'hardly'", "'is' should be 'seems'", "word order is wrong"],
+        "correct_answer": 0,
+        "explanation": "'Hard' means 'with effort', which fits the meaning. 'Hardly' means 'almost not'."
+      },
+      {
+        "id": 27,
+        "question": "Which uses an adverb correctly with a linking verb?",
+        "options": ["The music sounds beautifully.", "The music sounds beautiful.", "The music is sounding beautifully.", "Beautifully the music sounds."],
+        "correct_answer": 1,
+        "explanation": "After linking verb 'sounds', use adjective 'beautiful'. The linking verb describes quality, not action."
+      },
+      {
+        "id": 28,
+        "question": "Identify all the adverbs: 'She recently moved to the city and now works there.'",
+        "options": ["recently, now", "recently, to, now", "recently, now, there", "she, recently, now"],
+        "correct_answer": 2,
+        "explanation": "'Recently' (time) and 'now' (time) describe when. 'There' (place) describes where."
+      },
+      {
+        "id": 29,
+        "question": "What degree of modification does 'very' provide?",
+        "options": ["it negates", "it intensifies", "it comparesComparison", "it changes tense"],
+        "correct_answer": 1,
+        "explanation": "'Very' intensifies an adjective or adverb: 'very beautiful', 'very quickly'."
+      },
+      {
+        "id": 30,
+        "question": "Which arrangement creates the most natural sentence?",
+        "options": ["She plays beautifully and skillfully the piano.", "She beautifully and skillfully plays the piano.", "She plays the piano beautifully and skillfully.", "Beautifully and skillfully she plays the piano."],
+        "correct_answer": 2,
+        "explanation": "Manner adverbs at sentence end is most natural and clear."
+      }
+    ]
+  },
+
+  "fill_in_blank": [
+    {
+      "id": 1,
+      "question": "She spoke _____ during the presentation.",
+      "correct_answer": "clearly",
+      "explanation": "'Clearly' is an adverb of manner describing how she spoke."
+    },
+    {
+      "id": 2,
+      "question": "I _____ go to the gym on weekdays.",
+      "correct_answer": "usually",
+      "explanation": "'Usually' is an adverb of frequency showing how often."
+    },
+    {
+      "id": 3,
+      "question": "He _____ forgot his keys.",
+      "correct_answer": "never",
+      "explanation": "'Never' is an adverb of frequency meaning not at any time."
+    },
+    {
+      "id": 4,
+      "question": "We'll meet _____ in the library.",
+      "correct_answer": "tomorrow",
+      "explanation": "'Tomorrow' is an adverb of time indicating when."
+    },
+    {
+      "id": 5,
+      "question": "The children played _____ in the playground.",
+      "correct_answer": "happily",
+      "explanation": "'Happily' is an adverb of manner describing how they played."
+    },
+    {
+      "id": 6,
+      "question": "She finished her work _____ .",
+      "correct_answer": "quickly",
+      "explanation": "'Quickly' is an adverb of manner describing how fast she finished."
+    },
+    {
+      "id": 7,
+      "question": "Wait _____ for the signal before moving.",
+      "correct_answer": "patiently",
+      "explanation": "'Patiently' is an adverb of manner describing how to wait."
+    },
+    {
+      "id": 8,
+      "question": "I _____ see him at the office.",
+      "correct_answer": "often",
+      "explanation": "'Often' is an adverb of frequency showing how regularly."
+    },
+    {
+      "id": 9,
+      "question": "They traveled _____ to explore new places.",
+      "correct_answer": "widely",
+      "explanation": "'Widely' is an adverb of manner describing the extent of travel."
+    },
+    {
+      "id": 10,
+      "question": "The music played _____ in the concert hall.",
+      "correct_answer": "beautifully",
+      "explanation": "'Beautifully' is an adverb of manner describing how the music sounded."
+    }
+  ],
+
+  "reading_comprehension": [
+    {
+      "id": 1,
+      "title": "A Day at the Beach",
+      "difficulty": "easy",
+      "passage": "Last Saturday, we went to the beach. The weather was perfect. We walked slowly along the shore. The children played happily in the sand. I swam carefully in the ocean. We stayed there until sunset. The evening was beautiful. We often visit this beach. I rarely get bored there. Tomorrow we will go again.",
+      "questions": [
+        {
+          "question": "When did they go to the beach?",
+          "options": ["Today", "Last Saturday", "Tomorrow", "Yesterday"],
+          "correct_answer": 1
+        },
+        {
+          "question": "How did the children play?",
+          "options": ["quietly", "happily", "carefully", "slowly"],
+          "correct_answer": 1
+        },
+        {
+          "question": "How often do they visit this beach?",
+          "options": ["rarely", "sometimes", "often", "never"],
+          "correct_answer": 2
+        },
+        {
+          "question": "How did the speaker swim?",
+          "options": ["quickly", "carefully", "fearfully", "happily"],
+          "correct_answer": 1
+        },
+        {
+          "question": "When will they go again?",
+          "options": ["Today", "Last Saturday", "Tomorrow", "Next week"],
+          "correct_answer": 2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The Talented Musician",
+      "difficulty": "medium",
+      "passage": "Sarah has been playing the piano since childhood. She practices diligently every day. Her performances are consistently excellent. Recently, she won a prestigious international competition. The judges praised her playing enthusiastically. She interprets classical music beautifully. Her technique is nearly flawless. She occasionally performs contemporary pieces. The audience always responds positively to her concerts. She has carefully maintained her passion for music throughout her career.",
+      "questions": [
+        {
+          "question": "How does Sarah practice?",
+          "options": ["rarely", "sometimes", "diligently", "poorly"],
+          "correct_answer": 2
+        },
+        {
+          "question": "When did she win the competition?",
+          "options": ["in childhood", "recently", "years ago", "never"],
+          "correct_answer": 1
+        },
+        {
+          "question": "How does the audience respond?",
+          "options": ["negatively", "positively", "indifferently", "rarely"],
+          "correct_answer": 1
+        },
+        {
+          "question": "How does she interpret classical music?",
+          "options": ["poorly", "quickly", "beautifully", "reluctantly"],
+          "correct_answer": 2
+        },
+        {
+          "question": "What type of pieces does she occasionally perform?",
+          "options": ["classical only", "contemporary pieces", "pop music", "folk songs"],
+          "correct_answer": 1
+        }
+      ]
+    }
+  ]
+}

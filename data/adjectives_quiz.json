@@ -1,0 +1,543 @@
+{
+  "part_id": 4,
+  "name": "Adjective",
+  "total_questions": 125,
+
+  "mcq": {
+    "easy": [
+      {
+        "id": 1,
+        "question": "Which word is an adjective in this sentence: 'The blue car is parked outside.'?",
+        "options": ["blue", "car", "parked", "outside"],
+        "correct_answer": 0,
+        "explanation": "'Blue' is an adjective describing the noun 'car'. It tells us what color the car is."
+      },
+      {
+        "id": 2,
+        "question": "What do adjectives do?",
+        "options": ["describe nouns", "show action", "show time", "replace nouns"],
+        "correct_answer": 0,
+        "explanation": "Adjectives are words that describe or modify nouns, adding information about their qualities."
+      },
+      {
+        "id": 3,
+        "question": "Which sentence uses an adjective correctly?",
+        "options": ["She runs quickly.", "The house is big.", "He eats fast.", "I work hard."],
+        "correct_answer": 1,
+        "explanation": "'Big' is an adjective describing the noun 'house'. It comes after the linking verb 'is'."
+      },
+      {
+        "id": 4,
+        "question": "Choose the correct adjective order: 'I have a _____ car.'",
+        "options": ["red big", "big red", "red of big", "big of red"],
+        "correct_answer": 1,
+        "explanation": "Size comes before color. The correct order is 'big red car'."
+      },
+      {
+        "id": 5,
+        "question": "Which is a quantitative adjective?",
+        "options": ["beautiful", "many", "happy", "tall"],
+        "correct_answer": 1,
+        "explanation": "'Many' shows quantity or amount. It answers 'how many?'"
+      },
+      {
+        "id": 6,
+        "question": "What is the possessive adjective in: 'My sister is smart.'?",
+        "options": ["sister", "is", "smart", "my"],
+        "correct_answer": 3,
+        "explanation": "'My' shows possession - it indicates the sister belongs to the speaker."
+      },
+      {
+        "id": 7,
+        "question": "Which demonstrative adjective is used for something close?",
+        "options": ["that", "those", "this", "them"],
+        "correct_answer": 2,
+        "explanation": "'This' and 'these' are used for things that are close. 'That' and 'those' are for distant things."
+      },
+      {
+        "id": 8,
+        "question": "Choose the correct sentence:",
+        "options": ["The weather is nicely.", "The weather is nice.", "The nicely weather is.", "The nice is weather."],
+        "correct_answer": 1,
+        "explanation": "After linking verb 'is', we use an adjective (nice), not an adverb (nicely)."
+      },
+      {
+        "id": 9,
+        "question": "Which word can be an adjective?",
+        "options": ["run", "quickly", "green", "eat"],
+        "correct_answer": 2,
+        "explanation": "'Green' is an adjective that can describe nouns like 'green apple', 'green tree'."
+      },
+      {
+        "id": 10,
+        "question": "What does a descriptive adjective do?",
+        "options": ["shows quantity", "points to something", "describes quality", "shows possession"],
+        "correct_answer": 2,
+        "explanation": "Descriptive adjectives describe the qualities or characteristics of nouns (big, small, beautiful, ugly)."
+      }
+    ],
+
+    "medium": [
+      {
+        "id": 11,
+        "question": "Which sentence has the adjectives in the correct order?",
+        "options": ["a beautiful big old house", "a big beautiful old house", "an old big beautiful house", "a house big beautiful old"],
+        "correct_answer": 1,
+        "explanation": "Opinion/quality adjectives (beautiful) come before size (big), which comes before age (old)."
+      },
+      {
+        "id": 12,
+        "question": "Choose the correct comparative form: 'This shirt is _____ than that one.'",
+        "options": ["most colorful", "more colorful", "colorfuler", "the colorful"],
+        "correct_answer": 1,
+        "explanation": "For longer adjectives (more than 2 syllables), use 'more' + adjective: 'more colorful'."
+      },
+      {
+        "id": 13,
+        "question": "Which is the correct superlative form?",
+        "options": ["the most beautiful", "the more beautiful", "the beautifulest", "most beautiful of"],
+        "correct_answer": 0,
+        "explanation": "The superlative form uses 'the most' with longer adjectives: 'the most beautiful'."
+      },
+      {
+        "id": 14,
+        "question": "Fix the error: 'She is more taller than her brother.'",
+        "options": ["She is the tallest.", "She is taller than her brother.", "She is more tall than her brother.", "She is very taller."],
+        "correct_answer": 1,
+        "explanation": "Don't use both 'more' and '-er' together. Use either 'taller' or 'more tall', not both."
+      },
+      {
+        "id": 15,
+        "question": "Which sentence is correct?",
+        "options": ["That book is the more interesting.", "That book is the most interesting.", "That book is more interesting.", "That book is very the interesting."],
+        "correct_answer": 1,
+        "explanation": "Use 'the most' (superlative) when comparing more than two books, not 'the more'."
+      },
+      {
+        "id": 16,
+        "question": "Choose the correct sentence:",
+        "options": ["The soup smells deliciously.", "The soup smells delicious.", "The deliciously soup smells.", "Smells the soup delicious."],
+        "correct_answer": 1,
+        "explanation": "After linking verb 'smells', use adjective 'delicious', not adverb 'deliciously'."
+      },
+      {
+        "id": 17,
+        "question": "Which adjective is INCORRECT in: 'I have some few apples.'?",
+        "options": ["have", "some", "few", "apples"],
+        "correct_answer": 2,
+        "explanation": "Don't use both 'some' and 'few' together. Use either 'some apples' or 'few apples'."
+      },
+      {
+        "id": 18,
+        "question": "What is the comparative form of 'good'?",
+        "options": ["more good", "gooder", "better", "the best"],
+        "correct_answer": 2,
+        "explanation": "'Good' is irregular. Its comparative is 'better' and superlative is 'best'."
+      },
+      {
+        "id": 19,
+        "question": "Which sentence uses demonstrative adjectives correctly?",
+        "options": ["These books on that shelf over there.", "This books are interesting.", "Those book is mine.", "That apples is red."],
+        "correct_answer": 0,
+        "explanation": "'These' (plural) matches 'books' (plural) and 'that' (singular) matches 'shelf' (singular)."
+      },
+      {
+        "id": 20,
+        "question": "Identify the error: 'She felt badly about her mistake.'",
+        "options": ["felt is wrong", "badly should be bad", "about is wrong", "no error"],
+        "correct_answer": 1,
+        "explanation": "After linking verb 'felt', use adjective 'bad'. 'Badly' (adverb) describes how an action is performed."
+      }
+    ],
+
+    "hard": [
+      {
+        "id": 21,
+        "question": "Which demonstrates the correct use of stacked adjectives?",
+        "options": ["a soft thick woolen blanket", "a thick soft woolen blanket", "a woolen soft thick blanket", "a thick woolen soft blanket"],
+        "correct_answer": 1,
+        "explanation": "Order: Size/quality → physical quality → material. Soft and thick are both physical qualities; 'thick' (more permanent) comes before 'soft' (more temporary perception)."
+      },
+      {
+        "id": 22,
+        "question": "What is the superlative form of 'angry'?",
+        "options": ["more angry", "angrier", "the angriest", "most angry"],
+        "correct_answer": 2,
+        "explanation": "Short adjectives (1-2 syllables) form superlative with '-est': angry → angrier → angriest. Use 'the angriest'."
+      },
+      {
+        "id": 23,
+        "question": "Choose the grammatically correct sentence:",
+        "options": ["Of the two options, this is the most efficient.", "Of the two options, this is the more efficient.", "Of the two options, this is efficient.", "Of the two options, this is very efficient."],
+        "correct_answer": 1,
+        "explanation": "When comparing exactly TWO items, use comparative form 'more efficient', not superlative."
+      },
+      {
+        "id": 24,
+        "question": "Which use of 'less' is correct?",
+        "options": ["She is less intelligent than him.", "She is less more intelligent than him.", "She has less things.", "There are less people here."],
+        "correct_answer": 0,
+        "explanation": "'Less intelligent' is correct for uncountable quality. 'Fewer' (not 'less') is for countable nouns like 'things' and 'people'."
+      },
+      {
+        "id": 25,
+        "question": "What is the error? 'The more the bigger problems are difficult to solve.'",
+        "options": ["should use 'harder' not 'difficult'", "should remove 'the' before 'more'", "should say 'bigger' not 'more big'", "it's a double comparative - use 'The biggest problems are difficult'"],
+        "correct_answer": 3,
+        "explanation": "Don't use both 'more' and '-er' together (double comparative). Use either 'The more problems' or 'The bigger problems'."
+      },
+      {
+        "id": 26,
+        "question": "Choose the sentence where the adjective placement is correct:",
+        "options": ["I read a book interesting yesterday.", "Yesterday I read a book interesting.", "I read an interesting book yesterday.", "I read a book yesterday interesting."],
+        "correct_answer": 2,
+        "explanation": "In English, adjectives go immediately before the noun (interesting book), not after it."
+      },
+      {
+        "id": 27,
+        "question": "Which sentence has an error in adjective-noun agreement?",
+        "options": ["This book is interesting.", "These books are interesting.", "That student is diligent.", "Those students is diligent."],
+        "correct_answer": 3,
+        "explanation": "Demonstrative adjective 'those' (plural) requires plural verb 'are', not singular 'is'."
+      },
+      {
+        "id": 28,
+        "question": "What should replace the blank? 'Among all the students, Maria is _____ hardworking.'",
+        "options": ["the most", "more", "much", "very"],
+        "correct_answer": 0,
+        "explanation": "When comparing more than two (all students), use superlative 'the most'. The answer is 'the most hardworking'."
+      },
+      {
+        "id": 29,
+        "question": "Identify the correct use of absolute adjectives:",
+        "options": ["very unique", "quite perfect", "unique", "more complete"],
+        "correct_answer": 2,
+        "explanation": "Adjectives like 'unique', 'perfect', 'complete' are absolute and shouldn't be modified. Say 'unique', not 'very unique'."
+      },
+      {
+        "id": 30,
+        "question": "Which sentence correctly uses multiple adjectives with a linking verb?",
+        "options": ["The room seems large and bright.", "The large and bright room seems.", "The room seems large and brightly.", "Seems the room large and bright."],
+        "correct_answer": 0,
+        "explanation": "After linking verb 'seems', use adjectives (large, bright), not adverbs. Correct word order maintained."
+      }
+    ]
+  },
+
+  "fill_in_blank": {
+    "easy": [
+      {
+        "id": 1,
+        "question": "The _____ house is on the corner.",
+        "correct_answer": "red",
+        "explanation": "'Red' is a descriptive adjective that describes the color of the house."
+      },
+      {
+        "id": 2,
+        "question": "She has _____ apples for the pie.",
+        "correct_answer": "many",
+        "explanation": "'Many' is a quantitative adjective showing how many apples."
+      },
+      {
+        "id": 3,
+        "question": "_____ friends came to my birthday party.",
+        "correct_answer": "My",
+        "explanation": "'My' is a possessive adjective showing the friends belong to me."
+      },
+      {
+        "id": 4,
+        "question": "The soup is _____ and warm.",
+        "correct_answer": "delicious",
+        "explanation": "After linking verb 'is', use adjective 'delicious' to describe the soup."
+      },
+      {
+        "id": 5,
+        "question": "_____ book is very interesting.",
+        "correct_answer": "That",
+        "explanation": "'That' is a demonstrative adjective pointing to the specific book."
+      },
+      {
+        "id": 6,
+        "question": "The _____ dog is playing in the park.",
+        "correct_answer": "small",
+        "explanation": "'Small' is a descriptive adjective describing the size of the dog."
+      },
+      {
+        "id": 7,
+        "question": "I need _____ help with this project.",
+        "correct_answer": "some",
+        "explanation": "'Some' is a quantitative adjective showing an unspecified amount."
+      },
+      {
+        "id": 8,
+        "question": "_____ shoes are very comfortable.",
+        "correct_answer": "His",
+        "explanation": "'His' is a possessive adjective showing the shoes belong to him."
+      },
+      {
+        "id": 9,
+        "question": "The weather is _____ today.",
+        "correct_answer": "sunny",
+        "explanation": "'Sunny' is a descriptive adjective describing the weather after linking verb 'is'."
+      },
+      {
+        "id": 10,
+        "question": "_____ children are playing outside.",
+        "correct_answer": "Those",
+        "explanation": "'Those' is a demonstrative adjective pointing to children in the distance."
+      }
+    ],
+
+    "medium": [
+      {
+        "id": 11,
+        "question": "The _____ _____ coat is in the closet.",
+        "correct_answer": "old brown",
+        "explanation": "Opinion/quality first (old), then color (brown). Both adjectives precede the noun."
+      },
+      {
+        "id": 12,
+        "question": "She is _____ than her sister.",
+        "correct_answer": "taller",
+        "explanation": "Comparative form of 'tall' for comparing two people."
+      },
+      {
+        "id": 13,
+        "question": "That is the _____ movie I've ever seen.",
+        "correct_answer": "best",
+        "explanation": "Superlative form of 'good' to compare with all movies seen."
+      },
+      {
+        "id": 14,
+        "question": "The sound is _____ and _____ .",
+        "correct_answer": "loud clear",
+        "explanation": "Two adjectives after linking verb 'is' should both be adjectives, not adverbs."
+      },
+      {
+        "id": 15,
+        "question": "I have _____ books but I want more.",
+        "correct_answer": "few",
+        "explanation": "'Few' is a quantitative adjective showing a small amount."
+      },
+      {
+        "id": 16,
+        "question": "This pizza is _____ delicious than the one from yesterday.",
+        "correct_answer": "more",
+        "explanation": "'More' comes before longer adjectives in comparative form: 'more delicious'."
+      },
+      {
+        "id": 17,
+        "question": "_____ coffee is _____, so I drink it carefully.",
+        "correct_answer": "This hot",
+        "explanation": "'This' (demonstrative) and 'hot' (descriptive) adjectives describing the coffee."
+      },
+      {
+        "id": 18,
+        "question": "The _____ problem is that we don't have _____ time.",
+        "correct_answer": "biggest much",
+        "explanation": "Superlative 'biggest' and quantitative 'much' (for uncountable 'time')."
+      },
+      {
+        "id": 19,
+        "question": "She smells _____ after the workout.",
+        "correct_answer": "fresh",
+        "explanation": "After linking verb 'smells', use adjective 'fresh', not adverb 'freshly'."
+      },
+      {
+        "id": 20,
+        "question": "_____ ideas are _____ than the ones presented yesterday.",
+        "correct_answer": "These better",
+        "explanation": "'These' (demonstrative plural) and 'better' (comparative) adjectives."
+      }
+    ],
+
+    "hard": [
+      {
+        "id": 21,
+        "question": "The _____ _____ _____ sweater costs $50.",
+        "correct_answer": "soft Italian wool",
+        "explanation": "Adjective order: quality (soft), origin (Italian), material (wool)."
+      },
+      {
+        "id": 22,
+        "question": "Of the three candidates, she is the _____ qualified.",
+        "correct_answer": "most",
+        "explanation": "With three people, use superlative 'most qualified'."
+      },
+      {
+        "id": 23,
+        "question": "This coffee is _____ strong than what I usually drink.",
+        "correct_answer": "less",
+        "explanation": "'Less' for adjectives to show lower degree (opposite of 'more')."
+      },
+      {
+        "id": 24,
+        "question": "The _____ _____ _____ painting sold at the auction.",
+        "correct_answer": "most beautiful old French",
+        "explanation": "Complex adjective order: superlative adjective first, then age, then origin."
+      },
+      {
+        "id": 25,
+        "question": "Among _____ ideas proposed, _____ was _____ practical.",
+        "correct_answer": "all the yours most",
+        "explanation": "Possessive 'your' with superlative 'most practical' for best out of all."
+      },
+      {
+        "id": 26,
+        "question": "These _____ facts are _____ than I _____ .",
+        "correct_answer": "scientific more complex expected",
+        "explanation": "Multiple adjectives and comparative form in connecting clauses."
+      },
+      {
+        "id": 27,
+        "question": "The _____ the problem becomes, the _____ we need to try.",
+        "correct_answer": "more harder",
+        "explanation": "Pattern 'the + comparative...the + comparative' showing relationship between two things."
+      },
+      {
+        "id": 28,
+        "question": "This _____ situation requires a _____ solution.",
+        "correct_answer": "delicate unique",
+        "explanation": "Two descriptive adjectives before nouns, each describing their respective noun."
+      },
+      {
+        "id": 29,
+        "question": "Unlike _____ students, _____ showed remarkable dedication.",
+        "correct_answer": "other these",
+        "explanation": "Demonstrative 'these' compared with 'other'."
+      },
+      {
+        "id": 30,
+        "question": "The music sounds _____ and _____ to my ears.",
+        "correct_answer": "beautiful soothing",
+        "explanation": "Multiple adjectives after linking verb, both must be adjectives."
+      }
+    ]
+  },
+
+  "reading_comprehension": [
+    {
+      "id": 1,
+      "title": "The Old House",
+      "difficulty": "easy",
+      "passage": "The old wooden house stood at the end of the road. It had a large red door and small windows. The white fence around it was broken in places. Inside, the rooms were dark and dusty. Despite its poor condition, the house had a beautiful charm about it. Many people passed by but few showed interest in it. The house waited patiently for someone to restore it.",
+      "questions": [
+        {
+          "question": "What color is the main door?",
+          "options": ["white", "red", "blue", "brown"],
+          "correct_answer": 1
+        },
+        {
+          "question": "Which adjective best describes the rooms?",
+          "options": ["bright", "spacious", "dark and dusty", "clean"],
+          "correct_answer": 2
+        },
+        {
+          "question": "What does the passage say about the fence?",
+          "options": ["It is new", "It is painted red", "It is broken in places", "It is very tall"],
+          "correct_answer": 2
+        },
+        {
+          "question": "Which adjective describes the house's condition?",
+          "options": ["excellent", "poor", "new", "small"],
+          "correct_answer": 1
+        },
+        {
+          "question": "What is beautiful about the house?",
+          "options": ["Its size", "Its charm", "Its furniture", "Its kitchen"],
+          "correct_answer": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "My Favorite Restaurant",
+      "difficulty": "medium",
+      "passage": "My favorite restaurant is a cozy Italian place downtown. The walls are painted a warm orange, and soft lighting creates a romantic atmosphere. The menu features traditional pasta dishes and fresh seafood. The friendly staff members are always helpful and patient. Last week, I had the most delicious lasagna. The portions were generous, and the prices were reasonable. I found the entire experience to be satisfactory, and I plan to return soon.",
+      "questions": [
+        {
+          "question": "What kind of adjectives describe the restaurant's lighting?",
+          "options": ["bright and harsh", "soft and romantic", "dim and dark", "natural and bright"],
+          "correct_answer": 1
+        },
+        {
+          "question": "How does the author describe the staff?",
+          "options": ["rude and impatient", "friendly, helpful, and patient", "professional but cold", "unfriendly"],
+          "correct_answer": 1
+        },
+        {
+          "question": "Which sentence contains a superlative adjective?",
+          "options": ["The walls are orange.", "I had the most delicious lasagna.", "The prices were reasonable.", "The menu features traditional dishes."],
+          "correct_answer": 1
+        },
+        {
+          "question": "What adjectives describe the portions?",
+          "options": ["small and insufficient", "generous", "tiny", "barely adequate"],
+          "correct_answer": 1
+        },
+        {
+          "question": "What overall opinion does the author express?",
+          "options": ["The restaurant was disappointing.", "The experience was satisfactory and worth revisiting.", "The food was bad.", "The atmosphere was unpleasant."],
+          "correct_answer": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "The Mountain Adventure",
+      "difficulty": "hard",
+      "passage": "Our ambitious group embarked on a challenging mountain expedition last summer. The steep terrain tested our physical limits, while the unpredictable weather made the journey increasingly difficult. Despite the harsh conditions and numerous obstacles, our determined team persevered. The breathtaking views at the summit were absolutely worth every exhausting step. The magnificent snow-covered peaks stretched as far as the eye could see. Most experienced climbers would have found this rigorous route demanding. However, our careful preparation and unwavering commitment made the impossible possible. The profound sense of accomplishment we felt was incomparable to anything we had experienced previously.",
+      "questions": [
+        {
+          "question": "Which adjective best describes the mountain terrain?",
+          "options": ["gentle", "flat", "steep", "sloping gradually"],
+          "correct_answer": 2
+        },
+        {
+          "question": "How does the passage characterize the team's attitude?",
+          "options": ["lazy and indifferent", "determined and unwavering", "fearful and hesitant", "careless and reckless"],
+          "correct_answer": 1
+        },
+        {
+          "question": "What comparative statement is made about the views?",
+          "options": ["They were ordinary.", "They were worth every difficult step.", "They were disappointing.", "They were the same as other mountains."],
+          "correct_answer": 1
+        },
+        {
+          "question": "What makes the peaks appear particularly majestic?",
+          "options": ["Their green forests", "Their snow-covered nature and magnificent appearance", "Their proximity to clouds", "Their small size"],
+          "correct_answer": 1
+        },
+        {
+          "question": "According to the passage, what made success possible?",
+          "options": ["luck alone", "the easy route", "careful preparation and unwavering commitment", "physical strength only"],
+          "correct_answer": 2
+        }
+      ]
+    }
+  ],
+
+  "writing_exercises": [
+    {
+      "difficulty": "easy",
+      "title": "Describe Your Favorite Place",
+      "instruction": "Write a short paragraph (5-7 sentences) describing your favorite place using at least 8 different adjectives. Use a mix of descriptive, quantitative, and demonstrative adjectives.",
+      "prompt": "Think about a place you love - it could be a park, beach, restaurant, room, or anywhere special to you. Describe what makes it special using vivid adjectives.",
+      "model_answer": "My favorite place is the local beach. The sandy shore is wide and peaceful, especially on quiet mornings. The clear blue water is refreshing and inviting. Several palm trees provide shade during the hot afternoon hours. I enjoy watching the colorful sunset from this beautiful location. The few people there on weekdays make it a relaxing escape. This wonderful place brings me joy every time I visit."
+    },
+    {
+      "difficulty": "medium",
+      "title": "Compare Two Things",
+      "instruction": "Write a paragraph (8-10 sentences) comparing two things you know well. Use at least 5 comparative or superlative adjectives. Make sure to organize your thoughts logically and use correct adjective placement.",
+      "prompt": "Compare two places, objects, or people. For example: two cities, two phones, two teachers, two sports, two foods. Use comparatives (more, -er) and superlatives (most, -est) to clearly show differences and similarities.",
+      "model_answer": "Comparing public transportation and personal vehicles is interesting. Public buses are more economical than owning a car. However, personal cars offer greater flexibility and comfort. The most significant advantage of public transport is that it's better for the environment. Cars are faster than buses for short distances but slower during rush hours. Urban buses are more crowded during peak times. My personal preference is driving because I value independence, though buses are cheaper. The most environmentally conscious choice would be public transportation. Both options have distinct advantages, so the best choice depends on individual needs and circumstances."
+    },
+    {
+      "difficulty": "hard",
+      "title": "Descriptive Essay with Multiple Adjectives",
+      "instruction": "Write a well-developed paragraph (12-15 sentences) using sophisticated and varied adjectives. Include: (1) at least 10 different descriptive adjectives, (2) correct adjective order for multiple adjectives, (3) at least 2 comparatives, (4) at least 1 superlative, (5) adjectives after linking verbs. Focus on vivid, engaging descriptions.",
+      "prompt": "Describe a memorable experience, a person you admire, or an impressive event. Use complex, descriptive language with varied adjectives to create a compelling narrative.",
+      "model_answer": "The grand wedding ceremony was an unforgettable spectacle of elegance and joy. The majestic old cathedral provided an imposing architectural backdrop for the momentous occasion. Intricate white floral arrangements adorned every corner with exquisite beauty. The radiant bride appeared absolutely luminous, dressed in an expensive embroidered gown. Her devoted fiancé looked remarkably handsome in his formal black tuxedo. The emotional vows exchanged were far more touching than typical ceremonies. The magnificent classical orchestra performed the most beautiful renditions of traditional wedding music. Champagne flowed continuously throughout the elaborate reception. The delectable gourmet food was even more delicious than expected. The elaborate decorations in elegant silver and gold created an enchanting atmosphere. The joyful gathering of intimate friends and extended family displayed genuine warmth and affection. Dancing continued throughout the lengthy evening, filled with contagious laughter. The momentous day became the most cherished memory for everyone present, marked by genuine happiness and hopeful anticipation for the future."
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "part_of_speech": "Noun",
+  "total_types": 8,
+  "comprehensive_types": [
+    {
+      "type_id": 1,
+      "type_name": "Common Nouns",
+      "emoji": "📖",
+      "color": "#3b82f6",
+      "definition": "General nouns referring to any person, place, thing, or idea (not specific names)",
+      "example": "dog, city, book, happiness",
+      "key_characteristics": ["Refers to any item in a category", "Usually not capitalized", "Can be countable or uncountable", "Use articles a/an/the"],
+      "real_world_use": "Daily communication - identifying and talking about everyday objects and concepts"
+    },
+    {
+      "type_id": 2,
+      "type_name": "Proper Nouns",
+      "emoji": "🏛️",
+      "color": "#ef4444",
+      "definition": "Specific names of particular people, places, organizations, or things",
+      "example": "John, London, Microsoft, The Beatles",
+      "key_characteristics": ["Always capitalized", "Refer to unique, specific items", "Generally don't use articles", "Include names of days, months, holidays"],
+      "real_world_use": "Identifying specific people, places, brands, and named entities"
+    },
+    {
+      "type_id": 3,
+      "type_name": "Concrete Nouns",
+      "emoji": "📦",
+      "color": "#8b5cf6",
+      "definition": "Nouns that refer to things you can perceive through your senses (see, touch, hear, smell, taste)",
+      "example": "apple, chair, music, perfume, coffee",
+      "key_characteristics": ["Can be perceived by senses", "Usually physical objects", "Can be common or proper", "Tangible and real"],
+      "real_world_use": "Describing physical objects and sensory experiences in writing and speech"
+    },
+    {
+      "type_id": 4,
+      "type_name": "Abstract Nouns",
+      "emoji": "💭",
+      "color": "#06b6d4",
+      "definition": "Nouns representing ideas, emotions, concepts, or qualities that cannot be physically perceived",
+      "example": "love, courage, freedom, happiness, justice",
+      "key_characteristics": ["Cannot be perceived by senses", "Represent ideas/feelings/concepts", "Usually singular/uncountable", "Help express emotions and thoughts"],
+      "real_world_use": "Discussing emotions, philosophies, virtues, and abstract concepts in communication"
+    },
+    {
+      "type_id": 5,
+      "type_name": "Countable Nouns",
+      "emoji": "🔢",
+      "color": "#10b981",
+      "definition": "Nouns that can be counted individually and have both singular and plural forms",
+      "example": "apple → apples, book → books, student → students",
+      "key_characteristics": ["Can be pluralized", "Use with numbers (one, two, three)", "Use articles a/an for singular", "Singular and plural forms differ"],
+      "real_world_use": "Quantifying objects and items in measurements, prices, and inventory"
+    },
+    {
+      "type_id": 6,
+      "type_name": "Uncountable Nouns",
+      "emoji": "💧",
+      "color": "#f59e0b",
+      "definition": "Nouns that cannot be counted individually and typically stay in singular form",
+      "example": "water, furniture, information, happiness, sand",
+      "key_characteristics": ["Cannot be pluralized normally", "Don't use numbers directly", "Treated as singular", "Use 'some', 'a lot of', 'much'"],
+      "real_world_use": "Referring to substances, abstract concepts, and mass nouns that don't have discrete units"
+    },
+    {
+      "type_id": 7,
+      "type_name": "Collective Nouns",
+      "emoji": "👥",
+      "color": "#ec4899",
+      "definition": "Singular nouns that refer to a group or collection of individual items or people",
+      "example": "team, family, flock, committee, audience",
+      "key_characteristics": ["Singular form represents a group", "Can take singular or plural verbs depending on context", "Emphasize unity", "Common in both formal and informal English"],
+      "real_world_use": "Discussing groups, teams, organizations, and collections as unified entities"
+    },
+    {
+      "type_id": 8,
+      "type_name": "Compound Nouns",
+      "emoji": "🔗",
+      "color": "#14b8a6",
+      "definition": "Nouns made up of two or more words that function as a single unit with a specific meaning",
+      "example": "toothbrush, mother-in-law, ice cream, school bus, social media",
+      "key_characteristics": ["Made of 2+ words", "Function as single unit", "Meaning differs from individual words", "Written as one word, hyphenated, or two words"],
+      "real_world_use": "Creating precise terms for complex concepts and modern inventions in everyday language"
+    }
+  ],
+  "comprehensive_learning_structure": {
+    "description": "Each noun type includes all of the following comprehensive materials",
+    "sections": [
+      {
+        "section_name": "Deep Explanation",
+        "description": "3 detailed paragraphs explaining the concept thoroughly with context",
+        "length": "400-500 words"
+      },
+      {
+        "section_name": "Formation Structure",
+        "description": "5 step-by-step breakdown of how the noun type is formed and used",
+        "length": "detailed steps with examples"
+      },
+      {
+        "section_name": "Real-World Examples",
+        "description": "10+ examples with translations, breakdown, context, and difficulty levels",
+        "length": "detailed explanations for each"
+      },
+      {
+        "section_name": "Grammar Rules",
+        "description": "5 essential grammar rules specific to this noun type",
+        "length": "each rule with do/don't examples"
+      },
+      {
+        "section_name": "Common Mistakes",
+        "description": "8 common mistakes with corrections and explanations",
+        "length": "detailed error analysis"
+      },
+      {
+        "section_name": "Writing Exercise",
+        "description": "Guided creative writing task with sample answers and evaluation criteria",
+        "length": "100-150 word exercise with feedback"
+      },
+      {
+        "section_name": "Reading Comprehension",
+        "description": "1-2 passages with highlighted examples and comprehension questions",
+        "length": "passages + 4 questions each"
+      },
+      {
+        "section_name": "Pronunciation Guide",
+        "description": "Pronunciation for key words including IPA and audio tips",
+        "length": "5-8 important words"
+      },
+      {
+        "section_name": "Practice Questions",
+        "description": "15 questions divided into 3 difficulty levels",
+        "breakdown": {
+          "easy": "5 MCQs testing basic understanding",
+          "medium": "5 MCQs testing application",
+          "hard": "5 MCQs testing analysis and synthesis"
+        }
+      },
+      {
+        "section_name": "Video Resources",
+        "description": "4 YouTube videos covering the concept",
+        "length": "with descriptions and key topics"
+      },
+      {
+        "section_name": "Downloadable Content",
+        "description": "PDF and DOCX versions of the complete guide",
+        "formats": ["PDF (2-3 MB)", "DOCX (1-2 MB)"]
+      }
+    ]
+  },
+  "usage_statistics": {
+    "total_noun_types": 8,
+    "total_examples": 80,
+    "total_rules": 40,
+    "total_mistakes": 64,
+    "total_practice_questions": 120,
+    "total_videos": 32,
+    "estimated_total_learning_hours": "8-10 hours",
+    "estimated_completion_per_type": "1-1.25 hours"
+  },
+  "feature_highlights": {
+    "interactive_learning": [
+      "Expandable/collapsible sections",
+      "Interactive practice questions with immediate feedback",
+      "Audio pronunciation guides",
+      "Video embedding capabilities"
+    ],
+    "accessibility": [
+      "Mobile responsive design",
+      "Dark mode support",
+      "Print-friendly PDFs",
+      "Downloadable content"
+    ],
+    "engagement": [
+      "Progress tracking",
+      "Save for later functionality",
+      "Share learning paths",
+      "Certificate upon completion"
+    ]
+  },
+  "database_preparation": {
+    "tables_needed": [
+      "grammar_type_details",
+      "type_examples",
+      "type_grammar_rules",
+      "type_common_mistakes",
+      "type_writing_exercises",
+      "type_reading_comprehension",
+      "type_video_resources",
+      "type_practice_questions"
+    ],
+    "estimated_records": "5000-7000 across all tables",
+    "total_storage": "6-8 MB",
+    "indexing": ["type_id", "part_id", "difficulty_level"]
+  },
+  "implementation_timeline": {
+    "phase_1": "Create 2 noun types with full content (2-3 days)",
+    "phase_2": "Create remaining 6 noun types (4-5 days)",
+    "phase_3": "Database seeding and API integration (2-3 days)",
+    "phase_4": "Frontend component development (3-4 days)",
+    "phase_5": "Testing and refinement (2-3 days)",
+    "total_estimated": "13-18 days"
+  }
+}

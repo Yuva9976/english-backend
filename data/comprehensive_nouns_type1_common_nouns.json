@@ -1,0 +1,655 @@
+{
+  "types": [
+    {
+      "type_id": 1,
+      "type_name": "Common Nouns",
+      "part_of_speech": "Noun",
+      "emoji": "📖",
+      "color": "#3b82f6",
+      "difficulty_level": "Beginner",
+      "definition": "Nouns that refer to general, non-specific people, places, things, or ideas.",
+
+      "deep_explanation": {
+        "title": "Understanding Common Nouns",
+        "paragraphs": [
+          "Common nouns are the most basic type of noun in English. They refer to general categories of people, places, objects, or ideas rather than specific, named individuals or locations. For example, the words 'dog', 'city', 'book', and 'happiness' are all common nouns because they don't name a specific dog, city, book, or instance of happiness. Every time you see a cat on the street, you can call it a cat—that's a common noun. If that cat had the name 'Whiskers', then Whiskers becomes a proper noun. Common nouns are fundamental to English grammar and understanding them is the first step toward mastering other noun categories.",
+          "Common nouns can be either countable or uncountable. Countable common nouns can be counted individually (one apple, two apples, three apples), while uncountable common nouns cannot be counted individually and are typically used in singular form (water, furniture, information). This distinction becomes important when choosing between singular and plural forms, and when deciding whether to use articles like 'a' or 'an' before the noun. Understanding this distinction helps you use nouns correctly in sentences.",
+          "In everyday English conversation and writing, common nouns appear far more frequently than proper nouns. They form the backbone of sentences and are essential for basic communication. Learning to identify and use common nouns correctly will significantly improve your ability to construct clear, grammatically correct sentences in English. Most vocabulary you'll learn as a beginner consists of common nouns because they represent the everyday objects, people, and concepts you encounter regularly."
+        ]
+      },
+
+      "formation_structure": {
+        "title": "How Common Nouns Are Formed and Used",
+        "steps": [
+          {
+            "step": 1,
+            "title": "Basic Singular Form",
+            "explanation": "Common nouns start with their basic singular form, which represents one item or concept.",
+            "examples": ["cat", "table", "student", "idea"],
+            "rule": "The singular form is the base form you find in dictionaries."
+          },
+          {
+            "step": 2,
+            "title": "Forming Plurals (Regular)",
+            "explanation": "Most common nouns form their plural by adding '-s' or '-es' to the singular form.",
+            "examples": ["cat → cats", "table → tables", "box → boxes", "class → classes"],
+            "rule": "Add '-es' when the noun ends in 's', 'x', 'z', 'ch', or 'sh'. Add '-s' for all other cases."
+          },
+          {
+            "step": 3,
+            "title": "Forming Plurals (Irregular)",
+            "explanation": "Some common nouns have irregular plural forms that don't follow the standard '-s' or '-es' pattern.",
+            "examples": ["child → children", "person → people", "mouse → mice", "goose → geese"],
+            "rule": "These irregular plurals must be memorized as they don't follow standard rules."
+          },
+          {
+            "step": 4,
+            "title": "Using Articles with Common Nouns",
+            "explanation": "Common nouns typically use articles ('a', 'an', 'the') to specify whether they're singular, plural, specific, or general.",
+            "examples": ["a cat (one, not specific)", "an apple (one, not specific, starts with vowel)", "the cat (specific cat already mentioned)"],
+            "rule": "Use 'a' before consonants, 'an' before vowels, and 'the' for specific or previously mentioned nouns."
+          },
+          {
+            "step": 5,
+            "title": "Countable vs Uncountable",
+            "explanation": "Common nouns can be countable (can be pluralized) or uncountable (cannot be pluralized).",
+            "examples": ["Countable: apple, orange, student | Uncountable: water, furniture, information"],
+            "rule": "Countable nouns can be used with numbers; uncountable nouns cannot (not 'two waters')."
+          }
+        ]
+      },
+
+      "real_world_examples": {
+        "title": "10+ Real-World Examples with Context",
+        "examples": [
+          {
+            "id": 1,
+            "sentence": "The student studied in the library for three hours.",
+            "translation": "学生は3時間図書館で勉強しました。",
+            "highlighted_nouns": ["student", "library"],
+            "explanation": "Both 'student' and 'library' are common nouns. 'Student' could refer to any student, not a specific named person. 'Library' refers to a general library, not a named one.",
+            "context": "Academic setting",
+            "difficulty": "Easy"
+          },
+          {
+            "id": 2,
+            "sentence": "I bought a new chair and a desk for my office.",
+            "translation": "私は私のオフィスのために新しい椅子と机を買いました。",
+            "highlighted_nouns": ["chair", "desk", "office"],
+            "explanation": "'Chair', 'desk', and 'office' are all common nouns referring to types of furniture and a room, not specific named items.",
+            "context": "Shopping/Work environment",
+            "difficulty": "Easy"
+          },
+          {
+            "id": 3,
+            "sentence": "The children played with toys in the park all afternoon.",
+            "translation": "子どもたちは午後中公園でおもちゃで遊びました。",
+            "highlighted_nouns": ["children", "toys", "park"],
+            "explanation": "'Children' (plural of child), 'toys', and 'park' are common nouns. They don't name specific children, toys, or a particular named park.",
+            "context": "Recreation/Leisure",
+            "difficulty": "Easy"
+          },
+          {
+            "id": 4,
+            "sentence": "The teacher explained the concept using several examples and a presentation.",
+            "translation": "先生は複数の例とプレゼンテーションを使用して概念を説明しました。",
+            "highlighted_nouns": ["teacher", "concept", "examples", "presentation"],
+            "explanation": "All four words are common nouns. Even though they appear in an educational context, they refer to general categories, not specific named items.",
+            "context": "Educational setting",
+            "difficulty": "Medium"
+          },
+          {
+            "id": 5,
+            "sentence": "The recipe called for butter, sugar, eggs, and vanilla to make a cake.",
+            "translation": "レシピはケーキを作るためにバター、砂糖、卵、バニラを要求しました。",
+            "highlighted_nouns": ["recipe", "butter", "sugar", "eggs", "vanilla", "cake"],
+            "explanation": "All six words are common nouns referring to categories of ingredients and a baked good, not specific named items or brand names.",
+            "context": "Cooking/Baking",
+            "difficulty": "Medium"
+          },
+          {
+            "id": 6,
+            "sentence": "The musician played the guitar with great passion and skill during the concert.",
+            "translation": "ミュージシャンはコンサート中に情熱とスキルでギターを演奏しました。",
+            "highlighted_nouns": ["musician", "guitar", "passion", "skill", "concert"],
+            "explanation": "All nouns here are common. Notice that 'passion' and 'skill' are abstract common nouns (you can't touch them), while the others are concrete.",
+            "context": "Entertainment/Music",
+            "difficulty": "Medium"
+          },
+          {
+            "id": 7,
+            "sentence": "The scientist discovered that the experiment produced unexpected results with remarkable accuracy.",
+            "translation": "科学者は実験が驚くべき精度で予期しない結果を生じたことを発見しました。",
+            "highlighted_nouns": ["scientist", "experiment", "results", "accuracy"],
+            "explanation": "All four are common nouns. 'Scientist' refers to a person in a profession, 'experiment' is a procedure, and 'accuracy' is an abstract concept.",
+            "context": "Scientific research",
+            "difficulty": "Hard"
+          },
+          {
+            "id": 8,
+            "sentence": "The community worked together to address the challenges and find solutions for the environment.",
+            "translation": "コミュニティは一緒に課題に対処し、環境のための解決策を見つけるために働きました。",
+            "highlighted_nouns": ["community", "challenges", "solutions", "environment"],
+            "explanation": "All four are common nouns. 'Community' and 'environment' are collective/general nouns. 'Challenges' and 'solutions' are abstract concepts.",
+            "context": "Social/Environmental issues",
+            "difficulty": "Hard"
+          },
+          {
+            "id": 9,
+            "sentence": "The journey through the mountains was filled with adventure, beauty, and moments of reflection.",
+            "translation": "山々を通じた旅は冒険、美しさ、そして考察の瞬間で満たされていました。",
+            "highlighted_nouns": ["journey", "mountains", "adventure", "beauty", "moments", "reflection"],
+            "explanation": "Mix of concrete nouns (journey, mountains, moments) and abstract nouns (adventure, beauty, reflection) all used as common nouns.",
+            "context": "Travel/Personal experience",
+            "difficulty": "Hard"
+          },
+          {
+            "id": 10,
+            "sentence": "The students submitted their assignments on time and received feedback from their instructors.",
+            "translation": "学生は時間通りに課題を提出し、指導者からのフィードバックを受け取りました。",
+            "highlighted_nouns": ["students", "assignments", "time", "feedback", "instructors"],
+            "explanation": "All common nouns in an academic context. 'Time' is abstract, 'feedback' is abstract, while others are more concrete.",
+            "context": "Academic/Educational",
+            "difficulty": "Hard"
+          }
+        ]
+      },
+
+      "grammar_rules": {
+        "title": "5 Essential Grammar Rules for Common Nouns",
+        "rules": [
+          {
+            "id": 1,
+            "rule_name": "Use 'A' or 'An' with Singular Common Nouns (First Mention)",
+            "explanation": "When mentioning a singular common noun for the first time and you're not referring to a specific item, use the indefinite article 'a' (before consonants) or 'an' (before vowels).",
+            "do_example": "I saw a dog in the park. I heard an alarm on the street.",
+            "dont_example": "I saw dog in the park. I heard alarm on the street. (Missing articles)",
+            "key_points": [
+              "Use 'a' before consonant sounds: a cat, a house, a yellow car",
+              "Use 'an' before vowel sounds: an apple, an orange, an umbrella",
+              "Both refer to one unspecified item in the category"
+            ]
+          },
+          {
+            "id": 2,
+            "rule_name": "Use 'The' for Specific or Previously Mentioned Common Nouns",
+            "explanation": "Once you've mentioned a common noun or when it's clear which specific item you mean, use the definite article 'the'.",
+            "do_example": "I saw a dog in the park. The dog was brown and friendly.",
+            "dont_example": "I saw a dog in the park. A dog was brown and friendly. (Should use 'the' because we know which dog)",
+            "key_points": [
+              "Use 'the' when the listener/reader knows which item you mean",
+              "Use 'the' when the common noun has been previously mentioned",
+              "Use 'the' with superlatives: the best, the largest, the fastest"
+            ]
+          },
+          {
+            "id": 3,
+            "rule_name": "Regular Plural Formation: Add '-s' or '-es'",
+            "explanation": "Most common nouns form their plural by adding '-s' or '-es' to the singular form. The choice depends on the ending sound of the word.",
+            "do_example": "cat → cats, box → boxes, glass → glasses, church → churches",
+            "dont_example": "cat → cates, box → boxs, glass → glasss (Incorrect plural forms)",
+            "key_points": [
+              "Add '-s' to most nouns: dog → dogs, book → books",
+              "Add '-es' if the noun ends in 's', 'x', 'z', 'ch', 'sh': box → boxes, church → churches",
+              "For nouns ending in consonant + 'y', change to '-ies': baby → babies, city → cities"
+            ]
+          },
+          {
+            "id": 4,
+            "rule_name": "Irregular Plural Forms Must Be Memorized",
+            "explanation": "Some common nouns have irregular plural forms that don't follow standard rules. These are exceptions and must be learned.",
+            "do_example": "child → children, person → people, mouse → mice, goose → geese, foot → feet",
+            "dont_example": "child → childs, person → persons (when referring to multiple), mouse → mouses, foot → foots",
+            "key_points": [
+              "man → men, woman → women",
+              "child → children",
+              "person → people, people → people (same form)",
+              "These must be memorized through practice and exposure"
+            ]
+          },
+          {
+            "id": 5,
+            "rule_name": "Countable and Uncountable Nouns Use Different Patterns",
+            "explanation": "Common nouns can be countable (apples, cats, books) or uncountable (water, furniture, information). They follow different rules for articles and pluralization.",
+            "do_example": "Countable: I have three apples. Uncountable: I need some water. (NOT 'three waters')",
+            "dont_example": "Countable: I have three apple. (Should be 'apples') Uncountable: I need three informations. (Cannot pluralize)",
+            "key_points": [
+              "Countable: use with numbers (one, two, three) and can be pluralized",
+              "Uncountable: don't use with numbers directly; use 'some', 'a lot of', 'much'",
+              "Uncountable: stay singular (water, not waters when meaning the liquid)"
+            ]
+          }
+        ]
+      },
+
+      "common_mistakes": {
+        "title": "Common Mistakes & Corrections",
+        "mistakes": [
+          {
+            "id": 1,
+            "mistake": "I saw beautiful dog in the park.",
+            "correction": "I saw a beautiful dog in the park.",
+            "explanation": "Common nouns in singular form need an article ('a' or 'an') when first mentioned. Without it, the sentence is grammatically incorrect.",
+            "rule_violated": "Indefinite article rule"
+          },
+          {
+            "id": 2,
+            "mistake": "I need three informations for my project.",
+            "correction": "I need three pieces of information for my project.",
+            "explanation": "'Information' is an uncountable noun and cannot be pluralized with a number. Use 'pieces of information' instead.",
+            "rule_violated": "Countable vs uncountable rule"
+          },
+          {
+            "id": 3,
+            "mistake": "The childs played in the playground.",
+            "correction": "The children played in the playground.",
+            "explanation": "'Child' has an irregular plural form 'children', not 'childs'. Regular '-s' pluralization doesn't apply here.",
+            "rule_violated": "Irregular plural formation"
+          },
+          {
+            "id": 4,
+            "mistake": "I bought a new furnitures for my house.",
+            "correction": "I bought new furniture for my house.",
+            "explanation": "'Furniture' is an uncountable noun and cannot be pluralized. It's already treated as plural in meaning.",
+            "rule_violated": "Uncountable noun rule"
+          },
+          {
+            "id": 5,
+            "mistake": "A student must attend class because classes are important.",
+            "correction": "Students must attend class because classes are important.",
+            "explanation": "Inconsistent use of article and number. Should use 'students' (plural) with the context of a general rule applying to all students.",
+            "rule_violated": "Consistency in number and article use"
+          },
+          {
+            "id": 6,
+            "mistake": "I have many homeworks to complete.",
+            "correction": "I have a lot of homework to complete.",
+            "explanation": "'Homework' is an uncountable noun (refers to work as a whole, not individual tasks). Use 'a lot of' instead of 'many'.",
+            "rule_violated": "Countable vs uncountable noun"
+          },
+          {
+            "id": 7,
+            "mistake": "He studies books in library.",
+            "correction": "He studies books in the library.",
+            "explanation": "When referring to a specific library (the one at school, for example), you need the definite article 'the', not zero article.",
+            "rule_violated": "Definite article usage"
+          },
+          {
+            "id": 8,
+            "mistake": "The womans in the office are very professional.",
+            "correction": "The women in the office are very professional.",
+            "explanation": "'Woman' has an irregular plural 'women', not 'womans'. This is a high-frequency irregular plural that must be memorized.",
+            "rule_violated": "Irregular plural formation"
+          }
+        ]
+      },
+
+      "writing_exercise": {
+        "title": "Writing Exercise: Create a Description",
+        "type": "descriptive",
+        "prompt": "Write a short paragraph (100-150 words) describing your favorite place. Use at least 8 common nouns to describe what you see, hear, and feel in that place. Underline each common noun you use.",
+        "guidelines": [
+          "Use a mix of singular and plural common nouns",
+          "Include both concrete nouns (things you can see/touch) and abstract nouns (feelings, concepts)",
+          "Use appropriate articles (a, an, the) with each noun",
+          "Describe the atmosphere and what makes this place special",
+          "Use descriptive adjectives to make your writing more vivid"
+        ],
+        "sample_answer": "My favorite place is the beach. On sunny days, I love to walk along the sand and listen to the waves. The seagulls fly overhead, calling to each other. I often sit under a large umbrella and read books for hours. The salty air fills my lungs with each breath. The beauty of the ocean brings me peace and calm. Families play together on the shore while children build sand castles. Every visit to this special place brings me joy and relaxation.",
+        "sample_answer_breakdown": {
+          "common_nouns_used": ["beach", "days", "sand", "waves", "seagulls", "umbrella", "books", "air", "lungs", "breath", "beauty", "ocean", "peace", "calm", "families", "shore", "children", "sand castles", "visit", "place", "joy", "relaxation"],
+          "total_count": 22,
+          "concrete_nouns": ["beach", "sand", "waves", "seagulls", "umbrella", "books", "air", "ocean", "families", "shore", "children", "sand castles"],
+          "abstract_nouns": ["days", "peace", "calm", "beauty", "joy", "relaxation"],
+          "plural_forms": ["days", "waves", "seagulls", "books", "lungs", "families", "children", "castles"]
+        },
+        "evaluation_criteria": [
+          "Clarity: Is the description clear and easy to visualize?",
+          "Noun usage: Are at least 8 common nouns used and properly identified?",
+          "Grammar: Are articles (a, an, the) used correctly?",
+          "Variety: Is there a mix of singular, plural, concrete, and abstract nouns?",
+          "Relevance: Does the writing effectively convey why this place is special?",
+          "Length: Is the paragraph 100-150 words as requested?"
+        ]
+      },
+
+      "reading_comprehension": {
+        "title": "Reading Comprehension with Highlighted Examples",
+        "passages": [
+          {
+            "id": 1,
+            "title": "A Day at the Market",
+            "text": "Maria woke up early on Saturday morning and decided to visit the local market. She brought a basket and some money with her. At the market, she found many vendors selling fresh produce. The apples looked delicious, and the oranges were bright orange. Maria also bought some bread, cheese, and milk from different stalls. She noticed children playing between the rows of vendors while their parents shopped. The atmosphere at the market was filled with energy and excitement. Maria spent three hours browsing through different sections. She purchased vegetables, fruits, nuts, and flowers before heading home. The experience at the market was always enjoyable.",
+            "highlighted_items": [
+              {
+                "word": "Maria",
+                "type": "Proper Noun - Not a common noun",
+                "explanation": "This is a specific person's name, making it a proper noun, not a common noun."
+              },
+              {
+                "word": "market",
+                "type": "Common Noun",
+                "explanation": "Refers to any market, not a specific named place. It's countable and concrete."
+              },
+              {
+                "word": "basket",
+                "type": "Common Noun",
+                "explanation": "A countable, concrete common noun referring to a type of container."
+              },
+              {
+                "word": "money",
+                "type": "Common Noun",
+                "explanation": "An uncountable common noun. You can't say 'three monies'."
+              },
+              {
+                "word": "vendors",
+                "type": "Common Noun (Plural)",
+                "explanation": "Plural of vendor. It's countable and refers to people in general."
+              },
+              {
+                "word": "produce",
+                "type": "Common Noun",
+                "explanation": "An uncountable common noun meaning fruits and vegetables in general."
+              },
+              {
+                "word": "energy",
+                "type": "Abstract Common Noun",
+                "explanation": "An uncountable, abstract common noun representing a quality or feeling."
+              }
+            ],
+            "questions": [
+              {
+                "id": 1,
+                "question": "What is the main subject of this passage?",
+                "options": ["A trip to the farmer's market", "Maria's favorite vegetables", "How to sell at a market", "The history of markets"],
+                "correct_answer": 0,
+                "explanation": "The passage describes Maria's visit to a local market. This is the main focus."
+              },
+              {
+                "id": 2,
+                "question": "Which of the following is an uncountable common noun from the passage?",
+                "options": ["apples", "vendors", "money", "children"],
+                "correct_answer": 2,
+                "explanation": "'Money' is uncountable - you can't say 'three monies'. The others are countable: apples, vendors, children can all be counted."
+              },
+              {
+                "id": 3,
+                "question": "How long did Maria spend at the market?",
+                "options": ["One hour", "Two hours", "Three hours", "Four hours"],
+                "correct_answer": 2,
+                "explanation": "The passage states 'Maria spent three hours browsing through different sections.'"
+              },
+              {
+                "id": 4,
+                "question": "What did Maria purchase at the market? (Select all that apply)",
+                "options": ["Flowers", "Bread", "Nuts", "Meat"],
+                "correct_answer": "0, 1, 2",
+                "explanation": "The passage mentions vegetables, fruits, nuts, bread, cheese, milk, and flowers. It doesn't mention meat."
+              }
+            ]
+          }
+        ]
+      },
+
+      "pronunciation_guide": {
+        "title": "Pronunciation Guide for Common Nouns",
+        "items": [
+          {
+            "word": "apple",
+            "ipa": "/ˈæpl/",
+            "pronunciation": "AP-ul",
+            "audio_tips": "Stress the first syllable. The 'a' sounds like the 'a' in 'cat'. The ending '-le' sounds like 'ul'.",
+            "common_mistakes": "Pronouncing it as 'AP-pul' with emphasis on two syllables equally. It's stressed on the first."
+          },
+          {
+            "word": "beautiful",
+            "ipa": "/ˈbjuːtɪfl/",
+            "pronunciation": "BYOO-ti-ful",
+            "audio_tips": "Three syllables with stress on the first. The 'beau' sounds like 'byoo' (like in beauty). Middle syllable is 'ti', last is 'ful'.",
+            "common_mistakes": "Pronouncing all syllables with equal stress or missing the middle syllable entirely. The stress is clearly on the first syllable."
+          },
+          {
+            "word": "comfortable",
+            "ipa": "/ˈkʌmfərtəbl/",
+            "pronunciation": "KUM-fer-tuh-bul",
+            "audio_tips": "Four syllables with stress on the first. The 'um' is like in 'cup'. The 'r' sound is subtle in the middle syllables.",
+            "common_mistakes": "Adding extra syllables or pronouncing it as 'com-FOR-table' with stress on the second syllable. The stress is on the first."
+          },
+          {
+            "word": "library",
+            "ipa": "/ˈlaɪbreri/",
+            "pronunciation": "LY-brer-ee",
+            "audio_tips": "Three syllables with stress on the first. The first part 'lib' sounds like 'ly'. The 'r' sound is present in both 'brer' and the middle of the word.",
+            "common_mistakes": "Mispronouncing as 'li-BRAR-ee' or dropping the 'r' sounds. Both 'r' sounds should be pronounced, with stress on the first syllable."
+          },
+          {
+            "word": "necessary",
+            "ipa": "/ˈnesəseri/",
+            "pronunciation": "NES-uh-ser-ee",
+            "audio_tips": "Four syllables. Stress is on the first syllable 'NES'. The middle syllables are quick and unstressed: 'uh-ser-ee'.",
+            "common_mistakes": "Pronouncing as 'nuh-SES-uh-ree' with stress on the second syllable or emphasizing each syllable equally. First syllable gets the stress."
+          }
+        ]
+      },
+
+      "practice_questions": {
+        "title": "15 Practice Questions: Common Nouns",
+        "easy": {
+          "level": "Easy - Basic Understanding",
+          "description": "These questions test your basic understanding of what common nouns are.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Which of the following is a common noun?",
+              "question_type": "multiple-choice",
+              "options": ["Paris", "dog", "Sarah", "Amazon"],
+              "correct_answer": "dog",
+              "explanation": "A 'dog' is a common noun because it refers to any dog, not a specific one. Paris, Sarah, and Amazon are proper nouns (specific places/people/companies)."
+            },
+            {
+              "id": 2,
+              "question": "What is the plural form of 'child'?",
+              "question_type": "multiple-choice",
+              "options": ["childs", "children", "childes", "childer"],
+              "correct_answer": "children",
+              "explanation": "'Child' is an irregular noun. Its plural form is 'children', not 'childs'."
+            },
+            {
+              "id": 3,
+              "question": "Choose the sentence with the correct article usage.",
+              "question_type": "multiple-choice",
+              "options": ["I saw a elephant in the zoo.", "I saw an elephant in the zoo.", "I saw elephant in the zoo.", "I saw the elephant in a zoo."],
+              "correct_answer": "I saw an elephant in the zoo.",
+              "explanation": "Use 'an' before words starting with vowel sounds. 'Elephant' starts with a vowel sound, so 'an' is correct. The second mention uses 'the'."
+            },
+            {
+              "id": 4,
+              "question": "Is 'information' countable or uncountable?",
+              "question_type": "multiple-choice",
+              "options": ["Countable", "Uncountable", "Both", "Neither"],
+              "correct_answer": "Uncountable",
+              "explanation": "'Information' is uncountable. You can't say 'three informations'. Instead, use 'three pieces of information'."
+            },
+            {
+              "id": 5,
+              "question": "Which word is NOT a common noun?",
+              "question_type": "multiple-choice",
+              "options": ["book", "table", "Tokyo", "window"],
+              "correct_answer": "Tokyo",
+              "explanation": "Tokyo is a proper noun (a specific city name). Book, table, and window are common nouns (general categories)."
+            }
+          ]
+        },
+        "medium": {
+          "level": "Medium - Application",
+          "description": "These questions require you to apply your knowledge of common nouns in context.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Complete the sentence: 'I bought _____ apples at the market yesterday.'",
+              "question_type": "fill-blank",
+              "options": ["a", "an", "three", "the"],
+              "correct_answer": "three",
+              "explanation": "Since you're talking about a specific quantity, use the number 'three'. This shows 'apple' is countable."
+            },
+            {
+              "id": 2,
+              "question": "Which sentence correctly uses the plural form?",
+              "question_type": "multiple-choice",
+              "options": ["The boxs are in the room.", "The boxes are in the room.", "The box are in the room.", "The boxess are in the room."],
+              "correct_answer": "The boxes are in the room.",
+              "explanation": "'Box' becomes 'boxes' in plural (add '-es' because it ends in 'x'). Also, 'are' is correct for plural."
+            },
+            {
+              "id": 3,
+              "question": "Identify the common nouns in this sentence: 'The cat jumped on the table and broke a cup.'",
+              "question_type": "multiple-choice",
+              "options": ["cat, table, broke", "jumped, on, broke", "cat, table, cup", "the, a, and"],
+              "correct_answer": "cat, table, cup",
+              "explanation": "The common nouns are 'cat', 'table', and 'cup'. These are things/objects. 'Jumped' is a verb, and 'the', 'a', 'and' are articles/conjunctions."
+            },
+            {
+              "id": 4,
+              "question": "Which statement is correct about uncountable common nouns?",
+              "question_type": "multiple-choice",
+              "options": ["They can be made plural by adding 's'", "They cannot be counted individually", "They always need the article 'a'", "They are always abstract"],
+              "correct_answer": "They cannot be counted individually",
+              "explanation": "Uncountable nouns cannot be counted (water, furniture, advice). They don't take 's' for plural, can use 'the' or zero article, and can be concrete (water) or abstract (advice)."
+            },
+            {
+              "id": 5,
+              "question": "What is the difference between 'a' and 'the' before a common noun?",
+              "question_type": "fill-blank",
+              "options": ["'A' is used for specific items, 'the' for general items", "'A' is used for general items not yet mentioned, 'the' for specific or previously mentioned items", "'A' is for singular, 'the' is for plural", "'A' is for countable, 'the' is for uncountable"],
+              "correct_answer": "'A' is used for general items not yet mentioned, 'the' for specific or previously mentioned items",
+              "explanation": "When you first mention something general: 'I saw a cat.' When you refer to a specific one: 'The cat was brown.' The difference is specificity/familiarity, not countability."
+            }
+          ]
+        },
+        "hard": {
+          "level": "Hard - Analysis & Synthesis",
+          "description": "These questions require deeper analysis and application of multiple rules.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Analyze this passage and explain why the article usage changes: 'I met a woman yesterday. The woman was very interesting. We had coffee and discussed many topics.'",
+              "question_type": "multiple-choice",
+              "options": ["The writer made a mistake", "'A woman' introduces a new person; 'the woman' refers to that specific person already introduced", "'A' and 'the' are used randomly", "The writer forgot to include 'the' in the first sentence"],
+              "correct_answer": "'A woman' introduces a new person; 'the woman' refers to that specific person already introduced",
+              "explanation": "The first mention uses 'a' (indefinite article) because the reader doesn't know which woman. The second mention uses 'the' because now we're discussing that specific woman already introduced."
+            },
+            {
+              "id": 2,
+              "question": "Which sentence demonstrates correct use of both countable and uncountable nouns?",
+              "question_type": "multiple-choice",
+              "options": ["I need three furnitures and some water for my room.", "I need three chairs and some water for my room.", "I need some tables and some waters for my room.", "I need three equipments and some advice."],
+              "correct_answer": "I need three chairs and some water for my room.",
+              "explanation": "'Chairs' is countable (three chairs is correct). 'Water' is uncountable (some water is correct). The other sentences incorrectly pluralize uncountable nouns like 'furniture', 'water', 'equipment'."
+            },
+            {
+              "id": 3,
+              "question": "Identify and correct all errors in this sentence: 'The students needs to bring their books to the class tomorrow morning.'",
+              "question_type": "fill-blank",
+              "options": ["No errors", "Change 'needs' to 'need' (plural verb agreement)", "Add 'a' before 'class'", "Change 'their' to 'his'"],
+              "correct_answer": "Change 'needs' to 'need' (plural verb agreement)",
+              "explanation": "'Students' is plural, so the verb must be 'need' not 'needs'. The articles and possessives are used correctly. This tests understanding of subject-verb agreement with common nouns."
+            },
+            {
+              "id": 4,
+              "question": "Which sentence best demonstrates the distinction between concrete and abstract common nouns?",
+              "question_type": "multiple-choice",
+              "options": ["I like cats and dogs.", "The building was tall and modern.", "Her courage inspired hope in everyone.", "We saw trees and flowers in the park."],
+              "correct_answer": "Her courage inspired hope in everyone.",
+              "explanation": "'Courage' and 'hope' are abstract common nouns (you can't touch them). The other sentences primarily use concrete nouns (things you can see/touch)."
+            },
+            {
+              "id": 5,
+              "question": "Explain why this sentence is incorrect: 'The peoples in the city is very friendly.'",
+              "question_type": "fill-blank",
+              "options": ["'Peoples' is used incorrectly; 'people' is already plural and doesn't take 's'", "Should use 'are' instead of 'is' for plural", "Should use 'the' instead of 'a'", "Both A and B are correct"],
+              "correct_answer": "Both A and B are correct",
+              "explanation": "'People' is the plural of 'person'. You don't say 'peoples'. Also, 'are' not 'is' agrees with the plural subject. Both errors must be corrected: 'The people in the city are very friendly.'"
+            }
+          ]
+        }
+      },
+
+      "video_resources": {
+        "title": "4 Video Resources: Common Nouns",
+        "videos": [
+          {
+            "id": 1,
+            "title": "Understanding Common Nouns - English Grammar Basics",
+            "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            "description": "A comprehensive introduction to common nouns with clear examples and explanations. This video covers the basic definition, how to identify common nouns, and how they differ from proper nouns.",
+            "duration": "8:45",
+            "difficulty": "Beginner",
+            "key_topics": ["What are common nouns", "Common vs Proper nouns", "Concrete vs Abstract nouns", "Basic examples"]
+          },
+          {
+            "id": 2,
+            "title": "Countable vs Uncountable Nouns - Full Explanation",
+            "url": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+            "description": "Deep dive into the distinction between countable and uncountable common nouns. Learn which articles to use, how to form plurals, and common mistakes students make.",
+            "duration": "12:30",
+            "difficulty": "Beginner-Intermediate",
+            "key_topics": ["Countable nouns", "Uncountable nouns", "Articles (a, an, the)", "Plural forms", "Common mistakes"]
+          },
+          {
+            "id": 3,
+            "title": "Plural Rules: Regular and Irregular Nouns",
+            "url": "https://www.youtube.com/watch?v=2xvPnrVtqWE",
+            "description": "Master the rules for making nouns plural, including regular patterns and irregular exceptions. Includes practice exercises and memorable examples.",
+            "duration": "15:20",
+            "difficulty": "Beginner-Intermediate",
+            "key_topics": ["Adding -s and -es", "Consonant + y rules", "Irregular plurals", "Practice exercises"]
+          },
+          {
+            "id": 4,
+            "title": "Using Articles: When to Use A, An, and The",
+            "url": "https://www.youtube.com/watch?v=MJxfJ8dAGlU",
+            "description": "Complete guide to using articles correctly with common nouns. Learn the rules for 'a', 'an', and 'the', and practice with real-world examples.",
+            "duration": "18:00",
+            "difficulty": "Intermediate",
+            "key_topics": ["Indefinite articles (a, an)", "Definite article (the)", "Zero article", "Exceptions and special cases"]
+          }
+        ]
+      },
+
+      "downloadable_content": {
+        "title": "Download Complete Guide",
+        "formats": {
+          "pdf": {
+            "title": "PDF Guide",
+            "filename": "Common_Nouns_Complete_Guide.pdf",
+            "size": "2.4 MB",
+            "includes": ["All sections", "Printable format", "Examples", "Practice questions"]
+          },
+          "docx": {
+            "title": "Word Document",
+            "filename": "Common_Nouns_Complete_Guide.docx",
+            "size": "1.8 MB",
+            "includes": ["All sections", "Editable format", "Examples", "Practice questions"]
+          }
+        }
+      },
+
+      "metadata": {
+        "created_date": "2025-11-17",
+        "last_updated": "2025-11-17",
+        "version": "1.0",
+        "estimated_learning_time": "60-90 minutes",
+        "target_proficiency_level": "A1-A2",
+        "prerequisites": ["Basic English vocabulary"],
+        "related_topics": ["Proper Nouns", "Countable vs Uncountable Nouns", "Articles (a, an, the)"],
+        "total_content_items": {
+          "examples": 10,
+          "rules": 5,
+          "mistakes": 8,
+          "practice_questions": 15,
+          "videos": 4
+        }
+      }
+    }
+  ]
+}

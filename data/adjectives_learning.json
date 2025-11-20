@@ -1,0 +1,260 @@
+{
+  "part_id": 4,
+  "name": "Adjective",
+  "definition": "An adjective is a word that describes or modifies a noun or pronoun. It adds information about qualities, quantity, or characteristics of the noun.",
+  "importance": "Adjectives make our writing more vivid, descriptive, and interesting. They help readers understand better what we're talking about by providing specific details and qualities.",
+  "icon": "🎨",
+  "tagline": "Describe, modify, and paint vivid pictures with words!",
+
+  "types": [
+    {
+      "id": 1,
+      "name": "Descriptive Adjectives",
+      "emoji": "✨",
+      "description": "Adjectives that describe the qualities or characteristics of a noun. They answer questions like 'what kind?' or 'how is it?'",
+      "examples": ["beautiful", "tall", "old", "happy", "cold", "bright", "soft", "delicious", "interesting", "lazy"],
+      "color": "#ec4899"
+    },
+    {
+      "id": 2,
+      "name": "Quantitative Adjectives",
+      "emoji": "🔢",
+      "description": "Adjectives that show amount or quantity of a noun. They answer 'how much?' or 'how many?'",
+      "examples": ["some", "many", "few", "all", "several", "much", "little", "enough", "more", "less"],
+      "color": "#f472b6"
+    },
+    {
+      "id": 3,
+      "name": "Possessive Adjectives",
+      "emoji": "🎁",
+      "description": "Adjectives that show ownership or possession. They show that something belongs to someone.",
+      "examples": ["my", "your", "his", "her", "its", "our", "their"],
+      "color": "#fbcfe8"
+    },
+    {
+      "id": 4,
+      "name": "Demonstrative Adjectives",
+      "emoji": "👉",
+      "description": "Adjectives that point to or identify specific nouns. They show which person or thing we're referring to.",
+      "examples": ["this", "that", "these", "those"],
+      "color": "#f9a8d4"
+    }
+  ],
+
+  "rules": [
+    {
+      "type": "do",
+      "title": "DO: Place Adjectives Before Nouns",
+      "points": [
+        "Adjectives come before the noun they describe: 'a beautiful house' not 'a house beautiful'",
+        "Multiple adjectives follow a natural order: size, color, type",
+        "In English, adjective order is: Opinion → Size → Age → Color → Origin → Material → Purpose"
+      ],
+      "examples": [
+        "✅ The big red apple",
+        "✅ A comfortable leather chair",
+        "✅ Three yellow flowers"
+      ]
+    },
+    {
+      "type": "do",
+      "title": "DO: Use Comparative and Superlative Forms Correctly",
+      "points": [
+        "Comparative (-er): comparing two things: 'She is taller than him.'",
+        "Superlative (-est): comparing three or more: 'She is the tallest student.'",
+        "For longer adjectives, use 'more' and 'most': 'more beautiful', 'most beautiful'"
+      ],
+      "examples": [
+        "✅ This book is more interesting than that one.",
+        "✅ She is the most talented musician.",
+        "✅ The sun is hotter than the moon."
+      ]
+    },
+    {
+      "type": "do",
+      "title": "DO: Use Adjectives After Linking Verbs",
+      "points": [
+        "Adjectives describe the subject after linking verbs: 'The food is delicious.'",
+        "Common linking verbs: is, am, are, was, were, become, seem, taste, smell, look, feel, sound",
+        "The adjective remains unchanged after linking verbs"
+      ],
+      "examples": [
+        "✅ The weather is sunny.",
+        "✅ The music sounds beautiful.",
+        "✅ She seems happy."
+      ]
+    },
+    {
+      "type": "dont",
+      "title": "DON'T: Use Adverbs Instead of Adjectives After Linking Verbs",
+      "points": [
+        "Don't use 'quickly' after 'is': 'The car is quickly' (wrong). Use 'fast': 'The car is fast.'",
+        "After linking verbs, use adjectives, not adverbs",
+        "Exception: 'The car runs quickly.' (Here 'runs' is action verb, so use adverb 'quickly')"
+      ],
+      "examples": [
+        "❌ She feels bad. → ✅ She feels bad. (Adjective: describes her state)",
+        "❌ The food tastes deliciously. → ✅ The food tastes delicious. (Adjective)",
+        "❌ The song sounds beautifully. → ✅ The song sounds beautiful. (Adjective)"
+      ]
+    },
+    {
+      "type": "dont",
+      "title": "DON'T: Confuse Comparative and Superlative",
+      "points": [
+        "Don't use superlative when comparing two: 'She is the tallest of two.' (Use comparative: 'She is taller.')",
+        "Don't use comparative when comparing three or more: 'She is taller than all.' (Use superlative: 'She is the tallest.')",
+        "Be consistent: 'more intelligent' not 'intelligenter'"
+      ],
+      "examples": [
+        "❌ Of two sisters, she is the tallest. → ✅ Of two sisters, she is the taller.",
+        "❌ She is the more beautiful of the three girls. → ✅ She is the most beautiful of the three.",
+        "❌ He is more smart than his brother. → ✅ He is smarter than his brother."
+      ]
+    }
+  ],
+
+  "examples": [
+    {
+      "sentence": "The old wooden house stood on the hill.",
+      "usage_pattern": "Multiple descriptive adjectives before noun",
+      "category": "Description"
+    },
+    {
+      "sentence": "She bought three beautiful red roses.",
+      "usage_pattern": "Quantitative and descriptive adjectives together",
+      "category": "Shopping"
+    },
+    {
+      "sentence": "Your friend is more outgoing than mine.",
+      "usage_pattern": "Comparative adjective in comparison",
+      "category": "Personality"
+    },
+    {
+      "sentence": "That is the most interesting book I've read.",
+      "usage_pattern": "Superlative adjective with 'the'",
+      "category": "Books"
+    },
+    {
+      "sentence": "The weather is sunny and warm today.",
+      "usage_pattern": "Two adjectives after linking verb",
+      "category": "Weather"
+    },
+    {
+      "sentence": "His car is faster and more expensive than mine.",
+      "usage_pattern": "Comparative forms with 'and'",
+      "category": "Comparison"
+    },
+    {
+      "sentence": "These delicate flowers are very fragile.",
+      "usage_pattern": "Possessive and descriptive adjectives",
+      "category": "Nature"
+    },
+    {
+      "sentence": "This is my most favorite shirt.",
+      "usage_pattern": "Possessive adjective with superlative",
+      "category": "Clothing"
+    }
+  ],
+
+  "exercises": [
+    {
+      "type": "writing",
+      "title": "Describe Using Adjectives",
+      "prompt": "Choose an object in your room and write a paragraph describing it using at least 5 different adjectives. Use correct adjective placement and a mix of descriptive and quantitative adjectives.",
+      "sample_answer": "My desk is a large wooden furniture piece. It has several drawers that are deep and spacious. The smooth surface is perfect for studying. I keep many important books and a few personal items on it. The dark brown color matches my room beautifully."
+    },
+    {
+      "type": "reading",
+      "title": "Identify and Correct Adjective Errors",
+      "passage": "I went to a beautiful park yesterday. It was the most beautiful place I've visited. I saw three red and white birds. The weather was perfect and warm. The grass is very greenest. My sister is more tall than me. The park is the most prettiest place in the city.",
+      "highlights": ["is very greenest", "is more tall", "is the most prettiest"],
+      "sample_answer": "I went to a beautiful park yesterday. It was the most beautiful place I've visited. I saw three red and white birds. The weather was perfect and warm. The grass was very green. My sister is taller than me. The park is the prettiest place in the city."
+    }
+  ],
+
+  "common_mistakes": [
+    {
+      "error": "I have three red beautiful cars.",
+      "correct": "I have three beautiful red cars.",
+      "explanation": "Adjective order: Opinion (beautiful) comes before Color (red). Better order: opinion, size, color, origin."
+    },
+    {
+      "error": "The soup is tasting deliciously.",
+      "correct": "The soup is tasting delicious. (Or: The soup tastes delicious.)",
+      "explanation": "After linking verb 'tastes', use adjective (delicious), not adverb (deliciously)."
+    },
+    {
+      "error": "She is the more intelligent of three students.",
+      "correct": "She is the most intelligent of three students.",
+      "explanation": "With three or more items, use superlative (most), not comparative (more)."
+    },
+    {
+      "error": "He is more taller than his brother.",
+      "correct": "He is taller than his brother.",
+      "explanation": "Don't use 'more' with '-er' form. Use either 'taller' or 'more tall', but not both."
+    },
+    {
+      "error": "The big red happy dog",
+      "correct": "The big happy red dog (or the big red dog if not emphasizing happiness)",
+      "explanation": "When multiple adjectives precede a noun, follow natural order: size, opinion, color."
+    },
+    {
+      "error": "The flowers are very unique.",
+      "correct": "The flowers are unique. (Or: The flowers are quite unique.)",
+      "explanation": "Some adjectives like 'unique', 'perfect', 'complete' are absolute and shouldn't be modified by 'very'."
+    },
+    {
+      "error": "She felt badly about the mistake.",
+      "correct": "She felt bad about the mistake.",
+      "explanation": "After linking verb 'felt', use adjective (bad), not adverb (badly). 'Badly' is for how an action is performed."
+    },
+    {
+      "error": "I have many informations to share.",
+      "correct": "I have much information to share.",
+      "explanation": "'Information' is uncountable. Use 'much' for uncountable nouns, 'many' for countable."
+    }
+  ],
+
+  "quick_facts": [
+    "Adjectives don't change form based on the noun's number (big house, big houses).",
+    "English adjectives almost always come before the noun, unlike some other languages.",
+    "The word 'little' is both an adjective (the little house) and a quantifier.",
+    "Possessive adjectives (my, your, his, her, its, our, their) are sometimes called possessive determiners.",
+    "Comparative forms: add '-er' (slow→slower) or use 'more' (beautiful→more beautiful).",
+    "Superlative forms: add '-est' (slow→slowest) or use 'most' (beautiful→most beautiful).",
+    "Some adjectives have irregular comparative/superlative forms: good→better→best, bad→worse→worst.",
+    "Adjectives can be modified by adverbs: 'very beautiful', 'extremely tall', 'quite interesting'."
+  ],
+
+  "videos": [
+    {
+      "title": "Adjectives in English - Complete Guide",
+      "url": "https://www.youtube.com/watch?v=Adjectives_Complete_Guide",
+      "description": "Learn all types of adjectives with clear examples"
+    },
+    {
+      "title": "Adjective Order and Placement",
+      "url": "https://www.youtube.com/watch?v=Adjective_Order_English",
+      "description": "Master the correct order of multiple adjectives"
+    },
+    {
+      "title": "Comparative and Superlative Adjectives",
+      "url": "https://www.youtube.com/watch?v=Comparative_Superlative_Adjectives",
+      "description": "Learn how to form and use comparative and superlative forms"
+    }
+  ],
+
+  "resources": [
+    {
+      "title": "Adjective List and Categories",
+      "url": "https://www.englishgrammar.org/adjectives-categories",
+      "description": "Comprehensive list of adjectives organized by type and category"
+    },
+    {
+      "title": "Adjective Order Rules",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/adjectives",
+      "description": "Learn the rules for ordering multiple adjectives in English"
+    }
+  ]
+}

@@ -1,0 +1,543 @@
+{
+  "categories": [
+    {
+      "id": "parts-of-speech",
+      "title": "Parts of Speech",
+      "icon": "📚",
+      "description": "Learn the 9 fundamental building blocks of English sentences",
+      "color": "blue",
+      "topics": [
+        {
+          "id": "verbs",
+          "title": "Verbs",
+          "icon": "🏃",
+          "subtitle": "Action and State Verbs",
+          "description": "Verbs express actions (run, write) or states (be, have, know)",
+          "content": {
+            "definition": "A verb is a word that expresses an action, occurrence, or state of being.",
+            "types": [
+              {
+                "name": "Action Verbs",
+                "explanation": "Express physical or mental actions",
+                "examples": ["run", "jump", "think", "believe", "write", "study"]
+              },
+              {
+                "name": "State Verbs",
+                "explanation": "Express states, feelings, or conditions (not actions)",
+                "examples": ["be", "have", "know", "love", "understand", "belong"]
+              },
+              {
+                "name": "Transitive Verbs",
+                "explanation": "Require an object to complete their meaning",
+                "examples": ["She bought a car", "He reads books", "They love pizza"]
+              },
+              {
+                "name": "Intransitive Verbs",
+                "explanation": "Don't need an object",
+                "examples": ["Birds fly", "She laughed", "The sun rises"]
+              }
+            ],
+            "rules": [
+              "Verbs change form based on tense (present, past, future)",
+              "Verbs must agree with their subject in number (singular/plural)",
+              "State verbs are rarely used in continuous tenses"
+            ]
+          },
+          "exercises": [
+            {
+              "type": "identify",
+              "question": "Identify the verb in each sentence:",
+              "items": [
+                {
+                  "sentence": "The cat sleeps on the couch.",
+                  "answer": "sleeps",
+                  "explanation": "'Sleeps' is the action verb showing what the cat does."
+                },
+                {
+                  "sentence": "She knows the answer.",
+                  "answer": "knows",
+                  "explanation": "'Knows' is a state verb expressing knowledge."
+                },
+                {
+                  "sentence": "They are playing football.",
+                  "answer": "are playing",
+                  "explanation": "'Are playing' is the complete verb phrase (auxiliary + main verb)."
+                }
+              ]
+            },
+            {
+              "type": "fill-blank",
+              "question": "Complete the sentences with the correct verb form:",
+              "items": [
+                {
+                  "sentence": "She ___ (go) to school every day.",
+                  "answer": "goes",
+                  "options": ["go", "goes", "going", "gone"],
+                  "explanation": "Use 'goes' for third person singular in present simple."
+                },
+                {
+                  "sentence": "We ___ (have) dinner at 7pm yesterday.",
+                  "answer": "had",
+                  "options": ["have", "has", "had", "having"],
+                  "explanation": "'Had' is the past tense of 'have'."
+                },
+                {
+                  "sentence": "They ___ (study) right now.",
+                  "answer": "are studying",
+                  "options": ["study", "studies", "are studying", "studied"],
+                  "explanation": "Use present continuous (are + verb+ing) for actions happening now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "nouns",
+          "title": "Nouns",
+          "icon": "🏠",
+          "subtitle": "People, Places, and Things",
+          "description": "Nouns name people (John), places (London), things (book), or ideas (love)",
+          "content": {
+            "definition": "A noun is a word that names a person, place, thing, or idea.",
+            "types": [
+              {
+                "name": "Common Nouns",
+                "explanation": "General names for things",
+                "examples": ["dog", "city", "teacher", "book", "car", "happiness"]
+              },
+              {
+                "name": "Proper Nouns",
+                "explanation": "Specific names (always capitalized)",
+                "examples": ["London", "Sarah", "Monday", "English", "December", "Tesla"]
+              },
+              {
+                "name": "Countable Nouns",
+                "explanation": "Can be counted (have singular and plural forms)",
+                "examples": ["one apple/two apples", "a car/three cars", "one child/many children"]
+              },
+              {
+                "name": "Uncountable Nouns",
+                "explanation": "Cannot be counted (no plural form)",
+                "examples": ["water", "rice", "information", "advice", "furniture", "music"]
+              },
+              {
+                "name": "Collective Nouns",
+                "explanation": "Groups of people or things",
+                "examples": ["team", "family", "class", "audience", "staff", "committee"]
+              }
+            ],
+            "rules": [
+              "Plural nouns usually add -s or -es (book → books, box → boxes)",
+              "Some nouns have irregular plurals (child → children, man → men)",
+              "Uncountable nouns use singular verbs (The water is cold)",
+              "Proper nouns always start with a capital letter"
+            ]
+          },
+          "exercises": [
+            {
+              "type": "classify",
+              "question": "Classify these nouns as countable or uncountable:",
+              "items": [
+                {
+                  "word": "apple",
+                  "answer": "countable",
+                  "explanation": "You can count apples: one apple, two apples."
+                },
+                {
+                  "word": "water",
+                  "answer": "uncountable",
+                  "explanation": "Water cannot be counted. Use: some water, a glass of water."
+                },
+                {
+                  "word": "furniture",
+                  "answer": "uncountable",
+                  "explanation": "Furniture is always uncountable. Say: a piece of furniture."
+                },
+                {
+                  "word": "book",
+                  "answer": "countable",
+                  "explanation": "Books can be counted: one book, five books."
+                }
+              ]
+            },
+            {
+              "type": "plural",
+              "question": "Write the plural form:",
+              "items": [
+                {"singular": "child", "answer": "children", "explanation": "Irregular plural"},
+                {"singular": "box", "answer": "boxes", "explanation": "Add -es after x"},
+                {"singular": "lady", "answer": "ladies", "explanation": "Change y to i and add -es"},
+                {"singular": "tooth", "answer": "teeth", "explanation": "Irregular plural"}
+              ]
+            }
+          ]
+        },
+        {
+          "id": "adjectives",
+          "title": "Adjectives",
+          "icon": "🎨",
+          "subtitle": "Describing Words",
+          "description": "Adjectives describe or modify nouns (beautiful, large, happy)",
+          "content": {
+            "definition": "An adjective is a word that describes or gives more information about a noun.",
+            "types": [
+              {
+                "name": "Descriptive Adjectives",
+                "explanation": "Describe qualities or characteristics",
+                "examples": ["beautiful", "tall", "intelligent", "red", "old", "expensive"]
+              },
+              {
+                "name": "Comparative Adjectives",
+                "explanation": "Compare two things",
+                "examples": ["bigger", "more beautiful", "better", "faster", "happier"]
+              },
+              {
+                "name": "Superlative Adjectives",
+                "explanation": "Show the highest degree (comparing 3+ things)",
+                "examples": ["biggest", "most beautiful", "best", "fastest", "happiest"]
+              }
+            ],
+            "rules": [
+              "Adjectives usually come before nouns: a red car",
+              "Short adjectives add -er/-est: big → bigger → biggest",
+              "Long adjectives use more/most: beautiful → more beautiful → most beautiful",
+              "Some adjectives are irregular: good → better → best"
+            ]
+          },
+          "exercises": [
+            {
+              "type": "comparative",
+              "question": "Write the comparative and superlative forms:",
+              "items": [
+                {
+                  "base": "tall",
+                  "comparative": "taller",
+                  "superlative": "tallest",
+                  "explanation": "Add -er/-est to short adjectives"
+                },
+                {
+                  "base": "expensive",
+                  "comparative": "more expensive",
+                  "superlative": "most expensive",
+                  "explanation": "Use more/most with long adjectives"
+                },
+                {
+                  "base": "good",
+                  "comparative": "better",
+                  "superlative": "best",
+                  "explanation": "Irregular adjective"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "adverbs",
+          "title": "Adverbs",
+          "icon": "⚡",
+          "subtitle": "Modifying Verbs, Adjectives, and Other Adverbs",
+          "description": "Adverbs tell us how, when, where, or how often something happens",
+          "content": {
+            "definition": "An adverb modifies verbs, adjectives, or other adverbs.",
+            "types": [
+              {
+                "name": "Manner (How?)",
+                "examples": ["quickly", "carefully", "well", "badly", "loudly"]
+              },
+              {
+                "name": "Time (When?)",
+                "examples": ["now", "yesterday", "soon", "already", "still"]
+              },
+              {
+                "name": "Place (Where?)",
+                "examples": ["here", "there", "everywhere", "outside", "upstairs"]
+              },
+              {
+                "name": "Frequency (How often?)",
+                "examples": ["always", "usually", "often", "sometimes", "never"]
+              }
+            ],
+            "rules": [
+              "Many adverbs end in -ly: quick → quickly",
+              "Some adverbs don't change: fast, hard, late",
+              "Adverbs of frequency go before the main verb but after 'be'",
+              "Well is the adverb form of good"
+            ]
+          }
+        },
+        {
+          "id": "pronouns",
+          "title": "Pronouns",
+          "icon": "👤",
+          "subtitle": "Words That Replace Nouns",
+          "description": "Pronouns replace nouns to avoid repetition (I, you, he, she, it, we, they)",
+          "content": {
+            "definition": "A pronoun is a word that replaces a noun.",
+            "types": [
+              {
+                "name": "Subject Pronouns",
+                "examples": ["I", "you", "he", "she", "it", "we", "they"],
+                "usage": "Used as the subject of a sentence"
+              },
+              {
+                "name": "Object Pronouns",
+                "examples": ["me", "you", "him", "her", "it", "us", "them"],
+                "usage": "Used as the object of a verb or preposition"
+              },
+              {
+                "name": "Possessive Pronouns",
+                "examples": ["mine", "yours", "his", "hers", "its", "ours", "theirs"],
+                "usage": "Show ownership (without a noun after)"
+              },
+              {
+                "name": "Possessive Adjectives",
+                "examples": ["my", "your", "his", "her", "its", "our", "their"],
+                "usage": "Show ownership (with a noun after)"
+              }
+            ]
+          }
+        },
+        {
+          "id": "prepositions",
+          "title": "Prepositions",
+          "icon": "📍",
+          "subtitle": "Words Showing Relationships",
+          "description": "Prepositions show relationships in time, place, or direction",
+          "content": {
+            "definition": "A preposition shows the relationship between a noun/pronoun and other words.",
+            "categories": [
+              {
+                "name": "Time Prepositions",
+                "examples": ["at 5pm", "on Monday", "in January", "during the meeting", "before lunch", "after work"]
+              },
+              {
+                "name": "Place Prepositions",
+                "examples": ["at home", "on the table", "in the box", "under the bed", "above the door", "between"]
+              },
+              {
+                "name": "Direction Prepositions",
+                "examples": ["to school", "from London", "into the room", "out of the car", "through the park"]
+              }
+            ],
+            "rules": [
+              "Use AT with specific times and places: at 3pm, at the station",
+              "Use ON with days and dates: on Monday, on May 5th",
+              "Use IN with months, years, and enclosed spaces: in May, in 2024, in the room"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "verb-tenses",
+      "title": "Verb Tenses",
+      "icon": "⏰",
+      "description": "Master all 12 English tenses with examples and usage",
+      "color": "green",
+      "topics": [
+        {
+          "id": "present-simple",
+          "title": "Present Simple",
+          "icon": "🔄",
+          "description": "For habits, routines, facts, and general truths",
+          "content": {
+            "usage": [
+              "Habits and routines: I drink coffee every morning",
+              "General truths and facts: The sun rises in the east",
+              "Scheduled events: The train leaves at 8am",
+              "Instructions: You mix the ingredients and bake for 30 minutes"
+            ],
+            "form": {
+              "positive": {
+                "structure": "Subject + base verb (+ s/es for he/she/it)",
+                "examples": ["I work", "She works", "They play", "He watches"]
+              },
+              "negative": {
+                "structure": "Subject + do/does + not + base verb",
+                "examples": ["I don't work", "She doesn't work", "They don't play"]
+              },
+              "question": {
+                "structure": "Do/Does + subject + base verb?",
+                "examples": ["Do you work?", "Does she work?", "Do they play?"]
+              }
+            },
+            "timeMarkers": ["every day", "always", "usually", "often", "sometimes", "never"]
+          },
+          "exercises": [
+            {
+              "type": "mcq",
+              "questions": [
+                {
+                  "question": "She ___ to school every day.",
+                  "options": ["go", "goes", "going", "gone"],
+                  "answer": 1,
+                  "explanation": "Use 'goes' for third person singular (he/she/it) in present simple."
+                },
+                {
+                  "question": "They ___ pizza very often.",
+                  "options": ["doesn't eat", "don't eat", "not eat", "aren't eat"],
+                  "answer": 1,
+                  "explanation": "Use 'don't' with plural subjects and 'I/you'."
+                },
+                {
+                  "question": "___ he speak English?",
+                  "options": ["Do", "Does", "Is", "Are"],
+                  "answer": 1,
+                  "explanation": "Use 'Does' for questions with he/she/it."
+                }
+              ]
+            },
+            {
+              "type": "sentence-correction",
+              "questions": [
+                {
+                  "incorrect": "He go to work by bus.",
+                  "correct": "He goes to work by bus.",
+                  "error": "Missing 's' for third person singular"
+                },
+                {
+                  "incorrect": "She don't like coffee.",
+                  "correct": "She doesn't like coffee.",
+                  "error": "Use 'doesn't' with he/she/it"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "present-continuous",
+          "title": "Present Continuous",
+          "icon": "▶️",
+          "description": "For actions happening right now or around now",
+          "content": {
+            "usage": [
+              "Actions happening now: I am studying right now",
+              "Temporary situations: She is staying with friends this week",
+              "Future arrangements: We are meeting tomorrow at 5pm",
+              "Changing situations: The weather is getting colder"
+            ],
+            "form": {
+              "positive": {
+                "structure": "Subject + am/is/are + verb+ing",
+                "examples": ["I am working", "She is studying", "They are playing"]
+              },
+              "negative": {
+                "structure": "Subject + am/is/are + not + verb+ing",
+                "examples": ["I'm not working", "She isn't studying", "They aren't playing"]
+              },
+              "question": {
+                "structure": "Am/Is/Are + subject + verb+ing?",
+                "examples": ["Are you working?", "Is she studying?", "Are they playing?"]
+              }
+            },
+            "timeMarkers": ["now", "right now", "at the moment", "currently", "today", "this week"]
+          }
+        },
+        {
+          "id": "past-simple",
+          "title": "Past Simple",
+          "icon": "⏮️",
+          "description": "For completed actions in the past",
+          "content": {
+            "usage": [
+              "Completed past actions: I visited Paris last year",
+              "Past habits: She walked to school when she was young",
+              "Series of past events: He woke up, had breakfast, and left"
+            ],
+            "form": {
+              "regular": "Add -ed to base verb: work → worked, play → played",
+              "irregular": "Learn irregular forms: go → went, buy → bought, see → saw"
+            },
+            "timeMarkers": ["yesterday", "last week", "ago", "in 2020", "when I was young"]
+          }
+        },
+        {
+          "id": "present-perfect",
+          "title": "Present Perfect",
+          "icon": "✅",
+          "description": "For past actions with present relevance",
+          "content": {
+            "usage": [
+              "Life experiences: I have visited 10 countries",
+              "Recent past: She has just finished her homework",
+              "Unfinished time period: I have read 3 books this month",
+              "Actions continuing from past: I have lived here for 5 years"
+            ],
+            "form": {
+              "structure": "Subject + have/has + past participle",
+              "examples": ["I have worked", "She has finished", "They have gone"]
+            },
+            "timeMarkers": ["already", "just", "yet", "ever", "never", "for", "since"]
+          }
+        }
+      ]
+    },
+    {
+      "id": "sentence-structure",
+      "title": "Sentence Structure",
+      "icon": "🏗️",
+      "description": "Learn how to build correct English sentences",
+      "color": "purple",
+      "topics": [
+        {
+          "id": "sentence-types",
+          "title": "Types of Sentences",
+          "content": {
+            "types": [
+              {
+                "name": "Declarative (Statement)",
+                "purpose": "Makes a statement or expresses an opinion",
+                "examples": ["I love English.", "The sky is blue.", "She works in London."]
+              },
+              {
+                "name": "Interrogative (Question)",
+                "purpose": "Asks a question",
+                "examples": ["Do you like pizza?", "Where is the station?", "What time is it?"]
+              },
+              {
+                "name": "Imperative (Command)",
+                "purpose": "Gives a command, request, or instruction",
+                "examples": ["Close the door.", "Please sit down.", "Don't run!"]
+              },
+              {
+                "name": "Exclamatory",
+                "purpose": "Expresses strong emotion",
+                "examples": ["What a beautiful day!", "How amazing!", "I can't believe it!"]
+              }
+            ]
+          }
+        },
+        {
+          "id": "word-order",
+          "title": "Word Order Rules",
+          "content": {
+            "basicPattern": "Subject + Verb + Object (SVO)",
+            "examples": [
+              {"sentence": "She reads books", "breakdown": "S(She) + V(reads) + O(books)"},
+              {"sentence": "They play football", "breakdown": "S(They) + V(play) + O(football)"}
+            ],
+            "rules": [
+              "Adjectives come before nouns: a beautiful house (not a house beautiful)",
+              "Adverbs of frequency go before main verbs: She always arrives early",
+              "Time expressions usually come at the end: I go to work at 8am"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "quickReference": {
+    "commonMistakes": [
+      {"wrong": "She go to school", "right": "She goes to school", "rule": "Add 's' for he/she/it in present simple"},
+      {"wrong": "I am agree", "right": "I agree", "rule": "State verbs don't use continuous form"},
+      {"wrong": "He is more tall than me", "right": "He is taller than me", "rule": "Short adjectives add -er"},
+      {"wrong": "I have 25 years", "right": "I am 25 years old", "rule": "Use 'be' for age, not 'have'"}
+    ],
+    "irregularVerbs": [
+      {"base": "go", "past": "went", "pastParticiple": "gone"},
+      {"base": "see", "past": "saw", "pastParticiple": "seen"},
+      {"base": "buy", "past": "bought", "pastParticiple": "bought"},
+      {"base": "write", "past": "wrote", "pastParticiple": "written"}
+    ]
+  }
+}

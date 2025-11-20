@@ -1,0 +1,260 @@
+{
+  "part_id": 2,
+  "name": "Pronoun",
+  "definition": "A pronoun is a word used to replace a noun or another pronoun to avoid repetition and make sentences flow smoothly.",
+  "importance": "Pronouns are essential for creating natural, flowing conversations and writing. They help avoid repetitive use of nouns while maintaining clarity about who or what we're talking about.",
+  "icon": "🔄",
+  "tagline": "Replace nouns, reduce repetition, improve flow!",
+  
+  "types": [
+    {
+      "id": 1,
+      "name": "Personal Pronouns",
+      "emoji": "👤",
+      "description": "Pronouns that refer to specific people or things. They change form based on whether they are the subject or object of a sentence.",
+      "examples": ["I", "you", "he", "she", "it", "we", "they", "me", "him", "her", "us", "them"],
+      "color": "#a855f7"
+    },
+    {
+      "id": 2,
+      "name": "Possessive Pronouns",
+      "emoji": "🎁",
+      "description": "Pronouns that show ownership or belonging. They indicate that something belongs to someone.",
+      "examples": ["mine", "yours", "his", "hers", "ours", "theirs"],
+      "color": "#d946ef"
+    },
+    {
+      "id": 3,
+      "name": "Reflexive Pronouns",
+      "emoji": "🪞",
+      "description": "Pronouns that refer back to the subject of the sentence. They are used when the subject and object are the same.",
+      "examples": ["myself", "yourself", "himself", "herself", "itself", "ourselves", "yourselves", "themselves"],
+      "color": "#ec4899"
+    },
+    {
+      "id": 4,
+      "name": "Relative Pronouns",
+      "emoji": "🔗",
+      "description": "Pronouns that introduce relative clauses and connect them to the main clause. They refer to a noun mentioned before.",
+      "examples": ["who", "whom", "whose", "which", "that"],
+      "color": "#f472b6"
+    }
+  ],
+
+  "rules": [
+    {
+      "type": "do",
+      "title": "DO: Use Correct Person and Number",
+      "points": [
+        "Use 'I' for yourself, 'you' for the other person, 'he/she/it' for singular, 'we/they' for plural",
+        "Match the pronoun to the noun it replaces: 'The students studied hard. They passed the exam.'",
+        "Use 'we' when speaking about a group including yourself"
+      ],
+      "examples": [
+        "✅ Maria is a teacher. She loves her job.",
+        "✅ The books are on the shelf. They are interesting.",
+        "✅ John and I went to the movies. We enjoyed it."
+      ]
+    },
+    {
+      "type": "do",
+      "title": "DO: Use Subject Pronouns Correctly",
+      "points": [
+        "Use subject pronouns (I, you, he, she, it, we, they) as the subject of a sentence",
+        "Use subject pronouns after linking verbs like 'is', 'am', 'are'",
+        "Remember: subject pronouns perform the action"
+      ],
+      "examples": [
+        "✅ I am a student.",
+        "✅ She will help us.",
+        "✅ It is she who called."
+      ]
+    },
+    {
+      "type": "dont",
+      "title": "DON'T: Mix Up Subject and Object Pronouns",
+      "points": [
+        "Don't use object pronouns (me, you, him, her, it, us, them) as the subject of a sentence",
+        "Don't say 'Me and John went to school' - it should be 'John and I went to school'",
+        "Remember: object pronouns receive the action"
+      ],
+      "examples": [
+        "❌ Me and her went shopping. → ✅ She and I went shopping.",
+        "❌ Him is a doctor. → ✅ He is a doctor.",
+        "❌ They gave it to she. → ✅ They gave it to her."
+      ]
+    },
+    {
+      "type": "dont",
+      "title": "DON'T: Use Reflexive Pronouns Incorrectly",
+      "points": [
+        "Don't use reflexive pronouns instead of personal pronouns",
+        "Reflexive pronouns should only refer back to the subject",
+        "Don't say 'between you and myself' - say 'between you and me'"
+      ],
+      "examples": [
+        "❌ He hurt himself yesterday. (If he didn't do it to himself) → ✅ He hurt him yesterday.",
+        "❌ Send it to John and myself. → ✅ Send it to John and me.",
+        "❌ Myself and John are friends. → ✅ John and I are friends."
+      ]
+    },
+    {
+      "type": "do",
+      "title": "DO: Use Possessive Pronouns Correctly",
+      "points": [
+        "Use possessive pronouns to show ownership without using a noun after them",
+        "Possessive pronouns don't have apostrophes (avoid 'his', use 'his')",
+        "Use 'whose' for possessive interrogative pronoun"
+      ],
+      "examples": [
+        "✅ This book is mine. (Not: This is mine book)",
+        "✅ The car is theirs.",
+        "✅ Whose is this?"
+      ]
+    }
+  ],
+
+  "examples": [
+    {
+      "sentence": "Sarah loves reading. She reads every evening.",
+      "usage_pattern": "Personal pronoun replacing subject noun",
+      "category": "Replacement"
+    },
+    {
+      "sentence": "I gave him my number, and he called me.",
+      "usage_pattern": "Multiple pronouns showing subjects and objects",
+      "category": "Communication"
+    },
+    {
+      "sentence": "The book is hers; the pen is mine.",
+      "usage_pattern": "Possessive pronouns showing ownership",
+      "category": "Possession"
+    },
+    {
+      "sentence": "She hurt herself when she fell.",
+      "usage_pattern": "Reflexive pronoun for same subject",
+      "category": "Action"
+    },
+    {
+      "sentence": "The student who won the prize is talented.",
+      "usage_pattern": "Relative pronoun connecting clauses",
+      "category": "Description"
+    },
+    {
+      "sentence": "You and I should work together.",
+      "usage_pattern": "Subject pronouns in compound structures",
+      "category": "Collaboration"
+    },
+    {
+      "sentence": "They bought themselves new phones.",
+      "usage_pattern": "Reflexive pronoun for plural subject",
+      "category": "Personal Action"
+    },
+    {
+      "sentence": "The teacher, whom we respect, retired yesterday.",
+      "usage_pattern": "Objective relative pronoun",
+      "category": "Formality"
+    }
+  ],
+
+  "exercises": [
+    {
+      "type": "writing",
+      "title": "Rewrite Using Pronouns",
+      "prompt": "Rewrite the following paragraph using appropriate pronouns to replace repeated nouns:\n\nJohn is a software engineer. John works at a tech company. John's company is very successful. John and his colleagues developed a new app. The app is used by millions of people. Many people use the app every day.",
+      "sample_answer": "John is a software engineer. He works at a tech company. His company is very successful. He and his colleagues developed a new app. It is used by millions of people. Many use it every day."
+    },
+    {
+      "type": "reading",
+      "title": "Identify and Correct Pronoun Errors",
+      "passage": "Lisa and me went to the movies yesterday. We watched a film that were really entertaining. The actors in it was fantastic. Between you and myself, I think it was the best movie I've seen. Lisa, who I like very much, sat next to I. Her enjoyed it too. The ending surprised we all.",
+      "highlights": ["Lisa and me", "that were", "actors...was", "between you and myself", "next to I", "Her enjoyed", "surprised we"],
+      "sample_answer": "Lisa and I went to the movies yesterday. We watched a film that was really entertaining. The actors in it were fantastic. Between you and me, I think it was the best movie I've seen. Lisa, who I like very much, sat next to me. She enjoyed it too. The ending surprised us all."
+    }
+  ],
+
+  "common_mistakes": [
+    {
+      "error": "Me and my friend went shopping.",
+      "correct": "My friend and I went shopping.",
+      "explanation": "Use subject pronouns (I) for the subject of a sentence, not object pronouns (me). Also, put the other person first as a matter of courtesy."
+    },
+    {
+      "error": "She gave the book to John and me.",
+      "correct": "She gave the book to John and me.",
+      "explanation": "This is actually correct! Use object pronouns after prepositions like 'to'."
+    },
+    {
+      "error": "Between you and I, this is secret.",
+      "correct": "Between you and me, this is secret.",
+      "explanation": "After prepositions like 'between', use object pronouns (me), not subject pronouns (I)."
+    },
+    {
+      "error": "The team did it theirself.",
+      "correct": "The team did it themselves.",
+      "explanation": "Use the correct reflexive pronoun form. 'Theirself' doesn't exist; use 'themselves' for plural."
+    },
+    {
+      "error": "Who did you talk to? → It was me.",
+      "correct": "Who did you talk to? → It was I. (formal) or It was me. (informal)",
+      "explanation": "Technically, after linking verbs like 'was', use subject pronouns. However, 'It was me' is widely accepted in informal speech."
+    },
+    {
+      "error": "That is the woman which helped me.",
+      "correct": "That is the woman who helped me.",
+      "explanation": "'Who' refers to people; 'which' refers to things. 'That' can refer to either."
+    },
+    {
+      "error": "Myself and Sarah are going to the party.",
+      "correct": "Sarah and I are going to the party.",
+      "explanation": "Don't use reflexive pronouns as subjects. Use 'I' instead of 'myself'."
+    },
+    {
+      "error": "The book is hers'. It has hers name in it.",
+      "correct": "The book is hers. It has her name in it.",
+      "explanation": "Possessive pronouns don't have apostrophes. 'Hers' means 'belonging to her'; 'her' modifies the noun 'name'."
+    }
+  ],
+
+  "quick_facts": [
+    "English has 10 main subject pronouns: I, you, he, she, it, we, they (and archaic thou, ye)",
+    "Object pronouns are: me, you, him, her, it, us, them",
+    "Reflexive pronouns always end in '-self' or '-selves'",
+    "Pronouns are one of the most frequently used words in English",
+    "The word 'they' can now be used as a singular pronoun for non-binary people",
+    "Possessive pronouns never need apostrophes (its, not it's for possession)",
+    "'Who' is for subjects; 'whom' is for objects (though 'whom' is becoming less common)",
+    "Relative pronouns introduce dependent clauses that describe nouns"
+  ],
+
+  "videos": [
+    {
+      "title": "Pronouns Explained - Complete Guide",
+      "url": "https://www.youtube.com/watch?v=English_Pronouns_Guide",
+      "description": "Comprehensive overview of all pronoun types with clear examples"
+    },
+    {
+      "title": "Subject vs Object Pronouns",
+      "url": "https://www.youtube.com/watch?v=Subject_Object_Pronouns",
+      "description": "Learn when to use 'I' vs 'me', 'she' vs 'her', etc."
+    },
+    {
+      "title": "Common Pronoun Mistakes",
+      "url": "https://www.youtube.com/watch?v=Pronoun_Mistakes",
+      "description": "Avoid the most common pronoun errors in English"
+    }
+  ],
+
+  "resources": [
+    {
+      "title": "English Grammar Guide - Pronouns",
+      "url": "https://www.englishgrammar.org/pronouns",
+      "description": "Detailed reference guide with interactive exercises"
+    },
+    {
+      "title": "BBC Learning English - Pronouns",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/grammar",
+      "description": "Professional English teaching resource with audio"
+    }
+  ]
+}

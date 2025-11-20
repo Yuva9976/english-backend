@@ -1,0 +1,325 @@
+{
+  "part_id": 8,
+  "name": "Interjection",
+  "total_questions": 80,
+
+  "mcq": {
+    "easy": [
+      {
+        "id": 1,
+        "question": "What is an interjection?",
+        "options": ["an action word", "an emotion word", "a describing word", "a connecting word"],
+        "correct_answer": 1,
+        "explanation": "Interjections express emotions or reactions."
+      },
+      {
+        "id": 2,
+        "question": "Which word is an interjection?",
+        "options": ["happy", "run", "wow", "beautiful"],
+        "correct_answer": 2,
+        "explanation": "'Wow!' expresses surprise and emotion."
+      },
+      {
+        "id": 3,
+        "question": "What punctuation follows a strong interjection?",
+        "options": ["period", "comma", "exclamation mark", "question mark"],
+        "correct_answer": 2,
+        "explanation": "Strong interjections use exclamation marks: 'Wow!', 'Ouch!', 'Great!'"
+      },
+      {
+        "id": 4,
+        "question": "Which interjection shows pain?",
+        "options": ["Great!", "Ouch!", "Wow!", "Yay!"],
+        "correct_answer": 1,
+        "explanation": "'Ouch!' expresses pain or discomfort."
+      },
+      {
+        "id": 5,
+        "question": "Choose the correct sentence:",
+        "options": ["Wow the sunset is beautiful!", "Wow! The sunset is beautiful!", "Wow, the sunset beautiful.", "Wow the sunset and beautiful!"],
+        "correct_answer": 1,
+        "explanation": "Interjection needs exclamation mark, then separate sentence."
+      },
+      {
+        "id": 6,
+        "question": "What emotion does 'Congratulations!' express?",
+        "options": ["surprise", "joy/approval", "pain", "disgust"],
+        "correct_answer": 1,
+        "explanation": "'Congratulations!' shows joy and approval of someone's achievement."
+      },
+      {
+        "id": 7,
+        "question": "Which shows agreement?",
+        "options": ["Ouch!", "Ugh!", "Absolutely!", "What!"],
+        "correct_answer": 2,
+        "explanation": "'Absolutely!' expresses strong agreement or affirmation."
+      },
+      {
+        "id": 8,
+        "question": "What punctuation follows a mild interjection?",
+        "options": ["exclamation mark", "comma", "semicolon", "period"],
+        "correct_answer": 1,
+        "explanation": "Mild interjections use commas: 'Oh, I see.', 'Well, maybe.'"
+      },
+      {
+        "id": 9,
+        "question": "Which interjection gets someone's attention?",
+        "options": ["Yay!", "Hey!", "Oops!", "Gosh!"],
+        "correct_answer": 1,
+        "explanation": "'Hey!' is used to get someone's attention."
+      },
+      {
+        "id": 10,
+        "question": "What does 'Yay!' express?",
+        "options": ["pain", "disgust", "joy", "confusion"],
+        "correct_answer": 2,
+        "explanation": "'Yay!' shows excitement and joy."
+      }
+    ],
+
+    "medium": [
+      {
+        "id": 11,
+        "question": "Fix the error: 'Great because we won the game.'",
+        "options": ["change to 'Great! We won!'", "add comma", "change to 'Great and won'", "add 'that'"],
+        "correct_answer": 0,
+        "explanation": "Interjections stand alone. Don't use 'because' to connect."
+      },
+      {
+        "id": 12,
+        "question": "What's wrong? 'Oh and I didn't realize that.'",
+        "options": ["should be 'Oh! I didn't realize that.'", "should be 'Oh, and I...'", "should remove 'and'", "no error"],
+        "correct_answer": 0,
+        "explanation": "Don't use 'and' right after interjection. Separate with exclamation mark or comma."
+      },
+      {
+        "id": 13,
+        "question": "Which sentence correctly uses an interjection?",
+        "options": ["Wow that's amazing", "Wow! That's amazing!", "Wow, that's amazing and great", "Wow the amazing sunset."],
+        "correct_answer": 1,
+        "explanation": "Interjection needs punctuation, then a separate sentence."
+      },
+      {
+        "id": 14,
+        "question": "What's the error? 'Ugh is disgusting.'",
+        "options": ["'Ugh' can't be subject", "should use comma", "should remove 'is'", "no error"],
+        "correct_answer": 0,
+        "explanation": "Interjections can't be sentence subjects. Should be: 'Ugh! That's disgusting.'"
+      },
+      {
+        "id": 15,
+        "question": "Choose the correct sentence:",
+        "options": ["Ouch, that doesn't hurt.", "Ouch! That hurt!", "Ouch is painful.", "Ouch doesn't hurt here."],
+        "correct_answer": 1,
+        "explanation": "Use exclamation mark for pain interjections expressing immediate reaction."
+      },
+      {
+        "id": 16,
+        "question": "Which interjection shows disagreement/disgust?",
+        "options": ["Wonderful!", "Ugh!", "Yes!", "Sure!"],
+        "correct_answer": 1,
+        "explanation": "'Ugh!' expresses disgust or strong disapproval."
+      },
+      {
+        "id": 17,
+        "question": "What's wrong? 'Yes and I completely agree.'",
+        "options": ["should be 'Yes! I completely agree.'", "should use comma", "should add 'that'", "no error"],
+        "correct_answer": 0,
+        "explanation": "Interjections stand alone. Use exclamation mark, not 'and'."
+      },
+      {
+        "id": 18,
+        "question": "Which is the most appropriate for formal writing?",
+        "options": ["Yay! This essay is awesome!", "This essay presents compelling arguments.", "Wow! Great work!", "Awesome job, dude!"],
+        "correct_answer": 1,
+        "explanation": "Formal writing avoids casual interjections."
+      },
+      {
+        "id": 19,
+        "question": "Choose the correct interjection use:",
+        "options": ["'Oh, I see,' said Mary.", "'Oh I see' said Mary.", "'Oh and I see,' Mary said.", "'Oh, I see and Mary'."],
+        "correct_answer": 0,
+        "explanation": "Mild interjection 'Oh' with comma separates it from main sentence in dialogue."
+      },
+      {
+        "id": 20,
+        "question": "What's the error? 'Hmm and I wonder about this.'",
+        "options": ["should be 'Hmm, I wonder about this.'", "should remove 'and'", "should use '!'", "A or B"],
+        "correct_answer": 3,
+        "explanation": "Both A and B fix the error - either remove 'and' or use comma instead."
+      }
+    ],
+
+    "hard": [
+      {
+        "id": 21,
+        "question": "Which sentence uses multiple interjections correctly?",
+        "options": ["Wow! Oh! That's amazing!", "Wow and oh that's amazing!", "Wow! Oh, that's amazing.", "All of the above."],
+        "correct_answer": 2,
+        "explanation": "Consecutive interjections need separate punctuation for each."
+      },
+      {
+        "id": 22,
+        "question": "In British English, what interjection expresses surprise?",
+        "options": ["Wow!", "Gosh!", "Blimey!", "What!"],
+        "correct_answer": 2,
+        "explanation": "'Blimey!' is a British interjection of surprise."
+      },
+      {
+        "id": 23,
+        "question": "Which is correct in dialogue? 'Absolutely,' she said, 'I agree!'",
+        "options": ["should be 'Absolutely! I agree!'", "punctuation is correct", "should remove comma after 'Absolutely'", "should use semicolon"],
+        "correct_answer": 1,
+        "explanation": "The mild interjection 'Absolutely' with comma before dialogue is correctly punctuated."
+      },
+      {
+        "id": 24,
+        "question": "What's wrong? 'Congratulations that you got the job!'",
+        "options": ["should be 'Congratulations! You got the job!'", "should use comma", "'that' is the problem", "no error"],
+        "correct_answer": 0,
+        "explanation": "Interjections stand alone. Remove 'that' and separate the exclamation."
+      },
+      {
+        "id": 25,
+        "question": "Which interjection would fit? '___! The weather is beautiful today!'",
+        "options": ["Oh", "Wow", "Ouch", "Eww"],
+        "correct_answer": 1,
+        "explanation": "'Wow!' expresses admiration for beautiful weather."
+      },
+      {
+        "id": 26,
+        "question": "Choose the sentence showing appropriate formality level:",
+        "options": ["Awesome! This report rocks!", "This report presents thorough research and well-supported conclusions.", "Yay! Great job on this!", "Wow, this is amazing and awesome!"],
+        "correct_answer": 1,
+        "explanation": "Formal writing avoids casual interjections like 'awesome', 'yay', 'wow'."
+      },
+      {
+        "id": 27,
+        "question": "What's the error? 'Alas the opportunity was missed.'",
+        "options": ["should be 'Alas! The opportunity was missed.'", "should be 'Alas, the opportunity was missed.'", "'alas' is wrong", "B or C"],
+        "correct_answer": 1,
+        "explanation": "'Alas' is a mild interjection of regret, so comma is appropriate."
+      },
+      {
+        "id": 28,
+        "question": "Which dialogue correctly uses an interjection?",
+        "options": ["'Oh and I didn't know,' she said.", "'Oh! I didn't know,' she said.", "'Oh, I didn't and know,' she said.", "'Oh I didn't know,' she said."],
+        "correct_answer": 1,
+        "explanation": "Interjection separated by exclamation mark from the statement."
+      },
+      {
+        "id": 29,
+        "question": "What emotion does 'Psst!' express?",
+        "options": ["pain", "joy", "getting attention quietly", "disagreement"],
+        "correct_answer": 2,
+        "explanation": "'Psst!' is used to quietly get someone's attention."
+      },
+      {
+        "id": 30,
+        "question": "Which is correct? 'Yes _____ I agree completely.'",
+        "options": ["and", "but", "!... (should be separate sentence)", "or"],
+        "correct_answer": 2,
+        "explanation": "Should be 'Yes! I agree completely.' - not 'Yes and'."
+      }
+    ]
+  },
+
+  "fill_in_blank": [
+    {
+      "id": 1,
+      "question": "_____ That's incredible!",
+      "correct_answer": "Wow",
+      "explanation": "'Wow!' expresses amazement."
+    },
+    {
+      "id": 2,
+      "question": "_____ I didn't expect that.",
+      "correct_answer": "Oh",
+      "explanation": "'Oh' with comma shows mild surprise."
+    },
+    {
+      "id": 3,
+      "question": "_____ The performance was outstanding!",
+      "correct_answer": "Bravo",
+      "explanation": "'Bravo!' expresses approval and applause."
+    },
+    {
+      "id": 4,
+      "question": "_____ I think I hurt myself!",
+      "correct_answer": "Ouch",
+      "explanation": "'Ouch!' expresses pain."
+    },
+    {
+      "id": 5,
+      "question": "_____ We won the championship!",
+      "correct_answer": "Yay",
+      "explanation": "'Yay!' expresses joy and excitement."
+    },
+    {
+      "id": 6,
+      "question": "_____ That's disgusting!",
+      "correct_answer": "Ugh",
+      "explanation": "'Ugh!' expresses disgust."
+    },
+    {
+      "id": 7,
+      "question": "_____ Listen, can you hear that?",
+      "correct_answer": "Hey",
+      "explanation": "'Hey!' gets attention."
+    },
+    {
+      "id": 8,
+      "question": "_____ I'm not sure about this.",
+      "correct_answer": "Hmm",
+      "explanation": "'Hmm' with comma shows thoughtfulness."
+    },
+    {
+      "id": 9,
+      "question": "_____ I completely agree with you!",
+      "correct_answer": "Absolutely",
+      "explanation": "'Absolutely!' expresses strong agreement."
+    },
+    {
+      "id": 10,
+      "question": "_____ That was my mistake!",
+      "correct_answer": "Oops",
+      "explanation": "'Oops!' expresses realization of a mistake."
+    }
+  ],
+
+  "reading_comprehension": [
+    {
+      "id": 1,
+      "title": "A Surprising Day",
+      "difficulty": "easy",
+      "passage": "It was a normal Monday morning. Sarah was getting ready for work. Suddenly, she heard a loud noise outside. 'Wow!' she shouted. 'What was that?' She looked out the window. 'Oh! I see!' she said. 'The new neighbors are moving in!' She was excited. 'Great! Maybe they have children,' she thought. 'Hmm, I should bake something to welcome them.' By afternoon, she had prepared cookies. 'Wonderful!' she said happily. 'I'm going to take these to them now.'",
+      "questions": [
+        {
+          "question": "What interjection did Sarah use when she heard the noise?",
+          "options": ["Oh", "Wow", "Great", "Hmm"],
+          "correct_answer": 1
+        },
+        {
+          "question": "Why was Sarah excited?",
+          "options": ["she got a promotion", "new neighbors were moving in", "it was her birthday", "she found money"],
+          "correct_answer": 1
+        },
+        {
+          "question": "What did Sarah prepare?",
+          "options": ["a cake", "tea", "cookies", "sandwiches"],
+          "correct_answer": 2
+        },
+        {
+          "question": "Which interjection showed her thoughtfulness?",
+          "options": ["Wow", "Great", "Hmm", "Oh"],
+          "correct_answer": 2
+        },
+        {
+          "question": "What was Sarah's final emotion?",
+          "options": ["confused", "angry", "happy", "worried"],
+          "correct_answer": 2
+        }
+      ]
+    }
+  ]
+}

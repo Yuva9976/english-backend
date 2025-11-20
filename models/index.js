@@ -75,7 +75,7 @@ const Progress = sequelize.define('Progress', {
 });
 
 /* -------------------------------------------------------------------------- */
-/*                             QUIZ MODULE (NEW)                              */
+/*                             QUIZ MODULE (EXISTING)                         */
 /* -------------------------------------------------------------------------- */
 
 // --- QUIZ TABLE ---
@@ -111,6 +111,24 @@ const Answer = sequelize.define('Answer', {
 });
 
 /* -------------------------------------------------------------------------- */
+/*                         QUIZ ATTEMPTS (NEW FOR DAY 7)                      */
+/* -------------------------------------------------------------------------- */
+
+const QuizAttempt = sequelize.define('QuizAttempt', {
+  user_id: { type: DataTypes.INTEGER, allowNull: false },
+  quiz_id: { type: DataTypes.INTEGER, allowNull: false },
+  total_points: { type: DataTypes.INTEGER, allowNull: false, defaultValue: 0 },
+  earned_points: { type: DataTypes.INTEGER, allowNull: false, defaultValue: 0 },
+  score_percent: { type: DataTypes.INTEGER, allowNull: false, defaultValue: 0 },
+  details: { type: DataTypes.JSONB, allowNull: true },
+  submitted_at: { type: DataTypes.DATE, allowNull: false, defaultValue: DataTypes.NOW },
+}, {
+  tableName: 'quiz_attempts',
+  underscored: true,
+  timestamps: false,
+});
+
+/* -------------------------------------------------------------------------- */
 /*                                 RELATIONS                                  */
 /* -------------------------------------------------------------------------- */
 
@@ -134,7 +152,7 @@ Progress.belongsTo(Lesson, { foreignKey: 'lesson_id' });
 LessonSection.hasMany(Progress, { foreignKey: 'section_id', onDelete: 'CASCADE' });
 Progress.belongsTo(LessonSection, { foreignKey: 'section_id' });
 
-// 🔹 NEW — QUIZ RELATIONS
+// Quiz relations
 Lesson.hasMany(Quiz, { foreignKey: 'lesson_id', as: 'quizzes', onDelete: 'CASCADE' });
 Quiz.belongsTo(Lesson, { foreignKey: 'lesson_id', as: 'lesson' });
 
@@ -143,6 +161,13 @@ Question.belongsTo(Quiz, { foreignKey: 'quiz_id', as: 'quiz' });
 
 Question.hasMany(Answer, { foreignKey: 'question_id', as: 'answers', onDelete: 'CASCADE' });
 Answer.belongsTo(Question, { foreignKey: 'question_id', as: 'question' });
+
+// QuizAttempt relations
+User.hasMany(QuizAttempt, { foreignKey: 'user_id', as: 'quizAttempts', onDelete: 'CASCADE' });
+QuizAttempt.belongsTo(User, { foreignKey: 'user_id', as: 'user' });
+
+Quiz.hasMany(QuizAttempt, { foreignKey: 'quiz_id', as: 'attempts', onDelete: 'CASCADE' });
+QuizAttempt.belongsTo(Quiz, { foreignKey: 'quiz_id', as: 'quiz' });
 
 /* -------------------------------------------------------------------------- */
 /*                               TEST CONNECTION                              */
@@ -174,4 +199,5 @@ module.exports = {
   Quiz,
   Question,
   Answer,
+  QuizAttempt, // ✅ newly added export
 };

@@ -1,0 +1,266 @@
+{
+  "part_id": 8,
+  "name": "Interjection",
+  "definition": "An interjection is a word or phrase that expresses sudden emotion, surprise, or feeling, typically standing alone outside the main sentence. It's often followed by an exclamation mark or comma and adds emotional flavor to speech.",
+  "importance": "Interjections give personality and emotion to our language. They express what we're feeling - surprise, joy, pain, agreement, or disgust - in a natural, authentic way. While not grammatically connected to the rest of the sentence, they make our communication more vivid and real.",
+  "icon": "😲",
+  "tagline": "Express emotion, surprise, and natural reactions!",
+
+  "types": [
+    {
+      "id": 1,
+      "name": "Exclamations of Surprise",
+      "emoji": "😲",
+      "description": "Express surprise, shock, or amazement at something unexpected.",
+      "examples": ["Wow!", "Oh!", "Gosh!", "Goodness!", "Blimey!", "Crikey!", "What!", "Unbelievable!"],
+      "color": "#ec4899"
+    },
+    {
+      "id": 2,
+      "name": "Exclamations of Joy/Approval",
+      "emoji": "😄",
+      "description": "Show happiness, excitement, pleasure, or approval.",
+      "examples": ["Great!", "Excellent!", "Wonderful!", "Fantastic!", "Awesome!", "Yay!", "Hurray!", "Hooray!", "Bravo!"],
+      "color": "#f43f5e"
+    },
+    {
+      "id": 3,
+      "name": "Exclamations of Pain/Disgust",
+      "emoji": "😖",
+      "description": "Express pain, discomfort, or negative reactions.",
+      "examples": ["Ouch!", "Ow!", "Ugh!", "Eww!", "Yuck!", "Oops!", "Darn!", "Damn!", "Argh!"],
+      "color": "#f97316"
+    },
+    {
+      "id": 4,
+      "name": "Exclamations of Agreement/Attention",
+      "emoji": "👍",
+      "description": "Show agreement, understanding, or get someone's attention.",
+      "examples": ["Yes!", "Sure!", "Okay!", "Indeed!", "Certainly!", "Absolutely!", "Hey!", "Psst!", "Listen!"],
+      "color": "#f59e0b"
+    }
+  ],
+
+  "rules": [
+    {
+      "type": "do",
+      "title": "DO: Use Exclamation Mark After Strong Interjections",
+      "points": [
+        "Strong emotions = exclamation mark: 'Wow! That's amazing!'",
+        "Weak emotions = comma: 'Oh, I didn't realize that.'",
+        "An interjection can stand alone as its own sentence"
+      ],
+      "examples": [
+        "✅ Wow! That was incredible!",
+        "✅ Oh, I see what you mean.",
+        "✅ Ouch! That hurt!",
+        "✅ Well, let me think about it."
+      ]
+    },
+    {
+      "type": "do",
+      "title": "DO: Set Off Interjections with Punctuation",
+      "points": [
+        "Interjections are separated from the main sentence",
+        "Use exclamation mark (!) for strong emotion",
+        "Use comma (,) for weak emotion or mild interjections",
+        "Interjections don't need to be part of the sentence structure"
+      ],
+      "examples": [
+        "✅ Yay! We won the game!",
+        "✅ Hmm, I'm not sure about that.",
+        "✅ Alas, the opportunity was lost.",
+        "✅ Goodness, what a mess!"
+      ]
+    },
+    {
+      "type": "do",
+      "title": "DO: Use Appropriate Interjections for Context",
+      "points": [
+        "Choose interjections that match the situation and emotion",
+        "Informal conversations can use casual interjections",
+        "Formal writing uses fewer and milder interjections",
+        "Some interjections are region-specific (Blimey! is British)"
+      ],
+      "examples": [
+        "✅ Excellent! Your presentation was outstanding!",
+        "✅ Gosh, I didn't expect that.",
+        "✅ Ugh, this coffee is cold.",
+        "✅ Well, that's one way to solve it."
+      ]
+    },
+    {
+      "type": "dont",
+      "title": "DON'T: Overuse Interjections in Formal Writing",
+      "points": [
+        "Formal essays shouldn't have many interjections",
+        "Business writing uses interjections sparingly",
+        "Save interjections for dialogue and informal communication",
+        "Too many interjections can make writing seem unprofessional"
+      ],
+      "examples": [
+        "❌ Wow! This essay is so interesting! Gosh! I learned so much! Yay!",
+        "✅ This essay presents interesting arguments that enhance our understanding.",
+        "✅ (In dialogue: 'Wow, that's incredible!' she said.)"
+      ]
+    },
+    {
+      "type": "dont",
+      "title": "DON'T: Connect Interjections as Part of Sentence Structure",
+      "points": [
+        "Interjections stand alone - they're not part of the sentence grammar",
+        "Don't connect them with 'and' or as subject/object",
+        "They're emotionally independent from the sentence"
+      ],
+      "examples": [
+        "❌ 'Oh and I think that's wrong.' → ✅ 'Oh! I think that's wrong.'",
+        "❌ 'Wow is amazing.' → ✅ 'Wow! That's amazing!'",
+        "❌ 'Great because we won.' → ✅ 'Great! We won!'"
+      ]
+    }
+  ],
+
+  "examples": [
+    {
+      "sentence": "Wow! That's the most beautiful sunset I've ever seen!",
+      "usage_pattern": "Interjection of surprise expressing awe",
+      "category": "Nature"
+    },
+    {
+      "sentence": "Ouch! I burned my finger on the stove!",
+      "usage_pattern": "Interjection of pain expressing immediate reaction",
+      "category": "Accident"
+    },
+    {
+      "sentence": "Congratulations! You passed your driving test!",
+      "usage_pattern": "Interjection of approval/celebration",
+      "category": "Achievement"
+    },
+    {
+      "sentence": "Listen! Do you hear that strange noise?",
+      "usage_pattern": "Interjection of attention getting someone to focus",
+      "category": "Sound"
+    },
+    {
+      "sentence": "Ugh, I can't stand this weather anymore.",
+      "usage_pattern": "Interjection of disgust with comma showing mild emotion",
+      "category": "Weather"
+    },
+    {
+      "sentence": "Hey! Wait for me!",
+      "usage_pattern": "Interjection of attention calling someone",
+      "category": "Communication"
+    },
+    {
+      "sentence": "Alas, our team didn't win the championship.",
+      "usage_pattern": "Interjection of regret/sadness",
+      "category": "Sports"
+    },
+    {
+      "sentence": "Absolutely! I completely agree with you!",
+      "usage_pattern": "Interjection of strong agreement",
+      "category": "Opinion"
+    }
+  ],
+
+  "exercises": [
+    {
+      "type": "writing",
+      "title": "Write Dialogue Using Interjections",
+      "prompt": "Write a short conversation (8-12 lines) between two people. Include at least 8 different interjections. Use appropriate punctuation (! or ,) based on the emotion level. Make the dialogue natural and realistic.",
+      "sample_answer": "'Guess what?' 'What?' 'Wow! I got the job!' 'Congratulations! That's fantastic!' 'Thanks! I'm so excited!' 'You deserve it. By the way, are you going to the party?' 'Absolutely! I wouldn't miss it.' 'Great! See you there then.' 'Actually, ugh, I might be late.' 'Oh, no problem at all!'"
+    },
+    {
+      "type": "reading",
+      "title": "Identify and Fix Interjection Errors",
+      "passage": "Wow the sunset is beautiful! Oh I didn't see you there and are you okay? Ouch I think I hurt myself. Gosh and that was expensive! Great because we finally finished. Hmm well maybe we should try again. Yay I'm so happy and excited. Ugh it's so cold in here.",
+      "highlights": ["Wow the sunset", "Oh I didn't", "Great because", "Gosh and that", "Yay I'm"],
+      "sample_answer": "Wow! The sunset is beautiful! Oh, I didn't see you there. Are you okay? Ouch! I think I hurt myself. Gosh, that was expensive! Great! We finally finished. Hmm, maybe we should try again. Yay! I'm so happy and excited. Ugh! It's so cold in here."
+    }
+  ],
+
+  "common_mistakes": [
+    {
+      "error": "Wow the sunset is beautiful!",
+      "correct": "Wow! The sunset is beautiful!",
+      "explanation": "Interjections need exclamation mark or comma. 'Wow!' is a separate exclamation."
+    },
+    {
+      "error": "Oh and I think you're right.",
+      "correct": "Oh! I think you're right.",
+      "explanation": "Don't connect interjections with 'and'. They stand independently."
+    },
+    {
+      "error": "Great, because we won the game.",
+      "correct": "Great! We won the game.",
+      "explanation": "Use exclamation mark for strong emotion, not comma+because. Remove redundant 'because'."
+    },
+    {
+      "error": "Ugh is disgusting.",
+      "correct": "Ugh! That's disgusting. (Or: Ugh, that's disgusting.)",
+      "explanation": "Interjections can't be the subject of a sentence. They must be set apart."
+    },
+    {
+      "error": "Ouch, that doesn't hurt.",
+      "correct": "That doesn't hurt much. (Or: Ouch! That hurt!)",
+      "explanation": "Use exclamation mark for pain interjections, not comma, or use differently."
+    },
+    {
+      "error": "Yes and I agree completely.",
+      "correct": "Yes! I completely agree.",
+      "explanation": "Don't use 'and' after interjections. Use appropriate punctuation."
+    },
+    {
+      "error": "Absolutely because you're right.",
+      "correct": "Absolutely! You're right.",
+      "explanation": "Interjections stand alone. Don't use 'because' to connect to the main sentence."
+    },
+    {
+      "error": "Well I think maybe we should go.",
+      "correct": "Well, I think maybe we should go.",
+      "explanation": "'Well' as an interjection needs comma to separate from main sentence."
+    }
+  ],
+
+  "quick_facts": [
+    "Interjections are one of the oldest parts of speech in English - they're very natural in conversation.",
+    "Some interjections are single sounds: 'Shh!', 'Psst!', 'Hmm', 'Ugh', 'Ah'.",
+    "Interjections are very common in spoken English but less common in formal written English.",
+    "Some interjections are region-specific: 'Blimey!' (British), 'Eh!' (Canadian), 'Che!' (Italian).",
+    "The word 'interjection' comes from Latin 'interjectus' meaning 'thrown between'.",
+    "Comic books use interjections extensively: 'Pow!', 'Boom!', 'Zap!', 'Bang!'.",
+    "Interjections don't have grammatical function in the sentence - they're emotionally functional.",
+    "Online, interjections are adapted: 'OMG!', 'LOL!', 'SMH' - showing digital communication style."
+  ],
+
+  "videos": [
+    {
+      "title": "Interjections in English - Complete Guide",
+      "url": "https://www.youtube.com/watch?v=Interjections_Complete",
+      "description": "Learn all types of interjections with emotional and contextual examples"
+    },
+    {
+      "title": "Interjections and Punctuation",
+      "url": "https://www.youtube.com/watch?v=Interjections_Punctuation",
+      "description": "Understand when to use exclamation marks vs commas with interjections"
+    },
+    {
+      "title": "Interjections in Dialogue",
+      "url": "https://www.youtube.com/watch?v=Interjections_Dialogue",
+      "description": "See how writers use interjections to make dialogue more realistic"
+    }
+  ],
+
+  "resources": [
+    {
+      "title": "Interjections List and Categories",
+      "url": "https://www.englishgrammar.org/interjections-list",
+      "description": "Comprehensive list of interjections organized by emotion and region"
+    },
+    {
+      "title": "Interjections and Expressions",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/interjections",
+      "description": "Common interjections used in different English-speaking regions"
+    }
+  ]
+}
