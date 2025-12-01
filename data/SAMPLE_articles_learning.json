@@ -1,0 +1,341 @@
+{
+  "part_id": 10,
+  "name": "Articles",
+  "definition": "Articles are words (a, an, the) that define a noun as specific or unspecific. They are determiners that come before nouns.",
+  "importance": "Articles help clarify whether we're talking about something specific or general. Mastering articles is crucial for natural English communication.",
+  "icon": "📰",
+  "tagline": "A, An, The – Small words, BIG impact!",
+  "color": "#10b981",
+
+  "types": [
+    {
+      "id": 1,
+      "name": "Definite Article (The)",
+      "emoji": "🎯",
+      "description": "Used when referring to specific or particular nouns that both speaker and listener know about.",
+      "examples": [
+        "the sun",
+        "the book on the table",
+        "the President",
+        "the Eiffel Tower",
+        "the first person",
+        "the same mistake",
+        "the best student"
+      ],
+      "color": "#3b82f6",
+      "rule": "Use 'the' when the noun is specific or unique. Both speaker and listener know which one."
+    },
+    {
+      "id": 2,
+      "name": "Indefinite Article (A)",
+      "emoji": "🔤",
+      "description": "Used before singular countable nouns that begin with a consonant sound. Refers to any member of a group.",
+      "examples": [
+        "a book",
+        "a university",
+        "a European country",
+        "a one-way street",
+        "a user",
+        "a house",
+        "a uniform"
+      ],
+      "color": "#f59e0b",
+      "rule": "Use 'a' before consonant SOUNDS (not just consonant letters). Listen to pronunciation."
+    },
+    {
+      "id": 3,
+      "name": "Indefinite Article (An)",
+      "emoji": "🅰️",
+      "description": "Used before singular countable nouns that begin with a vowel sound. Refers to any member of a group.",
+      "examples": [
+        "an apple",
+        "an hour",
+        "an honest person",
+        "an umbrella",
+        "an FBI agent",
+        "an X-ray",
+        "an honorable mention"
+      ],
+      "color": "#ec4899",
+      "rule": "Use 'an' before vowel SOUNDS. Some words start with consonant letters but vowel sounds (hour, honest)."
+    },
+    {
+      "id": 4,
+      "name": "Zero Article (No Article)",
+      "emoji": "⭕",
+      "description": "Cases where no article is needed before nouns. Common with plural nouns, uncountable nouns, and proper nouns.",
+      "examples": [
+        "Dogs are loyal",
+        "Water is essential",
+        "I study English",
+        "She plays tennis",
+        "He lives in Paris",
+        "People need love",
+        "Children love toys"
+      ],
+      "color": "#8b5cf6",
+      "rule": "No article with general plural nouns, uncountable nouns, most proper nouns, and abstract concepts."
+    }
+  ],
+
+  "rules": [
+    {
+      "type": "do",
+      "title": "DO: Use 'The' with Specific Nouns",
+      "points": [
+        "Use 'the' when both speaker and listener know which specific thing",
+        "Use 'the' with unique objects: the sun, the moon, the internet",
+        "Use 'the' with superlatives: the best, the tallest, the most important",
+        "Use 'the' with ordinal numbers: the first, the second, the last",
+        "Use 'the' with names of rivers, oceans, mountain ranges, deserts"
+      ],
+      "examples": [
+        "✅ The book you gave me is interesting. (we both know which book)",
+        "✅ The sun rises in the east.",
+        "✅ She is the smartest student in class.",
+        "✅ This is the first time I've been here.",
+        "✅ The Amazon River is the longest in South America."
+      ]
+    },
+    {
+      "type": "do",
+      "title": "DO: Use 'A/An' with Singular Countable Nouns",
+      "points": [
+        "Use 'a' or 'an' when mentioning something for the first time",
+        "Use 'a' before consonant sounds",
+        "Use 'an' before vowel sounds",
+        "Use 'a/an' with professions and occupations",
+        "Use 'a/an' in expressions of quantity: a few, a lot, a couple"
+      ],
+      "examples": [
+        "✅ I saw a dog in the park. (first mention)",
+        "✅ She is a doctor. (profession)",
+        "✅ It takes an hour to get there. (vowel sound)",
+        "✅ He drives a European car. (consonant sound)",
+        "✅ I need a few minutes."
+      ]
+    },
+    {
+      "type": "do",
+      "title": "DO: Omit Articles in Certain Cases",
+      "points": [
+        "Don't use articles with plural nouns in general statements",
+        "Don't use articles with uncountable nouns in general",
+        "Don't use articles with most proper nouns (names, cities, countries)",
+        "Don't use articles with meals, sports, languages, subjects",
+        "Don't use articles with possessives: my book, his car"
+      ],
+      "examples": [
+        "✅ Dogs are loyal animals. (general plural)",
+        "✅ Water is important for health. (uncountable)",
+        "✅ I live in London. (city name)",
+        "✅ She plays tennis every Sunday. (sport)",
+        "✅ This is my car. (possessive)"
+      ]
+    },
+    {
+      "type": "dont",
+      "title": "DON'T: Mix Up 'A' and 'An'",
+      "points": [
+        "Don't use 'a' before vowel sounds",
+        "Don't use 'an' before consonant sounds",
+        "Remember it's about sound, not spelling",
+        "Common mistakes: 'an university', 'a hour', 'a honest'",
+        "Silent 'h' words take 'an': hour, honor, honest"
+      ],
+      "examples": [
+        "❌ I need a apple. → ✅ I need an apple.",
+        "❌ It takes a hour. → ✅ It takes an hour.",
+        "❌ He's an university student. → ✅ He's a university student.",
+        "❌ She's a honest person. → ✅ She's an honest person.",
+        "❌ This is an European car. → ✅ This is a European car."
+      ]
+    },
+    {
+      "type": "dont",
+      "title": "DON'T: Use 'The' with Every Noun",
+      "points": [
+        "Don't use 'the' with names of people: the John (wrong)",
+        "Don't use 'the' with most countries: the France (wrong)",
+        "Don't use 'the' with general plural or uncountable nouns",
+        "Don't use 'the' with languages, sports, or meals in general",
+        "Exception: countries with 'kingdom', 'states', 'republic' take 'the'"
+      ],
+      "examples": [
+        "❌ I met the Sarah yesterday. → ✅ I met Sarah yesterday.",
+        "❌ I live in the France. → ✅ I live in France.",
+        "❌ The dogs are animals. → ✅ Dogs are animals.",
+        "❌ I speak the English. → ✅ I speak English.",
+        "✅ I live in the United States. (exception)"
+      ]
+    },
+    {
+      "type": "dont",
+      "title": "DON'T: Forget Articles with Singular Countable Nouns",
+      "points": [
+        "Singular countable nouns MUST have an article or determiner",
+        "Can't say 'I have cat' – must be 'a cat', 'the cat', or 'my cat'",
+        "Common mistake with professions: 'She is teacher' (wrong)",
+        "Always check if singular countable noun has article",
+        "Plural and uncountable nouns can stand alone"
+      ],
+      "examples": [
+        "❌ I have cat. → ✅ I have a cat.",
+        "❌ She is teacher. → ✅ She is a teacher.",
+        "❌ He bought car. → ✅ He bought a car.",
+        "❌ I need pen. → ✅ I need a pen.",
+        "✅ I have cats. (plural – OK without article)"
+      ]
+    }
+  ],
+
+  "examples": [
+    {
+      "sentence": "I saw a dog in the park. The dog was playing with a ball.",
+      "usage_pattern": "First mention uses 'a', second mention uses 'the'",
+      "category": "Article Progression",
+      "article_type": "Indefinite → Definite"
+    },
+    {
+      "sentence": "She is a doctor at the hospital near my house.",
+      "usage_pattern": "Profession uses 'a', specific place uses 'the'",
+      "category": "Professions and Places",
+      "article_type": "Indefinite + Definite"
+    },
+    {
+      "sentence": "The sun rises in the east and sets in the west.",
+      "usage_pattern": "Unique objects and directions use 'the'",
+      "category": "Unique Entities",
+      "article_type": "Definite"
+    },
+    {
+      "sentence": "I need an umbrella because it's raining.",
+      "usage_pattern": "'An' before vowel sound",
+      "category": "Vowel Sounds",
+      "article_type": "Indefinite"
+    },
+    {
+      "sentence": "Dogs are loyal animals. The dog I have is very friendly.",
+      "usage_pattern": "General statement (no article) vs specific (the)",
+      "category": "General vs Specific",
+      "article_type": "Zero → Definite"
+    },
+    {
+      "sentence": "She studies mathematics at the University of Oxford.",
+      "usage_pattern": "Subject (no article), specific institution (the)",
+      "category": "Education",
+      "article_type": "Zero + Definite"
+    }
+  ],
+
+  "exercises": [
+    {
+      "type": "writing",
+      "title": "Fill in the Correct Articles",
+      "prompt": "Complete these sentences with 'a', 'an', 'the', or leave blank:\n1. I saw ___ elephant at ___ zoo.\n2. ___ water is essential for life.\n3. She is ___ engineer at ___ Microsoft.\n4. Can you pass me ___ salt?\n5. ___ honesty is ___ best policy.\n6. He plays ___ guitar very well.\n7. ___ Earth revolves around ___ sun.\n8. I need ___ hour to finish this.",
+      "sample_answer": "1. an elephant at the zoo\n2. Water (no article)\n3. an engineer at Microsoft (no article)\n4. the salt\n5. Honesty (no article) is the best policy\n6. the guitar\n7. The Earth, the sun\n8. an hour"
+    },
+    {
+      "type": "reading",
+      "title": "Identify Article Usage",
+      "passage": "Yesterday, I went to a restaurant with my friends. The restaurant was near the beach. We ordered a pizza and some drinks. The pizza was delicious! After dinner, we walked along the beach and watched the sunset. It was a perfect evening. The moon was bright, and we could see the stars clearly. We took a few photos to remember the moment.",
+      "highlights": ["a restaurant", "The restaurant", "the beach", "a pizza", "The pizza", "the sunset", "a perfect evening", "The moon", "the stars", "a few photos", "the moment"],
+      "sample_answer": "Articles used: a (indefinite - first mention), the (definite - specific or second mention), no article (plural/uncountable general statements)"
+    }
+  ],
+
+  "common_mistakes": [
+    {
+      "error": "I am student.",
+      "correct": "I am a student.",
+      "explanation": "Singular countable nouns need an article. Use 'a' before professions."
+    },
+    {
+      "error": "The life is beautiful.",
+      "correct": "Life is beautiful.",
+      "explanation": "Don't use 'the' with abstract nouns in general statements."
+    },
+    {
+      "error": "I need a water.",
+      "correct": "I need water. / I need a glass of water.",
+      "explanation": "'Water' is uncountable. Don't use 'a/an' with uncountable nouns."
+    },
+    {
+      "error": "She plays the tennis.",
+      "correct": "She plays tennis.",
+      "explanation": "Don't use articles with sports."
+    },
+    {
+      "error": "I live in the Paris.",
+      "correct": "I live in Paris.",
+      "explanation": "Don't use 'the' with most city and country names."
+    },
+    {
+      "error": "He is a honest man.",
+      "correct": "He is an honest man.",
+      "explanation": "'Honest' starts with a vowel sound (silent h), so use 'an'."
+    }
+  ],
+
+  "quick_facts": [
+    "'A', 'an', and 'the' are the only articles in English.",
+    "'The' is the most commonly used word in English.",
+    "Articles don't exist in many languages, making them difficult for learners.",
+    "'A' and 'an' mean the same thing; choice depends on sound.",
+    "'The' can be used with singular, plural, or uncountable nouns.",
+    "Some words like 'university' start with vowels but use 'a' (a university).",
+    "Silent 'h' words like 'hour' use 'an' (an hour).",
+    "British vs American: 'in the hospital' (US) vs 'in hospital' (UK)."
+  ],
+
+  "videos": [
+    {
+      "title": "Articles in English - Complete Guide",
+      "url": "https://www.youtube.com/watch?v=Articles_Guide",
+      "description": "Master a, an, and the with clear examples and practice",
+      "duration": "12 mins",
+      "difficulty": "Beginner"
+    },
+    {
+      "title": "When to Use THE",
+      "url": "https://www.youtube.com/watch?v=When_Use_The",
+      "description": "Learn all the rules for using the definite article",
+      "duration": "10 mins",
+      "difficulty": "Beginner"
+    },
+    {
+      "title": "A vs AN - Simple Rules",
+      "url": "https://www.youtube.com/watch?v=A_vs_An",
+      "description": "Master the difference between a and an",
+      "duration": "8 mins",
+      "difficulty": "Beginner"
+    }
+  ],
+
+  "resources": [
+    {
+      "title": "Complete Article Usage Guide",
+      "url": "https://www.englishgrammar.org/articles",
+      "description": "Comprehensive reference for all article rules",
+      "type": "Reference"
+    },
+    {
+      "title": "Article Practice Exercises",
+      "url": "https://www.englishlearning.com/articles-quiz",
+      "description": "Interactive exercises to practice article usage",
+      "type": "Practice"
+    }
+  ],
+
+  "metadata": {
+    "created_date": "2025-11-25",
+    "version": "1.0",
+    "total_types": 4,
+    "total_rules": 6,
+    "total_examples": 6,
+    "total_exercises": 2,
+    "difficulty_level": "Beginner",
+    "estimated_learning_time": "1-2 hours",
+    "tags": ["articles", "grammar", "a-an-the", "english-learning", "beginner"]
+  }
+}

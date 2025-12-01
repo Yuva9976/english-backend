@@ -1,0 +1,567 @@
+{
+  "overview": {
+    "title": "What are Proper Nouns?",
+    "description": "Proper nouns are the specific names of people, places, organizations, days, months, languages, events, and unique things. They always begin with a capital letter, no matter where they appear in a sentence.",
+    "key_points": [
+      "Name unique people, places, or things",
+      "Always capitalized in English",
+      "Not usually used with 'a' or 'an'",
+      "Help make meaning precise and unambiguous",
+      "Examples: Sarah, London, Monday, India, Facebook"
+    ],
+    "importance": "Proper nouns help us talk about specific entities clearly and avoid confusion in conversation.",
+    "common_words": [
+      "John", "Marie Curie", "India", "London", "Mount Everest",
+      "Facebook", "Amazon", "Africa", "World War II", "July",
+      "English", "Samsung", "Paris", "Taj Mahal", "Christmas",
+      "Apple", "Dr. Padmanaban", "U.S. Congress", "Central Park", "Pride and Prejudice"
+    ]
+  },
+  "detailed_explanation": {
+    "sections": [
+      {
+        "title": "Definition and Identification",
+        "content": "Proper nouns refer to the names of specific people, places, organizations, holidays, historical events, and brands. They are not general categories, but unique labels. For example, 'city' is common but 'London' is proper.",
+        "subsections": [
+          {
+            "subtitle": "Proper vs. Common Nouns",
+            "text": "Proper nouns are always capitalized and name only one unique person/place/thing, while common nouns are lower case and refer to many possible items.",
+            "examples": ["teacher (common) vs Mr. Ravi (proper)", "river vs Nile"]
+          }
+        ]
+      },
+      {
+        "title": "Types of Proper Nouns",
+        "content": "Proper nouns include personal names, geographic locations, company names, specific holidays/days/months, languages, brands, and titles of works.",
+        "subsections": [
+          {
+            "subtitle": "Examples by Category",
+            "text": "'Sarah' (person), 'Amazon' (company), 'January' (month), 'Titanic' (movie), 'Christmas' (holiday), 'English' (language)",
+            "examples": ["India", "Samsung", "Monday", "Pride and Prejudice"]
+          }
+        ]
+      },
+      {
+        "title": "Capitalization Rules",
+        "content": "Proper nouns are always capitalized wherever they appear in a sentence. This distinguishes them immediately from common nouns.",
+        "subsections": [
+          {
+            "subtitle": "Rule Application",
+            "text": "Always use a capital letter: 'Paris', 'Apple', 'World War I', 'Saturday'.",
+            "examples": ["Paris is beautiful.", "Saturday comes after Friday."]
+          }
+        ]
+      }
+    ]
+  },
+  "grammar_rules": [
+    {
+      "rule_number": 1,
+      "title": "Capitalize all proper nouns",
+      "description": "Proper nouns must begin with uppercase letters even in mid-sentence.",
+      "correct_examples": ["Sarah visited Paris.", "Monday is a holiday."],
+      "incorrect_examples": ["sarah visited paris.", "monday is a holiday."],
+      "tip": "Check if naming something unique—always capitalize."
+    },
+    {
+      "rule_number": 2,
+      "title": "No 'a' or 'an' before proper nouns",
+      "description": "Do not use indefinite articles before proper nouns.",
+      "correct_examples": ["John is here.", "Google is popular."],
+      "incorrect_examples": ["A John is here.", "A Google is popular."],
+      "tip": "Use articles only for common nouns."
+    },
+    {
+      "rule_number": 3,
+      "title": "Use 'the' with some proper nouns",
+      "description": "For certain geographical names and organizations, use 'the' (e.g., The United States, The Taj Mahal).",
+      "correct_examples": ["The United Nations", "The Amazon River"],
+      "incorrect_examples": ["United Nations", "Amazon River"],
+      "tip": "Some unique names take 'the'."
+    },
+    {
+      "rule_number": 4,
+      "title": "Do not pluralize most proper nouns",
+      "description": "Proper nouns generally refer to single entities and do not have regular plural forms.",
+      "correct_examples": ["Fridays in July are hot.", "I have met three Johns."],
+      "incorrect_examples": ["Julys", "Googles"],
+      "tip": "Pluralize only for people with same name, not for unique places/companies."
+    },
+    {
+      "rule_number": 5,
+      "title": "Titles and works as proper nouns",
+      "description": "Titles of books, movies, or songs are always capitalized.",
+      "correct_examples": ["Titanic is a famous film.", "I love Bohemian Rhapsody."],
+      "incorrect_examples": ["titanic is a famous film.", "bohemian rhapsody."],
+      "tip": "Capitalize all main words in titles."
+    }
+  ],
+  "examples": {
+    "categories": [
+      {
+        "category": "People",
+        "icon": "👤",
+        "examples": [
+          {
+            "sentence": "Marie Curie was a scientist.",
+            "analysis": "'Marie Curie' is a unique person's name."
+          },
+          {
+            "sentence": "I met John at the park.",
+            "analysis": "'John' is a proper noun for a person."
+          },
+          {
+            "sentence": "Dr. Padmanaban helped many students.",
+            "analysis": "'Dr. Padmanaban' is a proper noun."
+          },
+          {
+            "sentence": "Sarah loves painting.",
+            "analysis": "'Sarah' is a proper noun."
+          },
+          {
+            "sentence": "Elizabeth II is the queen.",
+            "analysis": "'Elizabeth II' is a specific person's title."
+          }
+        ]
+      },
+      {
+        "category": "Places",
+        "icon": "🏙️",
+        "examples": [
+          {
+            "sentence": "Mount Everest is the world's tallest mountain.",
+            "analysis": "'Mount Everest' is a unique place name."
+          },
+          {
+            "sentence": "He visited Africa last year.",
+            "analysis": "'Africa' is a continent's name."
+          },
+          {
+            "sentence": "London is famous for its history.",
+            "analysis": "'London' is a city's name."
+          },
+          {
+            "sentence": "We traveled to Paris in July.",
+            "analysis": "'Paris' and 'July' are both proper nouns."
+          },
+          {
+            "sentence": "Central Park is in New York.",
+            "analysis": "'Central Park' is a specific location."
+          }
+        ]
+      },
+      {
+        "category": "Organizations, Events, Brands",
+        "icon": "🏢",
+        "examples": [
+          {
+            "sentence": "Apple released a new phone.",
+            "analysis": "'Apple' is a company's name."
+          },
+          {
+            "sentence": "World War II changed history.",
+            "analysis": "'World War II' is a historical event."
+          },
+          {
+            "sentence": "Facebook is a popular social platform.",
+            "analysis": "'Facebook' is a brand name."
+          },
+          {
+            "sentence": "The United Nations meets yearly.",
+            "analysis": "'The United Nations' is an organization."
+          },
+          {
+            "sentence": "Taj Mahal is in India.",
+            "analysis": "'Taj Mahal' is a landmark's name."
+          }
+        ]
+      },
+      {
+        "category": "Days, Months, Languages, Works",
+        "icon": "📅",
+        "examples": [
+          {
+            "sentence": "Monday is the start of the week.",
+            "analysis": "'Monday' is a day of the week."
+          },
+          {
+            "sentence": "July is often hot in India.",
+            "analysis": "'July' is a month."
+          },
+          {
+            "sentence": "She speaks English and Portuguese.",
+            "analysis": "'English' and 'Portuguese' are languages."
+          },
+          {
+            "sentence": "Pride and Prejudice is my favorite book.",
+            "analysis": "'Pride and Prejudice' is a book title."
+          },
+          {
+            "sentence": "Christmas is a global festival.",
+            "analysis": "'Christmas' is a holiday."
+          }
+        ]
+      }
+    ],
+    "complex_sentences": [
+      {
+        "sentence": "John visited Paris during July and saw the Eiffel Tower.",
+        "proper_nouns": ["John", "Paris", "July", "Eiffel Tower"],
+        "analysis": "Proper nouns for person, place, time, and landmark."
+      },
+      {
+        "sentence": "Marie Curie won the Nobel Prize for Chemistry.",
+        "proper_nouns": ["Marie Curie", "Nobel Prize", "Chemistry"],
+        "analysis": "Proper nouns for person, award, and subject."
+      },
+      {
+        "sentence": "Facebook organized Christmas events in London.",
+        "proper_nouns": ["Facebook", "Christmas", "London"],
+        "analysis": "Brand, holiday, and city as proper nouns."
+      }
+    ]
+  },
+  "common_mistakes": [
+    {
+      "mistake_number": 1,
+      "error_type": "Not capitalizing proper nouns",
+      "wrong": "john visited london in july.",
+      "correct": "John visited London in July.",
+      "explanation": "Proper nouns must always be capitalized.",
+      "frequency": "Very Common",
+      "tip": "Always check capitalization for names."
+    },
+    {
+      "mistake_number": 2,
+      "error_type": "Using articles with proper nouns",
+      "wrong": "A Sarah is calling.",
+      "correct": "Sarah is calling.",
+      "explanation": "No 'a' or 'an' before names except rare contexts.",
+      "frequency": "Common",
+      "tip": "Avoid 'a'/'an' before names."
+    },
+    {
+      "mistake_number": 3,
+      "error_type": "Pluralizing unique names or brands incorrectly",
+      "wrong": "Googles are famous.",
+      "correct": "Google is famous.",
+      "explanation": "Unique brands are not pluralized.",
+      "frequency": "Moderate",
+      "tip": "Pluralize only if referring to several people with the same name."
+    },
+    {
+      "mistake_number": 4,
+      "error_type": "Using lowercase for days, months, languages",
+      "wrong": "I love english and july.",
+      "correct": "I love English and July.",
+      "explanation": "Days, months, languages need uppercase.",
+      "frequency": "Common",
+      "tip": "Capitalize time periods and languages."
+    },
+    {
+      "mistake_number": 5,
+      "error_type": "Improper title capitalization",
+      "wrong": "pride and prejudice is my favorite book.",
+      "correct": "Pride and Prejudice is my favorite book.",
+      "explanation": "Book and work titles are always capitalized.",
+      "frequency": "Moderate",
+      "tip": "Capitalize main words in titles."
+    },
+    {
+      "mistake_number": 6,
+      "error_type": "Using 'the' incorrectly",
+      "wrong": "I visited Amazon River.",
+      "correct": "I visited the Amazon River.",
+      "explanation": "Some geographic names need 'the'.",
+      "frequency": "Moderate",
+      "tip": "Learn which proper nouns use 'the'."
+    },
+    {
+      "mistake_number": 7,
+      "error_type": "Confusing proper and common nouns",
+      "wrong": "My teacher is Mr. Smith.",
+      "correct": "My teacher is Mr. Smith.",
+      "explanation": "Use common noun for profession, proper for name.",
+      "frequency": "Common",
+      "tip": "Combine common and proper nouns as needed."
+    },
+    {
+      "mistake_number": 8,
+      "error_type": "Not capitalizing brand names",
+      "wrong": "facebook is popular.",
+      "correct": "Facebook is popular.",
+      "explanation": "Capitalization applies to brands.",
+      "frequency": "Common",
+      "tip": "Brands are always capitalized."
+    }
+  ],
+  "practice_exercises": {
+    "identification": {
+      "title": "Identify Proper Nouns",
+      "instructions": "Underline the proper nouns in each sentence.",
+      "questions": [
+        {
+          "id": 1,
+          "sentence": "Sarah went to India in July.",
+          "answer": ["Sarah", "India", "July"],
+          "explanation": "All are unique names; proper nouns."
+        },
+        {
+          "id": 2,
+          "sentence": "John read Pride and Prejudice.",
+          "answer": ["John", "Pride and Prejudice"],
+          "explanation": "Name and book title; both proper nouns."
+        },
+        {
+          "id": 3,
+          "sentence": "Paris is famous for the Eiffel Tower.",
+          "answer": ["Paris", "Eiffel Tower"],
+          "explanation": "City and landmark."
+        },
+        {
+          "id": 4,
+          "sentence": "Apple makes popular phones.",
+          "answer": ["Apple"],
+          "explanation": "Brand name."
+        },
+        {
+          "id": 5,
+          "sentence": "Dr. Padmanaban teaches chemistry.",
+          "answer": ["Dr. Padmanaban"],
+          "explanation": "Unique person's name."
+        }
+      ]
+    },
+    "correction": {
+      "title": "Correct Errors with Proper Nouns",
+      "instructions": "Correct the capitalization and use of articles.",
+      "questions": [
+        {
+          "id": 1,
+          "sentence": "july is hot in india.",
+          "answer": ["July is hot in India."],
+          "explanation": "Days, months, and place names are capitalized."
+        },
+        {
+          "id": 2,
+          "sentence": "A marie curie won the Nobel Prize.",
+          "answer": ["Marie Curie won the Nobel Prize."],
+          "explanation": "No indefinite article before unique name."
+        },
+        {
+          "id": 3,
+          "sentence": "facebook is a company.",
+          "answer": ["Facebook is a company."],
+          "explanation": "Brands start with a capital letter."
+        },
+        {
+          "id": 4,
+          "sentence": "mount everest is tall.",
+          "answer": ["Mount Everest is tall."],
+          "explanation": "Proper place name is capitalized."
+        },
+        {
+          "id": 5,
+          "sentence": "world war ii changed history.",
+          "answer": ["World War II changed history."],
+          "explanation": "Event name capitalized."
+        }
+      ]
+    },
+    "fill_in_blank": {
+      "title": "Fill in the Blanks with Proper Nouns",
+      "instructions": "Choose an appropriate proper noun for each blank.",
+      "questions": [
+        {
+          "id": 1,
+          "sentence": "_______ is a city in France.",
+          "answer": ["Paris"],
+          "explanation": "'Paris' is the proper city name."
+        },
+        {
+          "id": 2,
+          "sentence": "_______ was written by Jane Austen.",
+          "answer": ["Pride and Prejudice"],
+          "explanation": "Book title."
+        },
+        {
+          "id": 3,
+          "sentence": "_______ is a global technology brand.",
+          "answer": ["Apple", "Facebook", "Google", "Samsung"],
+          "explanation": "Any brand name."
+        },
+        {
+          "id": 4,
+          "sentence": "_______ is India's capital.",
+          "answer": ["New Delhi"],
+          "explanation": "Proper noun for capital city."
+        },
+        {
+          "id": 5,
+          "sentence": "_______ is celebrated in December.",
+          "answer": ["Christmas"],
+          "explanation": "Holiday name."
+        }
+      ]
+    },
+    "writing_task": {
+      "title": "Write Sentences Using Proper Nouns",
+      "instructions": "Write five sentences, each including a different proper noun. Pay attention to capitalization.",
+      "questions": [
+        {
+          "id": 1,
+          "sentence": "",
+          "answer": [],
+          "explanation": "Use different categories: people, places, brands, holidays, works."
+        }
+      ]
+    }
+  },
+  "quiz_questions": {
+    "easy": [
+      {
+        "id": 1,
+        "question": "Which one is a proper noun?",
+        "options": ["city", "London", "teacher", "dog"],
+        "correct_answer": 1,
+        "explanation": "'London' is a unique place name."
+      },
+      {
+        "id": 2,
+        "question": "Proper nouns are always:",
+        "options": ["plural", "lowercase", "capitalized", "abstract"],
+        "correct_answer": 2,
+        "explanation": "Proper nouns must begin with uppercase."
+      },
+      {
+        "id": 3,
+        "question": "Select the proper noun in: 'John visited Paris.'",
+        "options": ["John", "visited", "Paris", "John and Paris"],
+        "correct_answer": 3,
+        "explanation": "Both 'John' and 'Paris' are proper nouns."
+      },
+      {
+        "id": 4,
+        "question": "Which word would be capitalized?",
+        "options": ["apple", "sunday", "Canada", "car"],
+        "correct_answer": 2,
+        "explanation": "'Canada' is a unique country name."
+      },
+      {
+        "id": 5,
+        "question": "Which is an example of a brand proper noun?",
+        "options": ["car", "Facebook", "book", "river"],
+        "correct_answer": 1,
+        "explanation": "'Facebook' is a brand."
+      }
+    ],
+    "medium": [
+      {
+        "id": 6,
+        "question": "Choose the sentence with correct capitalization:",
+        "options": [
+          "john lives in india.",
+          "John lives in india.",
+          "John lives in India.",
+          "john lives in India."
+        ],
+        "correct_answer": 2,
+        "explanation": "All proper nouns capitalized."
+      },
+      {
+        "id": 7,
+        "question": "Pick the correct usage of 'the' before a proper noun:",
+        "options": [
+          "The Amazon River",
+          "Amazon River",
+          "The London",
+          "A India"
+        ],
+        "correct_answer": 0,
+        "explanation": "Use 'the' for some geographical proper nouns."
+      },
+      {
+        "id": 8,
+        "question": "Which is a proper noun for a holiday?",
+        "options": ["Thanksgiving", "day", "festival", "holiday"],
+        "correct_answer": 0,
+        "explanation": "'Thanksgiving' is a specific holiday."
+      },
+      {
+        "id": 9,
+        "question": "Choose the correct form for multiple people with same name:",
+        "options": ["Johns", "John", "Johnes", "Johnes"],
+        "correct_answer": 0,
+        "explanation": "Only proper nouns for people can be pluralized."
+      },
+      {
+        "id": 10,
+        "question": "Select the correct title capitalization:",
+        "options": [
+          "pride and prejudice",
+          "Pride And Prejudice",
+          "Pride and Prejudice",
+          "Pride and prejudice"
+        ],
+        "correct_answer": 2,
+        "explanation": "Main words in the title capitalized."
+      }
+    ],
+    "hard": [
+      {
+        "id": 11,
+        "question": "Which sentence uses multiple proper nouns?",
+        "options": [
+          "India is a beautiful country.",
+          "Sarah visited Paris in July.",
+          "Teacher taught students.",
+          "Car is parked in the city."
+        ],
+        "correct_answer": 1,
+        "explanation": "Sarah, Paris, July."
+      },
+      {
+        "id": 12,
+        "question": "What distinguishes proper nouns from common nouns?",
+        "options": [
+          "Capitalization",
+          "Plural form",
+          "Use of articles",
+          "None of these"
+        ],
+        "correct_answer": 0,
+        "explanation": "Proper nouns are always capitalized."
+      },
+      {
+        "id": 13,
+        "question": "Choose the correctly capitalized holiday:",
+        "options": ["christmas", "Christmas", "christMas", "CHRISTMAS"],
+        "correct_answer": 1,
+        "explanation": "'Christmas' is the correct capitalization."
+      },
+      {
+        "id": 14,
+        "question": "Identify the proper noun in 'Mount Everest is high.'",
+        "options": ["mount", "Everest", "Mount Everest", "mount everest"],
+        "correct_answer": 2,
+        "explanation": "Full name together is proper noun."
+      },
+      {
+        "id": 15,
+        "question": "Which is a language and a proper noun?",
+        "options": ["english", "English", "ENGLISH", "ENglish"],
+        "correct_answer": 1,
+        "explanation": "Languages always capitalized."
+      }
+    ]
+  },
+  "metadata": {
+    "created_date": "2025-11-25",
+    "version": "1.0",
+    "difficulty_level": "Beginner to Intermediate",
+    "estimated_reading_time": "15 minutes",
+    "total_examples": 50,
+    "total_exercises": 25,
+    "suitable_for": ["ESL learners", "Students", "English learners"]
+  }
+}

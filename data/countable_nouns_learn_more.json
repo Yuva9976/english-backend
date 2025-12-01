@@ -1,0 +1,569 @@
+{
+  "type_id": 5,
+  "type_name": "Countable Nouns",
+  "part_name": "Noun",
+  "icon": "🔢",
+  "color": "#fbbf24",
+  "learn_more_content": {
+    "overview": {
+      "title": "What are Countable Nouns?",
+      "description": "[translate: Countable nouns are nouns that can be counted as individual units, with singular and plural forms.] They refer to things you can count one by one.",
+      "key_points": [
+        "Have singular and plural forms",
+        "Can be used with numbers (one, two, three, etc.)",
+        "Use 'a' or 'an' with singular countable nouns",
+        "Plural usually formed by adding -s or -es",
+        "Examples: apple, car, book, child"
+      ],
+      "importance": "Mastering countable nouns helps learners describe quantities, make sentences about numbers, and ask questions clearly.",
+      "common_words": [
+        "apple", "car", "book", "child", "pen",
+        "dog", "chair", "flower", "cat", "student",
+        "bag", "egg", "house", "phone", "friend",
+        "table", "window", "shoe", "bird", "computer"
+      ]
+    },
+    "detailed_explanation": {
+      "sections": [
+        {
+          "title": "Definition and Examples",
+          "content": "[translate: Countable nouns refer to people, animals, objects, or ideas that can be counted one at a time.] They have both singular and plural forms, and you can use numbers with them.",
+          "subsections": [
+            {
+              "subtitle": "Singular and Plural Forms",
+              "text": "Singular forms use 'a' or 'an.' Plural forms are usually created by adding 's' or 'es' at the end.",
+              "examples": ["one apple", "two apples", "a car", "three cars"]
+            }
+          ]
+        },
+        {
+          "title": "Using Countable Nouns in Sentences",
+          "content": "Countable nouns can act as subjects, objects, and complements in sentences. They can be quantified specifically using numbers or quantifiers like 'many' and 'few.'",
+          "subsections": [
+            {
+              "subtitle": "Quantifiers with Countable Nouns",
+              "text": "Use 'many', 'few', 'several', and 'a few' for countable nouns, not 'much' or 'little'.",
+              "examples": ["many books", "few cars", "a few apples"]
+            }
+          ]
+        },
+        {
+          "title": "Common Issues and Tips",
+          "content": "Some nouns may be countable in one sense but uncountable in another. Pay attention to context and meaning.",
+          "subsections": [
+            {
+              "subtitle": "Context Examples",
+              "text": "'Chicken' can be countable referring to animals and uncountable referring to meat.",
+              "examples": ["I bought two chickens.", "I ate some chicken."]
+            }
+          ]
+        }
+      ]
+    },
+    "grammar_rules": [
+      {
+        "rule_number": 1,
+        "title": "Use 'a' or 'an' with singular countable nouns",
+        "description": "Singular countable nouns require the indefinite articles 'a' or 'an'.",
+        "correct_examples": ["a book", "an apple", "a dog"],
+        "incorrect_examples": ["book", "apple", "dog"],
+        "tip": "Always include articles with singular countable nouns."
+      },
+      {
+        "rule_number": 2,
+        "title": "Form plurals by adding -s or -es",
+        "description": "Plural countable nouns are typically made by adding 's' or 'es' to the singular form.",
+        "correct_examples": ["books", "boxes", "buses"],
+        "incorrect_examples": ["bookes", "boxs", "buse"],
+        "tip": "Remember special plural forms ending with 'es'."
+      },
+      {
+        "rule_number": 3,
+        "title": "Use quantifiers like 'many' and 'few' for plural countables",
+        "description": "'Many', 'few', and similar words modify plural countable nouns.",
+        "correct_examples": ["many chairs", "few cars"],
+        "incorrect_examples": ["much chairs", "little cars"],
+        "tip": "'Much' and 'little' are for uncountable nouns."
+      },
+      {
+        "rule_number": 4,
+        "title": "Different meanings in countable and uncountable contexts",
+        "description": "Some nouns like 'paper' or 'chicken' can be countable or uncountable depending on meaning and context.",
+        "correct_examples": ["Five papers on my desk.", "She drinks paper cups."],
+        "incorrect_examples": ["Much papers on desk."],
+        "tip": "Pay attention to context to decide usage."
+      },
+      {
+        "rule_number": 5,
+        "title": "Use plural forms with plural verbs",
+        "description": "Plural countable nouns take plural verb forms in sentences.",
+        "correct_examples": ["Books are on the table.", "Dogs bark loudly."],
+        "incorrect_examples": ["Books is on the table.", "Dogs barks loudly."],
+        "tip": "Match verb number with noun number."
+      }
+    ],
+    "examples": {
+      "categories": [
+        {
+          "category": "Animals",
+          "icon": "🐾",
+          "examples": [
+            {
+              "sentence": "She has two cats.",
+              "analysis": "'Cats' is plural of the countable noun 'cat'."
+            },
+            {
+              "sentence": "A dog is barking outside.",
+              "analysis": "'Dog' is singular countable noun."
+            },
+            {
+              "sentence": "There are many birds in the sky.",
+              "analysis": "'Birds' plural countable noun."
+            },
+            {
+              "sentence": "He adopted three rabbits.",
+              "analysis": "Plural countable noun 'rabbits'."
+            },
+            {
+              "sentence": "An elephant is a large animal.",
+              "analysis": "Singular countable noun 'elephant'."
+            }
+          ]
+        },
+        {
+          "category": "Objects",
+          "icon": "📦",
+          "examples": [
+            {
+              "sentence": "I bought five books yesterday.",
+              "analysis": "'Books' plural countable noun."
+            },
+            {
+              "sentence": "A table is in the room.",
+              "analysis": "'Table' singular countable noun."
+            },
+            {
+              "sentence": "There are many pens on the desk.",
+              "analysis": "'Pens' plural countable noun."
+            },
+            {
+              "sentence": "She needs a new phone.",
+              "analysis": "'Phone' singular countable noun."
+            },
+            {
+              "sentence": "An umbrella is useful in rain.",
+              "analysis": "'Umbrella' singular countable noun."
+            }
+          ]
+        },
+        {
+          "category": "People",
+          "icon": "👥",
+          "examples": [
+            {
+              "sentence": "There are ten students in the class.",
+              "analysis": "'Students' plural countable noun."
+            },
+            {
+              "sentence": "She is a teacher.",
+              "analysis": "'Teacher' singular countable noun."
+            },
+            {
+              "sentence": "Several workers are on break.",
+              "analysis": "'Workers' plural countable noun."
+            },
+            {
+              "sentence": "An artist paints beautifully.",
+              "analysis": "'Artist' singular countable noun."
+            },
+            {
+              "sentence": "Those children are playing.",
+              "analysis": "'Children' plural irregular countable noun."
+            }
+          ]
+        },
+        {
+          "category": "Food",
+          "icon": "🍎",
+          "examples": [
+            {
+              "sentence": "I ate two apples.",
+              "analysis": "'Apples' plural countable noun."
+            },
+            {
+              "sentence": "A banana is on the table.",
+              "analysis": "'Banana' singular countable noun."
+            },
+            {
+              "sentence": "There are some oranges in the basket.",
+              "analysis": "'Oranges' plural countable noun."
+            },
+            {
+              "sentence": "She bought a loaf of bread.",
+              "analysis": "'Loaf' is singular countable noun."
+            },
+            {
+              "sentence": "Few carrots are left.",
+              "analysis": "'Carrots' plural countable noun."
+            }
+          ]
+        }
+      ],
+      "complex_sentences": [
+        {
+          "sentence": "Five students brought their books to the library.",
+          "proper_nouns": [],
+          "analysis": "'Students' and 'books' are countable nouns showing plurality."
+        },
+        {
+          "sentence": "A dog chased three cats across the yard.",
+          "proper_nouns": [],
+          "analysis": "'Dog', 'cats' are countable nouns with singular and plural forms."
+        },
+        {
+          "sentence": "Many workers completed their tasks early.",
+          "proper_nouns": [],
+          "analysis": "'Workers' is a plural countable noun."
+        }
+      ]
+    },
+    "common_mistakes": [
+      {
+        "mistake_number": 1,
+        "error_type": "Omitting articles with singular countable nouns",
+        "wrong": "I have book.",
+        "correct": "I have a book.",
+        "explanation": "Singular countable nouns need an article.",
+        "frequency": "Very Common",
+        "tip": "Always use 'a' or 'an' with singular countable nouns."
+      },
+      {
+        "mistake_number": 2,
+        "error_type": "Using plural verb with singular nouns",
+        "wrong": "The cats is playing.",
+        "correct": "The cats are playing.",
+        "explanation": "Match verb number with noun number.",
+        "frequency": "Common",
+        "tip": "Use singular verb for singular nouns and plural verb for plural nouns."
+      },
+      {
+        "mistake_number": 3,
+        "error_type": "Confusing countable with uncountable nouns",
+        "wrong": "I have much books.",
+        "correct": "I have many books.",
+        "explanation": "Use 'many' with countable nouns, not 'much'.",
+        "frequency": "Common",
+        "tip": "'Much' is used with uncountable nouns."
+      },
+      {
+        "mistake_number": 4,
+        "error_type": "Wrong plural formation",
+        "wrong": "Childs are playing.",
+        "correct": "Children are playing.",
+        "explanation": "'Child' has an irregular plural 'children'.",
+        "frequency": "Moderate",
+        "tip": "Learn irregular plural forms."
+      },
+      {
+        "mistake_number": 5,
+        "error_type": "Using 'a' with plural nouns",
+        "wrong": "A dogs are barking.",
+        "correct": "Dogs are barking.",
+        "explanation": "'A' is only for singular countable nouns.",
+        "frequency": "Very Common",
+        "tip": "Do not use 'a' before plurals."
+      },
+      {
+        "mistake_number": 6,
+        "error_type": "Pluralizing uncountable nouns",
+        "wrong": "Informations are here.",
+        "correct": "Information is here.",
+        "explanation": "'Information' is uncountable and has no plural.",
+        "frequency": "Common",
+        "tip": "Do not pluralize uncountable nouns."
+      },
+      {
+        "mistake_number": 7,
+        "error_type": "Incorrect quantifier use",
+        "wrong": "Few information is available.",
+        "correct": "Little information is available.",
+        "explanation": "Use 'little' for uncountable nouns.",
+        "frequency": "Moderate",
+        "tip": "Use 'few' with countable nouns."
+      },
+      {
+        "mistake_number": 8,
+        "error_type": "Missing plural form for multiple items",
+        "wrong": "I bought three apple.",
+        "correct": "I bought three apples.",
+        "explanation": "Add 's' for plural countable nouns.",
+        "frequency": "Very Common",
+        "tip": "Always pluralize nouns when counting more than one."
+      }
+    ],
+    "practice_exercises": {
+      "identification": {
+        "title": "Identify Countable Nouns",
+        "instructions": "Underline all countable nouns in the sentences.",
+        "questions": [
+          {
+            "id": 1,
+            "sentence": "There is a dog in the garden.",
+            "answer": ["dog"],
+            "explanation": "'Dog' is a singular countable noun."
+          },
+          {
+            "id": 2,
+            "sentence": "She bought five books.",
+            "answer": ["books"],
+            "explanation": "'Books' is a plural countable noun."
+          },
+          {
+            "id": 3,
+            "sentence": "A cat is sleeping on the mat.",
+            "answer": ["cat"],
+            "explanation": "'Cat' is singular countable."
+          },
+          {
+            "id": 4,
+            "sentence": "He planted several flowers.",
+            "answer": ["flowers"],
+            "explanation": "'Flowers' is countable plural."
+          },
+          {
+            "id": 5,
+            "sentence": "They invited many friends.",
+            "answer": ["friends"],
+            "explanation": "'Friends' is a plural countable noun."
+          }
+        ]
+      },
+      "correction": {
+        "title": "Correct the Errors in Countable Nouns",
+        "instructions": "Fix the mistakes related to countable nouns.",
+        "questions": [
+          {
+            "id": 1,
+            "sentence": "I have book.",
+            "answer": ["I have a book."],
+            "explanation": "Singular countable nouns need an article."
+          },
+          {
+            "id": 2,
+            "sentence": "There are many apple.",
+            "answer": ["There are many apples."],
+            "explanation": "Plural form needed for multiple items."
+          },
+          {
+            "id": 3,
+            "sentence": "Few information is available.",
+            "answer": ["Little information is available."],
+            "explanation": "Use 'little' with uncountable nouns."
+          },
+          {
+            "id": 4,
+            "sentence": "She has four childs.",
+            "answer": ["She has four children."],
+            "explanation": "Irregular plural 'children' for 'child'."
+          },
+          {
+            "id": 5,
+            "sentence": "A dogs bark loudly.",
+            "answer": ["Dogs bark loudly."],
+            "explanation": "'A' cannot be used with plurals."
+          }
+        ]
+      },
+      "fill_in_blank": {
+        "title": "Fill in the Blanks with Countable Nouns",
+        "instructions": "Complete the sentences with the correct countable noun.",
+        "questions": [
+          {
+            "id": 1,
+            "sentence": "I have two _______.",
+            "answer": ["books"],
+            "explanation": "'Books' plural countable noun."
+          },
+          {
+            "id": 2,
+            "sentence": "She saw a _______ in the garden.",
+            "answer": ["cat"],
+            "explanation": "'Cat' singular countable noun."
+          },
+          {
+            "id": 3,
+            "sentence": "Many _______ are flying in the sky.",
+            "answer": ["birds"],
+            "explanation": "'Birds' plural countable noun."
+          },
+          {
+            "id": 4,
+            "sentence": "There are several _______ on the table.",
+            "answer": ["pens"],
+            "explanation": "'Pens' plural countable noun."
+          },
+          {
+            "id": 5,
+            "sentence": "She found a _______ under the bed.",
+            "answer": ["shoe"],
+            "explanation": "'Shoe' singular countable noun."
+          }
+        ]
+      },
+      "writing_task": {
+        "title": "Write Sentences Using Countable Nouns",
+        "instructions": "Write 5 sentences using different countable nouns correctly.",
+        "questions": [
+          {
+            "id": 1,
+            "sentence": "",
+            "answer": [],
+            "explanation": "Include both singular and plural countable nouns."
+          }
+        ]
+      }
+    },
+    "quiz_questions": {
+      "easy": [
+        {
+          "id": 1,
+          "question": "Which of these is a countable noun?",
+          "options": ["water", "apple", "milk", "rice"],
+          "correct_answer": 1,
+          "explanation": "'Apple' is countable; you can count apples."
+        },
+        {
+          "id": 2,
+          "question": "Choose the correct plural form:",
+          "options": ["bookes", "books", "book", "bookss"],
+          "correct_answer": 1,
+          "explanation": "'Books' is the correct plural form of 'book'."
+        },
+        {
+          "id": 3,
+          "question": "How do you say one cat and many cats?",
+          "options": ["cat, cats", "cats, cat", "cat, catss", "cat, catz"],
+          "correct_answer": 0,
+          "explanation": "Singular is 'cat', plural is 'cats'."
+        },
+        {
+          "id": 4,
+          "question": "Which article goes before a singular countable noun?",
+          "options": ["a", "an", "the", "any"],
+          "correct_answer": 0,
+          "explanation": "'A' or 'an' is used, depending on sound."
+        },
+        {
+          "id": 5,
+          "question": "Select the sentence with correct countable noun usage:",
+          "options": [
+            "I have many apples.",
+            "I have much apples.",
+            "I have a apples.",
+            "I have apple."
+          ],
+          "correct_answer": 0,
+          "explanation": "'Many' is used with plural countable nouns."
+        }
+      ],
+      "medium": [
+        {
+          "id": 6,
+          "question": "Which sentence is correct?",
+          "options": [
+            "She has a dog.",
+            "She has dog.",
+            "She have a dog.",
+            "She have dog."
+          ],
+          "correct_answer": 0,
+          "explanation": "Singular with article and verb agreement are correct."
+        },
+        {
+          "id": 7,
+          "question": "Choose the correct quantifier for countable nouns:",
+          "options": ["much", "many", "little", "some"],
+          "correct_answer": 1,
+          "explanation": "'Many' is used with countable nouns."
+        },
+        {
+          "id": 8,
+          "question": "Identify the error:",
+          "options": [
+            "I bought three apples.",
+            "I bought three apple.",
+            "I bought an apple.",
+            "I bought apples."
+          ],
+          "correct_answer": 1,
+          "explanation": "Plural noun must be used with numbers greater than one."
+        },
+        {
+          "id": 9,
+          "question": "Plural of 'child' is:",
+          "options": ["childs", "children", "childes", "child"],
+          "correct_answer": 1,
+          "explanation": "'Children' is the correct plural form."
+        },
+        {
+          "id": 10,
+          "question": "Fill in the blank: 'I have _____ pencils.'",
+          "options": ["seven", "much", "many", "some"],
+          "correct_answer": 0,
+          "explanation": "Use numbers directly before countable nouns."
+        }
+      ],
+      "hard": [
+        {
+          "id": 11,
+          "question": "Which sentence is grammatically correct?",
+          "options": [
+            "The dogs barks loudly.",
+            "The dog bark loudly.",
+            "The dogs bark loudly.",
+            "The dog barks loudly."
+          ],
+          "correct_answer": 2,
+          "explanation": "Plural noun with plural verb is correct."
+        },
+        {
+          "id": 12,
+          "question": "Identify the singular countable noun:",
+          "options": ["cars", "book", "children", "dogs"],
+          "correct_answer": 1,
+          "explanation": "'Book' is singular countable."
+        },
+        {
+          "id": 13,
+          "question": "Use the correct article: 'I saw ___ elephant.'",
+          "options": ["an", "a", "the", "no article"],
+          "correct_answer": 0,
+          "explanation": "'An' is used before vowel sounds."
+        },
+        {
+          "id": 14,
+          "question": "Which quantifier is correct for plural countable nouns?",
+          "options": ["few", "little", "much", "less"],
+          "correct_answer": 0,
+          "explanation": "'Few' is used with plural countable nouns."
+        },
+        {
+          "id": 15,
+          "question": "Which of the following refers to quantity of countable items?",
+          "options": ["many", "much", "little", "some"],
+          "correct_answer": 0,
+          "explanation": "'Many' refers to countable nouns."
+        }
+      ]
+    },
+    "metadata": {
+      "created_date": "2025-11-25",
+      "version": "1.0",
+      "difficulty_level": "Beginner to Intermediate",
+      "estimated_reading_time": "15 minutes",
+      "total_examples": 50,
+      "total_exercises": 25,
+      "suitable_for": ["ESL learners", "Students", "English learners"]
+    }
+  }
+}

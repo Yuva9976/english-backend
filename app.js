@@ -13,7 +13,12 @@ app.use(express.json());
 app.use(cookieParser());
 app.use(
   cors({
-    origin: process.env.FRONTEND_ORIGIN || 'http://localhost:5173',
+    origin: [
+      'http://localhost:3000',
+      'http://localhost:3001', 
+      'http://localhost:5173',
+      process.env.FRONTEND_ORIGIN
+    ].filter(Boolean),
     credentials: true,
   })
 );

@@ -1,0 +1,610 @@
+{
+  "overview": {
+    "title": "What are Collective Nouns?",
+    "description": "Collective nouns name groups of people, animals, or things considered as a single unit. They are used to refer to collections, making sentences shorter and clearer.",
+    "key_points": [
+      "Represent groups as single units",
+      "May refer to people, animals, or objects",
+      "Singular in form but may take singular or plural verbs",
+      "Used with articles 'a', 'the', or quantifiers",
+      "Examples: team, family, flock, bunch, committee"
+    ],
+    "importance": "Collective nouns help describe groups efficiently, making language more expressive and less repetitive.",
+    "common_words": [
+      "team", "family", "audience", "committee", "crowd",
+      "class", "herd", "flock", "pack", "group",
+      "crew", "bunch", "swarm", "choir", "army",
+      "pack", "gang", "fleet", "panel", "jury"
+    ]
+  },
+  "detailed_explanation": {
+    "sections": [
+      {
+        "title": "Definition and Function",
+        "content": "A collective noun refers to a group of people, animals, or things as a single entity. Even though it names multiple individuals, it often behaves like a singular noun in grammar.",
+        "subsections": [
+          {
+            "subtitle": "Single Unit Concept",
+            "text": "The group is thought of as one whole, not as separate members. For example, 'A team is playing.'",
+            "examples": ["A class is taking the test."]
+          }
+        ]
+      },
+      {
+        "title": "Usage in Sentences",
+        "content": "Collective nouns can take singular or plural verbs, depending on whether you're emphasizing the group as a whole or the individuals within it. This varies between American and British English usage.",
+        "subsections": [
+          {
+            "subtitle": "Verb Agreement",
+            "text": "In American English, collective nouns usually use singular verbs. In British English, both singular and plural verbs may be correct depending on context.",
+            "examples": ["The family is large. (US)", "The team are wearing their new jerseys. (UK)"]
+          }
+        ]
+      },
+      {
+        "title": "Types of Collective Nouns",
+        "content": "Some collective nouns are general (like 'group'), while others are specific to certain objects, animals, or professions.",
+        "subsections": [
+          {
+            "subtitle": "Specific Examples",
+            "text": "Words such as 'flock' for birds, 'herd' for cattle, and 'panel' for judges are examples of specialized collective nouns.",
+            "examples": ["A flock of birds", "A herd of cows", "A panel of experts"]
+          }
+        ]
+      }
+    ]
+  },
+  "grammar_rules": [
+    {
+      "rule_number": 1,
+      "title": "Use singular verbs when the group acts as one",
+      "description": "Treat the collective noun as singular if the group performs the same action collectively.",
+      "correct_examples": [
+        "The audience was excited.",
+        "The class is studying for the test.",
+        "The committee decides the policy."
+      ],
+      "incorrect_examples": [
+        "The audience were excited. (incorrect in US English)",
+        "The class are studying.",
+        "The committee decide."
+      ],
+      "tip": "Check if the group is acting together—use singular verbs."
+    },
+    {
+      "rule_number": 2,
+      "title": "Use plural verbs when group members act as individuals",
+      "description": "If the action is performed by individuals in the group, use a plural verb (especially in British English).",
+      "correct_examples": [
+        "The team are discussing among themselves.",
+        "The class are working on projects.",
+        "The family are taking their seats."
+      ],
+      "incorrect_examples": [
+        "The team is discussing among themselves.",
+        "The class is working on projects.",
+        "The family is taking their seats."
+      ],
+      "tip": "If you mean individuals, use a plural verb (common in UK English)."
+    },
+    {
+      "rule_number": 3,
+      "title": "Make collective nouns plural when referring to groups of groups",
+      "description": "When discussing more than one group, pluralize the collective noun itself.",
+      "correct_examples": [
+        "There are three teams in this league.",
+        "Several families attended.",
+        "Two herds of cattle were seen."
+      ],
+      "incorrect_examples": [
+        "Three team in this league.",
+        "Several familys attended.",
+        "Two herd of cattle were seen."
+      ],
+      "tip": "Pluralize the collective noun to refer to multiple groups."
+    },
+    {
+      "rule_number": 4,
+      "title": "Use articles and quantifiers appropriately",
+      "description": "Most collective nouns need an article or number when used in a sentence.",
+      "correct_examples": [
+        "A group of students arrived.",
+        "The panel agreed.",
+        "Some gangs cause trouble."
+      ],
+      "incorrect_examples": [
+        "Group of students arrived.",
+        "Panel agreed.",
+        "Gangs cause trouble."
+      ],
+      "tip": "Use 'a', 'the', or quantifiers like 'some' before collective nouns."
+    },
+    {
+      "rule_number": 5,
+      "title": "Context determines subject-verb agreement",
+      "description": "Decide verb number by whether you mean the group (singular) or the members (plural) in the context.",
+      "correct_examples": [
+        "The audience is clapping loudly. (whole group)",
+        "The jury are arguing among themselves. (individuals within the group)"
+      ],
+      "incorrect_examples": [
+        "The audience are clapping loudly. (in US English)",
+        "The jury is arguing among themselves."
+      ],
+      "tip": "Ask: Is the group acting as one or as individuals?"
+    }
+  ],
+  "examples": {
+    "categories": [
+      {
+        "category": "People Groups",
+        "icon": "👨‍👩‍👧‍👦",
+        "examples": [
+          {
+            "sentence": "Our family enjoys picnics.",
+            "analysis": "'Family' is a collective noun for people related to one another."
+          },
+          {
+            "sentence": "The jury has reached a verdict.",
+            "analysis": "'Jury' is a group of people making a legal decision."
+          },
+          {
+            "sentence": "The class was quiet.",
+            "analysis": "'Class' stands for a group of students."
+          },
+          {
+            "sentence": "A crowd gathered in the street.",
+            "analysis": "'Crowd' refers to many people together."
+          },
+          {
+            "sentence": "The team is practicing football.",
+            "analysis": "'Team' denotes a group playing as one unit."
+          }
+        ]
+      },
+      {
+        "category": "Animal Groups",
+        "icon": "🐑",
+        "examples": [
+          {
+            "sentence": "A flock of sheep was grazing.",
+            "analysis": "'Flock' is a group of sheep."
+          },
+          {
+            "sentence": "A herd of elephants crossed the river.",
+            "analysis": "'Herd' means a collection of animals."
+          },
+          {
+            "sentence": "A swarm of bees attacked the farmer.",
+            "analysis": "'Swarm' is used for insects like bees."
+          },
+          {
+            "sentence": "A pack of wolves hunted together.",
+            "analysis": "'Pack' stands for a group of wolves."
+          },
+          {
+            "sentence": "A school of fish swam past.",
+            "analysis": "'School' is a group of fish."
+          }
+        ]
+      },
+      {
+        "category": "Object Groups",
+        "icon": "🧺",
+        "examples": [
+          {
+            "sentence": "He bought a bunch of grapes.",
+            "analysis": "'Bunch' is a collective noun for grapes."
+          },
+          {
+            "sentence": "A fleet of ships sailed by.",
+            "analysis": "'Fleet' groups multiple ships together."
+          },
+          {
+            "sentence": "A pile of books was found on the desk.",
+            "analysis": "'Pile' refers to a stack of items."
+          },
+          {
+            "sentence": "She saw a bouquet of flowers.",
+            "analysis": "'Bouquet' is a group of flowers."
+          },
+          {
+            "sentence": "He carried a set of tools.",
+            "analysis": "'Set' names a group of related objects."
+          }
+        ]
+      },
+      {
+        "category": "Profession/Organization",
+        "icon": "🏢",
+        "examples": [
+          {
+            "sentence": "The committee meets every month.",
+            "analysis": "'Committee' refers to a professional group."
+          },
+          {
+            "sentence": "The staff is helpful.",
+            "analysis": "'Staff' denotes all employees in an organization."
+          },
+          {
+            "sentence": "The orchestra performed beautifully.",
+            "analysis": "'Orchestra' for a group of musicians."
+          },
+          {
+            "sentence": "A board of directors decided the changes.",
+            "analysis": "'Board' is a body of decision-makers."
+          },
+          {
+            "sentence": "The choir sang loudly.",
+            "analysis": "'Choir' is a group of singers."
+          }
+        ]
+      }
+    ],
+    "complex_sentences": [
+      {
+        "sentence": "The crowd cheered while the team played in the final match.",
+        "proper_nouns": [],
+        "analysis": "'Crowd' and 'team' are collective nouns referring to groups."
+      },
+      {
+        "sentence": "A fleet of ships was seen near the coast as the storm approached.",
+        "proper_nouns": [],
+        "analysis": "'Fleet' names a group of ships acting as one."
+      },
+      {
+        "sentence": "The committee have made their decisions after hours of debate.",
+        "proper_nouns": [],
+        "analysis": "'Committee' here acts as individuals (plural)."
+      }
+    ]
+  },
+  "common_mistakes": [
+    {
+      "mistake_number": 1,
+      "error_type": "Verb agreement error",
+      "wrong": "The family are going to the airport. (in US English)",
+      "correct": "The family is going to the airport.",
+      "explanation": "Treat as singular in American English.",
+      "frequency": "Very Common",
+      "tip": "Use a singular verb unless emphasizing individuals."
+    },
+    {
+      "mistake_number": 2,
+      "error_type": "Pluralization of group noun",
+      "wrong": "Three flock of birds were seen.",
+      "correct": "Three flocks of birds were seen.",
+      "explanation": "Pluralize the collective noun when talking about multiple groups.",
+      "frequency": "Common",
+      "tip": "Pluralize to show more than one group."
+    },
+    {
+      "mistake_number": 3,
+      "error_type": "Missing article",
+      "wrong": "Crowd gathered quickly.",
+      "correct": "A crowd gathered quickly.",
+      "explanation": "Collective nouns need articles when indefinite.",
+      "frequency": "Common",
+      "tip": "Use 'a', 'the', or quantifiers before most collective nouns."
+    },
+    {
+      "mistake_number": 4,
+      "error_type": "Confusing group with individual noun",
+      "wrong": "He has a family of brother.",
+      "correct": "He has a family of brothers.",
+      "explanation": "Group noun should not be followed by a singular.",
+      "frequency": "Moderate",
+      "tip": "Use pluralized members after the group noun."
+    },
+    {
+      "mistake_number": 5,
+      "error_type": "Using plural verb incorrectly (US English)",
+      "wrong": "The committee have made a decision.",
+      "correct": "The committee has made a decision.",
+      "explanation": "Use singular verb for group acting as one (US standard).",
+      "frequency": "Moderate",
+      "tip": "Check grammar rule and dialect."
+    },
+    {
+      "mistake_number": 6,
+      "error_type": "Redundant pluralization",
+      "wrong": "A bunches of keys is missing.",
+      "correct": "A bunch of keys is missing.",
+      "explanation": "Do not pluralize when using the collective noun for a single group.",
+      "frequency": "Common",
+      "tip": "Pluralize only if referring to more than one group."
+    },
+    {
+      "mistake_number": 7,
+      "error_type": "Misspelling",
+      "wrong": "She joined a choire.",
+      "correct": "She joined a choir.",
+      "explanation": "'Choir' is the correct spelling.",
+      "frequency": "Moderate",
+      "tip": "Learn spelling of common collective nouns."
+    },
+    {
+      "mistake_number": 8,
+      "error_type": "Wrong use of collective with uncountable",
+      "wrong": "A herd of rice is growing.",
+      "correct": "A field of rice is growing.",
+      "explanation": "Use correct collective noun for the item.",
+      "frequency": "Moderate",
+      "tip": "Check standard group words for objects."
+    }
+  ],
+  "practice_exercises": {
+    "identification": {
+      "title": "Identify the Collective Nouns",
+      "instructions": "Underline the collective nouns in each sentence.",
+      "questions": [
+        {
+          "id": 1,
+          "sentence": "The class won a prize.",
+          "answer": ["class"],
+          "explanation": "'Class' is a group noun for students."
+        },
+        {
+          "id": 2,
+          "sentence": "A flock of birds flew overhead.",
+          "answer": ["flock"],
+          "explanation": "'Flock' refers to a group."
+        },
+        {
+          "id": 3,
+          "sentence": "The crew fixed the ship.",
+          "answer": ["crew"],
+          "explanation": "'Crew' is the team working together."
+        },
+        {
+          "id": 4,
+          "sentence": "A pile of leaves covered the ground.",
+          "answer": ["pile"],
+          "explanation": "'Pile' is a collection of things."
+        },
+        {
+          "id": 5,
+          "sentence": "Our family visited the zoo.",
+          "answer": ["family"],
+          "explanation": "'Family' is a group of relatives."
+        }
+      ]
+    },
+    "correction": {
+      "title": "Correct the Verb Agreement",
+      "instructions": "Fix the verb agreement in these sentences.",
+      "questions": [
+        {
+          "id": 1,
+          "sentence": "The team are ready to play. (US English)",
+          "answer": ["The team is ready to play."],
+          "explanation": "Use singular verb for collective acting as one."
+        },
+        {
+          "id": 2,
+          "sentence": "The family have finished eating. (US English)",
+          "answer": ["The family has finished eating."],
+          "explanation": "Singular verb matches 'family' as a single unit."
+        },
+        {
+          "id": 3,
+          "sentence": "Three fleet of ships sailed by.",
+          "answer": ["Three fleets of ships sailed by."],
+          "explanation": "Pluralize 'fleet' when more than one."
+        },
+        {
+          "id": 4,
+          "sentence": "A bunches of bananas was on the table.",
+          "answer": ["A bunch of bananas was on the table."],
+          "explanation": "Collective noun should be singular when one group."
+        },
+        {
+          "id": 5,
+          "sentence": "Orchestra have started playing.",
+          "answer": ["The orchestra has started playing."],
+          "explanation": "Add 'the' and use singular verb."
+        }
+      ]
+    },
+    "fill_in_blank": {
+      "title": "Fill in the Blanks with Collective Nouns",
+      "instructions": "Insert the correct collective noun in each sentence.",
+      "questions": [
+        {
+          "id": 1,
+          "sentence": "A ________ of bees attacked the farmer.",
+          "answer": ["swarm"],
+          "explanation": "'Swarm' is used for bees."
+        },
+        {
+          "id": 2,
+          "sentence": "The ________ of musicians played in harmony.",
+          "answer": ["orchestra"],
+          "explanation": "'Orchestra' is a group of musicians."
+        },
+        {
+          "id": 3,
+          "sentence": "A ________ of lions slept in the shade.",
+          "answer": ["pride"],
+          "explanation": "'Pride' is used for lions."
+        },
+        {
+          "id": 4,
+          "sentence": "He joined a ________ of singers.",
+          "answer": ["choir"],
+          "explanation": "'Choir' is the group for singers."
+        },
+        {
+          "id": 5,
+          "sentence": "A ________ of students played football.",
+          "answer": ["team", "group", "class"],
+          "explanation": "Any of these are possible collective nouns."
+        }
+      ]
+    },
+    "writing_task": {
+      "title": "Write Sentences with Collective Nouns",
+      "instructions": "Write 5 sentences, each containing a different collective noun.",
+      "questions": [
+        {
+          "id": 1,
+          "sentence": "",
+          "answer": [],
+          "explanation": "Ensure each sentence contains a correct collective/group noun."
+        }
+      ]
+    }
+  },
+  "quiz_questions": {
+    "easy": [
+      {
+        "id": 1,
+        "question": "Which of the following is a collective noun?",
+        "options": ["apple", "team", "teacher", "city"],
+        "correct_answer": 1,
+        "explanation": "'Team' names a group."
+      },
+      {
+        "id": 2,
+        "question": "Choose the correct sentence:",
+        "options": [
+          "The class is ready.",
+          "The class are ready.",
+          "Class ready.",
+          "A classes of students ready."
+        ],
+        "correct_answer": 0,
+        "explanation": "Singular verb 'is' matches collective noun."
+      },
+      {
+        "id": 3,
+        "question": "What does 'herd' refer to?",
+        "options": ["Group of fish", "Group of cows", "Group of birds", "Group of people"],
+        "correct_answer": 1,
+        "explanation": "'Herd' is for cows."
+      },
+      {
+        "id": 4,
+        "question": "A ________ of ships sailed in the ocean.",
+        "options": ["team", "class", "fleet", "flock"],
+        "correct_answer": 2,
+        "explanation": "'Fleet' is used for ships."
+      },
+      {
+        "id": 5,
+        "question": "Which is the collective noun in: 'The crowd cheered loudly.'",
+        "options": ["cheered", "loudly", "crowd", "The"],
+        "correct_answer": 2,
+        "explanation": "'Crowd' is a collective noun."
+      }
+    ],
+    "medium": [
+      {
+        "id": 6,
+        "question": "Select the example with a correct collective noun:",
+        "options": [
+          "A pack of wolves is hunting.",
+          "A pride of cows is grazing.",
+          "A bunch of teachers is in the room.",
+          "A school of lions swims by."
+        ],
+        "correct_answer": 0,
+        "explanation": "'Pack' is correct for wolves."
+      },
+      {
+        "id": 7,
+        "question": "Which is the correct plural form when talking about several groups?",
+        "options": [
+          "A groups of musicians",
+          "Groups of musicians",
+          "Groupes of musicians",
+          "Group of musicianses"
+        ],
+        "correct_answer": 1,
+        "explanation": "'Groups' is the correct plural form."
+      },
+      {
+        "id": 8,
+        "question": "When a collective noun refers to members acting separately, you should use:",
+        "options": ["Singular verb", "Plural verb", "No verb", "Both are fine"],
+        "correct_answer": 1,
+        "explanation": "Plural verb is used for individual action."
+      },
+      {
+        "id": 9,
+        "question": "Which is a collective noun for birds?",
+        "options": ["flock", "herd", "group", "committee"],
+        "correct_answer": 0,
+        "explanation": "'Flock' is used for birds."
+      },
+      {
+        "id": 10,
+        "question": "Identify the error: 'A team of players are practicing.' (US English)",
+        "options": [
+          "No error",
+          "'Are' should be 'is'",
+          "'Team' should be 'teams'",
+          "'Players' should be 'player'"
+        ],
+        "correct_answer": 1,
+        "explanation": "Singular verb 'is' should be used (US English)."
+      }
+    ],
+    "hard": [
+      {
+        "id": 11,
+        "question": "Which collective noun fits: 'A ________ of judges announced the results.'",
+        "options": ["panel", "bunch", "fleet", "choir"],
+        "correct_answer": 0,
+        "explanation": "'Panel' refers to judges."
+      },
+      {
+        "id": 12,
+        "question": "Which is the correct use of a collective noun in UK English?",
+        "options": [
+          "The team are winning.",
+          "The team is winning.",
+          "Team is win.",
+          "A teams are win."
+        ],
+        "correct_answer": 0,
+        "explanation": "'Are' is commonly used in UK for individuals."
+      },
+      {
+        "id": 13,
+        "question": "Choose the right sentence:",
+        "options": [
+          "A pride of lions was sleeping.",
+          "A pride of lions were sleeping.",
+          "Both can be correct depending on dialect.",
+          "Neither is correct."
+        ],
+        "correct_answer": 2,
+        "explanation": "Both are used; depends on US/UK English."
+      },
+      {
+        "id": 14,
+        "question": "Which of these is not a collective noun?",
+        "options": ["herd", "joy", "pack", "choir"],
+        "correct_answer": 1,
+        "explanation": "'Joy' is an abstract noun."
+      },
+      {
+        "id": 15,
+        "question": "Fill in the blank: 'A ________ of experts discussed the topic.'",
+        "options": ["panel", "herd", "school", "flock"],
+        "correct_answer": 0,
+        "explanation": "'Panel' is used for experts or judges."
+      }
+    ]
+  },
+  "metadata": {
+    "created_date": "2025-11-25",
+    "version": "1.0",
+    "difficulty_level": "Beginner to Intermediate",
+    "estimated_reading_time": "15 minutes",
+    "total_examples": 50,
+    "total_exercises": 25,
+    "suitable_for": ["ESL learners", "Students", "English beginners"]
+  }
+}

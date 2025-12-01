@@ -1,0 +1,577 @@
+{
+  "overview": {
+    "title": "What are Uncountable Nouns?",
+    "description": "[translate: Uncountable nouns refer to substances, concepts, or masses that cannot be counted individually.] They do not have plural forms and often represent abstract ideas or mass objects.",
+    "key_points": [
+      "Cannot be counted individually",
+      "No plural form",
+      "Used with quantifiers like 'some', 'much', 'a little'",
+      "Often represent substances, qualities, or concepts",
+      "Examples: water, rice, information, advice"
+    ],
+    "importance": "Understanding uncountable nouns is essential for correctly expressing quantities and making grammatically correct sentences.",
+    "common_words": [
+      "water", "rice", "information", "advice", "music",
+      "furniture", "knowledge", "bread", "money", "hair",
+      "equipment", "traffic", "education", "laughter", "dust",
+      "courage", "weather", "soap", "electricity", "salt"
+    ]
+  },
+  "detailed_explanation": {
+    "sections": [
+      {
+        "title": "Definition and Characteristics",
+        "content": "[translate: Uncountable nouns describe things that can't be counted as separate units.] They often represent substances, liquids, qualities, or abstract ideas.",
+        "subsections": [
+          {
+            "subtitle": "Mass and Abstract Concepts",
+            "text": "Examples include 'water' (a liquid), 'rice' (a mass), 'information' (a concept), and 'advice' (an intangible).",
+            "examples": ["water", "rice", "information", "advice"]
+          }
+        ]
+      },
+      {
+        "title": "Grammar and Usage",
+        "content": "Uncountable nouns cannot be used with numbers and do not have plural forms. They are paired with quantifiers like 'some', 'much', or 'a little' to express amount.",
+        "subsections": [
+          {
+            "subtitle": "Using Quantifiers",
+            "text": "'Some water', 'much information', 'a little rice'. Use 'many' or numbers only with countable items.",
+            "examples": ["some milk", "much traffic", "a little sugar"]
+          },
+          {
+            "subtitle": "Expressions for Quantity",
+            "text": "For specific amounts, use units related to the noun (e.g., 'a glass of water', 'two pieces of advice').",
+            "examples": ["a piece of advice", "a bottle of milk"]
+          }
+        ]
+      },
+      {
+        "title": "Common Uncountable Nouns",
+        "content": "Uncountable nouns often include liquids, foods, substances, qualities, and abstract ideas.",
+        "subsections": [
+          {
+            "subtitle": "Categories",
+            "text": "Liquids (water, milk), foods (rice, sugar), substances (sand, hair), qualities (honesty, courage), abstract ideas (information, advice).",
+            "examples": ["milk", "sand", "honesty", "information"]
+          }
+        ]
+      }
+    ]
+  },
+  "grammar_rules": [
+    {
+      "rule_number": 1,
+      "title": "Do not use plural forms with uncountable nouns",
+      "description": "Uncountable nouns remain singular and do not take -s endings.",
+      "correct_examples": ["The information is useful.", "Rice is a staple food."],
+      "incorrect_examples": ["Informations are useful.", "Rices are staples."],
+      "tip": "Never add 's' to uncountable nouns."
+    },
+    {
+      "rule_number": 2,
+      "title": "Use quantifiers like 'some', 'much', and 'a little'",
+      "description": "Since uncountable nouns can't be counted, use quantifiers to express amounts.",
+      "correct_examples": ["Some water", "Much sand", "A little sugar"],
+      "incorrect_examples": ["Many water", "A few sand", "Much apples"],
+      "tip": "Match quantifiers with noun type."
+    },
+    {
+      "rule_number": 3,
+      "title": "Use measure words to specify quantity",
+      "description": "Use units or containers to count uncountable nouns (e.g., 'a cup of tea').",
+      "correct_examples": ["A cup of tea", "Two pieces of bread"],
+      "incorrect_examples": ["Two teas", "Three breads"],
+      "tip": "Add units to quantify uncountable nouns."
+    },
+    {
+      "rule_number": 4,
+      "title": "Uncountable nouns take singular verbs",
+      "description": "Treat uncountable nouns as singular subjects in sentences.",
+      "correct_examples": ["The furniture is new.", "Milk tastes sweet."],
+      "incorrect_examples": ["The furniture are new.", "Milk taste sweet."],
+      "tip": "Singular noun needs singular verb."
+    },
+    {
+      "rule_number": 5,
+      "title": "Some nouns can be both countable and uncountable",
+      "description": "Context determines if a noun is countable or uncountable (e.g., 'chicken' as animal or meat).",
+      "correct_examples": ["I have three chickens.", "I ate some chicken."],
+      "incorrect_examples": ["I have some chicken.", "I ate three chicken."],
+      "tip": "Understand context for correct usage."
+    }
+  ],
+  "examples": {
+    "categories": [
+      {
+        "category": "Liquids and Substances",
+        "icon": "💧",
+        "examples": [
+          {
+            "sentence": "Water is essential for life.",
+            "analysis": "'Water' is an uncountable noun referring to a liquid."
+          },
+          {
+            "sentence": "Milk is in the refrigerator.",
+            "analysis": "'Milk' is uncountable, describing a liquid."
+          },
+          {
+            "sentence": "Salt is used in cooking.",
+            "analysis": "'Salt' is an uncountable substance."
+          },
+          {
+            "sentence": "She added some sugar to the tea.",
+            "analysis": "'Sugar' is uncountable, quantified by 'some'."
+          },
+          {
+            "sentence": "Dust covered the old furniture.",
+            "analysis": "'Dust' is uncountable describing fine particles."
+          }
+        ]
+      },
+      {
+        "category": "Food",
+        "icon": "🍞",
+        "examples": [
+          {
+            "sentence": "Rice is a staple food in many countries.",
+            "analysis": "'Rice' is an uncountable grain."
+          },
+          {
+            "sentence": "She ate some bread for breakfast.",
+            "analysis": "'Bread' is uncountable, quantified with 'some'."
+          },
+          {
+            "sentence": "Cheese is made from milk.",
+            "analysis": "'Cheese' is uncountable food."
+          },
+          {
+            "sentence": "Butter is used in baking.",
+            "analysis": "'Butter' is uncountable."
+          },
+          {
+            "sentence": "He poured some juice into the glass.",
+            "analysis": "'Juice' is uncountable liquid."
+          }
+        ]
+      },
+      {
+        "category": "Abstract Ideas and Qualities",
+        "icon": "🧠",
+        "examples": [
+          {
+            "sentence": "Knowledge is power.",
+            "analysis": "'Knowledge' is an uncountable abstract noun."
+          },
+          {
+            "sentence": "Honesty is the best policy.",
+            "analysis": "'Honesty' is an abstract, uncountable quality."
+          },
+          {
+            "sentence": "She showed great courage.",
+            "analysis": "'Courage' is an uncountable quality."
+          },
+          {
+            "sentence": "Information is available online.",
+            "analysis": "'Information' is an uncountable noun."
+          },
+          {
+            "sentence": "He gave good advice.",
+            "analysis": "'Advice' is uncountable."
+          }
+        ]
+      },
+      {
+        "category": "Other Examples",
+        "icon": "📦",
+        "examples": [
+          {
+            "sentence": "Furniture needs to be dusted regularly.",
+            "analysis": "'Furniture' is an uncountable noun for items."
+          },
+          {
+            "sentence": "Music helps relax the mind.",
+            "analysis": "'Music' is uncountable."
+          },
+          {
+            "sentence": "Traffic is heavy during rush hour.",
+            "analysis": "'Traffic' is uncountable."
+          },
+          {
+            "sentence": "She gained a lot of experience.",
+            "analysis": "'Experience' is uncountable."
+          },
+          {
+            "sentence": "Laughter filled the room.",
+            "analysis": "'Laughter' is uncountable."
+          }
+        ]
+      }
+    ],
+    "complex_sentences": [
+      {
+        "sentence": "She drank a glass of water after her run.",
+        "proper_nouns": [],
+        "analysis": "'Water' is uncountable; 'glass' is used to measure quantity."
+      },
+      {
+        "sentence": "Information provided by the team was helpful.",
+        "proper_nouns": [],
+        "analysis": "'Information' is an uncountable abstract noun."
+      },
+      {
+        "sentence": "Many people appreciate good advice during tough times.",
+        "proper_nouns": [],
+        "analysis": "'Advice' is uncountable, but can be pluralized in certain contexts."
+      }
+    ]
+  },
+  "common_mistakes": [
+    {
+      "mistake_number": 1,
+      "error_type": "Adding plural -s to uncountable nouns",
+      "wrong": "She gave me many advices.",
+      "correct": "She gave me much advice.",
+      "explanation": "Uncountable nouns do not have plural forms.",
+      "frequency": "Very common",
+      "tip": "Use 'much' or 'some' instead of numbers for uncountable nouns."
+    },
+    {
+      "mistake_number": 2,
+      "error_type": "Using 'a' or 'an' with uncountable nouns",
+      "wrong": "I need a information.",
+      "correct": "I need some information.",
+      "explanation": "Use 'some' or no article with uncountable nouns, not 'a' or 'an'.",
+      "frequency": "Very common",
+      "tip": "Avoid indefinite articles before uncountable nouns."
+    },
+    {
+      "mistake_number": 3,
+      "error_type": "Using countable quantifiers with uncountable nouns",
+      "wrong": "Much apples are on the table.",
+      "correct": "Many apples are on the table.",
+      "explanation": "'Much' is for uncountable nouns, 'many' for countable nouns.",
+      "frequency": "Common",
+      "tip": "Use quantifiers that match the noun type."
+    },
+    {
+      "mistake_number": 4,
+      "error_type": "Misusing units of measurement",
+      "wrong": "I bought two waters.",
+      "correct": "I bought two bottles of water.",
+      "explanation": "Use measure words for quantities of uncountable nouns.",
+      "frequency": "Common",
+      "tip": "Specify units when counting uncountable nouns."
+    },
+    {
+      "mistake_number": 5,
+      "error_type": "Confusing uncountable nouns with plural countables",
+      "wrong": "Informations were helpful.",
+      "correct": "The information was helpful.",
+      "explanation": "Information is uncountable and singular.",
+      "frequency": "Common",
+      "tip": "Memorize commonly uncountable nouns."
+    },
+    {
+      "mistake_number": 6,
+      "error_type": "Wrong verb agreement",
+      "wrong": "The furniture are new.",
+      "correct": "The furniture is new.",
+      "explanation": "Uncountable nouns take singular verbs.",
+      "frequency": "Common",
+      "tip": "Use singular verb forms with uncountable nouns."
+    },
+    {
+      "mistake_number": 7,
+      "error_type": "Incorrect article in phrases",
+      "wrong": "A advice is helpful.",
+      "correct": "Some advice is helpful.",
+      "explanation": "Avoid 'a' with uncountable abstract nouns.",
+      "frequency": "Moderate",
+      "tip": "Use 'some' or no article."
+    },
+    {
+      "mistake_number": 8,
+      "error_type": "Pluralizing abstract nouns wrongly",
+      "wrong": "Knowledges are increasing.",
+      "correct": "Knowledge is increasing.",
+      "explanation": "Use singular form for uncountable abstract nouns.",
+      "frequency": "Moderate",
+      "tip": "Abstract nouns remain singular."
+    }
+  ],
+  "practice_exercises": {
+    "identification": {
+      "title": "Identify the Uncountable Nouns",
+      "instructions": "Underline the uncountable nouns in the sentences.",
+      "questions": [
+        {
+          "id": 1,
+          "sentence": "She gave me some advice.",
+          "answer": ["advice"],
+          "explanation": "'Advice' is an uncountable noun."
+        },
+        {
+          "id": 2,
+          "sentence": "Water is essential for life.",
+          "answer": ["water"],
+          "explanation": "'Water' is uncountable."
+        },
+        {
+          "id": 3,
+          "sentence": "Music fills the room.",
+          "answer": ["music"],
+          "explanation": "'Music' is uncountable."
+        },
+        {
+          "id": 4,
+          "sentence": "He has lots of patience.",
+          "answer": ["patience"],
+          "explanation": "'Patience' is a quality and uncountable."
+        },
+        {
+          "id": 5,
+          "sentence": "Information is power.",
+          "answer": ["information"],
+          "explanation": "'Information' is uncountable."
+        }
+      ]
+    },
+    "correction": {
+      "title": "Correct the Errors with Uncountable Nouns",
+      "instructions": "Fix the mistakes in the sentences.",
+      "questions": [
+        {
+          "id": 1,
+          "sentence": "I need a informations.",
+          "answer": ["I need some information."],
+          "explanation": "No article and no plural with uncountable noun."
+        },
+        {
+          "id": 2,
+          "sentence": "She gave me many advices.",
+          "answer": ["She gave me much advice."],
+          "explanation": "Use 'much' not 'many'; 'advice' uncountable."
+        },
+        {
+          "id": 3,
+          "sentence": "The furnitures are new.",
+          "answer": ["The furniture is new."],
+          "explanation": "'Furniture' is uncountable singular."
+        },
+        {
+          "id": 4,
+          "sentence": "Much books are on the shelf.",
+          "answer": ["Many books are on the shelf."],
+          "explanation": "'Books' is countable; use 'many'."
+        },
+        {
+          "id": 5,
+          "sentence": "I bought two waters.",
+          "answer": ["I bought two bottles of water."],
+          "explanation": "Specify units for uncountable noun."
+        }
+      ]
+    },
+    "fill_in_blank": {
+      "title": "Fill in the Blanks with Uncountable Nouns",
+      "instructions": "Complete the sentences with the correct uncountable noun from the word bank.",
+      "questions": [
+        {
+          "id": 1,
+          "sentence": "________ is important for hydration.",
+          "answer": ["Water"],
+          "explanation": "'Water' is an uncountable noun."
+        },
+        {
+          "id": 2,
+          "sentence": "She gave me good ________.",
+          "answer": ["advice"],
+          "explanation": "'Advice' is uncountable."
+        },
+        {
+          "id": 3,
+          "sentence": "We need some ________ for the recipe.",
+          "answer": ["sugar"],
+          "explanation": "'Sugar' is uncountable."
+        },
+        {
+          "id": 4,
+          "sentence": "________ fills the room with sound.",
+          "answer": ["Music"],
+          "explanation": "'Music' is uncountable."
+        },
+        {
+          "id": 5,
+          "sentence": "He showed great ________ during the crisis.",
+          "answer": ["courage"],
+          "explanation": "'Courage' is uncountable."
+        }
+      ]
+    },
+    "writing_task": {
+      "title": "Write Sentences Using Uncountable Nouns",
+      "instructions": "Write 5 sentences using different uncountable nouns.",
+      "questions": [
+        {
+          "id": 1,
+          "sentence": "",
+          "answer": [],
+          "explanation": "Include nouns like 'water', 'advice', 'music' appropriately."
+        }
+      ]
+    }
+  },
+  "quiz_questions": {
+    "easy": [
+      {
+        "id": 1,
+        "question": "Which of these is an uncountable noun?",
+        "options": ["apple", "water", "dog", "car"],
+        "correct_answer": 1,
+        "explanation": "'Water' cannot be counted individually."
+      },
+      {
+        "id": 2,
+        "question": "Choose the correct quantifier for uncountable nouns:",
+        "options": ["many", "much", "few", "several"],
+        "correct_answer": 1,
+        "explanation": "'Much' is used for uncountable nouns."
+      },
+      {
+        "id": 3,
+        "question": "Which sentence is correct?",
+        "options": [
+          "I need a water.",
+          "I need some water.",
+          "I need many waters.",
+          "I need few waters."
+        ],
+        "correct_answer": 1,
+        "explanation": "Use 'some' with uncountable nouns."
+      },
+      {
+        "id": 4,
+        "question": "Which noun is both countable and uncountable?",
+        "options": ["chicken", "rice", "water", "furniture"],
+        "correct_answer": 0,
+        "explanation": "'Chicken' can be either, depending on context."
+      },
+      {
+        "id": 5,
+        "question": "Uncountable nouns take which verb form?",
+        "options": ["singular", "plural", "both", "none"],
+        "correct_answer": 0,
+        "explanation": "They take singular verbs."
+      }
+    ],
+    "medium": [
+      {
+        "id": 6,
+        "question": "Select the correct sentence:",
+        "options": [
+          "Information are important.",
+          "Information is important.",
+          "Informations are important.",
+          "Informations is important."
+        ],
+        "correct_answer": 1,
+        "explanation": "'Information' is uncountable singular."
+      },
+      {
+        "id": 7,
+        "question": "Choose the best measure phrase:",
+        "options": [
+          "Two waters",
+          "Two bottles of water",
+          "Two sugar",
+          "Two much sugar"
+        ],
+        "correct_answer": 1,
+        "explanation": "Use measure words with uncountable nouns."
+      },
+      {
+        "id": 8,
+        "question": "Which quantifier is NOT used with uncountable nouns?",
+        "options": ["much", "a little", "few", "some"],
+        "correct_answer": 2,
+        "explanation": "'Few' is used with countable nouns."
+      },
+      {
+        "id": 9,
+        "question": "Correctly pluralize when possible:",
+        "options": [
+          "Information",
+          "Informations",
+          "Advices",
+          "Advice"
+        ],
+        "correct_answer": 0,
+        "explanation": "'Information' and 'Advice' are uncountable."
+      },
+      {
+        "id": 10,
+        "question": "Fill in the blank: 'He gave me some _________.'",
+        "options": ["advice", "advices", "advicees", "advic"],
+        "correct_answer": 0,
+        "explanation": "'Advice' is uncountable and singular."
+      }
+    ],
+    "hard": [
+      {
+        "id": 11,
+        "question": "Identify the error: 'She has many knowledge about history.'",
+        "options": [
+          "No error",
+          "'Many' should be 'much'",
+          "'Knowledge' should be plural",
+          "'About history' is incorrect"
+        ],
+        "correct_answer": 1,
+        "explanation": "'Much' used with uncountable nouns like knowledge."
+      },
+      {
+        "id": 12,
+        "question": "Which phrase is correct for uncountable noun?",
+        "options": [
+          "A piece of advice",
+          "An advice",
+          "Many advices",
+          "Few advice"
+        ],
+        "correct_answer": 0,
+        "explanation": "'Piece of advice' quantifies uncountable noun."
+      },
+      {
+        "id": 13,
+        "question": "Use correct verb agreement: 'Furniture ____ new.'",
+        "options": ["is", "are", "were", "be"],
+        "correct_answer": 0,
+        "explanation": "'Is' with uncountable nouns."
+      },
+      {
+        "id": 14,
+        "question": "Choose abstract uncountable noun:",
+        "options": ["milk", "justice", "car", "apple"],
+        "correct_answer": 1,
+        "explanation": "'Justice' is abstract and uncountable."
+      },
+      {
+        "id": 15,
+        "question": "Which quantifier does NOT fit uncountable nouns?",
+        "options": ["a little", "some", "much", "few"],
+        "correct_answer": 3,
+        "explanation": "'Few' is for countable nouns."
+      }
+    ]
+  },
+  "metadata": {
+    "created_date": "2025-11-25",
+    "version": "1.0",
+    "difficulty_level": "Beginner to Intermediate",
+    "estimated_reading_time": "15 minutes",
+    "total_examples": 50,
+    "total_exercises": 25,
+    "suitable_for": ["ESL learners", "Students", "English learners"]
+  }
+}

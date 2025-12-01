@@ -1,0 +1,574 @@
+{
+  "type_id": 3,
+  "type_name": "Concrete Nouns",
+  "part_name": "Noun",
+  "icon": "🪨",
+  "color": "#34d399",
+  "learn_more_content": {
+    "overview": {
+      "title": "What are Concrete Nouns?",
+      "description": "[translate: Concrete nouns name things that can be experienced with the five senses—seen, touched, heard, smelled, or tasted.] They refer to physical and tangible objects.",
+      "key_points": [
+        "Refer to physical objects or substances",
+        "Can be perceived by the senses",
+        "Include people, animals, places, and things",
+        "Are distinct from abstract nouns",
+        "Examples: apple, dog, music, flower"
+      ],
+      "importance": "Understanding concrete nouns helps learners recognize and describe physical things in the real world.",
+      "common_words": [
+        "apple", "table", "flower", "music", "dog",
+        "car", "chair", "book", "glass", "bird",
+        "river", "banana", "phone", "mountain", "cat",
+        "house", "sand", "shoe", "tree", "clock"
+      ]
+    },
+    "detailed_explanation": {
+      "sections": [
+        {
+          "title": "Definition and Characteristics",
+          "content": "[translate: Concrete nouns represent objects that exist physically and that you can perceive through your five senses.] They contrast with abstract nouns which describe feelings, ideas, or qualities.",
+          "subsections": [
+            {
+              "subtitle": "Examples of Sensory Experience",
+              "text": "You can see a dog, touch a table, hear music, smell a flower, and taste an apple—all concrete nouns.",
+              "examples": ["dog", "table", "music", "flower", "apple"]
+            }
+          ]
+        },
+        {
+          "title": "Usage and Function",
+          "content": "Concrete nouns function as subjects or objects in sentences. They can be singular or plural and are often accompanied by articles or quantifiers.",
+          "subsections": [
+            {
+              "subtitle": "Plural Forms and Articles",
+              "text": "Like most nouns, concrete nouns have singular and plural forms and can be introduced with articles such as 'a', 'an', or 'the'.",
+              "examples": ["a dog", "two dogs", "the flowers"]
+            }
+          ]
+        },
+        {
+          "title": "Importance in Language Learning",
+          "content": "[translate: Concrete nouns form the foundation of everyday communication.] They are essential for describing the physical environment and objects around us.",
+          "subsections": [
+            {
+              "subtitle": "Real-World Application",
+              "text": "Learning concrete nouns helps learners to interact effectively by naming items, animals, people, and places.",
+              "examples": ["Please give me the book.", "The flower smells nice."]
+            }
+          ]
+        }
+      ]
+    },
+    "grammar_rules": [
+      {
+        "rule_number": 1,
+        "title": "Concrete nouns can be singular or plural",
+        "description": "These nouns have singular forms and usually plural forms ending in -s or -es.",
+        "correct_examples": ["apple/apples", "dog/dogs"],
+        "incorrect_examples": ["apple/s", "dogs/es"],
+        "tip": "Add -s/es to make plurals unless irregular."
+      },
+      {
+        "rule_number": 2,
+        "title": "Use articles with concrete nouns appropriately",
+        "description": "Use 'a' or 'an' for singular, 'the' for specific nouns.",
+        "correct_examples": ["a car", "an apple", "the mountain"],
+        "incorrect_examples": ["car", "a mountain", "an car"],
+        "tip": "Introduce concrete nouns with the proper article."
+      },
+      {
+        "rule_number": 3,
+        "title": "Concrete nouns can be subjects or objects",
+        "description": "They can function anywhere nouns normally appear in sentences.",
+        "correct_examples": ["The cat sleeps.", "I saw a bird."],
+        "incorrect_examples": ["The cat sleeping.", "I saw bird."],
+        "tip": "Use proper sentence structure with concrete nouns."
+      },
+      {
+        "rule_number": 4,
+        "title": "Concrete nouns contrast with abstract nouns",
+        "description": "Don't confuse physical objects with ideas or feelings.",
+        "correct_examples": ["The flower is beautiful.", "Honesty is important."],
+        "incorrect_examples": ["The honesty is beautiful.", "Flower is important."],
+        "tip": "Identify if the noun is physical or an idea."
+      },
+      {
+        "rule_number": 5,
+        "title": "Countability of concrete nouns",
+        "description": "Most concrete nouns are countable but some like 'music' can be uncountable.",
+        "correct_examples": ["three books", "some music"],
+        "incorrect_examples": ["three musics", "much book"],
+        "tip": "Check if the concrete noun is countable or uncountable."
+      }
+    ],
+    "examples": {
+      "categories": [
+        {
+          "category": "Animals",
+          "icon": "🐾",
+          "examples": [
+            {
+              "sentence": "The dog barked loudly.",
+              "analysis": "'Dog' is a concrete noun you can see and hear."
+            },
+            {
+              "sentence": "Several cats are sleeping.",
+              "analysis": "'Cats' is the plural of a concrete noun."
+            },
+            {
+              "sentence": "The bird sang a beautiful song.",
+              "analysis": "'Bird' is a concrete noun associated with sound."
+            },
+            {
+              "sentence": "A rabbit hopped across the yard.",
+              "analysis": "'Rabbit' is a countable concrete noun."
+            },
+            {
+              "sentence": "Fishes live in the river.",
+              "analysis": "'Fishes' is a plural concrete noun for animals."
+            }
+          ]
+        },
+        {
+          "category": "Objects",
+          "icon": "📦",
+          "examples": [
+            {
+              "sentence": "I bought a new table.",
+              "analysis": "'Table' is a concrete noun you can touch and see."
+            },
+            {
+              "sentence": "The chair is broken.",
+              "analysis": "'Chair' can be physically touched and used."
+            },
+            {
+              "sentence": "She has many books.",
+              "analysis": "'Books' are countable concrete nouns."
+            },
+            {
+              "sentence": "The window is open.",
+              "analysis": "'Window' you can see and open."
+            },
+            {
+              "sentence": "Put the glass on the table.",
+              "analysis": "'Glass' is a tangible concrete noun."
+            }
+          ]
+        },
+        {
+          "category": "Places",
+          "icon": "📍",
+          "examples": [
+            {
+              "sentence": "The city is full of lights.",
+              "analysis": "'City' denotes a physical location."
+            },
+            {
+              "sentence": "We visited the park yesterday.",
+              "analysis": "'Park' is a concrete place noun."
+            },
+            {
+              "sentence": "The mountain is very high.",
+              "analysis": "'Mountain' is a tangible place."
+            },
+            {
+              "sentence": "She lives in the village.",
+              "analysis": "'Village' names a physical location."
+            },
+            {
+              "sentence": "The river flows swiftly.",
+              "analysis": "'River' is a physical natural feature."
+            }
+          ]
+        },
+        {
+          "category": "Food and Drink",
+          "icon": "🍎",
+          "examples": [
+            {
+              "sentence": "An apple a day keeps the doctor away.",
+              "analysis": "'Apple' is a physical object and food."
+            },
+            {
+              "sentence": "The bread smells fresh.",
+              "analysis": "'Bread' is something you can smell and taste."
+            },
+            {
+              "sentence": "I drank a glass of water.",
+              "analysis": "'Water' is a concrete liquid noun."
+            },
+            {
+              "sentence": "The cake is delicious.",
+              "analysis": "'Cake' can be tasted and seen."
+            },
+            {
+              "sentence": "She boiled the eggs this morning.",
+              "analysis": "'Eggs' are countable physical objects."
+            }
+          ]
+        }
+      ],
+      "complex_sentences": [
+        {
+          "sentence": "The dog barked as the children played in the park.",
+          "proper_nouns": [],
+          "analysis": "'Dog', 'children', and 'park' are concrete nouns representing physical beings and places."
+        },
+        {
+          "sentence": "She placed the flowers on the wooden table near the river.",
+          "proper_nouns": [],
+          "analysis": "'Flowers', 'table', and 'river' are tangible and perceivable concrete nouns."
+        },
+        {
+          "sentence": "A cat jumped onto the broken chair by the window.",
+          "proper_nouns": [],
+          "analysis": "'Cat', 'chair', and 'window' are concrete nouns naming physical objects."
+        }
+      ]
+    },
+    "common_mistakes": [
+      {
+        "mistake_number": 1,
+        "error_type": "Confusing concrete with abstract nouns",
+        "wrong": "The honesty is important in life.",
+        "correct": "Honesty is important in life.",
+        "explanation": "Honesty is an abstract noun and should not be treated as a concrete noun.",
+        "frequency": "Common",
+        "tip": "Identify whether the noun names a physical object or an idea."
+      },
+      {
+        "mistake_number": 2,
+        "error_type": "Using singular verb with plural nouns",
+        "wrong": "The cats is playing outside.",
+        "correct": "The cats are playing outside.",
+        "explanation": "Plural nouns require plural verbs.",
+        "frequency": "Common",
+        "tip": "Match verbs correctly with noun number."
+      },
+      {
+        "mistake_number": 3,
+        "error_type": "Misusing articles",
+        "wrong": "She wants apple.",
+        "correct": "She wants an apple.",
+        "explanation": "Singular countable nouns need an article.",
+        "frequency": "Very Common",
+        "tip": "Use 'a' or 'an' before singular concrete countable nouns."
+      },
+      {
+        "mistake_number": 4,
+        "error_type": "Incorrect plural forms",
+        "wrong": "The childs are in the garden.",
+        "correct": "The children are in the garden.",
+        "explanation": "Use correct irregular plurals.",
+        "frequency": "Moderate",
+        "tip": "Memorize common irregular plural forms."
+      },
+      {
+        "mistake_number": 5,
+        "error_type": "Using countable quantifiers with uncountable nouns",
+        "wrong": "Many water is on the floor.",
+        "correct": "Much water is on the floor.",
+        "explanation": "'Water' is uncountable; use 'much' not 'many'.",
+        "frequency": "Common",
+        "tip": "Use quantifiers appropriate to noun type."
+      },
+      {
+        "mistake_number": 6,
+        "error_type": "Omitting plural suffix",
+        "wrong": "She has two book.",
+        "correct": "She has two books.",
+        "explanation": "Plural countable nouns require -s or -es.",
+        "frequency": "Very Common",
+        "tip": "Add plural suffixes correctly."
+      },
+      {
+        "mistake_number": 7,
+        "error_type": "Using plural form for uncountable nouns",
+        "wrong": "The furnitures are old.",
+        "correct": "The furniture is old.",
+        "explanation": "'Furniture' is uncountable and singular.",
+        "frequency": "Common",
+        "tip": "Learn which nouns are uncountable."
+      },
+      {
+        "mistake_number": 8,
+        "error_type": "Wrong adjective order",
+        "wrong": "Red big apple is sweet.",
+        "correct": "Big red apple is sweet.",
+        "explanation": "Adjectives have a correct order before nouns.",
+        "frequency": "Moderate",
+        "tip": "Follow adjective order rules."
+      }
+    ],
+    "practice_exercises": {
+      "identification": {
+        "title": "Identify Concrete Nouns",
+        "instructions": "Underline all concrete nouns in the sentences.",
+        "questions": [
+          {
+            "id": 1,
+            "sentence": "The dog is running in the garden.",
+            "answer": ["dog", "garden"],
+            "explanation": "Both are tangible physical objects."
+          },
+          {
+            "id": 2,
+            "sentence": "She bought a book and a pen.",
+            "answer": ["book", "pen"],
+            "explanation": "Both are countable concrete nouns."
+          },
+          {
+            "id": 3,
+            "sentence": "The flowers smell nice.",
+            "answer": ["flowers"],
+            "explanation": "Flowers can be smelled and seen."
+          },
+          {
+            "id": 4,
+            "sentence": "He drank water from the glass.",
+            "answer": ["water", "glass"],
+            "explanation": "Water is uncountable, glass is countable, both concrete."
+          },
+          {
+            "id": 5,
+            "sentence": "There is a clock on the wall.",
+            "answer": ["clock", "wall"],
+            "explanation": "Physical objects you can see."
+          }
+        ]
+      },
+      "correction": {
+        "title": "Correct the Errors with Concrete Nouns",
+        "instructions": "Fix the sentences that have errors related to concrete nouns.",
+        "questions": [
+          {
+            "id": 1,
+            "sentence": "She want an apple.",
+            "answer": ["She wants an apple."],
+            "explanation": "Subject-verb agreement correction."
+          },
+          {
+            "id": 2,
+            "sentence": "I have two childs.",
+            "answer": ["I have two children."],
+            "explanation": "Use correct irregular plural."
+          },
+          {
+            "id": 3,
+            "sentence": "The dogs is barking.",
+            "answer": ["The dogs are barking."],
+            "explanation": "Plural noun takes plural verb."
+          },
+          {
+            "id": 4,
+            "sentence": "He bought some apple.",
+            "answer": ["He bought some apples."],
+            "explanation": "Plural form needed with quantifier."
+          },
+          {
+            "id": 5,
+            "sentence": "I see a cat and dog.",
+            "answer": ["I see a cat and a dog."],
+            "explanation": "Article needed for both singular nouns."
+          }
+        ]
+      },
+      "fill_in_blank": {
+        "title": "Fill in the Blanks with Concrete Nouns",
+        "instructions": "Complete the sentences with the correct concrete nouns.",
+        "questions": [
+          {
+            "id": 1,
+            "sentence": "The ______ is barking.",
+            "answer": ["dog"],
+            "explanation": "Dog is a concrete noun."
+          },
+          {
+            "id": 2,
+            "sentence": "She bought a new ______.",
+            "answer": ["phone"],
+            "explanation": "Phone is a tangible object."
+          },
+          {
+            "id": 3,
+            "sentence": "The ______ is blooming in the garden.",
+            "answer": ["flower"],
+            "explanation": "Flower is a concrete noun."
+          },
+          {
+            "id": 4,
+            "sentence": "Please open the ______.",
+            "answer": ["window"],
+            "explanation": "Window is countable physical noun."
+          },
+          {
+            "id": 5,
+            "sentence": "He ate three ______.",
+            "answer": ["apples"],
+            "explanation": "Apples plural concrete countable noun."
+          }
+        ]
+      },
+      "writing_task": {
+        "title": "Write Sentences Using Concrete Nouns",
+        "instructions": "Write 5 sentences using different concrete nouns correctly.",
+        "questions": [
+          {
+            "id": 1,
+            "sentence": "",
+            "answer": [],
+            "explanation": "Include nouns referring to physical objects or substances."
+          }
+        ]
+      }
+    },
+    "quiz_questions": {
+      "easy": [
+        {
+          "id": 1,
+          "question": "Which of these is a concrete noun?",
+          "options": ["love", "apple", "freedom", "justice"],
+          "correct_answer": 1,
+          "explanation": "'Apple' is a physical object, so concrete noun."
+        },
+        {
+          "id": 2,
+          "question": "Choose the plural form of concrete noun 'dog':",
+          "options": ["dogs", "doges", "dogss", "dog"],
+          "correct_answer": 0,
+          "explanation": "'Dogs' is the correct plural."
+        },
+        {
+          "id": 3,
+          "question": "Which sentence uses concrete nouns?",
+          "options": [
+            "Love is important.",
+            "Music is loud.",
+            "She has a book and a pen.",
+            "Freedom is precious."
+          ],
+          "correct_answer": 2,
+          "explanation": "'Book' and 'pen' are concrete nouns."
+        },
+        {
+          "id": 4,
+          "question": "Can you touch a concrete noun?",
+          "options": ["Yes", "No"],
+          "correct_answer": 0,
+          "explanation": "Concrete nouns are tangible."
+        },
+        {
+          "id": 5,
+          "question": "Which is a concrete noun?",
+          "options": ["truth", "happiness", "flower", "anger"],
+          "correct_answer": 2,
+          "explanation": "'Flower' is physical object."
+        }
+      ],
+      "medium": [
+        {
+          "id": 6,
+          "question": "Identify the countable concrete noun:",
+          "options": ["rice", "furniture", "chair", "music"],
+          "correct_answer": 2,
+          "explanation": "'Chair' is countable concrete noun."
+        },
+        {
+          "id": 7,
+          "question": "Which concrete noun is uncountable?",
+          "options": ["apple", "music", "dog", "flower"],
+          "correct_answer": 1,
+          "explanation": "'Music' is uncountable."
+        },
+        {
+          "id": 8,
+          "question": "Choose the correct plural:",
+          "options": ["flowers", "floweres", "flower", "flowes"],
+          "correct_answer": 0,
+          "explanation": "'Flowers' is correct."
+        },
+        {
+          "id": 9,
+          "question": "Which sentence is incorrect?",
+          "options": [
+            "The cat is sleeping.",
+            "The cats are sleeping.",
+            "The cat are sleeping.",
+            "The dogs bark loudly."
+          ],
+          "correct_answer": 2,
+          "explanation": "Verb agreement error."
+        },
+        {
+          "id": 10,
+          "question": "Choose sentence with correct article:",
+          "options": [
+            "She has a apple.",
+            "She has an apple.",
+            "She has apple.",
+            "She has the apple."
+          ],
+          "correct_answer": 1,
+          "explanation": "'An apple' correct before vowel sound."
+        }
+      ],
+      "hard": [
+        {
+          "id": 11,
+          "question": "Which sentence correctly uses concrete nouns?",
+          "options": [
+            "The dog barked at the children.",
+            "The dog barked at children.",
+            "Dog barked at the children.",
+            "The dog bark at the children."
+          ],
+          "correct_answer": 0,
+          "explanation": "Proper use of articles and verb agreement."
+        },
+        {
+          "id": 12,
+          "question": "Identify the abstract noun in: 'The cat's happiness was evident.'",
+          "options": ["cat", "happiness", "evident", "was"],
+          "correct_answer": 1,
+          "explanation": "'Happiness' is abstract, 'cat' is concrete."
+        },
+        {
+          "id": 13,
+          "question": "Which is NOT a concrete noun?",
+          "options": ["mountain", "bravery", "flower", "river"],
+          "correct_answer": 1,
+          "explanation": "'Bravery' is abstract."
+        },
+        {
+          "id": 14,
+          "question": "Choose the sentence with only concrete nouns:",
+          "options": [
+            "His kindness helped many people.",
+            "The book is on the table.",
+            "Love conquers all.",
+            "Freedom is important."
+          ],
+          "correct_answer": 1,
+          "explanation": "'Book' and 'table' are both concrete."
+        },
+        {
+          "id": 15,
+          "question": "Which concrete noun is always uncountable?",
+          "options": ["dog", "furniture", "apple", "chair"],
+          "correct_answer": 1,
+          "explanation": "'Furniture' is always uncountable."
+        }
+      ]
+    },
+    "metadata": {
+      "created_date": "2025-11-25",
+      "version": "1.0",
+      "difficulty_level": "Beginner to Intermediate",
+      "estimated_reading_time": "15 minutes",
+      "total_examples": 50,
+      "total_exercises": 25,
+      "suitable_for": ["ESL learners", "Students", "English learners"]
+    }
+  }
+}

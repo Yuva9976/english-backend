@@ -1,0 +1,728 @@
+{
+  "overview": {
+    "title": "What are Common Nouns?",
+    "description": "Common nouns are general names for people, places, animals, things, or ideas. They are not specific names and are usually written in lowercase. Understanding common nouns helps learners identify general objects and concepts in everyday language.",
+    "key_points": [
+      "Name general people, places, animals, things, or ideas",
+      "Are not capitalized unless at the start of sentences",
+      "Used to refer to a class or group rather than specific entities",
+      "Can be singular or plural",
+      "Often preceded by articles like 'a', 'an', or 'the'"
+    ],
+    "importance": "Knowing common nouns enables clear communication about everyday objects and concepts without needing to be specific.",
+    "common_words": [
+      "dog",
+      "city",
+      "teacher",
+      "book",
+      "car",
+      "apple",
+      "school",
+      "river",
+      "flower",
+      "chair",
+      "cat",
+      "computer",
+      "restaurant",
+      "mountain",
+      "friend",
+      "bird",
+      "market",
+      "movie",
+      "music",
+      "table"
+    ]
+  },
+  "detailed_explanation": {
+    "sections": [
+      {
+        "title": "Definition and Characteristics",
+        "content": "Common nouns are words that name general items rather than specific ones. They refer to any person, place, animal, thing, or idea and are not capitalized unless they start a sentence or form part of a title.",
+        "subsections": [
+          {
+            "subtitle": "General vs Specific",
+            "text": "Common nouns contrast with proper nouns which name specific entities. For example, 'city' is a common noun while 'New York' is a proper noun.",
+            "examples": ["city", "dog", "teacher"]
+          }
+        ]
+      },
+      {
+        "title": "Usage in Sentences",
+        "content": "Common nouns are used with articles and can be singular or plural. They form the subject or object in sentences and help describe general things or people.",
+        "subsections": [
+          {
+            "subtitle": "Articles with Common Nouns",
+            "text": "Singular common nouns typically require an article such as 'a' or 'an' when mentioned for the first time.",
+            "examples": ["a book", "an apple", "a city"]
+          },
+          {
+            "subtitle": "Plural Forms",
+            "text": "Common nouns usually have plural forms created by adding 's' or 'es'. Some plural forms may be irregular.",
+            "examples": ["books", "cities", "children"]
+          }
+        ]
+      },
+      {
+        "title": "Importance in Language Learning",
+        "content": "Mastering common nouns is essential for reading, writing, and speaking about everyday things. It provides a foundation for identifying objects and ideas in both spoken and written communication.",
+        "subsections": [
+          {
+            "subtitle": "Real-World Application",
+            "text": "Using common nouns correctly helps learners describe their environment, talk about people, places, and things around them with clarity.",
+            "examples": ["I saw a dog in the park.", "She works as a teacher."]
+          }
+        ]
+      }
+    ]
+  },
+  "grammar_rules": [
+    {
+      "rule_number": 1,
+      "title": "Lowercase Writing",
+      "description": "Common nouns are written in lowercase unless they begin a sentence or appear in titles.",
+      "correct_examples": [
+        "The dog is barking.",
+        "I have a book.",
+        "She visited a city."
+      ],
+      "incorrect_examples": [
+        "The Dog is barking.",
+        "I have A book.",
+        "She visited A City."
+      ],
+      "tip": "Remember common nouns are not capitalized like proper nouns."
+    },
+    {
+      "rule_number": 2,
+      "title": "Use of Articles",
+      "description": "Singular common nouns usually require an article ('a', 'an', 'the') to specify definiteness or indefiniteness.",
+      "correct_examples": [
+        "I saw a cat.",
+        "She wants an apple.",
+        "The chair is broken."
+      ],
+      "incorrect_examples": [
+        "I saw cat.",
+        "She wants apple.",
+        "Chair is broken."
+      ],
+      "tip": "Check if the noun is singular — add 'a' or 'an' unless it's definite with 'the'."
+    },
+    {
+      "rule_number": 3,
+      "title": "Plural Forms",
+      "description": "To express more than one, most common nouns form plurals by adding 's' or 'es'; some have irregular plurals.",
+      "correct_examples": [
+        "Three books are on the table.",
+        "We saw many buses.",
+        "Children are playing outside."
+      ],
+      "incorrect_examples": [
+        "Three book are on the table.",
+        "We saw many bus.",
+        "Childs are playing outside."
+      ],
+      "tip": "Learn common irregular plurals like child → children."
+    },
+    {
+      "rule_number": 4,
+      "title": "Concrete vs Abstract",
+      "description": "Common nouns can be concrete (things you can sense) or abstract (ideas, emotions). Clarify usage accordingly.",
+      "correct_examples": [
+        "The flower smells nice. (Concrete)",
+        "Love is important. (Abstract)"
+      ],
+      "incorrect_examples": [
+        "The love smells nice.",
+        "Flower is important."
+      ],
+      "tip": "Associate concrete nouns with physical things, abstract nouns with ideas."
+    },
+    {
+      "rule_number": 5,
+      "title": "Common noun modifiers",
+      "description": "Common nouns often appear with adjectives or determiners that describe or specify them.",
+      "correct_examples": [
+        "A beautiful city",
+        "Several old books",
+        "My favorite movie"
+      ],
+      "incorrect_examples": [
+        "Beautiful city",
+        "Several books old",
+        "Favorite my movie"
+      ],
+      "tip": "Adjectives come before common nouns to describe them."
+    }
+  ],
+  "examples": {
+    "categories": [
+      {
+        "category": "People",
+        "icon": "👩‍🏫",
+        "examples": [
+          {
+            "sentence": "The teacher is preparing a lesson.",
+            "analysis": "The common noun 'teacher' refers to any person who teaches."
+          },
+          {
+            "sentence": "A doctor helps sick people.",
+            "analysis": "'Doctor' is a general name for a profession."
+          },
+          {
+            "sentence": "She is a student at the university.",
+            "analysis": "'Student' is a non-specific noun for a learner."
+          },
+          {
+            "sentence": "The waiter served our food.",
+            "analysis": "'Waiter' refers to any person serving food."
+          },
+          {
+            "sentence": "Parents want the best for their children.",
+            "analysis": "'Parents' and 'children' are common nouns referring to family roles."
+          }
+        ]
+      },
+      {
+        "category": "Places",
+        "icon": "🏙️",
+        "examples": [
+          {
+            "sentence": "The city is crowded today.",
+            "analysis": "'City' refers to any large town."
+          },
+          {
+            "sentence": "We went to a restaurant for dinner.",
+            "analysis": "'Restaurant' is a common noun for a dining place."
+          },
+          {
+            "sentence": "The park was full of people.",
+            "analysis": "'Park' names a general outdoor public space."
+          },
+          {
+            "sentence": "She traveled across the country.",
+            "analysis": "'Country' is a general noun, not naming any specific one."
+          },
+          {
+            "sentence": "The beach was sunny and warm.",
+            "analysis": "'Beach' indicates a general seaside area."
+          }
+        ]
+      },
+      {
+        "category": "Animals",
+        "icon": "🐶",
+        "examples": [
+          {
+            "sentence": "A dog barked loudly.",
+            "analysis": "'Dog' denotes any member of that animal species."
+          },
+          {
+            "sentence": "The cat is sleeping on the couch.",
+            "analysis": "'Cat' is used generally for the animal."
+          },
+          {
+            "sentence": "Birds are singing in the trees.",
+            "analysis": "'Birds' is the plural of the common noun 'bird'."
+          },
+          {
+            "sentence": "She has a pet rabbit.",
+            "analysis": "'Rabbit' is a general noun for the animal."
+          },
+          {
+            "sentence": "Fishes swim in the aquarium.",
+            "analysis": "'Fishes' is plural for more than one fish."
+          }
+        ]
+      },
+      {
+        "category": "Things",
+        "icon": "📚",
+        "examples": [
+          {
+            "sentence": "I bought a new book yesterday.",
+            "analysis": "'Book' is a general noun naming an object."
+          },
+          {
+            "sentence": "The table is made of wood.",
+            "analysis": "'Table' refers to any flat-topped piece of furniture."
+          },
+          {
+            "sentence": "She has many pens in her bag.",
+            "analysis": "'Pens' is the plural of a writing instrument."
+          },
+          {
+            "sentence": "They adopted a puppy from the shelter.",
+            "analysis": "'Puppy' is a general noun for young dogs."
+          },
+          {
+            "sentence": "The car needs refueling.",
+            "analysis": "'Car' refers to any automobile."
+          }
+        ]
+      }
+    ],
+    "complex_sentences": [
+      {
+        "sentence": "The teacher assigned the students a project about the city's history.",
+        "proper_nouns": [],
+        "analysis": "Common nouns 'teacher', 'students', 'project', and 'city' are used to describe general roles and places."
+      },
+      {
+        "sentence": "A dog chased the cat across the park and through the garden.",
+        "proper_nouns": [],
+        "analysis": "Common nouns 'dog', 'cat', 'park', and 'garden' illustrate general animals and places."
+      },
+      {
+        "sentence": "Many books were stacked on the old wooden table in the classroom.",
+        "proper_nouns": [],
+        "analysis": "Common nouns 'books', 'table', and 'classroom' describe objects and locations."
+      }
+    ]
+  },
+  "common_mistakes": [
+    {
+      "mistake_number": 1,
+      "error_type": "Capitalization",
+      "wrong": "I saw a Dog in the garden.",
+      "correct": "I saw a dog in the garden.",
+      "explanation": "Common nouns should not be capitalized unless at sentence start.",
+      "frequency": "Very Common",
+      "tip": "Only capitalize common nouns if they begin a sentence."
+    },
+    {
+      "mistake_number": 2,
+      "error_type": "Article omission",
+      "wrong": "She bought book from the store.",
+      "correct": "She bought a book from the store.",
+      "explanation": "Singular common nouns need an article for clarity.",
+      "frequency": "Common",
+      "tip": "Always use 'a' or 'an' with singular common nouns."
+    },
+    {
+      "mistake_number": 3,
+      "error_type": "Plural form error",
+      "wrong": "There are many childs in the park.",
+      "correct": "There are many children in the park.",
+      "explanation": "Child is irregular; plural is 'children', not 'childs'.",
+      "frequency": "Moderate",
+      "tip": "Learn common irregular plural forms."
+    },
+    {
+      "mistake_number": 4,
+      "error_type": "Using proper noun instead",
+      "wrong": "She visited New city last summer.",
+      "correct": "She visited the city last summer.",
+      "explanation": "Use common noun for general places unless naming specific ones.",
+      "frequency": "Common",
+      "tip": "Distinguish if noun should be specific (proper) or general (common)."
+    },
+    {
+      "mistake_number": 5,
+      "error_type": "Incorrect adjective order",
+      "wrong": "Red big apple is sweet.",
+      "correct": "Big red apple is sweet.",
+      "explanation": "Adjectives have a specific order before common nouns.",
+      "frequency": "Moderate",
+      "tip": "Use 'size' adjective before 'color' adjective."
+    },
+    {
+      "mistake_number": 6,
+      "error_type": "Article with plural nouns",
+      "wrong": "She has a books in her bag.",
+      "correct": "She has books in her bag.",
+      "explanation": "Use articles appropriately; 'a' is not used with plurals.",
+      "frequency": "Common",
+      "tip": "Do not use 'a' before plural nouns."
+    },
+    {
+      "mistake_number": 7,
+      "error_type": "Count vs non-count confusion",
+      "wrong": "Much books are on the shelf.",
+      "correct": "Many books are on the shelf.",
+      "explanation": "'Books' are countable, so use 'many' not 'much'.",
+      "frequency": "Moderate",
+      "tip": "Use 'many' with countable nouns, 'much' with uncountable."
+    },
+    {
+      "mistake_number": 8,
+      "error_type": "Possessive apostrophe misuse",
+      "wrong": "The dogs tail is long.",
+      "correct": "The dog's tail is long.",
+      "explanation": "Add apostrophe + s for singular possessive.",
+      "frequency": "Common",
+      "tip": "Use apostrophe+s to show possession."
+    }
+  ],
+  "practice_exercises": {
+    "identification": {
+      "title": "Identify the Common Nouns",
+      "instructions": "Read each sentence and underline the common nouns.",
+      "questions": [
+        {
+          "id": 1,
+          "sentence": "The cat is chasing a mouse.",
+          "answer": ["cat", "mouse"],
+          "explanation": "'Cat' and 'mouse' are common nouns as they name general animals."
+        },
+        {
+          "id": 2,
+          "sentence": "She bought a new dress from the store.",
+          "answer": ["dress", "store"],
+          "explanation": "'Dress' and 'store' are common nouns naming general things and places."
+        },
+        {
+          "id": 3,
+          "sentence": "The teacher gave homework to the students.",
+          "answer": ["teacher", "homework", "students"],
+          "explanation": "All three are common nouns referring to general people and things."
+        },
+        {
+          "id": 4,
+          "sentence": "The flowers in the garden are blooming.",
+          "answer": ["flowers", "garden"],
+          "explanation": "'Flowers' and 'garden' are common nouns naming plants and places."
+        },
+        {
+          "id": 5,
+          "sentence": "Books are available in the library.",
+          "answer": ["books", "library"],
+          "explanation": "'Books' and 'library' are common nouns naming objects and places."
+        }
+      ]
+    },
+    "correction": {
+      "title": "Correct the Errors in Common Nouns",
+      "instructions": "Read the sentences and correct the errors related to common nouns.",
+      "questions": [
+        {
+          "id": 1,
+          "sentence": "I saw A Dog on the street.",
+          "answer": ["I saw a dog on the street."],
+          "explanation": "Use lowercase for 'dog' and lowercase 'a'."
+        },
+        {
+          "id": 2,
+          "sentence": "She have two pens.",
+          "answer": ["She has two pens."],
+          "explanation": "'She has' is correct subject-verb agreement."
+        },
+        {
+          "id": 3,
+          "sentence": "The childs are playing outside.",
+          "answer": ["The children are playing outside."],
+          "explanation": "Plural of 'child' is 'children'."
+        },
+        {
+          "id": 4,
+          "sentence": "He bought apple from the market.",
+          "answer": ["He bought an apple from the market."],
+          "explanation": "Use 'an' before words starting with vowel sounds."
+        },
+        {
+          "id": 5,
+          "sentence": "They visited A museum last week.",
+          "answer": ["They visited a museum last week."],
+          "explanation": "Lowercase 'a' unless at sentence start."
+        }
+      ]
+    },
+    "fill_in_blank": {
+      "title": "Fill in the Blanks with Common Nouns",
+      "instructions": "Complete the sentences with appropriate common nouns from the word bank.",
+      "questions": [
+        {
+          "id": 1,
+          "sentence": "The _______ is flying in the sky.",
+          "answer": ["bird"],
+          "explanation": "'Bird' is a common noun for a flying animal."
+        },
+        {
+          "id": 2,
+          "sentence": "She bought a new _______ from the store.",
+          "answer": ["dress"],
+          "explanation": "'Dress' is a common noun naming an item of clothing."
+        },
+        {
+          "id": 3,
+          "sentence": "The _______ is barking loudly.",
+          "answer": ["dog"],
+          "explanation": "'Dog' refers to a common animal."
+        },
+        {
+          "id": 4,
+          "sentence": "They went to the _______ for dinner.",
+          "answer": ["restaurant"],
+          "explanation": "'Restaurant' names a general place to eat."
+        },
+        {
+          "id": 5,
+          "sentence": "My sister is reading a _______.",
+          "answer": ["book"],
+          "explanation": "'Book' is a common noun naming an object."
+        }
+      ]
+    },
+    "writing_task": {
+      "title": "Write Sentences Using Common Nouns",
+      "instructions": "Write 5 sentences using at least one common noun in each sentence.",
+      "questions": [
+        {
+          "id": 1,
+          "sentence": "",
+          "answer": [],
+          "explanation": "Answers will vary; ensure sentences contain common nouns like 'dog', 'city', 'teacher', etc."
+        }
+      ]
+    }
+  },
+  "quiz_questions": {
+    "easy": [
+      {
+        "id": 1,
+        "question": "Which of the following is a common noun?",
+        "options": ["John", "Paris", "city", "Monday"],
+        "correct_answer": 2,
+        "explanation": "'City' is a general name, hence a common noun."
+      },
+      {
+        "id": 2,
+        "question": "Choose the correct common noun:",
+        "options": ["Amazon", "river", "Tony", "China"],
+        "correct_answer": 1,
+        "explanation": "'River' is a common noun referring to any river in general."
+      },
+      {
+        "id": 3,
+        "question": "Which word is capitalized because it is a proper noun, not a common noun?",
+        "options": ["chair", "Delhi", "apple", "school"],
+        "correct_answer": 1,
+        "explanation": "Delhi is a proper noun; others are common nouns."
+      },
+      {
+        "id": 4,
+        "question": "What article should you use before the common noun 'apple'?",
+        "options": ["a", "an", "the", "no article"],
+        "correct_answer": 1,
+        "explanation": "'An' is used before vowel sounds."
+      },
+      {
+        "id": 5,
+        "question": "Identify the common noun in this sentence: 'The teacher is kind.'",
+        "options": ["teacher", "kind", "the", "is"],
+        "correct_answer": 0,
+        "explanation": "'Teacher' is the common noun (person)."
+      }
+    ],
+    "medium": [
+      {
+        "id": 6,
+        "question": "Select the correct plural form of the common noun 'city':",
+        "options": ["citys", "cities", "cityes", "citie"],
+        "correct_answer": 1,
+        "explanation": "'Cities' is the correct plural form."
+      },
+      {
+        "id": 7,
+        "question": "Which sentence uses a common noun correctly?",
+        "options": [
+          "I visited London last year.",
+          "I saw a dog in the park.",
+          "She met John yesterday.",
+          "New York is big."
+        ],
+        "correct_answer": 1,
+        "explanation": "The second sentence uses the common noun 'dog' correctly."
+      },
+      {
+        "id": 8,
+        "question": "Why are common nouns not capitalized in general?",
+        "options": [
+          "Because they are unimportant.",
+          "Because they name general things.",
+          "Because they are names of places.",
+          "Because they are proper names."
+        ],
+        "correct_answer": 1,
+        "explanation": "Common nouns name general things, so they are lowercase."
+      },
+      {
+        "id": 9,
+        "question": "Choose the sentence with incorrect use of common nouns:",
+        "options": [
+          "The dog ran fast.",
+          "A Apples are red.",
+          "She has a car.",
+          "They live near a river."
+        ],
+        "correct_answer": 1,
+        "explanation": "'A Apples' is incorrect; 'apples' is plural and does not use 'a'."
+      },
+      {
+        "id": 10,
+        "question": "Fill in the blank with the correct common noun: 'The ________ sang beautifully.'",
+        "options": ["bird", "London", "Sara", "Tuesday"],
+        "correct_answer": 0,
+        "explanation": "'Bird' is a common noun referring to an animal."
+      }
+    ],
+    "hard": [
+      {
+        "id": 11,
+        "question": "Which of these is an example of an abstract common noun?",
+        "options": ["happiness", "dog", "city", "car"],
+        "correct_answer": 0,
+        "explanation": "'Happiness' is an abstract noun naming a feeling."
+      },
+      {
+        "id": 12,
+        "question": "Identify the error in this sentence: 'She saw many childs playing.'",
+        "options": [
+          "No error",
+          "'Childs' should be 'children'.",
+          "'Saw' should be 'see'.",
+          "'Many' should be 'much'."
+        ],
+        "correct_answer": 1,
+        "explanation": "'Childs' is incorrect; correct plural form is 'children'."
+      },
+      {
+        "id": 13,
+        "question": "Which sentence is correct?",
+        "options": [
+          "The teacher gave us homework.",
+          "The Teacher gave us Homework.",
+          "Teacher gave us homework.",
+          "The teacher gave us Homework."
+        ],
+        "correct_answer": 0,
+        "explanation": "Only the first sentence correctly uses capitalization."
+      },
+      {
+        "id": 14,
+        "question": "What is the common noun in this sentence? 'He went to the market to buy fruits.'",
+        "options": ["He", "market", "buy", "fruits"],
+        "correct_answer": 1,
+        "explanation": "'Market' is the common noun naming a place."
+      },
+      {
+        "id": 15,
+        "question": "Choose the correct sentence:",
+        "options": [
+          "A apple is red.",
+          "An apple is red.",
+          "The apple are red.",
+          "Apple is red."
+        ],
+        "correct_answer": 1,
+        "explanation": "'An apple is red' is grammatically correct."
+      }
+    ]
+  },
+  "video_resources": [
+    {
+      "id": 1,
+      "title": "Common Nouns for Beginners",
+      "description": "Introduction to common nouns with simple examples.",
+      "duration": "8 minutes",
+      "level": "Beginner",
+      "topics": ["Common Nouns", "Basic Grammar"],
+      "url": "https://www.youtube.com/watch?v=JdROdJmyakY"
+    },
+    {
+      "id": 2,
+      "title": "Common Noun and Proper Noun Differences",
+      "description": "Learn the difference between common and proper nouns.",
+      "duration": "10 minutes",
+      "level": "Beginner",
+      "topics": ["Common Nouns", "Proper Nouns"],
+      "url": "https://www.youtube.com/watch?v=Z5CN_xfPBvY"
+    },
+    {
+      "id": 3,
+      "title": "English Grammar: Nouns Explained",
+      "description": "Comprehensive lesson on nouns including common noun examples.",
+      "duration": "15 minutes",
+      "level": "Intermediate",
+      "topics": ["Nouns", "Grammar Rules"],
+      "url": "https://www.youtube.com/watch?v=5TJ9y7mqsYI"
+    }
+  ],
+  "additional_resources": [
+    {
+      "id": 1,
+      "type": "article",
+      "title": "Common Nouns Explained with Examples",
+      "description": "Detailed article with examples and rules for common nouns.",
+      "url": "https://byjus.com/english/common-noun/",
+      "source": "BYJU'S"
+    },
+    {
+      "id": 2,
+      "type": "worksheet",
+      "title": "Common and Proper Noun Exercises",
+      "description": "Practice exercises to identify common and proper nouns.",
+      "url": "https://www.gradding.com/blog/english/common-and-proper-nouns-worksheet",
+      "source": "Gradding"
+    },
+    {
+      "id": 3,
+      "type": "interactive",
+      "title": "Common Noun Practice Games",
+      "description": "Interactive games to practice identifying common nouns.",
+      "url": "https://testbook.com/english-grammar/common-noun-and-proper-noun-exercises",
+      "source": "Testbook"
+    },
+    {
+      "id": 4,
+      "type": "reference",
+      "title": "Common Noun Grammar Rules",
+      "description": "Comprehensive reference for grammar rules of common nouns.",
+      "url": "https://www.grammarly.com/blog/parts-of-speech/nouns/",
+      "source": "Grammarly"
+    }
+  ],
+  "fun_facts": [
+    "Common nouns can be concrete or abstract.",
+    "Not every common noun has a proper noun equivalent.",
+    "The plural form of 'child' is 'children', an irregular plural.",
+    "Common nouns are the most frequently used nouns in English.",
+    "Proper nouns always begin with a capital letter, while common nouns do not.",
+    "Animals, objects, and places are often referred to by common nouns.",
+    "Some words can be both common and proper nouns depending on usage.",
+    "Common nouns are essential for basic communication in any language.",
+    "Every language has its own version of common nouns for general objects.",
+    "Common nouns can act as subjects, objects, or complements in sentences."
+  ],
+  "real_world_applications": [
+    {
+      "context": "Daily communication",
+      "importance": "Common nouns help people talk about general things around them clearly.",
+      "examples": ["Talking about pets, food, and places using common nouns"]
+    },
+    {
+      "context": "Reading comprehension",
+      "importance": "Identifying common nouns aids understanding stories and articles.",
+      "examples": ["Recognizing people, places, and things in texts"]
+    },
+    {
+      "context": "Writing skills",
+      "importance": "Using common nouns correctly improves sentence construction.",
+      "examples": ["Describing scenes and objects in writing"]
+    },
+    {
+      "context": "Language learning",
+      "importance": "Foundation for learning nouns before moving to complex grammar.",
+      "examples": ["Building vocabulary of people, places, and objects"]
+    }
+  ],
+  "metadata": {
+    "created_date": "2025-11-25",
+    "version": "1.0",
+    "difficulty_level": "Beginner to Intermediate",
+    "estimated_reading_time": "15 minutes",
+    "total_examples": 50,
+    "total_exercises": 25,
+    "suitable_for": ["ESL learners", "Students", "English beginners"]
+  }
+}

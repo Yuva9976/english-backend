@@ -1,0 +1,26 @@
+﻿
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : {"id":251,"name":"Concrete Nouns","content":{"examples":{"categories":[{"ic
+                    on":"🌿","category":"Living Things","examples":[{"analysis":"'Golden 
+                    retriever' is a concrete noun—a specific dog you can see...
+RawContent        : HTTP/1.1 200 OK
+                    Vary: Origin
+                    Access-Control-Allow-Credentials: true
+                    Connection: keep-alive
+                    Keep-Alive: timeout=5
+                    Content-Length: 23485
+                    Content-Type: application/json; charset=utf-8
+                    Date: Tue, 2...
+Forms             : {}
+Headers           : {[Vary, Origin], [Access-Control-Allow-Credentials, true], [Connection, 
+                    keep-alive], [Keep-Alive, timeout=5]...}
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 23485
+
+
+

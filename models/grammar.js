@@ -75,6 +75,10 @@ const GrammarType = sequelize.define('GrammarType', {
   },
   color: {
     type: DataTypes.STRING(20)
+  },
+  learn_more_content: {
+    type: DataTypes.JSONB,
+    allowNull: true
   }
 }, {
   tableName: 'grammar_types',

@@ -1,0 +1,598 @@
+{
+  "overview": {
+    "title": "What are Compound Nouns?",
+    "description": "Compound nouns are nouns made up of two or more words that function together as a single noun. They form new words by combining nouns, adjectives, verbs, or prepositions.",
+    "key_points": [
+      "Formed by combining two or more words",
+      "Can be written as one word, hyphenated, or as separate words",
+      "Examples include 'toothbrush', 'mother-in-law', 'ice cream'",
+      "The meaning of a compound noun is often different from the individual words",
+      "Help expand vocabulary and describe specific objects or concepts"
+    ],
+    "importance": "Understanding compound nouns broadens learners' ability to recognize and use complex noun forms found in everyday language.",
+    "common_words": [
+      "toothbrush",
+      "mother-in-law",
+      "ice cream",
+      "basketball",
+      "bus stop",
+      "post office",
+      "raincoat",
+      "swimming pool",
+      "classroom",
+      "full moon",
+      "breakfast",
+      "haircut",
+      "check-in",
+      "editor-in-chief",
+      "blackboard",
+      "footprint",
+      "grandmother",
+      "software",
+      "newspaper",
+      "birdhouse"
+    ]
+  },
+  "detailed_explanation": {
+    "sections": [
+      {
+        "title": "Definition and Types",
+        "content": "A compound noun combines two or more words to create a noun that has a meaning different from the original words separately. There are three main types: closed (one word), hyphenated, and open (spaced) compound nouns.",
+        "subsections": [
+          {
+            "subtitle": "Closed Compound Nouns",
+            "text": "Words joined together without spaces or hyphens, such as 'toothbrush' and 'sunflower'.",
+            "examples": ["toothbrush", "rainfall", "bedroom"]
+          },
+          {
+            "subtitle": "Hyphenated Compound Nouns",
+            "text": "Words joined with a hyphen, like 'mother-in-law' and 'editor-in-chief'.",
+            "examples": ["mother-in-law", "check-in", "brother-in-law"]
+          },
+          {
+            "subtitle": "Open Compound Nouns",
+            "text": "Words written separately but function as a single noun, such as 'ice cream' and 'bus stop'.",
+            "examples": ["ice cream", "post office", "swimming pool"]
+          }
+        ]
+      },
+      {
+        "title": "Formation Rules",
+        "content": "Compound nouns often combine nouns with nouns, adjectives with nouns, verbs with nouns, or nouns with prepositions. The main noun (headword) usually determines the plural form.",
+        "subsections": [
+          {
+            "subtitle": "Common Combinations",
+            "text": "Noun + Noun: 'football', Adjective + Noun: 'full moon', Verb + Noun: 'washing machine', Noun + Preposition: 'mother-in-law'.",
+            "examples": ["football", "full moon", "washing machine", "mother-in-law"]
+          },
+          {
+            "subtitle": "Pluralization",
+            "text": "The plural is made by adding 's' to the main noun (e.g., 'toothbrushes', 'mothers-in-law').",
+            "examples": ["toothbrushes", "mothers-in-law"]
+          }
+        ]
+      },
+      {
+        "title": "Usage in Sentences",
+        "content": "Compound nouns function as any noun does. Knowing their form helps learners read, write, and understand new vocabulary clearly.",
+        "subsections": [
+          {
+            "subtitle": "Examples",
+            "text": "You can say: 'She bought a toothbrush.', 'My mother-in-law is visiting.', 'We played basketball yesterday.'",
+            "examples": ["She bought a toothbrush.", "My mother-in-law is visiting.", "We played basketball yesterday."]
+          }
+        ]
+      }
+    ]
+  },
+  "grammar_rules": [
+    {
+      "rule_number": 1,
+      "title": "Types of Compound Nouns",
+      "description": "There are three types: closed (one word), hyphenated, and open (two or more words separated by spaces).",
+      "correct_examples": ["toothbrush (closed)", "mother-in-law (hyphenated)", "ice cream (open)"],
+      "incorrect_examples": [],
+      "tip": "Learn to recognize types based on spelling and usage."
+    },
+    {
+      "rule_number": 2,
+      "title": "Plural Formation",
+      "description": "To form the plural, add 's' to the main noun word, which is typically the last noun or the most important word.",
+      "correct_examples": ["toothbrushes", "mothers-in-law", "swimming pools"],
+      "incorrect_examples": ["toothbrushs", "mother-in-laws", "swimming pooles"],
+      "tip": "Identify the main noun to pluralize correctly."
+    },
+    {
+      "rule_number": 3,
+      "title": "Meaning Changes",
+      "description": "The meaning of a compound noun is often different from its individual parts; context is important.",
+      "correct_examples": ["'toothbrush' is not just 'tooth' + 'brush' but a tool for cleaning teeth."],
+      "incorrect_examples": ["Treating compound nouns as separate words that describe unrelated things."],
+      "tip": "Remember compound nouns create new meanings."
+    },
+    {
+      "rule_number": 4,
+      "title": "Capitalization",
+      "description": "Only capitalize compound proper nouns or if they begin a sentence. Common compound nouns are lowercase.",
+      "correct_examples": ["Mother-in-law is here.", "I bought a blackboard."],
+      "incorrect_examples": ["mother-In-law", "BlackBoard"],
+      "tip": "Follow standard capitalization rules."
+    },
+    {
+      "rule_number": 5,
+      "title": "Hyphen Use",
+      "description": "Hyphenate compound nouns when they include prefixes like 'mother-in-law' or when clarity requires it.",
+      "correct_examples": ["mother-in-law", "editor-in-chief"],
+      "incorrect_examples": ["mother in law", "editor in chief"],
+      "tip": "Use hyphens for clarity and set compound nouns."
+    }
+  ],
+  "examples": {
+    "categories": [
+      {
+        "category": "Everyday Objects",
+        "icon": "🏠",
+        "examples": [
+          {
+            "sentence": "She packed her toothbrush for the trip.",
+            "analysis": "'Toothbrush' is a closed compound noun naming an object."
+          },
+          {
+            "sentence": "I parked near the bus stop.",
+            "analysis": "'Bus stop' is an open compound noun indicating a location."
+          },
+          {
+            "sentence": "My mother-in-law is very kind.",
+            "analysis": "'Mother-in-law' is a hyphenated compound noun naming a family member."
+          },
+          {
+            "sentence": "We enjoyed ice cream after dinner.",
+            "analysis": "'Ice cream' is an open compound noun naming a dessert."
+          },
+          {
+            "sentence": "He bought a new basketball yesterday.",
+            "analysis": "'Basketball' is a closed compound noun naming a sport."
+          }
+        ]
+      },
+      {
+        "category": "Places and Locations",
+        "icon": "📍",
+        "examples": [
+          {
+            "sentence": "The post office is closed today.",
+            "analysis": "'Post office' is an open compound noun naming a location."
+          },
+          {
+            "sentence": "They live near the classroom.",
+            "analysis": "'Classroom' is a closed compound noun naming a place."
+          },
+          {
+            "sentence": "He works at the editor-in-chief's office.",
+            "analysis": "'Editor-in-chief' is a hyphenated compound noun naming a position."
+          },
+          {
+            "sentence": "The dining table was set for dinner.",
+            "analysis": "'Dining table' is an open compound noun."
+          },
+          {
+            "sentence": "Please enter the bedroom quietly.",
+            "analysis": "'Bedroom' is a closed compound noun for a room."
+          }
+        ]
+      },
+      {
+        "category": "Activities and Sports",
+        "icon": "⚽",
+        "examples": [
+          {
+            "sentence": "Swimming pools are popular in summer.",
+            "analysis": "'Swimming pool' is an open compound noun."
+          },
+          {
+            "sentence": "I bought a new football.",
+            "analysis": "'Football' is a closed compound noun."
+          },
+          {
+            "sentence": "Her full moon party was unforgettable.",
+            "analysis": "'Full moon' is an open compound noun."
+          },
+          {
+            "sentence": "He enjoys watching the basketball game.",
+            "analysis": "'Basketball' is a closed compound noun."
+          },
+          {
+            "sentence": "The washing machine broke down.",
+            "analysis": "'Washing machine' is an open compound noun."
+          }
+        ]
+      },
+      {
+        "category": "Other Examples",
+        "icon": "📚",
+        "examples": [
+          {
+            "sentence": "The blackboard was covered in chalk writing.",
+            "analysis": "'Blackboard' is a closed compound noun."
+          },
+          {
+            "sentence": "She has a beautiful birdhouse in her garden.",
+            "analysis": "'Birdhouse' is a closed compound noun."
+          },
+          {
+            "sentence": "We celebrated on Thanksgiving Day.",
+            "analysis": "'Thanksgiving Day' is an open compound noun, often a proper noun."
+          },
+          {
+            "sentence": "The sister-in-law made dinner for the family.",
+            "analysis": "'Sister-in-law' is a hyphenated compound noun."
+          },
+          {
+            "sentence": "He loves reading the newspaper every morning.",
+            "analysis": "'Newspaper' is a closed compound noun."
+          }
+        ]
+      }
+    ],
+    "complex_sentences": [
+      {
+        "sentence": "The mother-in-law brought a birthday cake from the bakery.",
+        "proper_nouns": [],
+        "analysis": "The hyphenated compound noun 'mother-in-law' names a family member."
+      },
+      {
+        "sentence": "After school, the children played basketball near the post office.",
+        "proper_nouns": [],
+        "analysis": "'Basketball' and 'post office' are compound nouns used to describe activities and places."
+      },
+      {
+        "sentence": "She left her toothbrush and swimming pool towel at the hotel.",
+        "proper_nouns": [],
+        "analysis": "Closed and open compound nouns name objects and places."
+      }
+    ]
+  },
+  "common_mistakes": [
+    {
+      "mistake_number": 1,
+      "error_type": "Incorrect plural formation",
+      "wrong": "She bought two mother-in-laws.",
+      "correct": "She bought two mothers-in-law.",
+      "explanation": "In hyphenated compounds, pluralize the main noun (mothers).",
+      "frequency": "Common",
+      "tip": "Pluralize the important noun part in hyphenated compounds."
+    },
+    {
+      "mistake_number": 2,
+      "error_type": "Wrong hyphenation",
+      "wrong": "mother in law is kind.",
+      "correct": "Mother-in-law is kind.",
+      "explanation": "Hyphenate compound nouns when standard.",
+      "frequency": "Very Common",
+      "tip": "Use hyphens for clarity and meaning."
+    },
+    {
+      "mistake_number": 3,
+      "error_type": "Separating closed compounds",
+      "wrong": "tooth brush is new.",
+      "correct": "Toothbrush is new.",
+      "explanation": "Closed compounds must be written as a single word.",
+      "frequency": "Common",
+      "tip": "Learn closed compound spellings as single words."
+    },
+    {
+      "mistake_number": 4,
+      "error_type": "Confusing meaning",
+      "wrong": "Black board is used in class.",
+      "correct": "Blackboard is used in class.",
+      "explanation": "Compound nouns have different meanings from separate words.",
+      "frequency": "Moderate",
+      "tip": "Treat compound nouns as single concepts."
+    },
+    {
+      "mistake_number": 5,
+      "error_type": "Wrong capitalization",
+      "wrong": "Mother-In-Law is home.",
+      "correct": "Mother-in-law is home.",
+      "explanation": "Only capitalize proper nouns or sentence start.",
+      "frequency": "Moderate",
+      "tip": "Follow capitalization rules for compounds."
+    },
+    {
+      "mistake_number": 6,
+      "error_type": "Pluralizing all words",
+      "wrong": "Mothers-in-laws are here.",
+      "correct": "Mothers-in-law are here.",
+      "explanation": "Only pluralize the main noun, not the whole phrase.",
+      "frequency": "Common",
+      "tip": "Focus on pluralizing the main noun only."
+    },
+    {
+      "mistake_number": 7,
+      "error_type": "Incorrect spacing in open compounds",
+      "wrong": "Icedcream is tasty.",
+      "correct": "Ice cream is tasty.",
+      "explanation": "Open compounds must have a space between words.",
+      "frequency": "Common",
+      "tip": "Keep open compound words separated."
+    },
+    {
+      "mistake_number": 8,
+      "error_type": "Using compound as adjective without hyphen",
+      "wrong": "A well known actor.",
+      "correct": "A well-known actor.",
+      "explanation": "Compound adjectives before nouns usually need a hyphen.",
+      "frequency": "Moderate",
+      "tip": "Hyphenate compound adjectives preceding nouns."
+    }
+  ],
+  "practice_exercises": {
+    "identification": {
+      "title": "Identify the Compound Nouns",
+      "instructions": "Underline the compound nouns in each sentence.",
+      "questions": [
+        {
+          "id": 1,
+          "sentence": "She ate ice cream at the park.",
+          "answer": ["ice cream"],
+          "explanation": "'Ice cream' is an open compound noun."
+        },
+        {
+          "id": 2,
+          "sentence": "My mother-in-law is visiting us.",
+          "answer": ["mother-in-law"],
+          "explanation": "'Mother-in-law' is a hyphenated compound noun."
+        },
+        {
+          "id": 3,
+          "sentence": "He bought a new toothbrush.",
+          "answer": ["toothbrush"],
+          "explanation": "'Toothbrush' is a closed compound noun."
+        },
+        {
+          "id": 4,
+          "sentence": "The post office is closed on Sundays.",
+          "answer": ["post office"],
+          "explanation": "'Post office' is an open compound noun."
+        },
+        {
+          "id": 5,
+          "sentence": "I need a haircut tomorrow.",
+          "answer": ["haircut"],
+          "explanation": "'Haircut' is a closed compound noun."
+        }
+      ]
+    },
+    "correction": {
+      "title": "Correct the Common Compound Noun Errors",
+      "instructions": "Correct the errors in underlined compound nouns.",
+      "questions": [
+        {
+          "id": 1,
+          "sentence": "I bought two mother in laws.",
+          "answer": ["I bought two mothers-in-law."],
+          "explanation": "Hyphenate and pluralize only the main noun."
+        },
+        {
+          "id": 2,
+          "sentence": "She used a tooth brush.",
+          "answer": ["She used a toothbrush."],
+          "explanation": "Write closed compounds as one word."
+        },
+        {
+          "id": 3,
+          "sentence": "We saw an icecream truck.",
+          "answer": ["We saw an ice cream truck."],
+          "explanation": "Separate open compounds."
+        },
+        {
+          "id": 4,
+          "sentence": "He is a well known actor.",
+          "answer": ["He is a well-known actor."],
+          "explanation": "Hyphenate compound adjectives before nouns."
+        },
+        {
+          "id": 5,
+          "sentence": "Mother-In-Law is cooking dinner.",
+          "answer": ["Mother-in-law is cooking dinner."],
+          "explanation": "Only capitalize at sentence start or for proper nouns."
+        }
+      ]
+    },
+    "fill_in_blank": {
+      "title": "Fill in the blanks with compound nouns",
+      "instructions": "Complete the sentences using the correct compound noun from the word bank.",
+      "questions": [
+        {
+          "id": 1,
+          "sentence": "She carries a __________ in her bag to clean her teeth.",
+          "answer": ["toothbrush"],
+          "explanation": "'Toothbrush' is the correct compound noun."
+        },
+        {
+          "id": 2,
+          "sentence": "They met at the __________ to send a package.",
+          "answer": ["post office"],
+          "explanation": "'Post office' is an open compound noun."
+        },
+        {
+          "id": 3,
+          "sentence": "My __________ is very supportive.",
+          "answer": ["mother-in-law"],
+          "explanation": "'Mother-in-law' is a hyphenated compound noun."
+        },
+        {
+          "id": 4,
+          "sentence": "We played basketball in the __________.",
+          "answer": ["gymnasium", "schoolyard", "arena"],
+          "explanation": "Alternatives for location in sports context."
+        },
+        {
+          "id": 5,
+          "sentence": "She bought a new __________ for the bedroom.",
+          "answer": ["nightstand", "bedside table"],
+          "explanation": "Furniture-related compound nouns."
+        }
+      ]
+    },
+    "writing_task": {
+      "title": "Write sentences using compound nouns",
+      "instructions": "Write 5 sentences each including a different type of compound noun.",
+      "questions": [
+        {
+          "id": 1,
+          "sentence": "",
+          "answer": [],
+          "explanation": "Include closed, hyphenated, and open compound nouns in your sentences."
+        }
+      ]
+    }
+  },
+  "quiz_questions": {
+    "easy": [
+      {
+        "id": 1,
+        "question": "Which of the following is a hyphenated compound noun?",
+        "options": ["toothbrush", "mother-in-law", "ice cream", "post office"],
+        "correct_answer": 1,
+        "explanation": "'Mother-in-law' is hyphenated."
+      },
+      {
+        "id": 2,
+        "question": "Choose the closed compound noun:",
+        "options": ["bus stop", "breakfast", "editor-in-chief", "ice cream"],
+        "correct_answer": 1,
+        "explanation": "'Breakfast' is a closed compound noun."
+      },
+      {
+        "id": 3,
+        "question": "What type of compound noun is 'bus stop'?",
+        "options": ["Open", "Closed", "Hyphenated", "None"],
+        "correct_answer": 0,
+        "explanation": "'Bus stop' is an open compound noun."
+      },
+      {
+        "id": 4,
+        "question": "How do you form the plural of 'mother-in-law'?",
+        "options": ["Mothers-in-laws", "Mother-in-laws", "Mothers-in-law", "Mother-in-lawes"],
+        "correct_answer": 2,
+        "explanation": "Pluralize the main noun: 'mothers-in-law'."
+      },
+      {
+        "id": 5,
+        "question": "Which sentence uses a compound noun correctly?",
+        "options": [
+          "I used a tooth brush.",
+          "The mother-in-law is here.",
+          "She bought an icecream.",
+          "We met at the postoffice."
+        ],
+        "correct_answer": 1,
+        "explanation": "Hyphenated compound noun written correctly."
+      }
+    ],
+    "medium": [
+      {
+        "id": 6,
+        "question": "Select the correct plural form:",
+        "options": [
+          "Toothbrushes",
+          "Toothbrushs",
+          "Tooth brushs",
+          "Tooth-brushes"
+        ],
+        "correct_answer": 0,
+        "explanation": "Plural is 'toothbrushes'."
+      },
+      {
+        "id": 7,
+        "question": "Identify the compound noun:",
+        "options": ["breakfast", "eat", "fast", "run"],
+        "correct_answer": 0,
+        "explanation": "'Breakfast' is a compound noun."
+      },
+      {
+        "id": 8,
+        "question": "Which is a closed compound noun?",
+        "options": ["ice cream", "blackboard", "mother in law", "post office"],
+        "correct_answer": 1,
+        "explanation": "'Blackboard' is closed form."
+      },
+      {
+        "id": 9,
+        "question": "Choose the sentence with correct hyphenation:",
+        "options": [
+          "My mother-in law is kind.",
+          "My mother in-law is kind.",
+          "My mother-in-law is kind.",
+          "My mother in law is kind."
+        ],
+        "correct_answer": 2,
+        "explanation": "Correct hyphenation is 'mother-in-law'."
+      },
+      {
+        "id": 10,
+        "question": "What kind of compound noun is 'editor-in-chief'?",
+        "options": ["Closed", "Hyphenated", "Open", "None"],
+        "correct_answer": 1,
+        "explanation": "It is hyphenated."
+      }
+    ],
+    "hard": [
+      {
+        "id": 11,
+        "question": "Which sentence has a compound noun functioning as a single idea?",
+        "options": [
+          "She has a black board in her room.",
+          "She has a blackboard in her room.",
+          "She has a black- board in her room.",
+          "She has a blackboard desk in her room."
+        ],
+        "correct_answer": 1,
+        "explanation": "'Blackboard' is a single noun."
+      },
+      {
+        "id": 12,
+        "question": "Pluralize correctly: 'son-in-law'",
+        "options": ["son-in-laws", "sons-in-law", "son-in-lawes", "sons in law"],
+        "correct_answer": 1,
+        "explanation": "Pluralize main noun: 'sons-in-law'."
+      },
+      {
+        "id": 13,
+        "question": "Which is an example of an open compound noun?",
+        "options": ["greenhouse", "mother-in-law", "post office", "toothbrush"],
+        "correct_answer": 2,
+        "explanation": "'Post office' is open compound."
+      },
+      {
+        "id": 14,
+        "question": "Choose the correctly punctuated sentence:",
+        "options": [
+          "I visited the editor in chief yesterday.",
+          "I visited the editor-in-chief yesterday.",
+          "I visited the editor in-chief yesterday.",
+          "I visited the editor-in-chief-yesterday."
+        ],
+        "correct_answer": 1,
+        "explanation": "Correct hyphenation is key."
+      },
+      {
+        "id": 15,
+        "question": "How many types of compound nouns are there?",
+        "options": ["1", "2", "3", "4"],
+        "correct_answer": 2,
+        "explanation": "There are three main types: closed, hyphenated, and open."
+      }
+    ]
+  },
+  "metadata": {
+    "created_date": "2025-11-25",
+    "version": "1.0",
+    "difficulty_level": "Beginner to Intermediate",
+    "estimated_reading_time": "15 minutes",
+    "total_examples": 50,
+    "total_exercises": 25,
+    "suitable_for": ["ESL learners", "Students", "English beginners"]
+  }
+}

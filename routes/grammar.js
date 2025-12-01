@@ -124,4 +124,29 @@ router.get('/:id/resources', async (req, res) => {
   }
 });
 
+// GET Learn More content for a specific type
+router.get('/types/:typeId/learn-more', async (req, res) => {
+  try {
+    const type = await GrammarType.findByPk(req.params.typeId, {
+      attributes: ['id', 'name', 'learn_more_content']
+    });
+
+    if (!type) {
+      return res.status(404).json({ error: 'Grammar type not found' });
+    }
+
+    if (!type.learn_more_content) {
+      return res.status(404).json({ error: 'Learn More content not available for this type' });
+    }
+
+    res.json({
+      id: type.id,
+      name: type.name,
+      content: type.learn_more_content
+    });
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+});
+
 module.exports = router;

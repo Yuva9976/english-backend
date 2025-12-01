@@ -1,0 +1,455 @@
+{
+  "part_id": 10,
+  "part_name": "Articles",
+  "quiz_content": {
+    "mcq": {
+      "easy": [
+        {
+          "id": 1,
+          "question": "Choose the correct article: '___ apple is red.'",
+          "options": ["A", "An", "The", "No article"],
+          "correct_answer": 1,
+          "explanation": "'An' is used before vowel sounds. 'Apple' starts with a vowel sound."
+        },
+        {
+          "id": 2,
+          "question": "Which sentence is correct?",
+          "options": ["I am teacher.", "I am a teacher.", "I am the teacher.", "I am an teacher."],
+          "correct_answer": 1,
+          "explanation": "Singular countable nouns need an article. 'A' is used with professions."
+        },
+        {
+          "id": 3,
+          "question": "Choose: '___ sun rises in the east.'",
+          "options": ["A", "An", "The", "No article"],
+          "correct_answer": 2,
+          "explanation": "'The' is used with unique objects like the sun, moon, earth."
+        },
+        {
+          "id": 4,
+          "question": "Which is correct?",
+          "options": ["I need a water.", "I need water.", "I need the waters.", "I need an water."],
+          "correct_answer": 1,
+          "explanation": "'Water' is uncountable. No article is needed for uncountable nouns in general."
+        },
+        {
+          "id": 5,
+          "question": "Fill in: 'She plays ___ tennis.'",
+          "options": ["a", "an", "the", "no article"],
+          "correct_answer": 3,
+          "explanation": "Sports don't take articles."
+        },
+        {
+          "id": 6,
+          "question": "Choose: 'It takes ___ hour.'",
+          "options": ["a", "an", "the", "no article"],
+          "correct_answer": 1,
+          "explanation": "'Hour' starts with a vowel sound (silent h), so use 'an'."
+        },
+        {
+          "id": 7,
+          "question": "Which is correct?",
+          "options": ["I live in the Paris.", "I live in Paris.", "I live in a Paris.", "I live in an Paris."],
+          "correct_answer": 1,
+          "explanation": "Most city names don't take articles."
+        },
+        {
+          "id": 8,
+          "question": "Fill in: 'He is ___ honest man.'",
+          "options": ["a", "an", "the", "no article"],
+          "correct_answer": 1,
+          "explanation": "'Honest' starts with a vowel sound (silent h), so use 'an'."
+        },
+        {
+          "id": 9,
+          "question": "Choose: 'I study ___ English.'",
+          "options": ["a", "an", "the", "no article"],
+          "correct_answer": 3,
+          "explanation": "Languages don't take articles."
+        },
+        {
+          "id": 10,
+          "question": "Which is correct?",
+          "options": ["Dogs are animals.", "The dogs are animals.", "A dogs are animals.", "An dogs are animals."],
+          "correct_answer": 0,
+          "explanation": "General plural nouns don't need articles."
+        }
+      ],
+      "medium": [
+        {
+          "id": 11,
+          "question": "I saw ___ dog in the park. ___ dog was playing.",
+          "options": ["a, A", "a, The", "the, A", "the, The"],
+          "correct_answer": 1,
+          "explanation": "First mention uses 'a' (indefinite). Second mention uses 'the' (definite)."
+        },
+        {
+          "id": 12,
+          "question": "Which sentence needs an article?",
+          "options": ["Water is essential.", "She is doctor.", "I play tennis.", "He lives in London."],
+          "correct_answer": 1,
+          "explanation": "Singular countable nouns need articles: 'She is a doctor.'"
+        },
+        {
+          "id": 13,
+          "question": "Choose: 'She is ___ European citizen.'",
+          "options": ["a", "an", "the", "no article"],
+          "correct_answer": 0,
+          "explanation": "'European' starts with a consonant sound (yoo), so use 'a'."
+        },
+        {
+          "id": 14,
+          "question": "Which is correct?",
+          "options": ["The life is beautiful.", "Life is beautiful.", "A life is beautiful.", "An life is beautiful."],
+          "correct_answer": 1,
+          "explanation": "Abstract nouns in general statements don't use articles."
+        },
+        {
+          "id": 15,
+          "question": "Fill in: 'I have ___ uncle and ___ aunt.'",
+          "options": ["a, a", "an, an", "a, an", "an, a"],
+          "correct_answer": 3,
+          "explanation": "'Uncle' starts with a vowel sound (use 'an'). 'Aunt' starts with a vowel sound (use 'an')."
+        },
+        {
+          "id": 16,
+          "question": "Choose: '___ Amazon is the longest river.'",
+          "options": ["A", "An", "The", "No article"],
+          "correct_answer": 2,
+          "explanation": "River names use 'the': the Amazon, the Nile, the Thames."
+        },
+        {
+          "id": 17,
+          "question": "Which is correct?",
+          "options": ["I need informations.", "I need an information.", "I need information.", "I need the informations."],
+          "correct_answer": 2,
+          "explanation": "'Information' is uncountable. No article needed for general reference."
+        },
+        {
+          "id": 18,
+          "question": "Fill in: 'He is ___ best student in class.'",
+          "options": ["a", "an", "the", "no article"],
+          "correct_answer": 2,
+          "explanation": "Superlatives always use 'the': the best, the worst, the tallest."
+        },
+        {
+          "id": 19,
+          "question": "Choose: 'I work at ___ hospital.'",
+          "options": ["a", "an", "the", "no article"],
+          "correct_answer": 0,
+          "explanation": "First mention of a non-specific hospital uses 'a'."
+        },
+        {
+          "id": 20,
+          "question": "Which is correct?",
+          "options": ["I speak the English.", "I speak English.", "I speak a English.", "I speak an English."],
+          "correct_answer": 1,
+          "explanation": "Languages don't use articles: speak English, study French, learn Spanish."
+        }
+      ],
+      "hard": [
+        {
+          "id": 21,
+          "question": "I met ___ interesting person. ___ person told me about ___ life in ___ Netherlands.",
+          "options": ["a, The, the, the", "an, The, no article, the", "an, A, the, no article", "a, A, no article, no article"],
+          "correct_answer": 1,
+          "explanation": "'Interesting' has vowel sound (an), second mention (the), life in general (no article), country with 'the' (the Netherlands)."
+        },
+        {
+          "id": 22,
+          "question": "Which sentence is completely correct?",
+          "options": [
+            "The honesty is the best policy.",
+            "Honesty is best policy.",
+            "Honesty is the best policy.",
+            "The honesty is best policy."
+          ],
+          "correct_answer": 2,
+          "explanation": "Abstract noun in general (no article), superlative (the best)."
+        },
+        {
+          "id": 23,
+          "question": "Choose: 'He plays ___ piano but not ___ guitar.'",
+          "options": ["the, the", "a, a", "no article, no article", "the, no article"],
+          "correct_answer": 0,
+          "explanation": "Musical instruments use 'the' when talking about playing them."
+        },
+        {
+          "id": 24,
+          "question": "Which is correct?",
+          "options": [
+            "I go to the church every Sunday.",
+            "I go to church every Sunday.",
+            "I go to a church every Sunday.",
+            "Both A and B are correct."
+          ],
+          "correct_answer": 3,
+          "explanation": "'Go to church' (for worship) vs 'go to the church' (as a building). Both can be correct depending on meaning."
+        },
+        {
+          "id": 25,
+          "question": "___ United States is in ___ North America. ___ US President lives in ___ White House.",
+          "options": ["The, no article, The, the", "No article, the, The, no article", "The, the, No article, the", "A, no article, A, a"],
+          "correct_answer": 0,
+          "explanation": "Countries with 'States/Kingdom' (the), continents (no article), titles (the), buildings (the)."
+        }
+      ]
+    },
+
+    "fill_in_blank": {
+      "easy": [
+        {
+          "id": 1,
+          "question": "I saw ___ elephant at the zoo.",
+          "expected_answer": "an",
+          "explanation": "'Elephant' starts with a vowel sound, so use 'an'."
+        },
+        {
+          "id": 2,
+          "question": "She is ___ doctor.",
+          "expected_answer": "a",
+          "explanation": "Professions use 'a' or 'an'. 'Doctor' has consonant sound."
+        },
+        {
+          "id": 3,
+          "question": "___ moon is bright tonight.",
+          "expected_answer": "The",
+          "explanation": "Unique objects like moon, sun, earth use 'the'."
+        },
+        {
+          "id": 4,
+          "question": "I need ___ water.",
+          "expected_answer": "no article / some",
+          "explanation": "Uncountable nouns in general don't need articles. Can use 'some'."
+        },
+        {
+          "id": 5,
+          "question": "He plays ___ football.",
+          "expected_answer": "no article",
+          "explanation": "Sports don't use articles."
+        },
+        {
+          "id": 6,
+          "question": "It takes ___ hour.",
+          "expected_answer": "an",
+          "explanation": "'Hour' has silent h, starts with vowel sound."
+        },
+        {
+          "id": 7,
+          "question": "I live in ___ London.",
+          "expected_answer": "no article",
+          "explanation": "Most city names don't use articles."
+        },
+        {
+          "id": 8,
+          "question": "He is ___ honest man.",
+          "expected_answer": "an",
+          "explanation": "'Honest' has silent h, vowel sound."
+        }
+      ],
+      "medium": [
+        {
+          "id": 9,
+          "question": "I saw ___ cat. ___ cat was black.",
+          "expected_answer": "a, The",
+          "explanation": "First mention (a), second mention (the)."
+        },
+        {
+          "id": 10,
+          "question": "She studies at ___ University of Cambridge.",
+          "expected_answer": "the",
+          "explanation": "Universities with 'of' use 'the'."
+        },
+        {
+          "id": 11,
+          "question": "___ patience is ___ virtue.",
+          "expected_answer": "no article, a",
+          "explanation": "Abstract noun general (no article), 'virtue' is countable (a)."
+        },
+        {
+          "id": 12,
+          "question": "___ Amazon River is in South America.",
+          "expected_answer": "The",
+          "explanation": "River names use 'the'."
+        },
+        {
+          "id": 13,
+          "question": "He is ___ best student in ___ class.",
+          "expected_answer": "the, the",
+          "explanation": "Superlatives (the), specific class (the)."
+        }
+      ],
+      "hard": [
+        {
+          "id": 14,
+          "question": "I live in ___ United States but I'm from ___ Japan.",
+          "expected_answer": "the, no article",
+          "explanation": "Countries with 'States/Kingdom' use 'the'. Most countries don't."
+        },
+        {
+          "id": 15,
+          "question": "She plays ___ piano and ___ violin.",
+          "expected_answer": "the, the",
+          "explanation": "Musical instruments when playing them use 'the'."
+        }
+      ]
+    },
+
+    "reading_comprehension": [
+      {
+        "id": 1,
+        "title": "A Visit to the Museum",
+        "passage": "Last Saturday, Emma visited a museum with her friends. The museum was in the center of the city. They saw many interesting exhibits about ancient history. Emma was particularly interested in the Egyptian collection. An old statue caught her attention. The statue was thousands of years old! The guide explained the history behind each artifact. Emma learned that the museum has one of the best collections in the country. After the tour, they had lunch at a nearby café. It was a perfect day.",
+        "difficulty": "easy",
+        "questions": [
+          {
+            "id": 1,
+            "question": "Why is 'a museum' used in the first sentence?",
+            "options": [
+              "It's the first mention",
+              "It's a specific museum",
+              "It's plural",
+              "It's uncountable"
+            ],
+            "correct_answer": 0,
+            "explanation": "First mention of something uses 'a/an' (indefinite article)."
+          },
+          {
+            "id": 2,
+            "question": "Why does 'The museum' appear in the second sentence?",
+            "options": [
+              "It's plural",
+              "It's now specific (already mentioned)",
+              "Museums always use 'the'",
+              "It's uncountable"
+            ],
+            "correct_answer": 1,
+            "explanation": "Second mention uses 'the' because we now know which museum."
+          },
+          {
+            "id": 3,
+            "question": "Why is there no article in 'ancient history'?",
+            "options": [
+              "It's a mistake",
+              "History is uncountable in general",
+              "It's plural",
+              "It's a proper noun"
+            ],
+            "correct_answer": 1,
+            "explanation": "Uncountable nouns in general don't need articles."
+          },
+          {
+            "id": 4,
+            "question": "Why 'the best' instead of 'a best'?",
+            "options": [
+              "Superlatives always use 'the'",
+              "It's plural",
+              "It's uncountable",
+              "Random choice"
+            ],
+            "correct_answer": 0,
+            "explanation": "Superlatives (best, worst, tallest) always use 'the'."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Learning a Musical Instrument",
+        "passage": "Sarah wanted to learn a musical instrument. She decided to learn the piano because her mother was a pianist. She found a teacher in the neighborhood and started taking lessons. The teacher was very patient and encouraging. At first, playing the piano was difficult, but Sarah practiced every day. After a year, she could play many beautiful songs. Her parents were proud of her progress. Music became an important part of her life. She dreams of performing in a concert hall one day.",
+        "difficulty": "medium",
+        "questions": [
+          {
+            "id": 1,
+            "question": "Why 'a musical instrument' and not 'the musical instrument'?",
+            "options": [
+              "She hasn't chosen which one yet",
+              "It's uncountable",
+              "It's plural",
+              "It's a proper noun"
+            ],
+            "correct_answer": 0,
+            "explanation": "'A' is used because she's referring to any instrument, not a specific one."
+          },
+          {
+            "id": 2,
+            "question": "Why 'the piano' when she decided?",
+            "options": [
+              "She chose a specific instrument type",
+              "Piano is always 'the'",
+              "It's uncountable",
+              "It's plural"
+            ],
+            "correct_answer": 0,
+            "explanation": "Once she decides on piano specifically, it becomes definite."
+          },
+          {
+            "id": 3,
+            "question": "Why 'a teacher' not 'the teacher' first?",
+            "options": [
+              "First mention, not specific yet",
+              "Teacher is uncountable",
+              "It's plural",
+              "It's wrong"
+            ],
+            "correct_answer": 0,
+            "explanation": "First mention uses 'a', then 'the teacher' in next sentence."
+          },
+          {
+            "id": 4,
+            "question": "Why 'playing the piano' uses 'the'?",
+            "options": [
+              "Musical instruments use 'the' when playing",
+              "It's a mistake",
+              "Piano is uncountable",
+              "It's plural"
+            ],
+            "correct_answer": 0,
+            "explanation": "When talking about playing instruments, use 'the': play the piano, the guitar."
+          }
+        ]
+      }
+    ],
+
+    "writing_exercises": [
+      {
+        "difficulty": "easy",
+        "title": "Fill in the Articles",
+        "instruction": "Complete each sentence with a, an, the, or no article (-).",
+        "prompt": "1. I have ___ dog. ___ dog is friendly.\n2. She is ___ engineer.\n3. ___ sun is bright today.\n4. I need ___ water.\n5. He plays ___ tennis.\n6. It takes ___ hour to get there.\n7. I live in ___ Paris.\n8. She is ___ honest person.",
+        "model_answer": "1. a dog, The dog\n2. an engineer\n3. The sun\n4. - water (or some water)\n5. - tennis\n6. an hour\n7. - Paris\n8. an honest person",
+        "criteria": [
+          "Correct use of a/an",
+          "Correct use of the",
+          "Recognizes when no article needed",
+          "Understands vowel sounds"
+        ]
+      },
+      {
+        "difficulty": "medium",
+        "title": "Write with Correct Articles",
+        "instruction": "Write 5 sentences about your daily routine, using articles correctly.",
+        "prompt": "Describe your morning routine. Use at least: one 'a/an', one 'the', and one sentence with no article.",
+        "model_answer": "I wake up at 7 AM every morning. I have a quick breakfast with coffee. The coffee helps me wake up fully. I read news on my phone. Then I take a shower and get ready for work. I leave the house at 8 AM.",
+        "criteria": [
+          "Correct article usage throughout",
+          "Mix of a/an, the, and no article",
+          "Natural flow",
+          "Grammar correctness"
+        ]
+      },
+      {
+        "difficulty": "hard",
+        "title": "Article Error Correction",
+        "instruction": "Find and correct all article errors in this paragraph.",
+        "prompt": "Yesterday, I went to the Paris to visit a Louvre Museum. I saw many beautiful paintings. The art is really amazing. I met a interesting person who was an artist. The person told me about the life as artist. After museum visit, I had the lunch at the restaurant near a Seine River. The France is beautiful country.",
+        "model_answer": "Yesterday, I went to Paris (no article) to visit the Louvre Museum (the with specific names). I saw many beautiful paintings. The art (or 'Art') is really amazing. I met an interesting person (vowel sound) who was an artist. The person told me about life as an artist (life - no article in general, an artist). After the museum visit, I had lunch at a restaurant near the Seine River. France is a beautiful country.",
+        "criteria": [
+          "Identifies all errors",
+          "Corrects properly nouns",
+          "Fixes a/an mistakes",
+          "Corrects the/no article issues"
+        ]
+      }
+    ]
+  }
+}

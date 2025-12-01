@@ -1,0 +1,899 @@
+{
+  "type_id": 2,
+  "type_name": "Proper Nouns",
+  "part_name": "Noun",
+  "icon": "🏛️",
+  "color": "#ef4444",
+  
+  "learn_more_content": {
+    
+    "overview": {
+      "title": "What are Proper Nouns?",
+      "description": "Proper nouns are specific names of particular people, places, organizations, days, months, holidays, and brands. They always begin with a capital letter, no matter where they appear in a sentence.",
+      "key_points": [
+        "Always capitalized - first letter must be uppercase",
+        "Refer to unique, specific entities (not general)",
+        "Include names of people, places, companies, dates",
+        "Cannot be preceded by 'a' or 'an' (usually)",
+        "Different from common nouns which are general"
+      ],
+      "importance": "Proper nouns help us identify specific individuals, locations, and entities. They're essential for clear communication and distinguishing between general and specific references.",
+      "common_words": [
+        "John", "Sarah", "London", "Paris", "Monday", "January",
+        "Google", "Microsoft", "Christmas", "Easter", "Netflix",
+        "Amazon", "Africa", "Europe", "Mount Everest", "Pacific Ocean"
+      ]
+    },
+
+    "detailed_explanation": {
+      "sections": [
+        {
+          "title": "Types of Proper Nouns",
+          "content": "Proper nouns can be categorized into several main types, each serving a specific purpose in identifying unique entities.",
+          "subsections": [
+            {
+              "subtitle": "1. Personal Names",
+              "text": "Names of specific people, including first names, last names, and titles.",
+              "examples": [
+                "John Smith",
+                "Dr. Maria Rodriguez",
+                "Queen Elizabeth",
+                "President Lincoln",
+                "Shakespeare"
+              ]
+            },
+            {
+              "subtitle": "2. Geographical Names",
+              "text": "Names of specific places, including cities, countries, continents, mountains, rivers, and oceans.",
+              "examples": [
+                "New York City",
+                "United States of America",
+                "Mount Kilimanjaro",
+                "The Amazon River",
+                "Pacific Ocean",
+                "Europe"
+              ]
+            },
+            {
+              "subtitle": "3. Organizations & Institutions",
+              "text": "Names of specific companies, schools, organizations, and institutions.",
+              "examples": [
+                "Harvard University",
+                "United Nations",
+                "Apple Inc.",
+                "World Health Organization",
+                "Stanford Hospital"
+              ]
+            },
+            {
+              "subtitle": "4. Temporal Names",
+              "text": "Names of specific days, months, holidays, and historical events.",
+              "examples": [
+                "Monday",
+                "December",
+                "Christmas Day",
+                "World War II",
+                "The Renaissance"
+              ]
+            },
+            {
+              "subtitle": "5. Brand Names & Products",
+              "text": "Names of specific brands, products, and commercial entities.",
+              "examples": [
+                "Coca-Cola",
+                "iPhone",
+                "Nike",
+                "Tesla Model S",
+                "Starbucks"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Why Proper Nouns Matter",
+          "content": "Proper nouns serve several critical functions in communication.",
+          "points": [
+            "Precision: They allow us to refer to specific entities without ambiguity",
+            "Identity: They help establish unique identities for people and places",
+            "Context: They provide cultural and geographical context",
+            "Formality: They add professionalism and accuracy to writing",
+            "Recognition: They make communication clearer and more specific"
+          ]
+        },
+        {
+          "title": "When to Use Proper Nouns",
+          "content": "Understanding when to use proper nouns versus common nouns is essential.",
+          "scenarios": [
+            {
+              "situation": "Referring to a specific person",
+              "proper": "I met Sarah yesterday.",
+              "common": "I met a woman yesterday.",
+              "explanation": "Use proper noun when you know the specific person's name"
+            },
+            {
+              "situation": "Talking about a specific place",
+              "proper": "I live in London.",
+              "common": "I live in a big city.",
+              "explanation": "Use proper noun for the exact location name"
+            },
+            {
+              "situation": "Mentioning a specific company",
+              "proper": "I work at Google.",
+              "common": "I work at a tech company.",
+              "explanation": "Use proper noun for the specific organization"
+            }
+          ]
+        }
+      ]
+    },
+
+    "grammar_rules": [
+      {
+        "rule_number": 1,
+        "title": "Always Capitalize the First Letter",
+        "description": "Every proper noun must begin with a capital letter, regardless of its position in the sentence.",
+        "correct_examples": [
+          "Sarah loves traveling to Paris.",
+          "The meeting is on Monday.",
+          "I bought a new iPhone yesterday.",
+          "We celebrate Christmas in December."
+        ],
+        "incorrect_examples": [
+          "sarah loves traveling to paris. (Wrong: not capitalized)",
+          "The meeting is on monday. (Wrong: day not capitalized)",
+          "I bought a new iphone yesterday. (Wrong: brand not capitalized)",
+          "We celebrate christmas in december. (Wrong: holiday and month not capitalized)"
+        ],
+        "tip": "Remember: Even if the proper noun appears in the middle or end of a sentence, it must always start with a capital letter."
+      },
+      {
+        "rule_number": 2,
+        "title": "Don't Use Articles with Most Proper Nouns",
+        "description": "Most proper nouns don't need 'a', 'an', or 'the' before them, though there are exceptions.",
+        "correct_examples": [
+          "John lives in Paris.",
+          "I visited Egypt last year.",
+          "She works at Microsoft.",
+          "We met Sarah at the park."
+        ],
+        "incorrect_examples": [
+          "The John lives in the Paris. (Wrong: unnecessary 'the')",
+          "I visited the Egypt last year. (Wrong: country name doesn't need 'the')",
+          "She works at the Microsoft. (Wrong: company name doesn't need 'the')"
+        ],
+        "exceptions": [
+          "The United States (countries with 'United', 'Kingdom', etc.)",
+          "The Eiffel Tower (monuments and buildings)",
+          "The Amazon River (rivers, oceans, seas)",
+          "The Beatles (bands and groups)"
+        ],
+        "tip": "Most single-word proper nouns don't need articles, but multi-word names and certain categories (rivers, mountain ranges) do."
+      },
+      {
+        "rule_number": 3,
+        "title": "Capitalize All Important Words in Multi-Word Proper Nouns",
+        "description": "When a proper noun consists of multiple words, capitalize the first letter of each significant word.",
+        "correct_examples": [
+          "United States of America",
+          "New York Public Library",
+          "World Health Organization",
+          "Empire State Building",
+          "University of California"
+        ],
+        "incorrect_examples": [
+          "United states of america (Wrong: 'states' should be capitalized)",
+          "New york Public library (Wrong: 'york' and 'library' need capitals)",
+          "World health organization (Wrong: 'health' and 'organization' need capitals)"
+        ],
+        "note": "Small words like 'of', 'the', 'a', 'and' are usually lowercase unless they're the first word.",
+        "tip": "Capitalize nouns, adjectives, and verbs; lowercase articles, prepositions, and conjunctions (unless first word)."
+      },
+      {
+        "rule_number": 4,
+        "title": "Use Proper Nouns for Specific Time References",
+        "description": "Days of the week, months, and holidays are proper nouns and must be capitalized.",
+        "correct_examples": [
+          "The meeting is on Monday.",
+          "My birthday is in June.",
+          "We celebrate Christmas on December 25th.",
+          "Independence Day is a national holiday.",
+          "I'll see you on Friday."
+        ],
+        "incorrect_examples": [
+          "The meeting is on monday. (Wrong: day not capitalized)",
+          "My birthday is in june. (Wrong: month not capitalized)",
+          "We celebrate christmas. (Wrong: holiday not capitalized)"
+        ],
+        "note": "Seasons (spring, summer, fall, winter) are NOT capitalized unless part of a proper name.",
+        "tip": "Remember the acronym MDJH: Months, Days, Holidays - always capitalize!"
+      },
+      {
+        "rule_number": 5,
+        "title": "Don't Capitalize When Used as Common Nouns",
+        "description": "Some words can be both proper and common nouns. Only capitalize when referring to the specific entity.",
+        "examples": [
+          {
+            "proper": "I go to Harvard University. (specific institution)",
+            "common": "I go to university every day. (general concept)"
+          },
+          {
+            "proper": "President Biden spoke today. (specific person with title)",
+            "common": "The president of the company is here. (general position)"
+          },
+          {
+            "proper": "I bought a Pepsi. (specific brand)",
+            "common": "I bought a soda. (general product)"
+          },
+          {
+            "proper": "We visited the Grand Canyon. (specific place)",
+            "common": "We visited a beautiful canyon. (general place)"
+          }
+        ],
+        "tip": "Ask yourself: 'Am I talking about THE specific one, or any one?' Specific = proper noun = capitalize."
+      }
+    ],
+
+    "examples": {
+      "categories": [
+        {
+          "category": "People & Titles",
+          "icon": "👤",
+          "examples": [
+            {
+              "sentence": "Dr. Smith is my dentist.",
+              "analysis": "'Dr. Smith' is a proper noun (specific person's name and title)"
+            },
+            {
+              "sentence": "Queen Elizabeth ruled for many years.",
+              "analysis": "'Queen Elizabeth' is a proper noun (specific monarch)"
+            },
+            {
+              "sentence": "I admire Nelson Mandela's courage.",
+              "analysis": "'Nelson Mandela' is a proper noun (specific historical figure)"
+            },
+            {
+              "sentence": "My teacher, Mrs. Johnson, is very kind.",
+              "analysis": "'Mrs. Johnson' is a proper noun (specific person)"
+            },
+            {
+              "sentence": "Shakespeare wrote many famous plays.",
+              "analysis": "'Shakespeare' is a proper noun (specific author)"
+            }
+          ]
+        },
+        {
+          "category": "Places & Geography",
+          "icon": "🌍",
+          "examples": [
+            {
+              "sentence": "Paris is known as the City of Light.",
+              "analysis": "'Paris' is a proper noun (specific city)"
+            },
+            {
+              "sentence": "The Amazon River flows through South America.",
+              "analysis": "'Amazon River' and 'South America' are proper nouns"
+            },
+            {
+              "sentence": "Mount Everest is the highest mountain.",
+              "analysis": "'Mount Everest' is a proper noun (specific mountain)"
+            },
+            {
+              "sentence": "I visited the Statue of Liberty in New York.",
+              "analysis": "'Statue of Liberty' and 'New York' are proper nouns"
+            },
+            {
+              "sentence": "The Pacific Ocean is vast and deep.",
+              "analysis": "'Pacific Ocean' is a proper noun (specific ocean)"
+            }
+          ]
+        },
+        {
+          "category": "Organizations & Brands",
+          "icon": "🏢",
+          "examples": [
+            {
+              "sentence": "I work at Google in California.",
+              "analysis": "'Google' and 'California' are proper nouns"
+            },
+            {
+              "sentence": "Harvard University is very prestigious.",
+              "analysis": "'Harvard University' is a proper noun (specific institution)"
+            },
+            {
+              "sentence": "The United Nations promotes peace.",
+              "analysis": "'United Nations' is a proper noun (specific organization)"
+            },
+            {
+              "sentence": "I bought a new MacBook from Apple.",
+              "analysis": "'MacBook' and 'Apple' are proper nouns (brand names)"
+            },
+            {
+              "sentence": "NASA launched a new spacecraft.",
+              "analysis": "'NASA' is a proper noun (specific agency)"
+            }
+          ]
+        },
+        {
+          "category": "Time & Events",
+          "icon": "📅",
+          "examples": [
+            {
+              "sentence": "Christmas is celebrated in December.",
+              "analysis": "'Christmas' and 'December' are proper nouns"
+            },
+            {
+              "sentence": "We have a meeting every Monday.",
+              "analysis": "'Monday' is a proper noun (specific day)"
+            },
+            {
+              "sentence": "World War II changed history.",
+              "analysis": "'World War II' is a proper noun (specific event)"
+            },
+            {
+              "sentence": "Independence Day is July 4th.",
+              "analysis": "'Independence Day' and 'July' are proper nouns"
+            },
+            {
+              "sentence": "The Renaissance was a cultural movement.",
+              "analysis": "'Renaissance' is a proper noun (specific period)"
+            }
+          ]
+        }
+      ],
+      "complex_sentences": [
+        {
+          "sentence": "Last Monday, Sarah and I visited the Louvre Museum in Paris, France.",
+          "proper_nouns": ["Monday", "Sarah", "Louvre Museum", "Paris", "France"],
+          "analysis": "Five proper nouns: day (Monday), person (Sarah), place (Louvre Museum), city (Paris), country (France)"
+        },
+        {
+          "sentence": "Dr. Johnson works at Stanford University and teaches on Tuesdays and Thursdays.",
+          "proper_nouns": ["Dr. Johnson", "Stanford University", "Tuesdays", "Thursdays"],
+          "analysis": "Four proper nouns: person with title, institution, and two days"
+        },
+        {
+          "sentence": "The Amazon River flows through Brazil, Peru, and Colombia in South America.",
+          "proper_nouns": ["Amazon River", "Brazil", "Peru", "Colombia", "South America"],
+          "analysis": "Five proper nouns: river and four geographical locations"
+        }
+      ]
+    },
+
+    "common_mistakes": [
+      {
+        "mistake_number": 1,
+        "error_type": "Forgetting to Capitalize",
+        "wrong": "I live in london and work at microsoft.",
+        "correct": "I live in London and work at Microsoft.",
+        "explanation": "City names and company names are proper nouns and must be capitalized.",
+        "frequency": "Very Common",
+        "tip": "Always check if a noun is a specific name - if yes, capitalize it!"
+      },
+      {
+        "mistake_number": 2,
+        "error_type": "Adding Unnecessary 'The'",
+        "wrong": "I met the Sarah at the Google office.",
+        "correct": "I met Sarah at the Google office.",
+        "explanation": "Personal names and most company names don't need 'the' before them.",
+        "frequency": "Common",
+        "tip": "Only use 'the' with proper nouns when it's part of the official name (The United States)"
+      },
+      {
+        "mistake_number": 3,
+        "error_type": "Not Capitalizing Days and Months",
+        "wrong": "The meeting is on monday in january.",
+        "correct": "The meeting is on Monday in January.",
+        "explanation": "Days of the week and months are always proper nouns and must be capitalized.",
+        "frequency": "Very Common",
+        "tip": "Think of days and months as names - they're always capitalized!"
+      },
+      {
+        "mistake_number": 4,
+        "error_type": "Capitalizing Common Nouns",
+        "wrong": "I went to the Park with my Friend.",
+        "correct": "I went to the park with my friend.",
+        "explanation": "'Park' and 'friend' are general (common) nouns here, not specific names.",
+        "frequency": "Common",
+        "tip": "Only capitalize if it's a specific name like 'Central Park' or 'Sarah' (friend's name)"
+      },
+      {
+        "mistake_number": 5,
+        "error_type": "Inconsistent Capitalization in Multi-Word Names",
+        "wrong": "I visited the Empire state building.",
+        "correct": "I visited the Empire State Building.",
+        "explanation": "All significant words in multi-word proper nouns must be capitalized.",
+        "frequency": "Common",
+        "tip": "Capitalize each important word in the full name"
+      },
+      {
+        "mistake_number": 6,
+        "error_type": "Capitalizing Seasons",
+        "wrong": "I love Summer and Spring.",
+        "correct": "I love summer and spring.",
+        "explanation": "Seasons are common nouns and should not be capitalized unless starting a sentence.",
+        "frequency": "Moderate",
+        "tip": "Seasons ≠ Months. Months = proper, Seasons = common"
+      },
+      {
+        "mistake_number": 7,
+        "error_type": "Using Possessive Form Incorrectly",
+        "wrong": "I visited Sarahs house in New Yorks downtown.",
+        "correct": "I visited Sarah's house in New York's downtown.",
+        "explanation": "Use apostrophe + s to show possession with proper nouns.",
+        "frequency": "Moderate",
+        "tip": "Proper nouns follow the same possessive rules: add 's"
+      },
+      {
+        "mistake_number": 8,
+        "error_type": "Confusing Proper and Common Usage",
+        "wrong": "I want to be a President like president Lincoln.",
+        "correct": "I want to be a president like President Lincoln.",
+        "explanation": "General position = lowercase; specific person with title = capitalize.",
+        "frequency": "Common",
+        "tip": "If you can replace with 'a/an', it's common. If it's THE specific one, it's proper."
+      }
+    ],
+
+    "practice_exercises": {
+      "identification": {
+        "title": "Identify the Proper Nouns",
+        "instructions": "Find all the proper nouns in each sentence and explain why they're proper nouns.",
+        "questions": [
+          {
+            "id": 1,
+            "sentence": "My friend John visited Paris last December.",
+            "answer": ["John", "Paris", "December"],
+            "explanation": "John (person's name), Paris (city name), December (month)"
+          },
+          {
+            "id": 2,
+            "sentence": "The Titanic sank in the Atlantic Ocean in April 1912.",
+            "answer": ["Titanic", "Atlantic Ocean", "April"],
+            "explanation": "Titanic (ship name), Atlantic Ocean (ocean name), April (month)"
+          },
+          {
+            "id": 3,
+            "sentence": "Dr. Smith teaches at Harvard University on Mondays and Wednesdays.",
+            "answer": ["Dr. Smith", "Harvard University", "Mondays", "Wednesdays"],
+            "explanation": "Dr. Smith (person), Harvard University (institution), Mondays/Wednesdays (days)"
+          },
+          {
+            "id": 4,
+            "sentence": "We celebrate Thanksgiving in November with our family.",
+            "answer": ["Thanksgiving", "November"],
+            "explanation": "Thanksgiving (holiday), November (month). 'Family' is common noun here."
+          },
+          {
+            "id": 5,
+            "sentence": "Apple Inc. released the iPhone in California on June 29, 2007.",
+            "answer": ["Apple Inc.", "iPhone", "California", "June"],
+            "explanation": "Apple Inc. (company), iPhone (product), California (state), June (month)"
+          }
+        ]
+      },
+      "correction": {
+        "title": "Fix the Capitalization Errors",
+        "instructions": "Correct the capitalization mistakes in these sentences.",
+        "questions": [
+          {
+            "id": 1,
+            "wrong": "last monday, sarah visited the eiffel tower in paris.",
+            "correct": "Last Monday, Sarah visited the Eiffel Tower in Paris.",
+            "errors_found": 5,
+            "explanation": "Capitalize: Last (start of sentence), Monday (day), Sarah (person), Eiffel Tower (monument), Paris (city)"
+          },
+          {
+            "id": 2,
+            "wrong": "i work at google and live near the golden gate bridge.",
+            "correct": "I work at Google and live near the Golden Gate Bridge.",
+            "errors_found": 4,
+            "explanation": "Capitalize: I (pronoun), Google (company), Golden Gate Bridge (monument)"
+          },
+          {
+            "id": 3,
+            "wrong": "dr. johnson graduated from yale university in may.",
+            "correct": "Dr. Johnson graduated from Yale University in May.",
+            "errors_found": 4,
+            "explanation": "Capitalize: Dr. (title), Johnson (name), Yale University (institution), May (month)"
+          },
+          {
+            "id": 4,
+            "wrong": "we celebrate christmas and easter in our Church.",
+            "correct": "We celebrate Christmas and Easter in our church.",
+            "errors_found": 3,
+            "explanation": "Capitalize: Christmas and Easter (holidays). Lowercase: church (not a specific church name)"
+          },
+          {
+            "id": 5,
+            "wrong": "the united nations meets in new york city.",
+            "correct": "The United Nations meets in New York City.",
+            "errors_found": 4,
+            "explanation": "Capitalize: The (start), United Nations (organization), New York City (city)"
+          }
+        ]
+      },
+      "fill_in_blank": {
+        "title": "Complete with Proper Nouns",
+        "instructions": "Fill in the blanks with appropriate proper nouns.",
+        "questions": [
+          {
+            "id": 1,
+            "sentence": "My best friend's name is _______.",
+            "example_answers": ["Sarah", "John", "Maria", "David"],
+            "type": "Person's name"
+          },
+          {
+            "id": 2,
+            "sentence": "I was born in _______ (month) and my birthday is on a _______.",
+            "example_answers": ["June, Friday", "December, Monday", "April, Saturday"],
+            "type": "Month and day"
+          },
+          {
+            "id": 3,
+            "sentence": "The capital of _______ is _______.",
+            "example_answers": ["France, Paris", "Japan, Tokyo", "Italy, Rome"],
+            "type": "Country and city"
+          },
+          {
+            "id": 4,
+            "sentence": "I want to visit _______ (place) next summer.",
+            "example_answers": ["Paris", "Tokyo", "New York", "London", "Egypt"],
+            "type": "Place name"
+          },
+          {
+            "id": 5,
+            "sentence": "My favorite holiday is _______.",
+            "example_answers": ["Christmas", "Diwali", "Thanksgiving", "Easter"],
+            "type": "Holiday name"
+          }
+        ]
+      },
+      "writing_task": {
+        "title": "Write Your Own Sentences",
+        "instructions": "Write 5 sentences using at least 2 proper nouns in each sentence.",
+        "prompts": [
+          "Write about your favorite place to visit",
+          "Describe someone you admire (use their name)",
+          "Talk about an important date or event",
+          "Mention a company or brand you like",
+          "Describe where you live or study"
+        ],
+        "sample_answers": [
+          "I visited the Louvre Museum in Paris with my friend Maria last July.",
+          "Steve Jobs founded Apple Inc. and created the iPhone.",
+          "Every Monday, I go to Stanford University for my classes.",
+          "Mount Everest is located in the Himalayas between Nepal and China.",
+          "My family celebrates Christmas and New Year's Eve together every December."
+        ],
+        "rubric": {
+          "excellent": "Uses 3+ proper nouns per sentence, all correctly capitalized",
+          "good": "Uses 2 proper nouns per sentence, mostly correct capitalization",
+          "needs_improvement": "Uses 1 proper noun per sentence or has capitalization errors"
+        }
+      }
+    },
+
+    "quiz_questions": {
+      "easy": [
+        {
+          "id": 1,
+          "question": "Which word is a proper noun?",
+          "options": ["city", "Paris", "building", "street"],
+          "correct_answer": 1,
+          "explanation": "'Paris' is a proper noun (specific city name). Others are common nouns."
+        },
+        {
+          "id": 2,
+          "question": "Which sentence is correct?",
+          "options": [
+            "i live in london.",
+            "I live in london.",
+            "I live in London.",
+            "i live in London."
+          ],
+          "correct_answer": 2,
+          "explanation": "Both 'I' and 'London' must be capitalized."
+        },
+        {
+          "id": 3,
+          "question": "Which is a proper noun?",
+          "options": ["monday", "day", "week", "schedule"],
+          "correct_answer": 0,
+          "explanation": "'Monday' is a proper noun (specific day name), but needs capitalization."
+        },
+        {
+          "id": 4,
+          "question": "Choose the proper noun:",
+          "options": ["mountain", "river", "Amazon", "ocean"],
+          "correct_answer": 2,
+          "explanation": "'Amazon' is a proper noun (specific name), others are common nouns."
+        },
+        {
+          "id": 5,
+          "question": "Which needs capitalization?",
+          "options": ["dog", "cat", "google", "computer"],
+          "correct_answer": 2,
+          "explanation": "'Google' is a proper noun (company name) and must be capitalized."
+        }
+      ],
+      "medium": [
+        {
+          "id": 6,
+          "question": "How many proper nouns: 'John visited Paris in December'?",
+          "options": ["1", "2", "3", "4"],
+          "correct_answer": 2,
+          "explanation": "Three proper nouns: John (person), Paris (city), December (month)."
+        },
+        {
+          "id": 7,
+          "question": "Which is correct?",
+          "options": [
+            "I met the Sarah.",
+            "I met Sarah.",
+            "I met a Sarah.",
+            "I met an Sarah."
+          ],
+          "correct_answer": 1,
+          "explanation": "Personal names don't use articles. 'I met Sarah' is correct."
+        },
+        {
+          "id": 8,
+          "question": "Which is capitalized correctly?",
+          "options": [
+            "Empire state Building",
+            "empire State building",
+            "Empire State Building",
+            "empire state building"
+          ],
+          "correct_answer": 2,
+          "explanation": "All significant words in multi-word proper nouns must be capitalized."
+        },
+        {
+          "id": 9,
+          "question": "Which is NOT a proper noun?",
+          "options": ["Monday", "summer", "January", "Christmas"],
+          "correct_answer": 1,
+          "explanation": "'Summer' is a season (common noun). Days, months, holidays are proper nouns."
+        },
+        {
+          "id": 10,
+          "question": "Choose the correct usage:",
+          "options": [
+            "I go to University every day.",
+            "I go to Harvard University.",
+            "Both are correct.",
+            "Neither is correct."
+          ],
+          "correct_answer": 2,
+          "explanation": "Both can be correct depending on context: specific institution vs. general concept."
+        }
+      ],
+      "hard": [
+        {
+          "id": 11,
+          "question": "Identify ALL proper nouns: 'Dr. Smith works at Stanford Hospital in California on Mondays.'",
+          "options": [
+            "Dr. Smith, Stanford Hospital, California",
+            "Dr. Smith, Stanford Hospital, California, Mondays",
+            "Smith, Stanford, California, Mondays",
+            "Dr., Stanford, Hospital, California"
+          ],
+          "correct_answer": 1,
+          "explanation": "Four proper nouns: Dr. Smith (person with title), Stanford Hospital (institution), California (state), Mondays (day)."
+        },
+        {
+          "id": 12,
+          "question": "Which uses proper nouns correctly?",
+          "options": [
+            "The President Biden spoke today.",
+            "President Biden spoke today.",
+            "The president Biden spoke today.",
+            "president Biden spoke today."
+          ],
+          "correct_answer": 1,
+          "explanation": "When title and name are used together, both are capitalized, no 'the' needed."
+        },
+        {
+          "id": 13,
+          "question": "Which sentence has a capitalization error?",
+          "options": [
+            "I visited the Grand Canyon last summer.",
+            "The Amazon River is very long.",
+            "We went to Central Park in New York.",
+            "She studies at the University Of California."
+          ],
+          "correct_answer": 3,
+          "explanation": "'Of' should not be capitalized in multi-word names (small prepositions stay lowercase)."
+        },
+        {
+          "id": 14,
+          "question": "Which is the proper noun?",
+          "options": [
+            "I visited a museum (general)",
+            "I visited the museum (specific but general)",
+            "I visited the Louvre Museum (specific name)",
+            "All are proper nouns"
+          ],
+          "correct_answer": 2,
+          "explanation": "Only 'the Louvre Museum' is a proper noun (specific name of a particular museum)."
+        },
+        {
+          "id": 15,
+          "question": "How many errors: 'last Tuesday, sarah and i visited the eiffel tower in paris, france.'?",
+          "options": ["3 errors", "5 errors", "7 errors", "9 errors"],
+          "correct_answer": 2,
+          "explanation": "7 capitalization errors: Last, Tuesday, Sarah, I, Eiffel Tower (2 words), Paris, France."
+        }
+      ]
+    },
+
+    "video_resources": [
+      {
+        "id": 1,
+        "title": "Proper Nouns Explained - Complete Guide",
+        "description": "Comprehensive tutorial covering all types of proper nouns with examples",
+        "duration": "10 minutes",
+        "level": "Beginner",
+        "topics": ["Definition", "Types", "Capitalization rules", "Examples"],
+        "url": "https://www.youtube.com/watch?v=example1"
+      },
+      {
+        "id": 2,
+        "title": "Common vs Proper Nouns - Key Differences",
+        "description": "Learn to distinguish between common and proper nouns",
+        "duration": "8 minutes",
+        "level": "Beginner",
+        "topics": ["Comparison", "When to capitalize", "Real-world examples"],
+        "url": "https://www.youtube.com/watch?v=example2"
+      },
+      {
+        "id": 3,
+        "title": "Capitalization Rules for Proper Nouns",
+        "description": "Master all capitalization rules with practice",
+        "duration": "12 minutes",
+        "level": "Intermediate",
+        "topics": ["All rules", "Exceptions", "Multi-word names", "Practice"],
+        "url": "https://www.youtube.com/watch?v=example3"
+      },
+      {
+        "id": 4,
+        "title": "Common Mistakes with Proper Nouns",
+        "description": "Avoid the most frequent errors students make",
+        "duration": "9 minutes",
+        "level": "Intermediate",
+        "topics": ["Top mistakes", "Corrections", "Tips and tricks"],
+        "url": "https://www.youtube.com/watch?v=example4"
+      }
+    ],
+
+    "additional_resources": [
+      {
+        "id": 1,
+        "type": "article",
+        "title": "Complete Guide to Proper Nouns - Grammar Rules",
+        "description": "Comprehensive article with all rules and examples",
+        "url": "https://www.grammarly.com/blog/proper-nouns/",
+        "source": "Grammarly"
+      },
+      {
+        "id": 2,
+        "type": "worksheet",
+        "title": "Proper Nouns Practice Worksheets (PDF)",
+        "description": "Downloadable worksheets with 50+ practice questions",
+        "url": "https://www.education.com/worksheet/proper-nouns/",
+        "source": "Education.com"
+      },
+      {
+        "id": 3,
+        "type": "interactive",
+        "title": "Proper Nouns Interactive Quiz",
+        "description": "Online quiz with instant feedback",
+        "url": "https://www.englishgrammar101.com/proper-nouns-quiz",
+        "source": "English Grammar 101"
+      },
+      {
+        "id": 4,
+        "type": "reference",
+        "title": "List of Common Proper Nouns",
+        "description": "Comprehensive list categorized by type",
+        "url": "https://www.thoughtco.com/proper-noun-1691683",
+        "source": "ThoughtCo"
+      }
+    ],
+
+    "fun_facts": [
+      "The word 'proper' comes from Latin 'proprius' meaning 'one's own' - proper nouns are a thing's 'own' name!",
+      "There are over 6 million proper nouns in English (names of people, places, etc.)",
+      "Some proper nouns have become common nouns: 'xerox' (photocopy), 'kleenex' (tissue)",
+      "The longest proper noun is the full name of Bangkok: 'Krung Thep Maha Nakhon...' (168 letters!)",
+      "In some languages like German, ALL nouns are capitalized, not just proper nouns",
+      "'OK' is the most recognized proper noun worldwide (from 'Oll Korrect')",
+      "Brand names that become common words lose their capital letter (escalator, zipper, aspirin)",
+      "The most common proper noun in English is 'Jesus' followed by 'God'",
+      "Some proper nouns can be verbs too: 'I'll Google it' (Google as a verb)",
+      "Proper nouns make up about 15-20% of all nouns in typical English text"
+    ],
+
+    "real_world_applications": [
+      {
+        "context": "Writing Emails & Letters",
+        "importance": "Using proper nouns correctly shows professionalism",
+        "examples": [
+          "Dear Mr. Johnson, (correct title and name)",
+          "Meeting at Google headquarters on Monday",
+          "Attending Harvard University conference in Boston"
+        ]
+      },
+      {
+        "context": "Social Media & Texting",
+        "importance": "Even informal communication benefits from correct capitalization",
+        "examples": [
+          "Tagging people: @Sarah_Johnson",
+          "Locations: Checked in at Starbucks, New York",
+          "Events: #ChristmasEve #NewYearsEve2024"
+        ]
+      },
+      {
+        "context": "Academic Writing",
+        "importance": "Essential for citations, references, and formal papers",
+        "examples": [
+          "According to Smith (2023) from Stanford University...",
+          "Published in the Journal of Modern Medicine",
+          "Research conducted at MIT in Cambridge, Massachusetts"
+        ]
+      },
+      {
+        "context": "Travel & Navigation",
+        "importance": "Crucial for understanding directions and locations",
+        "examples": [
+          "Turn left on Main Street toward Central Park",
+          "Flight from London Heathrow to Tokyo Narita",
+          "Hotel near the Eiffel Tower in Paris, France"
+        ]
+      },
+      {
+        "context": "Business & Professional",
+        "importance": "Shows attention to detail and professionalism",
+        "examples": [
+          "Meeting with Microsoft representatives",
+          "Signed contract with Johnson & Associates",
+          "Shipped via FedEx to New York office"
+        ]
+      }
+    ],
+
+    "downloads": {
+      "available_formats": ["PDF", "DOCX", "TXT"],
+      "content_includes": [
+        "All rules and explanations",
+        "100+ examples",
+        "Practice exercises with answers",
+        "Common mistakes guide",
+        "Quick reference chart",
+        "Printable worksheets"
+      ],
+      "file_size": "2.5 MB",
+      "pages": "15 pages"
+    },
+
+    "metadata": {
+      "created_date": "2025-11-25",
+      "last_updated": "2025-11-25",
+      "version": "1.0",
+      "difficulty_level": "Beginner to Intermediate",
+      "estimated_reading_time": "15 minutes",
+      "estimated_practice_time": "30 minutes",
+      "total_examples": 50,
+      "total_exercises": 25,
+      "total_quiz_questions": 15,
+      "languages_available": ["English"],
+      "suitable_for": [
+        "ESL/EFL learners",
+        "Elementary students",
+        "Middle school students",
+        "Adult learners",
+        "Grammar review"
+      ]
+    }
+  }
+}
