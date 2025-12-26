@@ -2,7 +2,7 @@
 // Run this with: node seed.js
 require('dotenv').config();
 const bcrypt = require('bcrypt');
-const { sequelize, testConnection, User, Lesson, LessonSection } = require('./models');
+const { sequelize, testConnection, User, Lesson, LessonSection, Attendance } = require('./models');
 
 async function run() {
   try {
@@ -66,6 +66,17 @@ async function run() {
       },
     });
     console.log(`Section: ${section.title} (created=${createdSection}, id=${section.id})`);
+
+    // Step 6: Create sample attendance for learner (last 5 days)
+    const days = 5
+    const base = new Date()
+    for (let i = 0; i < days; i++) {
+      const d = new Date(base)
+      d.setDate(base.getDate() - i)
+      const iso = d.toISOString().slice(0,10)
+      await Attendance.findOrCreate({ where: { user_id: learner.id, date: iso }, defaults: { user_id: learner.id, date: iso, status: i === 2 ? 'absent' : 'present' } })
+    }
+    console.log(`Created sample attendance for learner id=${learner.id}`);
 
     console.log('\n✅ Seeding complete! You can now log in with:');
     console.log(`   Teacher → ${teacherEmail} / ${teacherPassword}`);

@@ -52,7 +52,6 @@ router.post('/register', async (req, res) => {
 router.post('/login', async (req, res) => {
   try {
     const body = getBody(req);
-    console.log('LOGIN request body:', body); // helpful debug output
     const email = body.email;
     const password = body.password;
 
@@ -81,7 +80,6 @@ router.post('/login', async (req, res) => {
 router.post('/admin-login', async (req, res) => {
   try {
     const body = getBody(req);
-    console.log('ADMIN LOGIN request body:', body);
     const email = body.email;
     const password = body.password;
 

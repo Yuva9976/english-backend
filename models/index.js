@@ -8,16 +8,28 @@ const {
   DB_NAME = 'english_portal',
   DB_USER = 'postgres',
   DB_PASS = '',
+  USE_SQLITE = 'false',
+  SQLITE_FILE = 'dev.sqlite'
 } = process.env;
 
-// Create Sequelize connection
-const sequelize = new Sequelize(DB_NAME, DB_USER, DB_PASS, {
-  host: DB_HOST,
-  port: DB_PORT,
-  dialect: 'postgres',
-  logging: false,
-  pool: { max: 10, min: 0, acquire: 30000, idle: 10000 },
-});
+let sequelize;
+if (USE_SQLITE === '1' || USE_SQLITE === 'true') {
+  sequelize = new Sequelize({
+    dialect: 'sqlite',
+    storage: SQLITE_FILE,
+    logging: false,
+    pool: { max: 10, min: 0, acquire: 30000, idle: 10000 },
+  });
+} else {
+  // Create Sequelize connection for Postgres
+  sequelize = new Sequelize(DB_NAME, DB_USER, DB_PASS, {
+    host: DB_HOST,
+    port: DB_PORT,
+    dialect: 'postgres',
+    logging: false,
+    pool: { max: 10, min: 0, acquire: 30000, idle: 10000 },
+  });
+}
 
 /* -------------------------------------------------------------------------- */
 /*                              MODEL DEFINITIONS                             */
@@ -70,6 +82,20 @@ const Progress = sequelize.define('Progress', {
   completed: { type: DataTypes.BOOLEAN, defaultValue: false },
 }, {
   tableName: 'progress',
+  underscored: true,
+  timestamps: true,
+});
+
+// --- ATTENDANCE TABLE ---
+const Attendance = sequelize.define('Attendance', {
+  user_id: { type: DataTypes.INTEGER, allowNull: false },
+  date: { type: DataTypes.DATEONLY, allowNull: false },
+  status: { type: DataTypes.ENUM('present', 'absent', 'late', 'excused'), allowNull: false, defaultValue: 'present' },
+  lesson_id: { type: DataTypes.STRING, allowNull: true },
+  session_id: { type: DataTypes.STRING, allowNull: true },
+  note: { type: DataTypes.TEXT, allowNull: true },
+}, {
+  tableName: 'attendance',
   underscored: true,
   timestamps: true,
 });
@@ -129,6 +155,74 @@ const QuizAttempt = sequelize.define('QuizAttempt', {
 });
 
 /* -------------------------------------------------------------------------- */
+/*                              CLASSROOM MODELS                              */
+/* -------------------------------------------------------------------------- */
+
+// --- CLASSROOM / COURSES ---
+const Classroom = sequelize.define('Classroom', {
+  title: { type: DataTypes.STRING, allowNull: false },
+  description: { type: DataTypes.TEXT },
+  teacher_id: { type: DataTypes.INTEGER, allowNull: true },
+}, {
+  tableName: 'classes',
+  underscored: true,
+  timestamps: true,
+});
+
+// --- CLASS SESSIONS ---
+const ClassSession = sequelize.define('ClassSession', {
+  class_id: { type: DataTypes.INTEGER, allowNull: false },
+  session_token: { type: DataTypes.STRING, allowNull: false },
+  started_at: { type: DataTypes.DATE, allowNull: true },
+  ended_at: { type: DataTypes.DATE, allowNull: true },
+}, {
+  tableName: 'class_sessions',
+  underscored: true,
+  timestamps: true,
+});
+
+// --- CLASS PARTICIPANTS ---
+const ClassParticipant = sequelize.define('ClassParticipant', {
+  class_id: { type: DataTypes.INTEGER, allowNull: false },
+  session_token: { type: DataTypes.STRING, allowNull: true },
+  user_id: { type: DataTypes.INTEGER, allowNull: false },
+  role: { type: DataTypes.ENUM('host','participant'), defaultValue: 'participant' },
+  joined_at: { type: DataTypes.DATE, allowNull: true },
+  left_at: { type: DataTypes.DATE, allowNull: true },
+}, {
+  tableName: 'class_participants',
+  underscored: true,
+  timestamps: true,
+});
+
+// --- CHAT MESSAGES ---
+const ChatMessage = sequelize.define('ChatMessage', {
+  class_id: { type: DataTypes.INTEGER, allowNull: false },
+  session_token: { type: DataTypes.STRING, allowNull: true },
+  user_id: { type: DataTypes.INTEGER, allowNull: true },
+  user_name: { type: DataTypes.STRING, allowNull: true },
+  text: { type: DataTypes.TEXT, allowNull: false },
+}, {
+  tableName: 'chat_messages',
+  underscored: true,
+  timestamps: true,
+});
+
+// --- CLASS RESOURCES ---
+const ClassResource = sequelize.define('ClassResource', {
+  class_id: { type: DataTypes.INTEGER, allowNull: false },
+  title: { type: DataTypes.STRING, allowNull: false },
+  type: { type: DataTypes.STRING, allowNull: true },
+  url: { type: DataTypes.STRING, allowNull: false },
+  description: { type: DataTypes.TEXT, allowNull: true },
+  created_by: { type: DataTypes.INTEGER, allowNull: true },
+}, {
+  tableName: 'class_resources',
+  underscored: true,
+  timestamps: true,
+});
+
+/* -------------------------------------------------------------------------- */
 /*                                 RELATIONS                                  */
 /* -------------------------------------------------------------------------- */
 
@@ -143,6 +237,10 @@ LessonSection.belongsTo(Lesson, { foreignKey: 'lesson_id' });
 // Users & Progress
 User.hasMany(Progress, { foreignKey: 'user_id', onDelete: 'CASCADE' });
 Progress.belongsTo(User, { foreignKey: 'user_id' });
+
+// Users & Attendance
+User.hasMany(Attendance, { foreignKey: 'user_id', onDelete: 'CASCADE' });
+Attendance.belongsTo(User, { foreignKey: 'user_id' });
 
 // Lessons & Progress
 Lesson.hasMany(Progress, { foreignKey: 'lesson_id', onDelete: 'CASCADE' });
@@ -168,6 +266,26 @@ QuizAttempt.belongsTo(User, { foreignKey: 'user_id', as: 'user' });
 
 Quiz.hasMany(QuizAttempt, { foreignKey: 'quiz_id', as: 'attempts', onDelete: 'CASCADE' });
 QuizAttempt.belongsTo(Quiz, { foreignKey: 'quiz_id', as: 'quiz' });
+
+/* -------------------------------------------------------------------------- */
+/*                               CLASSROOM RELATIONS                          */
+/* -------------------------------------------------------------------------- */
+
+Classroom.belongsTo(User, { foreignKey: 'teacher_id', as: 'teacher' });
+Classroom.hasMany(ClassSession, { foreignKey: 'class_id' });
+ClassSession.belongsTo(Classroom, { foreignKey: 'class_id' });
+
+Classroom.hasMany(ClassParticipant, { foreignKey: 'class_id' });
+ClassParticipant.belongsTo(Classroom, { foreignKey: 'class_id' });
+ClassParticipant.belongsTo(User, { foreignKey: 'user_id' });
+
+Classroom.hasMany(ChatMessage, { foreignKey: 'class_id' });
+ChatMessage.belongsTo(Classroom, { foreignKey: 'class_id' });
+ChatMessage.belongsTo(User, { foreignKey: 'user_id' });
+
+Classroom.hasMany(ClassResource, { foreignKey: 'class_id' });
+ClassResource.belongsTo(Classroom, { foreignKey: 'class_id' });
+
 
 /* -------------------------------------------------------------------------- */
 /*                               TEST CONNECTION                              */
@@ -196,8 +314,15 @@ module.exports = {
   Lesson,
   LessonSection,
   Progress,
+  Attendance,
   Quiz,
   Question,
   Answer,
   QuizAttempt, // ✅ newly added export
+  // Classroom models
+  Classroom,
+  ClassSession,
+  ClassParticipant,
+  ChatMessage,
+  ClassResource,
 };

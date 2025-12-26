@@ -1,0 +1,112 @@
+{
+  "steps": [
+    {
+      "teacherFound": 1
+    },
+    {
+      "createdClass": 1
+    }
+  ],
+  "teacherLogin": {
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwicm9sZSI6InRlYWNoZXIiLCJpYXQiOjE3NjY1NzExODgsImV4cCI6MTc2NzE3NTk4OH0.h6mSRtSw1_uDtlE_0ahi-mbhUuPU2_iOe3MpDvgSLj8",
+    "user": {
+      "id": 1,
+      "name": "Seed Teacher",
+      "email": "teacher@example.com",
+      "role": "teacher"
+    }
+  },
+  "createSession": {
+    "sessionToken": "sess_1766571188850",
+    "sessionId": 1
+  },
+  "learnerLogin": {
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Miwicm9sZSI6ImxlYXJuZXIiLCJpYXQiOjE3NjY1NzExODgsImV4cCI6MTc2NzE3NTk4OH0.vKl2-tikVXhIKpu1tgLoukyfBgaAKf1EBW8av_Lqiho",
+    "user": {
+      "id": 2,
+      "name": "Seed Learner",
+      "email": "learner@example.com",
+      "role": "learner"
+    }
+  },
+  "join": {
+    "ok": true,
+    "participantId": 1
+  },
+  "chat1": {
+    "message": {
+      "id": 1,
+      "class_id": "1",
+      "session_token": "sess_1766571188850",
+      "user_id": 2,
+      "user_name": "Seed Learner",
+      "text": "Hello from learner (e2e)",
+      "updatedAt": "2025-12-24T10:13:08.951Z",
+      "createdAt": "2025-12-24T10:13:08.951Z"
+    }
+  },
+  "chat2": {
+    "message": {
+      "id": 2,
+      "class_id": "1",
+      "session_token": "sess_1766571188850",
+      "user_id": 1,
+      "user_name": "Seed Teacher",
+      "text": "Hello from teacher (e2e)",
+      "updatedAt": "2025-12-24T10:13:08.966Z",
+      "createdAt": "2025-12-24T10:13:08.966Z"
+    }
+  },
+  "history": {
+    "messages": [
+      {
+        "id": 1,
+        "class_id": 1,
+        "session_token": "sess_1766571188850",
+        "user_id": 2,
+        "user_name": "Seed Learner",
+        "text": "Hello from learner (e2e)",
+        "createdAt": "2025-12-24T10:13:08.951Z",
+        "updatedAt": "2025-12-24T10:13:08.951Z"
+      },
+      {
+        "id": 2,
+        "class_id": 1,
+        "session_token": "sess_1766571188850",
+        "user_id": 1,
+        "user_name": "Seed Teacher",
+        "text": "Hello from teacher (e2e)",
+        "createdAt": "2025-12-24T10:13:08.966Z",
+        "updatedAt": "2025-12-24T10:13:08.966Z"
+      }
+    ]
+  },
+  "addedResource": {
+    "resource": {
+      "id": 1,
+      "class_id": "1",
+      "title": "E2E Slide",
+      "type": "pdf",
+      "url": "https://example.com/slide.pdf",
+      "description": "Test slide",
+      "created_by": 1,
+      "updatedAt": "2025-12-24T10:13:08.986Z",
+      "createdAt": "2025-12-24T10:13:08.986Z"
+    }
+  },
+  "resources": {
+    "resources": [
+      {
+        "id": 1,
+        "class_id": 1,
+        "title": "E2E Slide",
+        "type": "pdf",
+        "url": "https://example.com/slide.pdf",
+        "description": "Test slide",
+        "created_by": 1,
+        "createdAt": "2025-12-24T10:13:08.986Z",
+        "updatedAt": "2025-12-24T10:13:08.986Z"
+      }
+    ]
+  }
+}

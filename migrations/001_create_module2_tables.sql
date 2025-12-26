@@ -47,5 +47,10 @@ CREATE TABLE IF NOT EXISTS media (
 );
 
 -- Indexes
+-- Ensure columns exist (safe when lessons table already exists without these columns)
+ALTER TABLE lessons ADD COLUMN IF NOT EXISTS skill_area TEXT;
+ALTER TABLE lessons ADD COLUMN IF NOT EXISTS level TEXT;
+
+-- Indexes (safe after ensuring columns exist)
 CREATE INDEX IF NOT EXISTS idx_lessons_skill_area ON lessons(skill_area);
 CREATE INDEX IF NOT EXISTS idx_lessons_level ON lessons(level);
